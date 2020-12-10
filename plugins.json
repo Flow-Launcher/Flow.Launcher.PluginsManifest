@@ -12,7 +12,7 @@
    },
    {
       "ID":"176690627AB54C8381A7FD99A3519F42",
-      "Name":"Wox.Plugin.Runner",
+      "Name":"Plugin Runner",
       "Description":"Create simple command shortcuts",
       "Author":"Jesse Barocio (@jessebarocio)",
       "Version":"2.0.1",
@@ -36,8 +36,8 @@
    {
     "ID":"SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
     "ActionKeyword":"sp",
-    "Name":"Wox.SpotifyPremium",
-    "Description":"Spotify Premium for Wox",
+    "Name":"SpotifyPremium",
+    "Description":"Spotify Premium for Flow Launcher",
     "Author":"Frank W. (@fow5040)",
     "Version":"1.0.1",
     "Language":"csharp",
