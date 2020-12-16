@@ -23,7 +23,6 @@
    },
    {
     "ID":"c3406b5c-22f0-4984-b018-3dae897cab3f",
-    "ActionKeyword":"d",
     "Name":"Dictionary",
     "Description":"English dictionary, word correction and synonym.",
     "Author":"Harry Yu",
@@ -35,7 +34,6 @@
    },
    {
     "ID":"SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
-    "ActionKeyword":"sp",
     "Name":"SpotifyPremium",
     "Description":"Spotify Premium for Flow Launcher",
     "Author":"Frank W. (@fow5040)",
@@ -47,7 +45,6 @@
    },
    {
     "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
-    "ActionKeyword": "cb",
     "Name": "ClipboardHistory",
     "Description": "a Clipboard History Plugin for FlowLauncher",
     "Author": "Xenolphthalein",
@@ -59,7 +56,6 @@
    },
    {
     "ID":"F737A9223560B3C6833B5FFB8CDF78E5",
-    "ActionKeywords": [ "*", "<"],
     "Name":"Window Walker",
     "Description":"Alt-Tab alternative enabling searching through your windows.",
     "Author":"betadele",
@@ -68,5 +64,16 @@
     "Website":"https://www.windowwalker.com/",
     "UrlDownload":"https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.1.0/Microsoft.Plugin.WindowWalker.zip",
     "UrlSourceCode":"https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master"
+   },
+   {
+    "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
+    "Name": "Everything",
+    "Description": "Search Everything",
+    "Author": "qianlifeng, orzfly",
+    "Version": "1.1.2",
+    "Language": "csharp",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "UrlDownload":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.1.2/Flow.Launcher.Plugin.Everything.zip",
+    "UrlSourceCode":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master"
    }
 ]
