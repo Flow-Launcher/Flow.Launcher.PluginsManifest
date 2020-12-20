@@ -8,11 +8,11 @@ This repository contains the information for community-made plugins used in [Flo
 Add your plugin by updating the plugins.json file with the following details via a pull request:
 
 ```
-  "ID": "This is a unique GUID for your plugin",  
+  "ID": "This is a unique GUID for your plugin and needs to be the same as the ID in your plugin.json",  
   "Name": "Plugin name",
   "Description": "Short description of your plugin",
   "Author": "Author of the plugin",
-  "Version": "Version number",
+  "Version": "Version of your plugin and needs to be the same as the Version in your plugin.json",
   "Language": "The programming language the plugin is written in",
   "Website": "Your plugin's website",
   "UrlDownload":"The url to download the plugin",
