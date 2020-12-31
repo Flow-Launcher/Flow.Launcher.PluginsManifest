@@ -75,5 +75,16 @@
       "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
       "UrlDownload":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.1.2/Flow.Launcher.Plugin.Everything.zip",
       "UrlSourceCode":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master"
+   },
+   {
+      "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
+      "Name": "Colors",
+      "Description": "Provide hex color preview.(Try #000 in Flow Launcher)",
+      "Author": "qianlifeng",
+      "Version": "1.1.1",
+      "Language": "csharp",
+      "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
+      "UrlDownload":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v1.1.1/Flow.Launcher.Plugin.Color.zip",
+      "UrlSourceCode":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main"
    }
 ]
