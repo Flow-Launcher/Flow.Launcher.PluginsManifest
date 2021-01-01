@@ -86,5 +86,16 @@
       "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
       "UrlDownload":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v1.1.1/Flow.Launcher.Plugin.Color.zip",
       "UrlSourceCode":"https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main"
+   },
+   {
+      "ID": "18892B7863AC43ABA27859A5A2866DD8",
+      "Name": "Currency Converter",
+      "Description": "Currency converter using the euro and rates at https://www.ecb.europa.eu/",
+      "Author": "deefrawley",
+      "Version": "1.0.0",
+      "Language": "python",
+      "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
+      "UrlDownload":"https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.0/Flow.Launcher.Plugin.Currency.zip",
+      "UrlSourceCode":"https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main"
    }
 ]
