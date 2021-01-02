@@ -32,6 +32,6 @@ This repository does not track enhancement requests or issues for the plugins, i
 ### Usage
 
 From [flow](https://github.com/Flow-Launcher/Flow.Launcher/releases/latest), query `pm install` and you should see a list of the plugins available to install:
-![image](https://user-images.githubusercontent.com/26427004/102272853-89c45100-3f75-11eb-9956-2f8b129ce909.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/26427004/103451827-c08fba80-4d1c-11eb-945b-02546d31baad.png" width="800"></p>
 
 Also use `pm update` to update or `pm uninstall` to uninstall plugins, and go to context menu on each plugin to see more options such as visit the plugin website or submit a suggestion or bug report to the developer.
