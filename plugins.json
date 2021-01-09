@@ -26,10 +26,10 @@
       "Name":"Dictionary",
       "Description":"English dictionary, word correction and synonym.",
       "Author":"Harry Yu",
-      "Version":"2.0.1",
+      "Version":"2.1.0",
       "Language":"csharp",
       "Website":"https://github.com/harrynull/WoxDictionary",
-      "UrlDownload":"https://github.com/jjw24/WoxDictionary/releases/download/v2.0.1/Wox.Plugin.WoxDictionary.zip",
+      "UrlDownload":"https://github.com/jjw24/WoxDictionary/releases/download/v2.1.0/Wox.Plugin.WoxDictionary.zip",
       "UrlSourceCode":"https://github.com/jjw24/WoxDictionary/tree/master"
    },
    {
