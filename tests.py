@@ -1,8 +1,8 @@
+# -*-coding: utf-8 -*-
 import json
-from typing import Callable, Optional
 
 # constants
-plugin_info_file = 'plugin.json'
+plugin_info_file = 'plugins.json'
 id_name = 'ID'
 
 # read `plugin_info_file`
@@ -11,13 +11,11 @@ with open(plugin_info_file) as f:
 
 
 def clean_uuid(old_id: str) -> str:
-    new_id = old_id.lower().replace('-', '')
-
-    return new_id
+    return old_id.lower().replace('-', '')
 
 
-def test_uuid_unique(self):
+def test_uuid_unique():
     uuids = [plugin_info[id_name] for plugin_info in plugin_infos]
     uuids = [clean_uuid(uuid) for uuid in uuids]
 
-    assert len(self.uuids) == len(set(self.uuids))
+    assert len(uuids) == len(set(uuids))
