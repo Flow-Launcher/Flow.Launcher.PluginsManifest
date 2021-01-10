@@ -1,6 +1,10 @@
 name: Auto Checking
 
 
+# Triggers the workflow on push or pull request events
+on: [push, pull_request]
+
+
 jobs:
   test:
     runs-on: ubuntu-latest
