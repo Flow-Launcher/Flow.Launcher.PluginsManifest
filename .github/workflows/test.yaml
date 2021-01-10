@@ -1,0 +1,21 @@
+name: Auto Checking
+
+on:
+
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.7, 3.8]
+
+    steps:
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
+
+      - name: Test with pytest
+        run: |
+          pytest tests.py
