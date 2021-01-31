@@ -27,7 +27,9 @@ As usual, we will not accept plugin submissions that could potentially harm the 
 
 ### Have a plugin enhancement request or issue?
 
-This repository does not track enhancement requests or issues for the plugins, it is up to the plugin developers to maintain their own plugin. If you would like to contribute, submit a request or issue, please visit the plugin's repository via the 'UrlSourceCode' link. 
+This repository does not track enhancement requests or issues for the plugins, it is up to the plugin developers to maintain their own plugin. 
+
+If you would like to contribute, submit a request or issue, please visit the plugin's repository via the 'UrlSourceCode' link or go to the plugin using `pm install`, `shift enter`/`right click` on the plugin from Flow and select 'Suggest an enhancement or submit an issue'.
 
 ### Usage
 
