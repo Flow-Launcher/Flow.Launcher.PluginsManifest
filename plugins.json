@@ -121,5 +121,17 @@
        "Website":"https://github.com/cxfksword/Wox.Plugin.UrlEncode",
        "UrlDownload":"https://github.com/taooceros/Flow.Plugin.UrlEncode/releases/download/v1.0/Flow.Plugin.UrlEncode.zip",
        "UrlSourceCode":"https://github.com/taooceros/Flow.Plugin.UrlEncode"
+   },
+   {
+       "ID":"54A6672C06E047A48A7D88C78FA5F13E",
+       "ActionKeyword": "pt",
+       "Name": "Putty",
+       "Description": "Launch Putty Sessions",
+       "Author":"Konstantin Zaitcev, Kai Eichinger (@cH40zLord)",
+       "Version":"2.0.0",
+       "Language":"csharp",
+       "Website": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty",
+       "UrlDownload":"https://github.com/jjw24/Flow.Launcher.Plugin.Putty/releases/download/v2.0.0/Flow.Launcher.Plugin.Putty.zip",
+       "UrlSourceCode":"https://github.com/jjw24/Flow.Launcher.Plugin.Putty/tree/master"
    }
 ]
