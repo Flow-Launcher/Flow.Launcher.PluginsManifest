@@ -15,10 +15,10 @@
       "Name":"Plugin Runner",
       "Description":"Create simple command shortcuts",
       "Author":"Jesse Barocio (@jessebarocio)",
-      "Version":"2.0.1",
+      "Version":"2.0.2",
       "Language":"csharp",
       "Website":"http://www.barocio.net",
-      "UrlDownload":"https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.0.1/Wox.Plugin.Runner.zip",
+      "UrlDownload":"https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.0.2/Wox.Plugin.Runner.zip",
       "UrlSourceCode":"https://github.com/jjw24/Wox.Plugin.Runner/tree/master"
    },
    {
