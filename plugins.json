@@ -128,10 +128,10 @@
        "Name": "Putty",
        "Description": "Launch Putty Sessions",
        "Author":"Konstantin Zaitcev, Kai Eichinger (@cH40zLord)",
-       "Version":"2.0.0",
+       "Version":"2.1.0",
        "Language":"csharp",
        "Website": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty",
-       "UrlDownload":"https://github.com/jjw24/Flow.Launcher.Plugin.Putty/releases/download/v2.0.0/Flow.Launcher.Plugin.Putty.zip",
+       "UrlDownload":"https://github.com/jjw24/Flow.Launcher.Plugin.Putty/releases/download/v2.1.0/Flow.Launcher.Plugin.Putty.zip",
        "UrlSourceCode":"https://github.com/jjw24/Flow.Launcher.Plugin.Putty/tree/master"
    }
 ]
