@@ -26,7 +26,7 @@ for plugin in plugins:
         latest_release = release_res.json()
 
         version: str = latest_release['tag_name'].replace("v", "")
-        if(version >= plugin["Version"] and len(latest_release["assets"]) > 0):
+        if(version > plugin["Version"] and len(latest_release["assets"]) > 0):
             asset_url = latest_release["assets"][0]["browser_download_url"]
             plugin["Version"] = version
             plugin["UrlDownload"] = asset_url
