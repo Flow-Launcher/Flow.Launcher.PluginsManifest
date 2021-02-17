@@ -2,7 +2,7 @@ name: Auto Update Checking
 
 on:
   schedule:
-    - cron: "0 0-23 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   CheckUpdate:
@@ -17,11 +17,14 @@ jobs:
           python-version: 3.8
 
       - name: Auto Checking Update
-        run: python .\updateChecker.py
+        run: |
+          pyton -m pip install requests
+          python .\updateChecker.py
 
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: auto checking update
+          branch: main
         
