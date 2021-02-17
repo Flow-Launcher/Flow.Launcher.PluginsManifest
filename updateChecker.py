@@ -8,20 +8,20 @@ for plugin in plugins:
     urlSplit: list = plugin["UrlSourceCode"].split("/")
     if(len(urlSplit) < 5):
         continue
-    if(urlSplit[2] == "github.com"):
+    if("github.com" in urlSplit[2]):
         repo = "/".join(urlSplit[3:5])
         release_url = "https://api.github.com/repos/{0}/releases/latest".format(
             repo)
 
         release_res = requests.get(release_url,
                                    headers={"If-None-Match": plugin.get("E-tag", "")})
-        
+
         # Not change
         if(release_res.status_code == 304):
             continue
 
-        if(release_res.status_code==403):
-            break;
+        if(release_res.status_code == 403):
+            break
 
         latest_release = release_res.json()
 
