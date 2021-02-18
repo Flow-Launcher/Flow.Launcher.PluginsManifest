@@ -59,10 +59,10 @@
       "Name":"Window Walker",
       "Description":"Alt-Tab alternative enabling searching through your windows.",
       "Author":"betadele",
-      "Version":"1.4.1",
+      "Version":"1.4.2",
       "Language":"csharp",
       "Website":"https://www.windowwalker.com/",
-      "UrlDownload":"https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.1/WindowWalker-1.4.1.zip",
+      "UrlDownload":"https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
       "UrlSourceCode":"https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master"
    },
    {
