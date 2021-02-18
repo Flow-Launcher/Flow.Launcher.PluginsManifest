@@ -7,7 +7,8 @@ This repository contains the information for community-made plugins used in [Flo
 
 Add your plugin by updating the plugins.json file with the following details via a pull request:
 
-```
+```json
+{
   "ID": "This is a unique GUID for your plugin and needs to be the same as the ID in your plugin.json",  
   "Name": "Plugin name",
   "Description": "Short description of your plugin",
@@ -17,11 +18,14 @@ Add your plugin by updating the plugins.json file with the following details via
   "Website": "Your plugin's website",
   "UrlDownload":"The url to download the plugin",
   "UrlSourceCode": "Url to the source code of the plugin"
+}
 ```
 
 All the information above except for `UrlDownload` and `UrlSourceCode` should already exist in your own plugin's **plugin.json** file, simply copy them across is fine.
 
 Once your submission is approved by the Flow Launcher Team it will be available immediately in Flow.
+
+Our *CI* will automatically check for new updates from plugins at every hour and update to the newer version if they are stored in the Github Release. Therefore, if you are using Github to release and update your plugin, there will be no need to manually create a pull request for every update. If this is the first time you are publishing your plugin to Flow, then you will need to create a pull request for it to be reviewed.
 
 As usual, we will not accept plugin submissions that could potentially harm the computer or contains malicious code.
 

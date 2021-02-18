@@ -1,0 +1,30 @@
+name: Auto Update Checking
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  CheckUpdate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with: 
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Auto Checking Update
+        run: |
+          pyton -m pip install requests
+          python .\updateChecker.py
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: auto checking update
+          branch: main
+        
