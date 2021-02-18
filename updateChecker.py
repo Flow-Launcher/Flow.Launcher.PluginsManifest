@@ -8,7 +8,7 @@ for plugin in plugins:
     urlSplit: list = plugin["UrlSourceCode"].split("/")
     if(len(urlSplit) < 5):
         continue
-    if("github.com" in urlSplit[2]):
+    if("github.com" in urlSplit[2] & "github" in plugin["UrlDownload"]):
         repo = "/".join(urlSplit[3:5])
         release_url = "https://api.github.com/repos/{0}/releases/latest".format(
             repo)
