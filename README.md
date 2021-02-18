@@ -23,13 +23,13 @@ Add your plugin by updating the plugins.json file with the following details via
 ```
 
 All the information above except for `UrlDownload` and `UrlSourceCode` should already exist in your own plugin's **plugin.json** file, simply copy them across is fine.
-You don't need to create the `E-tag` property manually, it will be done by *CI* automatically if release file is from github. If you don't use github release, it will not be generated.
+You don't need to create the `E-tag` property manually, it will be done by *CI* automatically if release file is from Github. If you don't use Github release, it will not be generated.
 
 Once your submission is approved by the Flow Launcher Team it will be available immediately in Flow.
 
 As usual, we will not accept plugin submissions that could potentially harm the computer or contains malicious code.
 
-Our *CI* will automatically check update from plugins per hours if they are in the Github Release. Therefore, if you are using Github to release and update your plugin, no need to manually create pull request and wait for approval for every update after initial approval.
+Our *CI* will automatically check new updates from plugins every hour, provided that they are stored in the Github Release. Therefore, if you are using Github to release and update your plugin, there will be no need to manually create pull request and wait for approval for every update after the initial approval.
 
 ### Usage
 
