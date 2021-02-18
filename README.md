@@ -25,9 +25,9 @@ All the information above except for `UrlDownload` and `UrlSourceCode` should al
 
 Once your submission is approved by the Flow Launcher Team it will be available immediately in Flow.
 
-As usual, we will not accept plugin submissions that could potentially harm the computer or contains malicious code.
+Our *CI* will automatically check for new updates from plugins at every hour and update to the newer version if they are stored in the Github Release. Therefore, if you are using Github to release and update your plugin, there will be no need to manually create a pull request for every update. If this is the first time you are publishing your plugin to Flow, then you will need to create a pull request for it to be reviewed.
 
-Our *CI* will automatically check new updates from plugins every hour, provided that they are stored in the Github Release. Therefore, if you are using Github to release and update your plugin, there will be no need to manually create pull request and wait for approval for every update after the initial approval.
+As usual, we will not accept plugin submissions that could potentially harm the computer or contains malicious code.
 
 ### Usage
 
