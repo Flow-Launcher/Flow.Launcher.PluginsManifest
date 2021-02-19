@@ -1,4 +1,4 @@
-name: Auto Update Checking
+name: Plugins manifest auto update
 
 on:
   schedule:
