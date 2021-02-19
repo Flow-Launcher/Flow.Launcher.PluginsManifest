@@ -19,7 +19,7 @@ jobs:
       - name: Auto Checking Update
         run: |
           python -m pip install requests
-          python .\updateChecker.py
+          python ./updateChecker.py
 
       - name: Commit & Push changes
         uses: actions-js/push@master
