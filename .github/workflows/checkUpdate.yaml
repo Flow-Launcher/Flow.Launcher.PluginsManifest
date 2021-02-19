@@ -18,7 +18,7 @@ jobs:
 
       - name: Auto Checking Update
         run: |
-          pyton -m pip install requests
+          python -m pip install requests
           python .\updateChecker.py
 
       - name: Commit & Push changes
