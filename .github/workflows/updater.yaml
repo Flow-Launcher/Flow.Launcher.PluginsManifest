@@ -3,6 +3,7 @@ name: Auto Update
 on:
   schedule:
     - cron: "0 * * * *"
+  pull_request:
 
 jobs:
   CheckUpdate:
@@ -22,10 +23,9 @@ jobs:
           python ./updateChecker.py
 
       - name: Commit & Push changes
-        uses: actions-js/push@master
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: auto checking update
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "auto update plugins"
+          push_options: --force
           branch: main
-          force: true
-        
