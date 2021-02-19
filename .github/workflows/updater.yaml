@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.UPDATER }}
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
@@ -30,4 +29,5 @@ jobs:
           message: auto checking update
           branch: main
           force: true
+          github_token: ${{ secrets.UPDATER }}
         
