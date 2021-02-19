@@ -3,8 +3,6 @@ name: Auto Update
 on:
   schedule:
     - cron: "0 * * * *"
-  push:
-    branches: "fix_auto_updater"
 
 jobs:
   CheckUpdate:
