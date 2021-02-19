@@ -3,13 +3,15 @@ name: Auto Update
 on:
   schedule:
     - cron: "0 * * * *"
+  push:
+    branches: "fix_update_v3"
 
 jobs:
   CheckUpdate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with: 
+        with:
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
@@ -24,8 +26,8 @@ jobs:
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           message: auto checking update
           branch: main
           force: true
+          github_token: ${{ secrets.UPDATER }}
         
