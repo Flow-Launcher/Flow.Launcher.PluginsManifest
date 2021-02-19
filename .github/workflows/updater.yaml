@@ -3,7 +3,9 @@ name: Auto Update
 on:
   schedule:
     - cron: "0 * * * *"
-  pull_request:
+  push:
+    branches:
+        - "fix_update"
 
 jobs:
   CheckUpdate:
@@ -11,6 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with: 
+          token: ${{ secrets.UPDATER }}
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
@@ -25,7 +28,6 @@ jobs:
       - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "auto update plugins"
           push_options: --force
           branch: main
