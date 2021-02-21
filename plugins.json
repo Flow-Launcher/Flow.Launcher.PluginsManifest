@@ -16,12 +16,12 @@
         "Name": "Plugin Runner",
         "Description": "Create simple command shortcuts",
         "Author": "Jesse Barocio (@jessebarocio)",
-        "Version": "2.2.0",
+        "Version": "2.2.2",
         "Language": "csharp",
         "Website": "http://www.barocio.net",
-        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.0/Wox.Plugin.Runner.zip",
+        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.2/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "E-tag": "W/\"b646ed08a0e3982d605b7ef0edb1f37471bed41a1d91585633d27cc9ada2bfcd\""
+        "E-tag": "W/\"dc02288a26bd6fd63a76d33081d5457d17d398afbc2124233f72c546080013a9\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -157,6 +157,6 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.0/Flow.LibreTraslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "E-tag": "W/\"0303201aac843de097d307c5add58e3e96ca2c7015275af466611bb87d3e336f\""
+        "E-tag": "W/\"553ab2b45bb88ba8db89576c84629230894b89cb057eb871a9e15d74f8cbe847\""
     }
 ]
