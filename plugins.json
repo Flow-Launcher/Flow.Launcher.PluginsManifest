@@ -113,12 +113,12 @@
         "Name": "IP Address",
         "Description": "Shows your internal and external IP address",
         "Author": "ishu3101",
-        "Version": "1.1",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.1/Flow.Plugin.IPAddress.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.0/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "E-tag": "W/\"cdb035492e242a6f96e6f1c6e0dfd97cfba3c89b0f88f2d907c74e71a2198f4a\""
+        "E-tag": "W/\"4b40aa747196c57552d7f332669aadcca16535bc055e98570b77fda1a694d275\""
     },
     {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
