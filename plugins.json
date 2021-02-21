@@ -21,7 +21,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "E-tag": "W/\"4b94c582449d85ba9f869455ee1ac4776d5a72fea6ee011b3e9224e8f0ac51d4\""
+        "E-tag": "W/\"f8a98260533b4a4a33b264aed8c2e8d3be1c5edba918980ecc5683567a2ba4bd\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"0984fae97276db7443f4a8b0aa61653ecf863fd4cb93ca6a468a18951b33af5a\""
+        "E-tag": "W/\"5f987c89a1f300555e2cdc090a184ae2e25de4b0c7e81a03c4edf579e34d78d9\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -139,12 +139,12 @@
         "Name": "Putty",
         "Description": "Launch Putty Sessions",
         "Author": "Konstantin Zaitcev, Kai Eichinger (@cH40zLord)",
-        "Version": "2.1.0",
+        "Version": "2.1.1",
         "Language": "csharp",
         "Website": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty",
-        "UrlDownload": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty/releases/download/v2.1.0/Flow.Launcher.Plugin.Putty.zip",
+        "UrlDownload": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty/releases/download/v2.1.1/Flow.Launcher.Plugin.Putty.zip",
         "UrlSourceCode": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty/tree/master",
-        "E-tag": "W/\"b631df63509f6be32663907ca846dd6ddfd02319ef8dbd3cb2100d15e58880bb\""
+        "E-tag": "W/\"5a7f70d8c986155bf15b692a5262643736aa52c0febe354c789a067753d67edb\""
     },
     {
         "ID": "81b8c8c8-72ef-427c-a9c1-17cf8f1c766c",
