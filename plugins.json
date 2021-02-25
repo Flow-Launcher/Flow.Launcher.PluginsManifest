@@ -21,7 +21,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "E-tag": "W/\"7fe6c4f9565b7777519f04120d7859dfaceaf3de0943ff704432fea3966e3f6a\""
+        "E-tag": "W/\"20d4d5f6fb223c395f004c933fdefa9c8cd331624c42592464f4c715aff7f325\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -33,7 +33,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/2.2.1/Wox.Plugin.WoxDictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "E-tag": "W/\"f90a0807a47b3c7bdf831caf9a2ef1263343182bafe91ed32667679bf3a30da3\""
+        "E-tag": "W/\"d158c1a0487f68c9ac61417392fc9aa5070f3f8d2a4945ca7804a22fe0c5acd9\""
     },
     {
         "ID": "SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
@@ -45,7 +45,7 @@
         "Website": "https://github.com/fow5040/Wox.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.SpotifyPremium/releases/download/v1.0.1/Wox.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.SpotifyPremium/tree/master",
-        "E-tag": "W/\"958914a639be22f2d206f7214f5b4e20366f50f2eb1243bdf72ca8c71abfba32\""
+        "E-tag": "W/\"9f30663734f9a8b74549461ae3d17d1f57a22993bcf265dac31593d258c6b4a5\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
@@ -57,7 +57,7 @@
         "Website": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "E-tag": "W/\"6f2775290a90e8a580518ff3b2195ab57103a42afb467d2433949c7055e045fe\""
+        "E-tag": "W/\"9965d5221a7411fb2fb7d39fd8af6e119c4ad940c6b605e8f7165976b4b75b11\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "E-tag": "W/\"3aae946f003f22cfcfcc2dbef1a9ff2e7505cfe4f5f3c5c3c8cc9765a151a705\""
+        "E-tag": "W/\"b9149b367c31467eaac9b6972c2f3c1089b00f2d31d8b995fc518ca7b94f541b\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -157,6 +157,6 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.0/Flow.LibreTraslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "E-tag": "W/\"c14745f8791127732fc4ed3cd9078b0a1c1d13be084a97126158d3bf05fa2235\""
+        "E-tag": "W/\"e697b4327e004daf8fe389163837ffa63db9809e71984dd8059f15f69c62d812\""
     }
 ]
