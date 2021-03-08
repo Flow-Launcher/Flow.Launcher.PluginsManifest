@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"89c57a6100c7d49ae34de907df0cd9fb00d564feb09fb08ecc2f5bbdeeefedaf\""
+        "E-tag": "W/\"8cb47c2a793281e3834aa5bbcd1a32c57edb146091364f881bffc11fdea4a387\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "E-tag": "W/\"1e00a6b6ef973d9895d9cafe792714fdb66ad01f11b3a30b0fe2c56a329b8de1\""
+        "E-tag": "W/\"2aa4bf585389b5d24a1f01726443c9cf9dcbe790494b17948467cccecaf37d58\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -165,6 +165,6 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "E-tag": "W/\"5cea4ef2908f913b008984f10d4c461d703fb7a6f90da05ac57022d9a9f15e75\""
+        "E-tag": "W/\"09ccad542c4912e0b1a46f46743c1a78643b1dd12fe4b0f741cc46daf3b05a87\""
     }
 ]
