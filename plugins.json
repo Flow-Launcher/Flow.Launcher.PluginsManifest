@@ -21,7 +21,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "E-tag": "W/\"f58e7df62018dffa33738bb04fc48a602ec90290316a1c7596e525c846f73405\""
+        "E-tag": "W/\"7e1ab49837f38943b04ef0235e5fa14e2f46e3e017f0d93673f054c058172dff\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -33,7 +33,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "E-tag": "W/\"2ee324f259f55fb33799c27d8ccdd30091b202b9a1d1fb1a39b1e29377a19623\""
+        "E-tag": "W/\"4724bbb85da886150246b2fceee7ab096e080f78085e620b5cd3e1cd4d6ddfd6\""
     },
     {
         "ID": "SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
@@ -45,7 +45,7 @@
         "Website": "https://github.com/fow5040/Wox.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.SpotifyPremium/releases/download/v1.0.1/Wox.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.SpotifyPremium/tree/master",
-        "E-tag": "W/\"8c285bc5e91021a4e1ef4c7991a49f8ca418801c7b29afd08b64e8a326524d91\""
+        "E-tag": "W/\"e0676e09b75d0f9b80fea961e9e9b449023987288e05034430150ac1fc734c25\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"8cb47c2a793281e3834aa5bbcd1a32c57edb146091364f881bffc11fdea4a387\""
+        "E-tag": "W/\"a0faebc53e53a7c13a08c2162e72d95645421ea7912d443ac1d167a9033b6b11\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "E-tag": "W/\"3577d2986236c377d7a06cd78741315c92a854ea347b2e5e9e5d386006a0426d\""
+        "E-tag": "W/\"9affa0aeb9dabed2858ef6d7745d0ca2bf71daeae6dc4a847c6f6f95b536b0ca\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -165,6 +165,6 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "E-tag": "W/\"1af0e4538e3334295dfa072d49021026b6eb3bfd0cba321d8e57951da03cc7a4\""
+        "E-tag": "W/\"d4c051c114e2192c82d8c29befe4a0ae33c81992fdcccb24ac7c2c1a04cac25e\""
     }
 ]
