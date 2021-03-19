@@ -21,7 +21,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "E-tag": "W/\"b321b4bf6a4eb352cd633c3d853691b6f2090e9b803017f7f2e3e367123f7900\""
+        "E-tag": "W/\"a1fd6137a58960ebfe417071ce00bd7ae0dcb923e1e7f1fe8cfe7257168db9b3\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"9d4c530cc414ccb2e8d29a080f304e721bf6431e21e6039df12f8ce5698c42b9\""
+        "E-tag": "W/\"9c1080414bd4de2f8b42a4daef825d8f3d6e3f87b369d7ea5ee11cb3163cfe9d\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -177,6 +177,6 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "E-tag": "W/\"30df0212350f46abe02563e5bc019910d3c33345d425754230c2eeecf256345e\""
+        "E-tag": "W/\"b06bf56c6c1b51ece74cf96db5172f2d24e9924d8d7a22aaa4a5cb8922436068\""
     }
 ]
