@@ -190,5 +190,16 @@
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
         "E-tag": "W/\"56afe2cfa9e9ae72c02abab86222756c011f7c5e613881302f72b796c7e4ac40\""
+    },
+    {
+        "ID": "6c22cffe6b3546ec9087abe149c4a575",
+        "Name": "Flow.Plugin.Github",
+        "Description": "Search Github repositories and users, browse issues and PRs",
+        "Author": "Ioannis G. (@JohnTheGr8)",
+        "Version": "1.2.1",
+        "Language": "fsharp",
+        "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
+        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.1/Flow.Plugin.Github.zip",
+        "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main"
     }
 ]
