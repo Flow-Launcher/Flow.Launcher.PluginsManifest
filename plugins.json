@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "E-tag": "W/\"811295323d41fe4e646dd7007f4ec99d318a8aea8aa932df991c7792712a259e\""
+        "E-tag": "W/\"a6205c075b0ee5b23001ffb16d0a472707390cafffb58eca993cd248936ed80e\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -188,6 +188,7 @@
         "Language": "python",
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
-        "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master"
+        "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
+        "E-tag": "W/\"56afe2cfa9e9ae72c02abab86222756c011f7c5e613881302f72b796c7e4ac40\""
     }
 ]
