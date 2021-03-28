@@ -178,5 +178,16 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
         "E-tag": "W/\"b06bf56c6c1b51ece74cf96db5172f2d24e9924d8d7a22aaa4a5cb8922436068\""
+    },
+    {
+        "ID": "1b7c732781f94b748ed08351f8200894",
+        "Name": "Direct Translate",
+        "Description": "Translate between any languages supported by textblob.",
+        "Author": "Drimix20",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
+        "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
+        "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master"
     }
 ]
