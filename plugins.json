@@ -200,6 +200,7 @@
         "Language": "fsharp",
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.1/Flow.Plugin.Github.zip",
-        "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main"
+        "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
+        "E-tag": "W/\"40ffa2d80034e4785ef937fced2afd2b938a6c4b9c5fc37017ccb538722b5d9c\""
     }
 ]
