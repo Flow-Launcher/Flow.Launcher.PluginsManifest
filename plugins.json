@@ -21,7 +21,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "E-tag": "W/\"9408371b853bbb8f87c556a9ca0a6d873de69c6edb62265d823b34c53cf0baf2\""
+        "E-tag": "W/\"ad941635db4d049455a75b16066580e79e70779587ae96b7f98fc78bf714f35f\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -201,6 +201,6 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.1/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "E-tag": "W/\"7acf58367d89b2d70990cdceb357c38d84b7b1d879cbc11746a21585c7132157\""
+        "E-tag": "W/\"a23cc31d2e470529dc5b0bce34fc3c50ff4c5149f0ee756a65effc73be04f1d9\""
     }
 ]
