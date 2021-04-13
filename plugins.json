@@ -129,7 +129,7 @@
         "Website": "https://github.com/cxfksword/Wox.Plugin.UrlEncode",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.UrlEncode/releases/download/v1.0/Flow.Plugin.UrlEncode.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.UrlEncode",
-        "E-tag": "W/\"04e6f8176bd1513baf5aaeb63688419195df71091103c21598abc1ce190e7bf8\""
+        "E-tag": "W/\"961425c819cbde90eef43bf8a53928f3c8d470f33170b6d248085c8359f885ca\""
     },
     {
         "ID": "54A6672C06E047A48A7D88C78FA5F13E",
@@ -189,7 +189,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "E-tag": "W/\"adadeb42f55e9eb41cfe3858bdfc2fec5fe9cf8d5ce8f5e8bb2dd0fbf13c6b5f\""
+        "E-tag": "W/\"c1c35fb7168d10da16ef308dda4bb1bf4833877e02367c296236a6e4e8b98383\""
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -201,6 +201,6 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.1/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "E-tag": "W/\"a23cc31d2e470529dc5b0bce34fc3c50ff4c5149f0ee756a65effc73be04f1d9\""
+        "E-tag": "W/\"f71f667a1d5563d3879fcacc107732f83c87c986865232cc6bbd07bce4545e60\""
     }
 ]
