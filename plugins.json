@@ -196,11 +196,11 @@
         "Name": "Flow.Plugin.Github",
         "Description": "Search Github repositories and users, browse issues and PRs",
         "Author": "Ioannis G. (@JohnTheGr8)",
-        "Version": "1.2.1",
+        "Version": "1.2.2",
         "Language": "fsharp",
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
-        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.1/Flow.Plugin.Github.zip",
+        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "E-tag": "W/\"6f4c4aa08e4286539f224e2af0cc37032c7a4c141e12ce7b65bd39639dab2695\""
+        "E-tag": "W/\"c8b4699c2f7a3ea2a5d0c4dd470cc05180f95f17f5e167698523eca147cca18c\""
     }
 ]
