@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"9a4482f5aa1f6694f76ee298db6a4968f95806b4eff8a2477db8e5534826896e\""
+        "E-tag": "W/\"98c2a0983f0bff967844c28f828491ceecd273fe253a4bd4edacc76ebc02bad2\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -201,6 +201,6 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "E-tag": "W/\"c8b4699c2f7a3ea2a5d0c4dd470cc05180f95f17f5e167698523eca147cca18c\""
+        "E-tag": "W/\"b4aeb7a3c265e59c4a0736774bbaff98c0827b5758a4f9790d280d32d8b6932b\""
     }
 ]
