@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"9a4482f5aa1f6694f76ee298db6a4968f95806b4eff8a2477db8e5534826896e\""
+        "E-tag": "W/\"98c2a0983f0bff967844c28f828491ceecd273fe253a4bd4edacc76ebc02bad2\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -196,10 +196,10 @@
         "Name": "Flow.Plugin.Github",
         "Description": "Search Github repositories and users, browse issues and PRs",
         "Author": "Ioannis G. (@JohnTheGr8)",
-        "Version": "1.2.1",
+        "Version": "1.2.2",
         "Language": "fsharp",
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
-        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.1/Flow.Plugin.Github.zip",
+        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
         "E-tag": "W/\"6f4c4aa08e4286539f224e2af0cc37032c7a4c141e12ce7b65bd39639dab2695\""
     },
@@ -216,5 +216,6 @@
         "ExecuteFileName": "main.py",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/archive/refs/tags/v1.0.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/v1.0"
+        "E-tag": "W/\"b4aeb7a3c265e59c4a0736774bbaff98c0827b5758a4f9790d280d32d8b6932b\""
     }
 ]
