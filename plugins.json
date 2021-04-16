@@ -215,7 +215,7 @@
         "IcoPath": "assets\\icon.png",
         "ExecuteFileName": "main.py",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/archive/refs/tags/v1.0.zip",
-        "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/v1.0"
+        "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/v1.0",
         "E-tag": "W/\"b4aeb7a3c265e59c4a0736774bbaff98c0827b5758a4f9790d280d32d8b6932b\""
     }
 ]
