@@ -213,6 +213,7 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime",
         "IcoPath": "assets\\icon.png",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.0/Flow.Launcher.Plugin.IsPrime.zip",
-        "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main"
+        "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main",
+        "E-tag": "W/\"dc7b6af2139d4b31c11919567f9d1397f4ddc4a509445b01441aff236e8052b4\""
     }
 ]
