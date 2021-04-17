@@ -201,7 +201,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "E-tag": "W/\"6f4c4aa08e4286539f224e2af0cc37032c7a4c141e12ce7b65bd39639dab2695\""
+        "E-tag": "W/\"b4aeb7a3c265e59c4a0736774bbaff98c0827b5758a4f9790d280d32d8b6932b\""
     },
     {
         "ID": "b9aaddfa36a948f384b31b4fb6186861",
@@ -213,7 +213,6 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime",
         "IcoPath": "assets\\icon.png",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/archive/refs/tags/v1.0.zip",
-        "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/v1.0",
-        "E-tag": "W/\"b4aeb7a3c265e59c4a0736774bbaff98c0827b5758a4f9790d280d32d8b6932b\""
+        "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/v1.0"
     }
 ]
