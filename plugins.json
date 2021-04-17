@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"9a4482f5aa1f6694f76ee298db6a4968f95806b4eff8a2477db8e5534826896e\""
+        "E-tag": "W/\"b3ce1ade4a6f21ebf1a77fc2ceeeff53593133a8932f90ce08d2b94583b17077\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -141,7 +141,7 @@
         "Website": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty",
         "UrlDownload": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty/releases/download/v2.1.2/Flow.Launcher.Plugin.Putty.zip",
         "UrlSourceCode": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty/tree/master",
-        "E-tag": "W/\"c6e739c787310967b7a8ed1ab5fd65eb0f4b4fc7f5064e9a353e2689f114aa11\""
+        "E-tag": "W/\"980081159cfd5cbbd61f5307fe8833651e750a09ebaa567df9f805637cc48e0d\""
     },
     {
         "ID": "81b8c8c8-72ef-427c-a9c1-17cf8f1c766c",
@@ -200,6 +200,7 @@
         "Language": "fsharp",
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
-        "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main"
+        "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
+        "E-tag": "W/\"b4aeb7a3c265e59c4a0736774bbaff98c0827b5758a4f9790d280d32d8b6932b\""
     }
 ]
