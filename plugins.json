@@ -211,7 +211,6 @@
         "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime",
-        "IcoPath": "assets\\icon.png",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.0/Flow.Launcher.Plugin.IsPrime.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main"
     },
