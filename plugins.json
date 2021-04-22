@@ -211,9 +211,19 @@
         "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime",
-        "IcoPath": "assets\\icon.png",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.0/Flow.Launcher.Plugin.IsPrime.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main",
         "E-tag": "W/\"3ffb077db3f936f3e499dc3126a91ea4c7508a5183c288a3e6a42bde2662e6a0\""
+    },
+    {
+        "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
+        "Name": "RollDice",
+        "Description": "Rolls the given dices and evaluates the expression",
+        "Author": "lvonkacsoh",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
+        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
+        "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main"
     }
 ]
