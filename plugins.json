@@ -42,10 +42,9 @@
         "Author": "Frank W. (@fow5040)",
         "Version": "1.1.0",
         "Language": "csharp",
-        "Website": "https://github.com/fow5040/Wox.Plugin.SpotifyPremium",
-        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.SpotifyPremium/releases/download/v1.1.0/Wox.Plugin.SpotifyPremium.zip",
-        "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.SpotifyPremium/tree/master",
-        "E-tag": "W/\"27d3ddea1f0bea9bdd6fe5f86908d7e8e83b8bf50ba9305ed0b90381b2ed2a6b\""
+        "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
+        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Wox.Plugin.SpotifyPremium.zip",
+        "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main"
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
