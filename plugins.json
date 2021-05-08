@@ -44,7 +44,8 @@
         "Language": "csharp",
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
-        "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main"
+        "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
+        "E-tag": "W/\"5fafa274a53a2385539e71664c99e5f50486ba03c3f2c491dbff406ae93bc534\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
