@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "E-tag": "W/\"5543722109dec8f99f6a9bfbfae3b9893c880e600a39e42f52a805cc84743918\""
+        "E-tag": "W/\"ffe5dd0adceb8258f4c90c369dd153457b94cb25feaf068a47854e6e3c2585a1\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -45,7 +45,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "E-tag": "W/\"fe4bda074d8146533b07c613e77549cb6eeb9606a8e4fa46e4bb183a6eb9e4a2\""
+        "E-tag": "W/\"3c18dbcca1ab66ee07872990ecd65d615739c94290dea493f4288c320dd236de\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
@@ -57,7 +57,7 @@
         "Website": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "E-tag": "W/\"9454b85d14b7a635b88d4721e91708b97b4d766c105338ac66642d8daab06abe\""
+        "E-tag": "W/\"68bd6a0fe1533934c7cf3355ef907bce29933822aeb3a62860dccf11aa2182c8\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"ecf20aea4b3ce067e18284a28866b01545a5c260ca10520ee5d68dea4b9817f3\""
+        "E-tag": "W/\"ce19c9f5e53302445e30cb0b991524baa317782b4827c54a954821491ac7e7ec\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -93,7 +93,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v1.1.1/Flow.Launcher.Plugin.Color.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "E-tag": "W/\"46e880986083ab384591e1bd45e0beb50d380f8c8cce4d70b86c72066e4f5e52\""
+        "E-tag": "W/\"140ab25241c4a129f778f049408de145132e9646677759a7f740f4c8f4e5c343\""
     },
     {
         "ID": "18892B7863AC43ABA27859A5A2866DD8",
@@ -105,7 +105,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.1/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "E-tag": "W/\"a7c40da04f88bc9e6a783c5f1bf56e2482a65dd20e6fd027f7081f504a48d0f9\""
+        "E-tag": "W/\"d1a3967556ab736a90b87a9cfe08340db0278b99c7b45a7f94c59f526ae5feed\""
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
@@ -117,7 +117,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "E-tag": "W/\"11ca1bf17881735fba189eb3d53f5be6369e08afc25ac122807996b85650f386\""
+        "E-tag": "W/\"821d28651d49d94e8b5091600d4a3c6bed20fd6e3c2892a13ed837e6e05710a8\""
     },
     {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
@@ -225,6 +225,6 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "E-tag": "W/\"764ec3dddabd6eeb3f2fd257074507f0fe71ebd2042f643445f52f266f75c4d0\""
+        "E-tag": "W/\"2c1956a424aa17ba615625c38ae01baea12ac33124e05be287a3e6f1284dd586\""
     }
 ]
