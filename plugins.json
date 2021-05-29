@@ -69,7 +69,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "E-tag": "W/\"1357094588b541c69a749d114f3f1fe2d09a876fba04b0430454400866ffa6bb\""
+        "E-tag": "W/\"c1467e30eee7a64848869afb4da383ac180466edb75208d930f32b09a47a696f\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "E-tag": "W/\"55d336fe0f6b4d20638bee6a2e4b70c7c48d6a0b28053ebf5ea5ac5f7639fb71\""
+        "E-tag": "W/\"c18fbee3c5db27b63f217b4326962b477b9f096c40da6269ba50171f4decc2ba\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -225,6 +225,6 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "E-tag": "W/\"b2b6043cea455e67f2a6726c55bef5c9b08a49b54ed77c438bf0cd482795a5d4\""
+        "E-tag": "W/\"718f3f1abcf37a132514ac0f19e7486dd26b5000b61713fd8d77aaeb21ee5261\""
     }
 ]
