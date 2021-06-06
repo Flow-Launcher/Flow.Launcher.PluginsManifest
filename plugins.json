@@ -45,7 +45,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "E-tag": "W/\"44f173a9931ac20b3a9a714d18c6d5b162feae255bb17e17866fd2d05956ece0\""
+        "E-tag": "W/\"ac83f62fd2a47c98c0a2fb8934bf7bceec3b4c2e1009355631822af0ee254cfd\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "E-tag": "W/\"a2691fc29e17b28fb9d90616679aa9f2d2c22579c74d7e82b0a50a589391cee4\""
+        "E-tag": "W/\"61cda0585c0f4e6ec7b420988c1faad315b5f62fe12baf7f791e087940dcaf68\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -201,7 +201,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "E-tag": "W/\"856bccccf107a18cf7632bbdbe64c2fc5937bd97fa99b9e790e33fc10e22b2d4\""
+        "E-tag": "W/\"3425afb229d046fbfecac7b320fb583be2d9336f13d2b2497f960877d26657fb\""
     },
     {
         "ID": "b9aaddfa36a948f384b31b4fb6186861",
@@ -225,6 +225,6 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "E-tag": "W/\"718f3f1abcf37a132514ac0f19e7486dd26b5000b61713fd8d77aaeb21ee5261\""
+        "E-tag": "W/\"f5f146b8a9ae1594726418aff4b47e96e9328882fe2dac08a877e69020f6f7ee\""
     }
 ]
