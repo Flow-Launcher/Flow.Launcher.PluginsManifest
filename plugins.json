@@ -189,7 +189,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "E-tag": "W/\"88aa209bc65c581b84f026a2627c9b469eb5eeaddd9db69977172d53a23fa769\""
+        "E-tag": "W/\"c234efce6ef2ad4148f368343e6cdb7fe72a5cfd39ca980f39e29e27f4ec57c2\""
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -208,12 +208,12 @@
         "Name": "isPrime",
         "Description": "Checks if the given arguments are prime numbers",
         "Author": "lvonkacsoh",
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "Language": "python",
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime",
-        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.2.0/Flow.Launcher.Plugin.IsPrime.zip",
+        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.3.0/Flow.Launcher.Plugin.IsPrime.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main",
-        "E-tag": "W/\"2e7fb1ed16baecce40a500577e6d9c14c4238174356d53b7127b79df724c2d2a\""
+        "E-tag": "W/\"79fbe9a23c4f9f78d36a1478091e099cb7f4f7d255c91190733882d0da277871\""
     },
     {
         "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
