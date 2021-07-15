@@ -26,7 +26,9 @@ All the information above except for `UrlDownload` and `UrlSourceCode` should al
 
 Once your submission is approved by the Flow Launcher Team it will be available immediately in Flow.
 
-Our *CI* will automatically check for new updates from plugins at every hour and update to the newer version if they are stored in the Github Release. Therefore, if you are using Github to release and update your plugin, there will be no need to manually create a pull request for every update. If this is the first time you are publishing your plugin to Flow, then you will need to create a pull request for it to be reviewed.
+Our *CI* will automatically check for new updates from plugins at every three hour and update to the newer version if they are stored in the Github Release.
+Therefore, if you are using Github to release and update your plugin, there will be no need to manually create a pull request for every update.
+If this is the first time you are publishing your plugin to Flow, then you will need to create a pull request for it to be reviewed.
 
 As usual, we will not accept plugin submissions that could potentially harm the computer or contains malicious code.
 
@@ -39,6 +41,6 @@ Also use `pm update` to update or `pm uninstall` to uninstall plugins, and go to
 
 ## Have a plugin enhancement request or issue?
 
-This repository does not track enhancement requests or issues for plugins, it is up to the plugin developers to maintain their own plugin. 
+This repository does not track enhancement requests or issues for plugins, it is up to the plugin developers to maintain their own plugin.
 
 If you would like to contribute, submit a request or issue, please visit the plugin's repository via the 'UrlSourceCode' link or from `pm install`, `shift enter`/`right click` on the plugin to go to the context menu and select 'Suggest an enhancement or submit an issue'.
