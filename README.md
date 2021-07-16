@@ -26,7 +26,7 @@ All the information above except for `UrlDownload` and `UrlSourceCode` should al
 
 Once your submission is approved by the Flow Launcher Team it will be available immediately in Flow.
 
-Our *CI* will automatically check for new updates from plugins at every three hour and update to the newer version if they are stored in the Github Release.
+Our *CI* will automatically check for new updates from plugins every three hours and update to the newer version if they are stored in the Github Release.
 Therefore, if you are using Github to release and update your plugin, there will be no need to manually create a pull request for every update.
 If this is the first time you are publishing your plugin to Flow, then you will need to create a pull request for it to be reviewed.
 
