@@ -19,9 +19,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
+          pip install -r ./ci/envs/requirements-validator.txt
 
       - name: Test with pytest
         run: |
-          pytest tests.py
+          pytest ./ci/src/validator.py
