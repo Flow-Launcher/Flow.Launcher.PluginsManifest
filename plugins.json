@@ -238,5 +238,16 @@
         "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.1/Flow.Launcher.Plugin.FancyEmoji.zip",
         "UrlSourceCode": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/tree/master",
         "E-tag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\""
+    },
+    {
+        "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
+        "Name": "Timestamp",
+        "Description": "Show system time and could copy that",
+        "Author": "Zero <Zeroto521>",
+        "Version": "1.0.7",
+        "Language": "python",
+        "Website": "https://github.com/Zeroto521/Flow.Launcher.Plugin.Timestamp",
+        "UrlDownload": "https://github.com/Zeroto521/Flow.Launcher.Plugin.Timestamp/archive/refs/heads/master.zip",
+        "UrlSourceCode": "https://github.com/Zeroto521/Flow.Launcher.Plugin.Timestamp"
     }
 ]
