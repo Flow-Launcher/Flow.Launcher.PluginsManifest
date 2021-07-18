@@ -37,7 +37,7 @@ def batch_github_plugin_info(info: P) -> P:
         return info
 
     latest_rel = res.json()
-    assets = latest_rel["assets"]
+    assets = latest_rel.get("assets")
     if assets:
         info[url_download] = assets[0]["browser_download_url"]
         info[tag] = res.headers[etag]
