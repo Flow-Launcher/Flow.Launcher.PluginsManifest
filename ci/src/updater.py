@@ -41,7 +41,7 @@ def batch_github_plugin_info(info: P) -> P:
     if assets:
         info[url_download] = assets[0]["browser_download_url"]
         info[tag] = res.headers[etag]
-        info[version] = clean(latest_rel["tag_name"])
+        info[version] = clean(latest_rel["tag_name"], "v")
 
     return info
 
