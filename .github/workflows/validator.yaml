@@ -1,15 +1,22 @@
 name: Plugins manifest validation
 
 on:
-  push:
-    paths:
-      - "plugins.json"
-  pull_request:
-    paths:
-      - "plugins.json"
+  [push, pull_request]
 
 jobs:
+  skip_check_job:
+    runs-on: ubuntu-latest
+    outputs:
+      should_skip: ${{ steps.skip_check.outputs.should_skip }}
+    steps:
+      - id: skip_check
+        uses: fkirc/skip-duplicate-actions@master
+        with:
+          skip_after_successful_duplicate: 'true'
+          paths: '["plugin.json"]'
   test:
+    needs: skip_check_job
+    if: ${{ needs.pre_job.outputs.should_skip != 'true' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
