@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"6719a0f40a670cab0a45b1aa829e874f929e859ba1f7a22f7c7eb865a41529d7\""
+        "": "W/\"f679c9c769b8b72b1b578d3f5e4d1686e4ed943cfd4b37e24a654a8987bb5685\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"34db3ff8e49ccd9294f07b550d43b9eeddf1baad0ff3e575654c86943ba0f100\""
+        "": "W/\"133e3da7c931b310499f0ae66d0f26dd9c650930a5803f8ea94163e7ce0710de\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -36,7 +36,7 @@
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
         "E-tag": "W/\"ac87aef280dfdce2b46284fff8eef768b3c9828f054d18a3002a92a24ca1244c\"",
-        "": "W/\"249618a1568c23b6ddcf81a7450db0963f80b0f72f9f7cfaa39a49f49c346e6c\""
+        "": "W/\"559aa07cb61254927686f8e14aca96e71b4b976f736836eeac1b6b123770aa22\""
     },
     {
         "ID": "SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
@@ -278,6 +278,7 @@
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
-        "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main"
-     }
+        "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
+        "": "W/\"4b88b8d20ffa5baddccbe8ff371220f56e3db1ac4201f120c3367a19ebe7424e\""
+    }
 ]
