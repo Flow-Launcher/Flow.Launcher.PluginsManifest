@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"34c51fcb5897d781d9c277f78442382b02a41eefaa1cba48eec017a985a2b97c\""
+        "": "W/\"fceea584a69534e4bd0ca8192f8b4b6cd8bf4513e5676530769a9604f8e349d4\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -127,7 +127,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "E-tag": "W/\"15169134212e35f01301672c5e349a38cbfa6d7e7285db296cc36566e0fa3a7f\"",
-        "": "W/\"c6940f40a210d032f73b90234c71104c61baf53e33e90d21190d43d1ebb353a3\""
+        "": "W/\"59ce88df1cb9a58f02d4768f78bf5e5c6e9c346d65337a052f07471699a7e64c\""
     },
     {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
@@ -279,6 +279,6 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"082fdef20d46ab348a9c48d73620e9b6620191ec6629fefac65f5af3130d41c8\""
+        "": "W/\"4481c2904567603e3e3796deaccc711512e6623e92fb0aa9531178135090911e\""
     }
 ]
