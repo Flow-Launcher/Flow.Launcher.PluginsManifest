@@ -36,7 +36,7 @@
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
         "E-tag": "W/\"ac87aef280dfdce2b46284fff8eef768b3c9828f054d18a3002a92a24ca1244c\"",
-        "": "W/\"fb90846a4e6442abb0318fa52ab3b7d945a119381495c040bc7d7607107fa388\""
+        "": "W/\"547868f2c1d9f94f89bcefc17641a58172363e091da355ae028618a53d76d84d\""
     },
     {
         "ID": "SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"7b6833308325f2a538e766cdbe090fd50fc453617a2904f15899fcb6a2e2259c\""
+        "": "W/\"34c51fcb5897d781d9c277f78442382b02a41eefaa1cba48eec017a985a2b97c\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -127,7 +127,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "E-tag": "W/\"15169134212e35f01301672c5e349a38cbfa6d7e7285db296cc36566e0fa3a7f\"",
-        "": "W/\"aa13514ddda3c392c9edeee3088337aaa5ce40636990f54b0cc92e97466b5e6b\""
+        "": "W/\"c6940f40a210d032f73b90234c71104c61baf53e33e90d21190d43d1ebb353a3\""
     },
     {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
@@ -279,6 +279,6 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"d6a8a8cb82c35e3cc2177c81d3dbd4283428402b7fadb866f1a79112093a2e47\""
+        "": "W/\"082fdef20d46ab348a9c48d73620e9b6620191ec6629fefac65f5af3130d41c8\""
     }
 ]
