@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"f679c9c769b8b72b1b578d3f5e4d1686e4ed943cfd4b37e24a654a8987bb5685\""
+        "": "W/\"7e03356dbd2d65277e889b96e91c040c94c322a2a7d79df40bda61d458f5f16b\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.4.9/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"1af90b35234f7bc37e02ee411beaf5d64426e01759825873ecb9596dbbc73946\""
+        "": "W/\"86cc50c41d286d89daacba0a87ad03bc37f004d5eb86dcea355f1ee0db4b9445\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -279,6 +279,6 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"4481c2904567603e3e3796deaccc711512e6623e92fb0aa9531178135090911e\""
+        "": "W/\"64cb60a1701f6cc788997021e82b53591bf15da49533918f67df5452ff41b865\""
     }
 ]
