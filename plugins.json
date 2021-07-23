@@ -280,5 +280,16 @@
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
         "": "W/\"64cb60a1701f6cc788997021e82b53591bf15da49533918f67df5452ff41b865\""
+    },
+    {
+        "ID":"B2D2C23B055D411GH66FF0C79D6C2A6H",
+        "Name":"HA-Commander",
+        "Description":"Search, and interact with Home Assistant using Wox or Flow Launcher.",
+        "Author":"Garulf",
+        "Version":"2.2.2",
+        "Language":"python",
+        "Website":"https://github.com/Garulf/HA-Commander",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.2.2/HA-Commander.zip",
+        "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main"
     }
 ]
