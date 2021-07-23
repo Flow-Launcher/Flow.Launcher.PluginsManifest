@@ -49,7 +49,7 @@
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
         "E-tag": "W/\"9780806657c18b6242db5b5f7537bff8c7824789aadabff24b57182b0972539e\"",
-        "": "W/\"ecd7bc5702b524909cabcf6354a0eb846b6eb5a84bf8aa3deec15687b599de9c\""
+        "": "W/\"5dc35814953dfa0bb2d42eae55454bf65bb33ed4375e43cd9aa1a5c4c6de4f9c\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
@@ -82,13 +82,13 @@
         "Name": "Everything",
         "Description": "Search Everything",
         "Author": "qianlifeng, orzfly",
-        "Version": "1.5.0",
+        "Version": "1.5.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.0/Flow.Launcher.Plugin.Everything.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.1/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"bafb6494ad20ace3e3a4a2c0284545541fcb92224d6c0d0ca70c376d2753714a\""
+        "": "W/\"412f62e3906a7d4be4442eb2620a20fc7ce022f46d030ee3ed53c883c7b4e667\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -101,7 +101,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v1.1.1/Flow.Launcher.Plugin.Color.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
         "E-tag": "W/\"4533caec919776253e5a6fc07702f3a2e3572fab1ed250bfcf530962b8d8ca4e\"",
-        "": "W/\"d7c193b5d692db7fe6dc6c3a9cec256c29e1a1c719135b271ae3a7a42e62da33\""
+        "": "W/\"e37ddbe3545441e8598d90b5d9118c445085712efe4b3d62770c56e300eab222\""
     },
     {
         "ID": "18892B7863AC43ABA27859A5A2866DD8",
@@ -127,7 +127,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "E-tag": "W/\"15169134212e35f01301672c5e349a38cbfa6d7e7285db296cc36566e0fa3a7f\"",
-        "": "W/\"59ce88df1cb9a58f02d4768f78bf5e5c6e9c346d65337a052f07471699a7e64c\""
+        "": "W/\"0450cca112669df5cd6b52165ee891e2ea5cd3b559f87766191e584e1580dc25\""
     },
     {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
