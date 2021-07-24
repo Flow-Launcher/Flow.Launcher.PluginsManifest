@@ -36,7 +36,7 @@
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
         "E-tag": "W/\"ac87aef280dfdce2b46284fff8eef768b3c9828f054d18a3002a92a24ca1244c\"",
-        "": "W/\"547868f2c1d9f94f89bcefc17641a58172363e091da355ae028618a53d76d84d\""
+        "": "W/\"6ed6b42426d29419576338c095210d7168ac8fd8d163d69f2cc4ef1718a310ca\""
     },
     {
         "ID": "SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
@@ -62,7 +62,7 @@
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
         "E-tag": "W/\"512b94422629c83293f436daf7f11b46e58862fe32677d6a6a06fc2d061f9f52\"",
-        "": "W/\"e00e17e91a62935e25ae646ca19147928ffa387426526e12dea97445ccdc54e5\""
+        "": "W/\"38fcee58b73f31c14321eaf8db6b403d8d55841ca387390126379f257e75a6ff\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -75,7 +75,7 @@
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"f0b4243105f29c35c1990bef5006ec95be374e01c208a7c9fba4c9004b486ab4\""
+        "": "W/\"c54c30060868c29476dbf19b2d88a2455ee45c22618c730f2e66ac7de2afc1ae\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.1/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"c6655af25e96f8f69fbd35909614ac023ac21e735b1ab18d67b3569331e01196\""
+        "": "W/\"efb83ee5449132770a3c31c37ff2dda7f249c228050b64a4cd92615d31a01ff8\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -286,11 +286,11 @@
         "Name": "HA-Commander",
         "Description": "Search, and interact with Home Assistant using Wox or Flow Launcher.",
         "Author": "Garulf",
-        "Version": "2.2.2",
+        "Version": "2.3.3",
         "Language": "python",
         "Website": "https://github.com/Garulf/HA-Commander",
-        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.2.2/HA-Commander.zip",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.3.3/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"4049fceb7f24a34c523b7d94f3657aaaa616c7de1d597362b04396f35c1107d5\""
+        "": "W/\"7663b3f3f160adde35b5193838930f334a8bb12de4192be55616355b51345bfb\""
     }
 ]
