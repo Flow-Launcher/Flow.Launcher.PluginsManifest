@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"7e03356dbd2d65277e889b96e91c040c94c322a2a7d79df40bda61d458f5f16b\""
+        "": "W/\"d1370789bd3f56829f4adc0cba948442de3a4355d55ef2c56b2769cccf8bb949\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"51675547111495151d5cfcc9b339a4fdcff4c828700cf7645f72b68d635f5e1b\""
+        "": "W/\"1a4b7423b85dbab51af93d6ec6936ded05893d10248733e3087717596633b611\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -36,7 +36,7 @@
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
         "E-tag": "W/\"ac87aef280dfdce2b46284fff8eef768b3c9828f054d18a3002a92a24ca1244c\"",
-        "": "W/\"6ed6b42426d29419576338c095210d7168ac8fd8d163d69f2cc4ef1718a310ca\""
+        "": "W/\"8f0260d14b25e536812b76621be4d44f300216c10c75289d0635913bc55a18e7\""
     },
     {
         "ID": "SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
@@ -114,7 +114,7 @@
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
         "E-tag": "W/\"ffdfa31ce164355f3e3a97f50ec77da0340027bd447930885ff2eedbb5b7e72a\"",
-        "": "W/\"da0c710dfe7b7a3de9d0d6d4aaf720a0004d81cbc85080eb2b668319e090abd4\""
+        "": "W/\"62da5bdecc8483b2199b6af737130a974d3c441b874079f5aaf366ff93fef9f7\""
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
@@ -127,7 +127,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "E-tag": "W/\"15169134212e35f01301672c5e349a38cbfa6d7e7285db296cc36566e0fa3a7f\"",
-        "": "W/\"0450cca112669df5cd6b52165ee891e2ea5cd3b559f87766191e584e1580dc25\""
+        "": "W/\"dee1b452d9d8af6d0afb87b334c4eb2b674543715853ef97e716f889c15b0f56\""
     },
     {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
@@ -205,7 +205,7 @@
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
         "E-tag": "W/\"333cdd87be1aa633c5cdcb6e025dd1575608a2640b809171a3fce9eb73f6bacb\"",
-        "": "W/\"42d604bff24941d8cf3647e4f8fe762c8e98e8716b063450cb15b5a53c7ba99f\""
+        "": "W/\"deb40b787c082f7da4c5450e4a2951a12da23343a28cdf5dd50e3b6a09f5642c\""
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -291,6 +291,6 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.3.3/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"7663b3f3f160adde35b5193838930f334a8bb12de4192be55616355b51345bfb\""
+        "": "W/\"2e590415d67eeb8f927a713f68eab94b5d81063e219250b1973c02026db504c8\""
     }
 ]
