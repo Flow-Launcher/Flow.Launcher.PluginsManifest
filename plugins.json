@@ -75,7 +75,7 @@
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"c54c30060868c29476dbf19b2d88a2455ee45c22618c730f2e66ac7de2afc1ae\""
+        "": "W/\"c6929ded5a1ce49f5a49fd700c5cc27b56b59564e86a1f2257664c5dc4c1b311\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -279,7 +279,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"64cb60a1701f6cc788997021e82b53591bf15da49533918f67df5452ff41b865\""
+        "": "W/\"b6afd84479ad4674a518f6d2c300c0ef81aae0901457e5c82cc6c19003f7a13a\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -291,6 +291,6 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.3.3/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"2d58905dff1e7bc10afdcf3986ab9ee367ba0b10eeae6eb9a669983c0242364f\""
+        "": "W/\"1a4a5e4d4322bf19ed43fad7bf5453cdd82b5f40800b6b57d30fddbd396bfc4a\""
     }
 ]
