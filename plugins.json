@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.1/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"c137d9b5bd94d2bc52499fa35c20b717548c8be08d8ef0e4051f8362fe9bc679\""
+        "": "W/\"4bc033a268f80cb3ccc82bfc7be25ba035cb992d883a952dd1df5e41c48cb156\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -302,6 +302,7 @@
         "Language": "csharp",
         "Website": "https://github.com/peterschussheim/CPPreference-flow-plugin",
         "UrlDownload": "https://github.com/peterschussheim/CPPreference-flow-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.CPPreference.zip",
-        "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master"
+        "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master",
+        "": "W/\"2c183174582dea88966bda92821a30297834d05bac6f8f71c135f22956dab5dd\""
     }
 ]
