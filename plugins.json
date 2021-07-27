@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"6b3eabbe9cf7478def3580023e9b7200f07195efb4e75bb586e551c36221187f\""
+        "": "W/\"344d3aa44320809a066688de4a78e16ebbd97e1441f5d24fe3dd0aefb9e1e121\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -62,7 +62,7 @@
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
         "E-tag": "W/\"512b94422629c83293f436daf7f11b46e58862fe32677d6a6a06fc2d061f9f52\"",
-        "": "W/\"70812c0e6d3e0b38a18f7816e871f9c5f33c07faefb75d668e87e3494f164a76\""
+        "": "W/\"2040f55a89a3ed68464645d8287cbb421e4315cdbc72bd9ecd5fabf571ab814e\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -75,20 +75,20 @@
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"c6929ded5a1ce49f5a49fd700c5cc27b56b59564e86a1f2257664c5dc4c1b311\""
+        "": "W/\"4847af684a7ba6e9024f9370924e0628d0fe67da0e8018d8d34a998c61689f39\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
         "Name": "Everything",
         "Description": "Search Everything",
         "Author": "qianlifeng, orzfly",
-        "Version": "1.5.1",
+        "Version": "1.5.2",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.1/Flow.Launcher.Plugin.Everything.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.2/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"848240ed6c3bf9c8554867444e517c40cb1a2fba41a447b70dbe21041d92bb1d\""
+        "": "W/\"ee1bff39b667032751493c344d3fc2f0a2557e5152e71445b353917e8c522ea9\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -315,6 +315,7 @@
         "Language": "python",
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.0.1/Search-MDI.zip",
-        "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main"
+        "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
+        "": "W/\"7531815cc652465882085c37932664f90000c86f7096c06a1b41adcfc2f0dc76\""
     }
 ]
