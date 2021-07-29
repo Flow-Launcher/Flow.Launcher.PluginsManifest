@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"68148d0b4ad7603a384edee1b080126e0823edb315efa2245d80e53a964c4e27\""
+        "": "W/\"3c339bda2dafb74a34e9ab55b02721c3070bfd81bc49a4d0794ec31f0a9a442f\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -49,7 +49,7 @@
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
         "E-tag": "W/\"9780806657c18b6242db5b5f7537bff8c7824789aadabff24b57182b0972539e\"",
-        "": "W/\"350400e0b40842e9c42368afb2971710d57cfade5b3be68c2d8a662171dd1b87\""
+        "": "W/\"1970197e46c6c08842360523dc61a88738ad36b64be34468161e0318f68f27bb\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.2/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"bc1f4572435535a05ed7445ce51e4d0641da40fe714aeb3d2fb141b1c7e0eef3\""
+        "": "W/\"faf6ca62a2ac7f3c67a407b8eb574f608ec34d2381791a87f393828ca8f1d2b2\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -316,6 +316,6 @@
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.0.1/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"31ada641d98024e34d6fad7e40cf361ff6c0c4e3e36fcaf297582d5309d5bd06\""
+        "": "W/\"41581e0313756e85123d239740833f54fffb2cf2fc96640a2b4294b30d933663\""
     }
 ]
