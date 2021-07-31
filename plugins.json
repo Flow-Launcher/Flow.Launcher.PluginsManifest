@@ -291,7 +291,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.4.4/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"43dc32f620d6c174ca95eeb2f3bd035da4c2e43acd308bf154b36f6f24cb8f5e\""
+        "": "W/\"854402e0de79940236d4660a759f00a7783b097e63057cfbdff78b9e092a26d9\""
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
@@ -311,11 +311,11 @@
         "Name": "Search-MDI",
         "Description": "Search materialdesignicons.com",
         "Author": "Garulf",
-        "Version": "2.0.1",
+        "Version": "2.1.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/Search-MDI",
-        "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.0.1/Search-MDI.zip",
+        "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.1.1/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"f5d71ef8a8124a2496d4265fdc6d5ebcd5bf2b5eb2a60d07f6562e77ed4ff7a1\""
+        "": "W/\"1197fd73651421ca7f40c51bef89b819222d58376beee93fe9b010609851a8f3\""
     }
 ]
