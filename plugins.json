@@ -69,13 +69,13 @@
         "Name": "Window Walker",
         "Description": "Alt-Tab alternative enabling searching through your windows.",
         "Author": "betadele",
-        "Version": "1.4.2",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://www.windowwalker.com/",
-        "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v1.4.2/WindowWalker-1.4.2.zip",
+        "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.0/WindowWalker-2.0.0.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"ba7ae44987c9c699bc2c4e02884f54cc15f37fdf658dba4991ec2dfa28697841\""
+        "": "W/\"8273dc4ca870b52d796196a80656d8b77a689304b04a01460536f75d35ef60c3\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.3/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"52cc383555862ab207add03046cf296b144f2e585af5c6ffa1c44c134fe21756\""
+        "": "W/\"cdca44feb27e9766d08e94c1a988e439bf5326b1632b65be223efad5f14d7f27\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
