@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.3/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"45a52b03f52f525047127379220b680312c1284193d1634bb30e080e24b8f6a1\""
+        "": "W/\"519aed6657d08adf449328cd9b9ea363c9bed7038ff756c4a9d14192bec30e2d\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -286,12 +286,12 @@
         "Name": "HA-Commander",
         "Description": "Search, and interact with Home Assistant using Wox or Flow Launcher.",
         "Author": "Garulf",
-        "Version": "2.4.6",
+        "Version": "2.4.8",
         "Language": "python",
         "Website": "https://github.com/Garulf/HA-Commander",
-        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.4.6/HA-Commander.zip",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.4.8/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"05f547785961226ab5faa7de67a919059c9fc66496cc96551ef2f717ca400d4a\""
+        "": "W/\"faa596c8bd6d8e144b7dafe20ee5b816742ddee10695b5e85268f666f5298155\""
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
@@ -316,6 +316,6 @@
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.1.1/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"81369b3ae5a8e71ca3b6f7468dd6cdd97814aa34cd9d4601180fbdd0d1d19f5e\""
+        "": "W/\"26c00c18da85e58754f7f77f5e8d654f50ef3e2589cabde0b41c0e6105d257b3\""
     }
 ]
