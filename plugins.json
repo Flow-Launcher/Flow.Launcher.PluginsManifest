@@ -317,5 +317,16 @@
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.1.1/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
         "": "W/\"81369b3ae5a8e71ca3b6f7468dd6cdd97814aa34cd9d4601180fbdd0d1d19f5e\""
+    },
+        {
+        "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
+        "Name": "Plexy",
+        "Description": "Search and cast your Plex Media Server Library",
+        "Author": "Garulf",
+        "Version": "0.5.1",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/plexy",
+        "UrlDownload": "https://github.com/Garulf/plexy/releases/download/v2.1.1/Search-MDI.zip",
+        "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main"
     }
 ]
