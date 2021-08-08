@@ -326,7 +326,8 @@
         "Version": "0.5.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/plexy",
-        "UrlDownload": "https://github.com/Garulf/plexy/releases/download/v0.5.1/Plexy.zip",
-        "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main"
+        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.1/Plexy.zip",
+        "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
+        "": "W/\"ca663d4182e53eda3d0e7eee1dc14419b64d1c62895b899b51fac5fd7ab67b1a\""
     }
 ]
