@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"0d4a666d8450d0e0bdda978455cb7e6937f5579eb1439e8f3132ec3493fe7e6d\""
+        "": "W/\"42d4ef9a3ab5351c247d4ae0fe3add0d514bb76552fe10772e3afa7ca700273d\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.3/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"45a52b03f52f525047127379220b680312c1284193d1634bb30e080e24b8f6a1\""
+        "": "W/\"84cb98a090f42bb4de7579382b3eb32445524ff2c63caa2cb28c52539acc7099\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -166,7 +166,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.0/Flow.LibreTraslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
         "E-tag": "W/\"3cf2c9ca95f7284c93b411bb971a17e6478983dda622eec8cde08da3d6fa1151\"",
-        "": "W/\"825f4da23c736e0f3e6a695fa315d4fb1955960098c35e4701a87de340bc086d\""
+        "": "W/\"833c95100ed070c8862d381ad78b8b9ae1e952d3939924ce5c6aa38d1718784d\""
     },
     {
         "ID": "F71F6EE367D34BAFB681A9287ACF59EB",
@@ -205,7 +205,7 @@
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
         "E-tag": "W/\"333cdd87be1aa633c5cdcb6e025dd1575608a2640b809171a3fce9eb73f6bacb\"",
-        "": "W/\"abbb18f70a60a68e5c10f1ebd08b6a8457428f4d33274bb83513451d841b7b95\""
+        "": "W/\"c008243b5adad8d73f03d39a8f7271059533829dac484b6912cdaec50558276c\""
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -286,12 +286,12 @@
         "Name": "HA-Commander",
         "Description": "Search, and interact with Home Assistant using Wox or Flow Launcher.",
         "Author": "Garulf",
-        "Version": "2.4.6",
+        "Version": "2.4.8",
         "Language": "python",
         "Website": "https://github.com/Garulf/HA-Commander",
-        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.4.6/HA-Commander.zip",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.4.8/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"05f547785961226ab5faa7de67a919059c9fc66496cc96551ef2f717ca400d4a\""
+        "": "W/\"faa596c8bd6d8e144b7dafe20ee5b816742ddee10695b5e85268f666f5298155\""
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
@@ -316,9 +316,9 @@
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.1.1/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"81369b3ae5a8e71ca3b6f7468dd6cdd97814aa34cd9d4601180fbdd0d1d19f5e\""
+        "": "W/\"26c00c18da85e58754f7f77f5e8d654f50ef3e2589cabde0b41c0e6105d257b3\""
     },
-        {
+    {
         "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
         "Name": "Plexy",
         "Description": "Search and cast your Plex Media Server Library",
