@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"7ee6975a671b0bddc8d3de065fdeb9d50342baddb817e9b28ebb60ea971324f0\""
+        "": "W/\"0a05767fb85fa595816f9a090592bfd0e0d35f0e5f39568b86656651e2ef676d\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"f8789a35fdaa367eefd098f5c330b036861f39fd1f31cc09385090182832430b\""
+        "": "W/\"01376c8637959ff3d1049954842995e1e55a47fcde5f2000e86f94d89a4ba882\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -69,13 +69,13 @@
         "Name": "Window Walker",
         "Description": "Alt-Tab alternative enabling searching through your windows.",
         "Author": "betadele",
-        "Version": "2.0.0",
+        "Version": "2.0.1",
         "Language": "csharp",
         "Website": "https://www.windowwalker.com/",
-        "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.0/WindowWalker-2.0.0.zip",
+        "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"16d3d6bc7e2042da3f6de406bcc3244b4648604f6aad08e43581c9b1b7a516bb\""
+        "": "W/\"9294458e8b99001d2b7eac5efcdb0377f7d84dcb16d508ded398f371fa8dc654\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.3/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"2c1e0283c31ba78150c9c8b7427b3f9ed65b8c0ac52836cb1d2fb041f3a5d5b0\""
+        "": "W/\"aaddc951d54cb36d566d2c1a168e994520c248f3ec9c623cb5daf523ecebf665\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
