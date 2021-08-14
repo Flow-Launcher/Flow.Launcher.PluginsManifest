@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.3/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"f047373a7248e657457d045502b49ecbb4294c581b6b3908c571dceedf1b8477\""
+        "": "W/\"745c806d443140abaf24de127cba9b3e6eaa22799ae990b0a904ba5928902534\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -311,23 +311,23 @@
         "Name": "Search-MDI",
         "Description": "Search materialdesignicons.com",
         "Author": "Garulf",
-        "Version": "2.1.1",
+        "Version": "2.2.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/Search-MDI",
-        "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.1.1/Search-MDI.zip",
+        "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.2.2/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"fee2865d9f5261e22358aea1e213d0fbc8000663a808a72a8b9f91cf11c7c551\""
+        "": "W/\"e26abb7c2f9b2c72b075a8ca1b8a068e885b00f66669cde19950b9f2037195b6\""
     },
     {
         "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
         "Name": "Plexy",
         "Description": "Search and cast your Plex Media Server Library",
         "Author": "Garulf",
-        "Version": "0.5.1",
+        "Version": "0.5.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/plexy",
-        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.1/Plexy.zip",
+        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "": "W/\"ca663d4182e53eda3d0e7eee1dc14419b64d1c62895b899b51fac5fd7ab67b1a\""
+        "": "W/\"13270f3544a5ad79a847e4ca888e7e9b23f4f3b9ccdabc33bea501cbf703a88e\""
     }
 ]
