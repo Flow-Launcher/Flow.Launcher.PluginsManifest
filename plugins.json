@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"fc866a0a89b01516786b8bbe904f9781aadc034688868eb4f64c877f79205f43\""
+        "": "W/\"165f0e4968f2b36823b8ac740deadd43303da8d36fc1e0180a29f42675ea587d\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"c86eeee00de737793b5c066e363b827b830dd0ad11cf324d626d73c8ad072390\""
+        "": "W/\"0f29478f5bc870fb48b378b0de87c78e495fa731ec58ae70e64ec352f855fd80\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -36,7 +36,7 @@
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
         "E-tag": "W/\"ac87aef280dfdce2b46284fff8eef768b3c9828f054d18a3002a92a24ca1244c\"",
-        "": "W/\"82bb97dab05a8b616be15b91396307dbd05a5a6f6da5c17987110bfc70d36b27\""
+        "": "W/\"01a069d0467bfc2f3b56be3fcd537842a11f7ee023b0a2f1e6dabe5229020254\""
     },
     {
         "ID": "SY91U1N7H9D0X1DTZ8IOP4YV43KT7C5M",
@@ -62,7 +62,7 @@
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
         "E-tag": "W/\"512b94422629c83293f436daf7f11b46e58862fe32677d6a6a06fc2d061f9f52\"",
-        "": "W/\"d21911c829f3f739668f38ea0029a7ad4beeee4ac74fbf75d6ccfa90f8884edd\""
+        "": "W/\"55b0b3afeab56fe3df9d8eb7315b6676b88b1727b992bb62f5a26d130d4df97e\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -75,7 +75,7 @@
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"92e383c408af55be4996b6136c412ee2b09ce61cfa2d6fc9b424cb87e82ba059\""
+        "": "W/\"56491de58ecafd295a8d108c1ae325bfc0a6f40ee3ada0bcc1445fff1cbc71f8\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -101,7 +101,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v1.1.1/Flow.Launcher.Plugin.Color.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
         "E-tag": "W/\"4533caec919776253e5a6fc07702f3a2e3572fab1ed250bfcf530962b8d8ca4e\"",
-        "": "W/\"54e059eb229786471d3b09c89edf64ab964cdda836793202b4a6b25925e6c614\""
+        "": "W/\"b81f513393aadcbd336a00d5044f93d38f6307c6e2c461e78932fc8001a2baf8\""
     },
     {
         "ID": "18892B7863AC43ABA27859A5A2866DD8",
@@ -114,7 +114,7 @@
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
         "E-tag": "W/\"ffdfa31ce164355f3e3a97f50ec77da0340027bd447930885ff2eedbb5b7e72a\"",
-        "": "W/\"7865ba65eccedf0e9c3e9fe242430ca62393588165bee097a64b6f51202e88a4\""
+        "": "W/\"2babe7d65fccfe6bb667f9a8895d47c2f921720a58d0313e47f5427701591422\""
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
@@ -140,7 +140,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.UrlEncode/releases/download/v1.0/Flow.Plugin.UrlEncode.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.UrlEncode",
         "E-tag": "W/\"47633c6be581e06e085c0d607650e7f77ff2428162c532cd847f574666bc0dce\"",
-        "": "W/\"7d4c53e5ab1aa538a95b5a18e2748e35af03e3bc2d1946f52f7edb0c9776ec21\""
+        "": "W/\"78618ca00bad0a0117cd545d39b5bf43cbaf475d644e10c0ebdd9a591c4eb385\""
     },
     {
         "ID": "54A6672C06E047A48A7D88C78FA5F13E",
@@ -166,7 +166,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.0/Flow.LibreTraslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
         "E-tag": "W/\"3cf2c9ca95f7284c93b411bb971a17e6478983dda622eec8cde08da3d6fa1151\"",
-        "": "W/\"2dffd0bbf9911ff303400cc69e5c4c1bb127ca42edb24508fb9faef3d2233823\""
+        "": "W/\"cfdbc820c363dcde4242f48e935fe45a46e97b18aa5fbf7fe88e44677debac81\""
     },
     {
         "ID": "F71F6EE367D34BAFB681A9287ACF59EB",
@@ -205,7 +205,7 @@
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
         "E-tag": "W/\"333cdd87be1aa633c5cdcb6e025dd1575608a2640b809171a3fce9eb73f6bacb\"",
-        "": "W/\"0cd5a2c03e7fa748218546468a95429e874a4b8a3b1cb2391a221daa271330ce\""
+        "": "W/\"11ff84d7dcdcfc555ee6e1e7d55c6842adeffcf861b15d32507b57a7fb4c54b1\""
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -218,7 +218,7 @@
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
         "E-tag": "W/\"b5a6a1cda0245f92d3dcd86eaedc90d450298a04a799f7a4cb59d2216237b375\"",
-        "": "W/\"6aeb2c2adb54447d14925061a74727cb3a2321f0de8893022e0e41f532f49afc\""
+        "": "W/\"b49a9d07dac995c52bdf9a05151e54b8ec774b8a57c397621c5d737a3eb97721\""
     },
     {
         "ID": "b9aaddfa36a948f384b31b4fb6186861",
@@ -279,7 +279,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"ed442d0c95b1bea0c6a9fb736c73f31567f23edb5a8f623a53459921ec89c148\""
+        "": "W/\"1818b71a2d2fc8d3aa3d5c5df65902670547d06dbbb4924bbc4d3587852af01b\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -303,7 +303,7 @@
         "Website": "https://github.com/peterschussheim/CPPreference-flow-plugin",
         "UrlDownload": "https://github.com/peterschussheim/CPPreference-flow-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.CPPreference.zip",
         "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master",
-        "": "W/\"58ac4b5db404dff907a2af0e23ed80debbb468fa5835b063567902723c5a2750\""
+        "": "W/\"2a0bb1ed7f906362fa51b45e3850aad5569a2fda60ff54992a16f3c2ec98c533\""
     },
     {
         "ID": "8G5CDC9A78EF4A7E667E138F1FC04015",
@@ -316,7 +316,7 @@
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.2.2/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"5018ea255f18267371e59b3fad1ec8d9ad8437740fa5b447945fb02d6b0debbd\""
+        "": "W/\"0141567749ac22b830ba1c0e8de8723fd17b1e726d73ad4988f583b646e3eec8\""
     },
     {
         "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
