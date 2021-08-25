@@ -75,7 +75,7 @@
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"ce9b181792cedf271228937fc5867bb0ddbe05842c911bf4507b9165ce9872df\""
+        "": "W/\"2e914bc9328c191edefba2b866fe178817fe51c058d0d5a04be6ce94bf4e900c\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -274,12 +274,12 @@
         "Name": "General Converter",
         "Description": "General weights and measures converter",
         "Author": "deefrawley",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.0/Flow.Launcher.Plugin.GenConvert.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"9741c8b4b0e731128c908ada8c51adae7723160624e49614e01e7963f655c9f8\""
+        "": "W/\"430b2854fb3cfd2b35c1496881be522b92f9c6677d46cf2f02d4a49e56da9a0e\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
