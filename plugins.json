@@ -317,5 +317,16 @@
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.1.1/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
         "": "W/\"81369b3ae5a8e71ca3b6f7468dd6cdd97814aa34cd9d4601180fbdd0d1d19f5e\""
+    },
+    {
+        "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
+        "Name": "Steam Search",
+        "Description": "Search and launch your Steam Game library",
+        "Author": "Garulf",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/Steam-Search",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.1/Steam-Search.zip",
+        "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
     }
 ]
