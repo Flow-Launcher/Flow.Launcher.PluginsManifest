@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"22b92ae2c3113e7ec6cc096e64ab0a507ea60e3e95167f7f3f3aed7b99d6c828\""
+        "": "W/\"07ae7bef60b67c8903655ccf7fe9f07311fb1f08e2a3bc6fa9a8f02d3773bef3\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.3/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"a667103b07ac88740b83891fabbfbfad02cec2bfda5ef000b16580f31c33affb\""
+        "": "W/\"66c20bd259f2dee8f79f710ea822742fd18e235b213aaa12abe618fc34e2d856\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -279,7 +279,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"aa32ea01b68ba352848f93bad0e8802e6b6901264b00320c549bf2dc8f958ba8\""
+        "": "W/\"6d7193a80caf29fa4f3b4e110b326ee42d959eee1a37e0b3515fda6dbb66468e\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -335,10 +335,11 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.1/Steam-Search.zip",
-        "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main"
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.2/Steam-Search.zip",
+        "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
+        "": "W/\"eb97e74dc28fe99092688abdf2f58872a7b98d2ed481d5e3e7b79b55ae42f734\""
     }
 ]
