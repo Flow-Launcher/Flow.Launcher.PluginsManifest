@@ -274,12 +274,12 @@
         "Name": "General Converter",
         "Description": "General weights and measures converter",
         "Author": "deefrawley",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.1/Flow.Launcher.Plugin.GenConvert.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.2/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"ad30c5860899bbe5be2bdf3cc336555a63bf04b28b49d519a2442819322d984d\""
+        "": "W/\"e8a5f59a695c5368843839c2b58e37203c168228d0fa7512464a52af4894d969\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -335,11 +335,11 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.0.2",
+        "Version": "1.0.3",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.2/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "": "W/\"62d0c73800a5206f55da7229d6c9cb6f9e03bef7926945846d3d1dd7c31224a6\""
+        "": "W/\"d1345aaade29f4de3217282f783a4b2c034a93789aa7d45eb727621d58918d38\""
     }
 ]
