@@ -279,7 +279,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.2/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"e8a5f59a695c5368843839c2b58e37203c168228d0fa7512464a52af4894d969\""
+        "": "W/\"1d12c79c399408df427567cfc369c1e4a922573411e88113eefe75f0878ced3b\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -347,10 +347,11 @@
         "Name": "Twitchy",
         "Description": "Search and stream twitch.tv",
         "Author": "Garulf",
-        "Version": "1.0.4",
+        "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/twitchy",
-        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.4/twitchy.zip",
-        "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main"
+        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.1/twitchy.zip",
+        "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
+        "": "W/\"0c1a04e7d2a0f9e6cdc07af562b8df827224bca1a3a24a1e504785e7fe0ad766\""
     }
 ]
