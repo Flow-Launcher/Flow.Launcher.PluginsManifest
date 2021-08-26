@@ -341,5 +341,16 @@
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "": "W/\"d1345aaade29f4de3217282f783a4b2c034a93789aa7d45eb727621d58918d38\""
+    },
+    {
+        "ID": "477F16413D374364A4D5D36DCE68ED45",
+        "Name": "Twitchy",
+        "Description": "Search and stream twitch.tv",
+        "Author": "Garulf",
+        "Version": "1.0.4",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/twitchy",
+        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.4/twitchy.zip",
+        "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main"
     }
 ]
