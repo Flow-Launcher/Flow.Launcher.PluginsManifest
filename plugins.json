@@ -335,23 +335,23 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.0.3",
+        "Version": "1.0.10",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.3/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.10/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "": "W/\"53bc5d52f4ac98274dfadacc68c92090fcc8c509edd6123c82e15b4d9cb234e8\""
+        "": "W/\"28c68d0377c34cd22bdfd6378d136d7d31ae5580e69c205330a7eda1078dfd46\""
     },
     {
         "ID": "477F16413D374364A4D5D36DCE68ED45",
         "Name": "Twitchy",
         "Description": "Search and stream twitch.tv",
         "Author": "Garulf",
-        "Version": "1.0.1",
+        "Version": "1.0.22",
         "Language": "python",
         "Website": "https://github.com/Garulf/twitchy",
-        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.1/twitchy.zip",
+        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.22/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
-        "": "W/\"0c1a04e7d2a0f9e6cdc07af562b8df827224bca1a3a24a1e504785e7fe0ad766\""
+        "": "W/\"83421dfe513490f22a7719d9760059a73b8951b1cbc83fb5ace2695044166504\""
     }
 ]
