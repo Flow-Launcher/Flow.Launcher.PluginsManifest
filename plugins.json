@@ -353,7 +353,7 @@
         "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.22/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
         "": "W/\"75d9406aab5f0723ef0c4c64c1c595281e20312a0ab481435f6c60e10ecf2e13\""
-    }
+    },
     {
         "ID":"095A6AE3A255532EAAD78F05A71D4981",
         "Name":"Quick Uninstaller",
@@ -363,6 +363,6 @@
         "Language":"CSharp",
         "Website":"https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
-        "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main"
+        "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master"
     }
 ]
