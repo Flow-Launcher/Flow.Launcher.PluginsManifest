@@ -365,5 +365,16 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
         "": "W/\"15af49c8dfa151f299a59159013cbaf71c5da6fd509ee8efd5cd6f80e53f7d44\""
+    },
+    {
+        "ID": "3C62514E3C8644D583E3F12202F11161",
+        "Name": "nexusmods-search",
+        "Description": "Search Nexusmods.com",
+        "Author": "Garulf",
+        "Version": "0.1.0",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/nexusmods-search",
+        "UrlDownload": "https://github.com/Garulf/nexusmods-search/releases/download/v0.1.0/Nexusmods-Search.zip",
+        "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main"
     }
 ]
