@@ -371,10 +371,11 @@
         "Name": "nexusmods-search",
         "Description": "Search Nexusmods.com",
         "Author": "Garulf",
-        "Version": "0.1.0",
+        "Version": "0.1.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/nexusmods-search",
-        "UrlDownload": "https://github.com/Garulf/nexusmods-search/releases/download/v0.1.0/Nexusmods-Search.zip",
-        "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main"
+        "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.1.1/Nexusmods-Search.zip",
+        "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
+        "": "W/\"d1b0ac74d2194f1a58b00cea220e355333bedbad1bb3674b30a3dc9c14869329\""
     }
 ]
