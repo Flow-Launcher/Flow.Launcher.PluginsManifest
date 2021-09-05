@@ -335,12 +335,12 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.0.11",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.0.11/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "": "W/\"092c885dd10ecf45ca1300a1ca9b02e0d0330eb93b2a9df8b821f0bb71ae6dec\""
+        "": "W/\"7e034006ecdf03a1884df12c4475f1b8702721fe41d205fe9e30ce7a33869d60\""
     },
     {
         "ID": "477F16413D374364A4D5D36DCE68ED45",
@@ -371,11 +371,11 @@
         "Name": "nexusmods-search",
         "Description": "Search Nexusmods.com",
         "Author": "Garulf",
-        "Version": "0.1.1",
+        "Version": "0.2.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/nexusmods-search",
-        "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.1.1/Nexusmods-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.0/Nexusmods-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
-        "": "W/\"d1b0ac74d2194f1a58b00cea220e355333bedbad1bb3674b30a3dc9c14869329\""
+        "": "W/\"9ffcd37851022c25941d01695de901719df643617ae453681a3faf076bcd5f4c\""
     }
 ]
