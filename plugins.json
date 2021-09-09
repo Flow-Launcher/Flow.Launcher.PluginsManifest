@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"5db5b629336e5887ef29ad7c4d509da8fc41669f66c64a4219aa167899cc849e\""
+        "": "W/\"a38eabb5af8966c939c6c822229c2cdcae2838a936afe6aaad462fd1af811a5e\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -274,12 +274,12 @@
         "Name": "General Converter",
         "Description": "General weights and measures converter",
         "Author": "deefrawley",
-        "Version": "1.0.2",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.0.2/Flow.Launcher.Plugin.GenConvert.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"a3f806bb3b9b2988aeb5a2e1132d00212a67a5379b6627685fae23e6d5babf30\""
+        "": "W/\"32db5939a1918356f684023acd864656d972bb62871c3dbeb709a3ece56f6c29\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -316,7 +316,7 @@
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.2.2/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"3d974c7580f820904c9145851276b935c5aef8c1b865d210e95db77a6c710481\""
+        "": "W/\"99249f28a8f6717b63e18fa25e45f5c256b3255fa48bd7193b4b2dad015c41ef\""
     },
     {
         "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
