@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"7800a56e68fa3c27d7b262b158952089ef2794c0ab17b8eb63e893781844c771\""
+        "": "W/\"1e7ea7779c755efada65c031adad31a6067b0e9aaa52e3623186240bae2d5bb3\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"10f5911e7703a9f73df1893ef583e267b80c10a1c4add122976c7b6a589b9503\""
+        "": "W/\"64aea73e1fe73a607dec7f81ed54def6cf712c74d563eeaf577c10e9259ca650\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -62,7 +62,7 @@
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
         "E-tag": "W/\"512b94422629c83293f436daf7f11b46e58862fe32677d6a6a06fc2d061f9f52\"",
-        "": "W/\"c51c8a2341e56e81b61cc2e6a90f198888ec6cf7a3c94b2a6d6272360a755cf5\""
+        "": "W/\"51970debaf33df129382d8de8b373bc89dec604ef131bfa3a9bd2ed791b8ed5b\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -75,7 +75,7 @@
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"a176571304b65495dbcda054f4200da36660c79b34e502f0ede8ec1dabb143fa\""
+        "": "W/\"30176c3fcea788b7a85a1b38b99869e679ab2e0576c4bb12c2c39168d9b80bd2\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.3/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"58f25c70639b138fb6af19b5b88d8ed3582821e8f3e23eae56dbb6755e57463b\""
+        "": "W/\"b8be5d61ea55fff50b07058c44f068f834cf33e47edd82c0b03a20166745120a\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -179,7 +179,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
         "E-tag": "W/\"43954d19c6210419f79e25dbd6ec1f1fb68fc735d9acdbb2055359f1687bfd34\"",
-        "": "W/\"e06311717a5f97eba5d6582faad16ac202d2402dae3e3fb422b1ecdf8cd1f11e\""
+        "": "W/\"eb883ef33b840aca796d55104e38d5ca5fce8b731f0955d41886eab0e27ad081\""
     },
     {
         "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
@@ -328,7 +328,7 @@
         "Website": "https://github.com/Garulf/plexy",
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "": "W/\"0c5ea555cb1c86b674bc3cdcbc84b22000073912772e88dcc1fb084fd6094a8e\""
+        "": "W/\"264563853c7047e53a8646dfa923346498bbb907d621f0a042889d342fbf1780\""
     },
     {
         "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
@@ -340,7 +340,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "": "W/\"507d54dfbd0f497258e115de85f04bbd70846d78a305f1d1aa61c52fe08ae29a\""
+        "": "W/\"a6f2bc7ff3be2478745774d6b7291a544e2ae21e8e6db5a2f9cb77a05a9f3482\""
     },
     {
         "ID": "477F16413D374364A4D5D36DCE68ED45",
@@ -364,7 +364,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "": "W/\"eb6b6b78dfb7709efe020ed99b2ffa21854d9ddcfabd854af26e81a3bebac97d\""
+        "": "W/\"0387582857a5b212887b3603152d4b482eae15f09e90c7c9970d037e7fa92e5a\""
     },
     {
         "ID": "3C62514E3C8644D583E3F12202F11161",
