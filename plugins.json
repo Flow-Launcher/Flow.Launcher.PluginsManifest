@@ -274,12 +274,12 @@
         "Name": "General Converter",
         "Description": "General weights and measures converter",
         "Author": "deefrawley",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.0/Flow.Launcher.Plugin.GenConvert.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"cd9ff250ed105dfb8fbc6ead2d9adc0bc109d367f9a89412d1db1ea1daa50eda\""
+        "": "W/\"527d29eda83bc198c1e2f7cfa7968380af248607c446daf5d88404d91a9808a7\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -364,7 +364,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "": "W/\"f9a4dd686fdff7c24f398ff956914077745d66f909658ff5f0820488b7cef40e\""
+        "": "W/\"4c37b8925ade8777c226c4c9049dcd5e1c97dac1049f64835da412a62203c9dc\""
     },
     {
         "ID": "3C62514E3C8644D583E3F12202F11161",
