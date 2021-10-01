@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"c2125e7e2dec4138d63e27fecd0d6c60ff2d88817761f5d9989f4f1e7b3875ac\""
+        "": "W/\"2f9ac791b0bfd69208446ffe6809c7e150ee81c35e8381a79761e458ad636c1b\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -49,7 +49,7 @@
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
         "E-tag": "W/\"9780806657c18b6242db5b5f7537bff8c7824789aadabff24b57182b0972539e\"",
-        "": "W/\"10e1bed6367ad77f36ab859ba39372bdd95248962ac2cfd760d2eb16b3a48c36\""
+        "": "W/\"3381416942bc7c7dcbb5c1605433a05dbbbd042811106f4451025f53bd714bbf\""
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"0419e3ade66fa3da3ff822a9910b6ae097fee5dc52655c5511d72c404938de12\""
+        "": "W/\"73040fd753013ce8a0dce78484cfd2a9c0ae11ff31c7d61d94de3ae6b54eddfc\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -371,11 +371,11 @@
         "Name": "nexusmods-search",
         "Description": "Search Nexusmods.com",
         "Author": "Garulf",
-        "Version": "0.2.0",
+        "Version": "0.2.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/nexusmods-search",
-        "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.0/Nexusmods-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.1/Nexusmods-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
-        "": "W/\"9ffcd37851022c25941d01695de901719df643617ae453681a3faf076bcd5f4c\""
+        "": "W/\"4b11b386a812af27c6de4b25b9a98298df18e51fc5b50b77a2806e865ab27598\""
     }
 ]
