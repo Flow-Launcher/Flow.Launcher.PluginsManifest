@@ -286,12 +286,12 @@
         "Name": "HA-Commander",
         "Description": "Search, and interact with Home Assistant using Wox or Flow Launcher.",
         "Author": "Garulf",
-        "Version": "2.4.8",
+        "Version": "2.5.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/HA-Commander",
-        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.4.8/HA-Commander.zip",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"fe423e383276540ac41f399670b209465fae8238ab567fc34e20d7d3d1a33fbc\""
+        "": "W/\"4d36449b08b5f4729bdaf446409346b5ced81719a9af72cfb6bd3efa5e3cb997\""
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
@@ -364,7 +364,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "": "W/\"53b56b0d3969494935e9454949af1882d541da3042deb9a8562bd2c8a0286c79\""
+        "": "W/\"52014490ab7e3e92a862ba161a54e969aa0908cc05bee605f604d9f7c1777b8a\""
     },
     {
         "ID": "3C62514E3C8644D583E3F12202F11161",
