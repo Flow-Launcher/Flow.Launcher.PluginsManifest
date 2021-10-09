@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "E-tag": "W/\"46c6ffea0085cf65b2a0689f56f13158be31d003cce3b1ec647889e10849bb70\"",
-        "": "W/\"132f2f690f92667db69096e7814c97bc5a66032484adbf754af6b39402a917e0\""
+        "": "W/\"6e90dc6cc8e1f8a6db5ed82a4169ef47ffdb0f8e30b1f98ed125d88363c443be\""
     },
     {
         "ID": "176690627AB54C8381A7FD99A3519F42",
@@ -23,7 +23,7 @@
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "E-tag": "W/\"e92d7850385af309addbf3f6883972124853f02cfda3011478a49c4db58341b6\"",
-        "": "W/\"d569bddc7c1957ccf502bdef7fb0147847eea52c4e9fd57cd744cee3a596934b\""
+        "": "W/\"0ecd7a9b401da45214db283aa755f23d37834e56a1aedd93fc2cc52a364110cf\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -62,7 +62,7 @@
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
         "E-tag": "W/\"512b94422629c83293f436daf7f11b46e58862fe32677d6a6a06fc2d061f9f52\"",
-        "": "W/\"6a82ec59a4ed3f4d2eccd9c036437c5dd91779785cd9107436f8ee9bbd00ce93\""
+        "": "W/\"776ac3b37548e83ff189d03f280d3e6e5c249bdd440b694b14ba2db182a41e37\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -75,7 +75,7 @@
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "E-tag": "W/\"adcb05077af66182936bd5c8280083637bb0142a02fb66ee27acf2c271d07afa\"",
-        "": "W/\"348951b09e5cc90551275e122ad9e3f4ef7a32c36d650e6aa7fa8b89e1a7c316\""
+        "": "W/\"a7d9787c7587d3cac0b165aadafa418f92359cd313484d9ec5ae4f3a915759c3\""
     },
     {
         "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
@@ -88,7 +88,7 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "E-tag": "W/\"d707e8bf56dad9afb97beae7db47d8f0be9609a875c1872d180c4cada255a5ca\"",
-        "": "W/\"f1f7fd8fa55a2808d8aff6f2a2e259b04c1557fe49f25290c9f825329013462d\""
+        "": "W/\"f51db859b8dccafaf059433906bc3d0e009f9a38838e3d9baa81a69e8e320b8a\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -127,7 +127,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "E-tag": "W/\"15169134212e35f01301672c5e349a38cbfa6d7e7285db296cc36566e0fa3a7f\"",
-        "": "W/\"52c70ee95f14a821e08e29f0af8069807bf7671476546f3619a362d40fe76550\""
+        "": "W/\"0ca66e00ad8feebb59acef435085abcf7fee1cd5f09cc20f0ea7f185dc31310a\""
     },
     {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
@@ -279,7 +279,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"91bd9a1d02b725f1b1020f778a858daa388e455f416dac6ddcb3852e9c05ee1d\""
+        "": "W/\"2cc052db00d2aa5723530c41481791522ff942068308a99fb8dd585797c47698\""
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -364,7 +364,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "": "W/\"52014490ab7e3e92a862ba161a54e969aa0908cc05bee605f604d9f7c1777b8a\""
+        "": "W/\"9577e1baf78bfbee742916279ef910ba9d9cb74035760810feccf9f7a76ebc59\""
     },
     {
         "ID": "3C62514E3C8644D583E3F12202F11161",
