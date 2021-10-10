@@ -260,7 +260,6 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "": "W/\"2cc052db00d2aa5723530c41481791522ff942068308a99fb8dd585797c47698\"",
         "ETag": "W/\"2cc052db00d2aa5723530c41481791522ff942068308a99fb8dd585797c47698\""
     },
     {
@@ -273,7 +272,6 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "": "W/\"b4f433e50aaf40df0374d5f67d072678f39d235bce807e0ad248b724afe671bc\"",
         "ETag": "W/\"3babe0d555225eadc9e711b910d83b540fdff284f4bba56dd63387691ecbffe5\""
     },
     {
@@ -286,7 +284,6 @@
         "Website": "https://github.com/peterschussheim/CPPreference-flow-plugin",
         "UrlDownload": "https://github.com/peterschussheim/CPPreference-flow-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.CPPreference.zip",
         "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master",
-        "": "W/\"a998d69ec55c06e34bd5922f59b18690c4a86c2f279b0643bb0b5f939dc88373\"",
         "ETag": "W/\"a998d69ec55c06e34bd5922f59b18690c4a86c2f279b0643bb0b5f939dc88373\""
     },
     {
@@ -300,7 +297,6 @@
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.2.2/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "": "W/\"8919419e6cef6bf959a03bbfa5c905fba818c37ea4972660a06d465f813f0c3f\"",
         "ETag": "W/\"8919419e6cef6bf959a03bbfa5c905fba818c37ea4972660a06d465f813f0c3f\""
     },
     {
@@ -313,7 +309,6 @@
         "Website": "https://github.com/Garulf/plexy",
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "": "W/\"3403e8e844eb843529b3024d69e6418407d485d2b7bf6b7a67f587b27ad8777e\"",
         "ETag": "W/\"3403e8e844eb843529b3024d69e6418407d485d2b7bf6b7a67f587b27ad8777e\""
     },
     {
@@ -326,7 +321,6 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "": "W/\"b5fd28bb5c864fbbe1fdd7c1ff63f47a41848c42e3f1646322367575431e1d70\"",
         "ETag": "W/\"b5fd28bb5c864fbbe1fdd7c1ff63f47a41848c42e3f1646322367575431e1d70\""
     },
     {
@@ -339,7 +333,6 @@
         "Website": "https://github.com/Garulf/twitchy",
         "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.22/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
-        "": "W/\"31b97e7fb8cc84a053ab76edfe19b02b5979898fbf8d990b90dc669c9d9bd832\"",
         "ETag": "W/\"31b97e7fb8cc84a053ab76edfe19b02b5979898fbf8d990b90dc669c9d9bd832\""
     },
     {
@@ -352,7 +345,6 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "": "W/\"10d971f848935cc2abd07d9fdd8eb87af40661fb0942e3eb355203d64fc58826\"",
         "ETag": "W/\"10d971f848935cc2abd07d9fdd8eb87af40661fb0942e3eb355203d64fc58826\""
     },
     {
@@ -365,7 +357,6 @@
         "Website": "https://github.com/Garulf/nexusmods-search",
         "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.1/Nexusmods-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
-        "": "W/\"4b11b386a812af27c6de4b25b9a98298df18e51fc5b50b77a2806e865ab27598\"",
         "ETag": "W/\"4b11b386a812af27c6de4b25b9a98298df18e51fc5b50b77a2806e865ab27598\""
     }
 ]
