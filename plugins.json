@@ -21,7 +21,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"0ecd7a9b401da45214db283aa755f23d37834e56a1aedd93fc2cc52a364110cf\""
+        "ETag": "W/\"2a1fb9801175f4b989dcd11dfef4bbc11ea7c45d8244bc13bf3cd15a8ddeb51e\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -57,7 +57,7 @@
         "Website": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"776ac3b37548e83ff189d03f280d3e6e5c249bdd440b694b14ba2db182a41e37\""
+        "ETag": "W/\"dbaf89a211040d246481a083f12c005557c155bf130761aadbf34d83e9a68654\""
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"3fc921583c989ddaef203e9e6144b49a08151cd4b91455795f3169f965481ff7\""
+        "ETag": "W/\"aa68587f8e65349ee8f254e085171b1d439d956935cd969532cb418578990939\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -165,7 +165,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"db2bd8a5af60bc180a397ed0c22a369e90d1fd05648b62c0d75da5b7c31fc5bf\""
+        "ETag": "W/\"d0c631e98a7467cf81237322ebaaf9d78f95b64becfe818493ab74a9c50d9088\""
     },
     {
         "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
@@ -189,7 +189,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/1.0.0/Flow.Launcher.Plugin.DirectTranslate.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"3620f7de125048f608d27b607acd1e97883ab99bacffa8120f4d10f7304a016b\""
+        "ETag": "W/\"8c5d15597a3d536232ee20d611700a3153f6e0025e06d116b7e1c45bcaa18a5e\""
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -321,7 +321,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"b5fd28bb5c864fbbe1fdd7c1ff63f47a41848c42e3f1646322367575431e1d70\""
+        "ETag": "W/\"9a5deda4cf59eba2387fa9922d9ec4d10541046cf924241b0528a78c0982d80f\""
     },
     {
         "ID": "477F16413D374364A4D5D36DCE68ED45",
@@ -333,7 +333,7 @@
         "Website": "https://github.com/Garulf/twitchy",
         "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.22/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
-        "ETag": "W/\"31b97e7fb8cc84a053ab76edfe19b02b5979898fbf8d990b90dc669c9d9bd832\""
+        "ETag": "W/\"7103ba02c66a6463fc0d757b3d94b3132d987bc3c254cc0f480cbb2b1d1cde67\""
     },
     {
         "ID": "095A6AE3A255532EAAD78F05A71D4981",
