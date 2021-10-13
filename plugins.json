@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"81722a7f36fc913a1e0d713c6c01d217c0dd8ef536e9a33ce0ec6cc5a057fc45\""
+        "ETag": "W/\"62a403ca58aed6373e020db7aad6bcd064a44393d7d361e4f4300d6bfda5ccbc\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -272,7 +272,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"3babe0d555225eadc9e711b910d83b540fdff284f4bba56dd63387691ecbffe5\""
+        "ETag": "W/\"ab9c69d8268af5e8d5cbd8c08d9324d09e93ed7c9b3c2545e87d1be1db8476fe\""
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
@@ -357,6 +357,6 @@
         "Website": "https://github.com/Garulf/nexusmods-search",
         "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.1/Nexusmods-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
-        "ETag": "W/\"619f73e431d6f236eae82972c3a2267dfec76d9ff8e2aca3c716642ea2e93e06\""
+        "ETag": "W/\"ee42fdec00fb3849952d3887b54b9c0dfb17c3844d24033a47550ab1f3302def\""
     }
 ]
