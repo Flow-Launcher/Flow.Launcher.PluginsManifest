@@ -21,7 +21,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"d0ca76da66917c1edf4d1e67aa7f7eaf90f82b451ff4b916c2a216cef90684de\""
+        "ETag": "W/\"f4cb7df0a5c4ebc3595afb37b634f977ac128b38d8d3fe5eb9f3d07d47db4db4\""
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -81,7 +81,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"62a403ca58aed6373e020db7aad6bcd064a44393d7d361e4f4300d6bfda5ccbc\""
+        "ETag": "W/\"895849760d0df5888ea31ea7783323f7acac6cc23c71adc1871c4ee72af1f1bb\""
     },
     {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
@@ -129,7 +129,7 @@
         "Website": "https://github.com/cxfksword/Wox.Plugin.UrlEncode",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.UrlEncode/releases/download/v1.0/Flow.Plugin.UrlEncode.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.UrlEncode",
-        "ETag": "W/\"2a8af51f6b4c0716153388b09cb44209a6f1ee9414d55332c520c12f4e27afc4\""
+        "ETag": "W/\"b4903e66fada7224849129b38e636c68c9df36faf5c453c609d1253fd19716a2\""
     },
     {
         "ID": "54A6672C06E047A48A7D88C78FA5F13E",
@@ -153,7 +153,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"7fb1913c3404d62309e7c1f0e0bc0b4b91251f0c3e34a73547becb325976ea95\""
+        "ETag": "W/\"8066e4a8df7ad237f2888f2f13bf8f410c848a86ebd050ceafec7d6ec69da951\""
     },
     {
         "ID": "F71F6EE367D34BAFB681A9287ACF59EB",
