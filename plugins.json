@@ -165,7 +165,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"d0c631e98a7467cf81237322ebaaf9d78f95b64becfe818493ab74a9c50d9088\""
+        "ETag": "W/\"e598be6a8d9af9d2246b3bd44971e86c033a945d23df0ed0169bb606bd77e494\""
     },
     {
         "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
@@ -328,12 +328,12 @@
         "Name": "Twitchy",
         "Description": "Search and stream twitch.tv",
         "Author": "Garulf",
-        "Version": "1.0.22",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/twitchy",
-        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.0.22/twitchy.zip",
+        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.1.0/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
-        "ETag": "W/\"7103ba02c66a6463fc0d757b3d94b3132d987bc3c254cc0f480cbb2b1d1cde67\""
+        "ETag": "W/\"e1b163f409c767b7f1bedf0f8b66505e73813023edca9b5d7d8fd90fa881d3fd\""
     },
     {
         "ID": "095A6AE3A255532EAAD78F05A71D4981",
