@@ -105,7 +105,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"e7bf9c4eb3ea8b0d35b51754106a3582b3fbca033faeed73e3acb5be4c02d73a\""
+        "ETag": "W/\"162e142a1a84f0bbe6d555b01e147ae0274c8bba01096b2b61719aaba390bb8e\""
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
@@ -292,12 +292,12 @@
         "Name": "Search-MDI",
         "Description": "Search materialdesignicons.com",
         "Author": "Garulf",
-        "Version": "2.2.2",
+        "Version": "2.2.6",
         "Language": "python",
         "Website": "https://github.com/Garulf/Search-MDI",
-        "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.2.2/Search-MDI.zip",
+        "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.2.6/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "ETag": "W/\"8919419e6cef6bf959a03bbfa5c905fba818c37ea4972660a06d465f813f0c3f\""
+        "ETag": "W/\"2026dac20f9acb3415ed11d031721179647d7c48d4632f4733661656955e9041\""
     },
     {
         "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
