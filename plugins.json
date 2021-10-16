@@ -22,7 +22,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"10f1e2bddc456bdae59cd602ede53573ed38fea9d82a4b98fafb0e1dbb4c7e58\"",
+        "ETag": "W/\"69048678d0231636cec27f0a176479875bc999a035a1dabd536e1de4476a9aef\"",
         "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.Runner/master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"888deaab7d0848bcbed7a2f815fb84eb9786b51ad773b777031402892f1f3ebd\"",
+        "ETag": "W/\"584c1c1504410809abc1e732858d83a14688286e5d39f5288d1ca349b2ab0b4b\"",
         "IcoPath": "https://raw.githubusercontent.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/main/icon.png"
     },
     {
@@ -347,7 +347,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"029230900536e15bec98ec35c596680b5a61dcc54d0e910fa6549b2fd49493b2\"",
+        "ETag": "W/\"482ea5cbde38b0b1c7d390aec2d88714332b95eecce6baf461bfd86966ab39b6\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/Steam-Search/main/plugin/icon/steam-icon.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"53ac8569d213c647485177a4dc5de634b720ff7286dda3215e1d2d1e3e3c3180\"",
+        "ETag": "W/\"0bd87e846eb530150cff83c59f45b82a08ed1f21f4f612344182e8ec7504b847\"",
         "IcoPath": ""
     },
     {
