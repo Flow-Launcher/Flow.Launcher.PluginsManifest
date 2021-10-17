@@ -22,7 +22,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"69048678d0231636cec27f0a176479875bc999a035a1dabd536e1de4476a9aef\"",
+        "ETag": "W/\"6e2fcc893e1a8b180cc018761e773e477d5eea6b595dcfc519b8d54d87004a58\"",
         "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.Runner/master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"f0bd9c07bafec472db622c52e87a04bb090938dd136379871dc552ef79eae94c\"",
+        "ETag": "W/\"bb205a44ed95ce476e50450739de4a1d81ecbd56fda88f635330270affd12fa0\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
