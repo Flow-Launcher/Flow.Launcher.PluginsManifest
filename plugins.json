@@ -19,7 +19,7 @@
         "Author": "Jesse Barocio (@jessebarocio)",
         "Version": "2.2.3",
         "Language": "csharp",
-        "Website": "http://www.barocio.net",
+        "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "ETag": "W/\"6bd865008d7d5f5e3274886b66c05c3ca3206ed227eefddda6a208fdd9b2e5e0\"",
