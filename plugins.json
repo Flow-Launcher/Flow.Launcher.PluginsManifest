@@ -22,7 +22,7 @@
         "Website": "http://www.barocio.net",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"7819ec7fc419190053a157b80e567ab796778aefae229a50093b245c680bd67e\"",
+        "ETag": "W/\"6bd865008d7d5f5e3274886b66c05c3ca3206ed227eefddda6a208fdd9b2e5e0\"",
         "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.Runner/master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"44557fb2cc4c7bd70678d2a647f918b0cce2f425473ac3d5019abaeb35b42918\"",
+        "ETag": "W/\"a821952966cf90909938576df2d89741f0e96c243ea576ac31f2b9c55707f5fe\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Microsoft.Plugin.WindowWalker/master/Images/windowwalker.dark.png"
     },
     {
