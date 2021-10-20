@@ -23,7 +23,7 @@ Add your plugin by updating the plugins.json file with the following details via
   "Website": "Your plugin's website",
   "UrlDownload":"The url to download the plugin",
   "UrlSourceCode": "Url to the source code of the plugin",
-  "IcoPath": "Url to the Icon of the plugin"
+  "IcoPath": "Url to the icon of the plugin"
 }
 ```
 
