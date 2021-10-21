@@ -342,12 +342,12 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.1.0",
+        "Version": "1.1.3",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.0/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"c40543c2a16bca70a9b246d1f614a8e20abaf12e6d05c7fe8e8c9afae80aa100\"",
+        "ETag": "W/\"92c98b22339bf5bf73ff36ca239083d5695dbbff2e321fc9e132fd53ae6734f3\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/Steam-Search/main/plugin/icon/steam-icon.png"
     },
     {
