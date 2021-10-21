@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"a821952966cf90909938576df2d89741f0e96c243ea576ac31f2b9c55707f5fe\"",
+        "ETag": "W/\"0643aa5027694e9f5d1e83cb74743e7751e3849a157cafff420f6596e85f839b\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Microsoft.Plugin.WindowWalker/master/Images/windowwalker.dark.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.0/Color-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"01e501ce6a04cd3c0723bae0dbc892f43cd70358c2e657d181cd3ea3eece93a5\"",
+        "ETag": "W/\"035d4d141b9a812e9f4d797c2f0fd6d69b4c2cfe5de60a15cc0a99f633df7041\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Color/main/Images/color.png"
     },
     {
@@ -281,7 +281,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "ETag": "W/\"e820d264906694ae38dc837aa55981ac137a68cef857ae3d1d0c5a6feefba47c\"",
+        "ETag": "W/\"6bd947cc6df56c347d5cd95667bd7cffa3cae77bb68672250d4aa179aa485d78\"",
         "IcoPath": "https://raw.githubusercontent.com/deefrawley/Flow.Launcher.Plugin.GenConvert/main/assets/favicon.ico"
     },
     {
@@ -307,7 +307,7 @@
         "Website": "https://github.com/peterschussheim/CPPreference-flow-plugin",
         "UrlDownload": "https://github.com/peterschussheim/CPPreference-flow-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.CPPreference.zip",
         "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master",
-        "ETag": "W/\"23442e9330a6c2e1c1bed414f9946480ff452f3c3265cafd2602ef6185017435\"",
+        "ETag": "W/\"d7f823fbafd9d9531c93cd920c340b1b603bff02e0bc29e71d3bb9eb244f00df\"",
         "IcoPath": ""
     },
     {
