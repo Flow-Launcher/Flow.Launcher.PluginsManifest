@@ -126,7 +126,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"2c823fa91daa6eaa29049aa7a4a917c264bb30d8ff27ec35d461f9195e0639c2\"",
+        "ETag": "W/\"b7afbdbbefa1835530434769713e45bbde7baecb1b69f0c8b092bb0041d2867a\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Flow.Plugin.IPAddress/master/ipaddress.png"
     },
     {
@@ -347,7 +347,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"92c98b22339bf5bf73ff36ca239083d5695dbbff2e321fc9e132fd53ae6734f3\"",
+        "ETag": "W/\"9f4f89ed88037a51c1b303c07647e44ca6ca5cdc041d8fa5b5b8e7af3f23ec53\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/Steam-Search/main/plugin/icon/steam-icon.png"
     },
     {
