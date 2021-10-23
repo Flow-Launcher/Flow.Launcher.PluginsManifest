@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"12159b5fff3f48a625417c9c827c4d649d1636dd94dafb753e69ee1a4ce6f2f6\"",
+        "ETag": "W/\"fcf797dc5d3a8a2dd12f6bbd191c4341295ff5c6a73fbb738d88752b0eda8c1f\"",
         "IcoPath": "https://raw.githubusercontent.com/harrynull/Flow.Launcher.Dictionary/main/Images/plugin.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"cff766634e287dc4bca593166eb5c802e600a2c317e22056133d99a0f03b7d83\"",
+        "ETag": "W/\"f36ebd2cde374a1bf9344816e45c8877b250697c59c6c156316cdd7a415c9b99\"",
         "IcoPath": "https://raw.githubusercontent.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"2b5d9fee9df90789d3da72936774aa50898e18ac00ea61e6dadb1ee1952abe00\"",
+        "ETag": "W/\"bf4f50cf99d1a6b27b9f4b0d9a7e61a8973dd9641ff0c063e02190def8b5d7d2\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"e0c9460301f2f147562102087e1bd594a44115b6ed403f09af1c0e8266cca91e\"",
+        "ETag": "W/\"1379a156e76fe25d934edfd8e7c53f9df76a42f0e52833564f2c2093212391bd\"",
         "IcoPath": "https://raw.githubusercontent.com/deefrawley/Flow.Launcher.Plugin.Currency/main/assets/favicon.ico"
     },
     {
