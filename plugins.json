@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"044327acb0a38954bd48edeb87ac30d9731865ba009e939573e912af4438ea40\"",
+        "ETag": "W/\"13823a2ee494519800850e61929a15c9f872ade83bc892f0b0aa25b48f462479\"",
         "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.GoogleSearch/master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"864e2ca2042532a5f718f3e4ca9d92ee1cfce9d90338b49af6d7caa79f717dfe\"",
+        "ETag": "W/\"43de7863013003c3887b3ad94e8a3974942142e7545d38a84a75b54270ac3d20\"",
         "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.Runner/master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"fa818385864cab792038b83259dd56c58afbd51315845dc76c609ed5c115a22a\"",
+        "ETag": "W/\"c26fca4063bae77db41007a7d71132d278265555d52b47dff5cfbb6c0b4663ba\"",
         "IcoPath": "https://raw.githubusercontent.com/harrynull/Flow.Launcher.Dictionary/main/Images/plugin.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"9d63e8b303335b262312fc9ce6cdcc65ce8e5e102a10ecbb8fa351b2e0b079d0\"",
+        "ETag": "W/\"0c0aeb1c069be0110712a32e065ebf4d0e74b1205e70d814b7f9873d0f4f7583\"",
         "IcoPath": "https://raw.githubusercontent.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/main/icon.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"0eb0bcea7fc7b7d17754a03eac6bd2affee6398233e837b9909d46c7d940b03d\"",
+        "ETag": "W/\"5160b627794ef78e98bb00f8cf02919e60e62b20626c816a8411b5e8e4f9b89a\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Microsoft.Plugin.WindowWalker/master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"15855b4f8789950252142b19c80841d1eee5789f9c11dfae28d478529af5797c\"",
+        "ETag": "W/\"43f2426157af54f870bf8aac61ef68b6568a698189c12910ac52d83db112f97e\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"3bee9ee2803b019f8d2ce402287eaeffff5c012d3f10c07f4da4d48c08ee5801\"",
+        "ETag": "W/\"c75c555a0f830a5da1ef44671465035a25f25ac51c1fd0f145556fe7d4319bd7\"",
         "IcoPath": "https://raw.githubusercontent.com/deefrawley/Flow.Launcher.Plugin.Currency/main/assets/favicon.ico"
     },
     {
@@ -178,7 +178,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"deac53a124c9fa97042591522c1df3376c74c0af0818ec33424886e170577a00\"",
+        "ETag": "W/\"2d236187d48151b19ef7242e4ecbc4da520bbaa0e6b9add11c6286cc33ccbef8\"",
         "IcoPath": ""
     },
     {
@@ -217,7 +217,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"a3a218733ca1b0213bc3dbe5b16905fcc422c0a2e5f7844cf85ebcaa9dcca584\"",
+        "ETag": "W/\"1e5903c1152346331e61ef58ce45f3fefc9433786d9c4930447af9e343a94841\"",
         "IcoPath": ""
     },
     {
