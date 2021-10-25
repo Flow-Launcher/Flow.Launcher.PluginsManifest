@@ -152,7 +152,7 @@
         "Website": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty",
         "UrlDownload": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty/releases/download/v2.1.3/Flow.Launcher.Plugin.Putty.zip",
         "UrlSourceCode": "https://github.com/jjw24/Flow.Launcher.Plugin.Putty/tree/master",
-        "ETag": "W/\"2d939a8bd57642b63a7949166c3454303981d838282437968765256483574c1e\"",
+        "ETag": "W/\"f6856f02659fe06da2e830485cea044a9f3140dd1d3ab97f13145544d6bc79f4\"",
         "IcoPath": "https://raw.githubusercontent.com/jjw24/Flow.Launcher.Plugin.Putty/master/Flow.Launcher.Plugin.Putty/icon.png"
     },
     {
@@ -178,7 +178,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"e598be6a8d9af9d2246b3bd44971e86c033a945d23df0ed0169bb606bd77e494\"",
+        "ETag": "W/\"deac53a124c9fa97042591522c1df3376c74c0af0818ec33424886e170577a00\"",
         "IcoPath": ""
     },
     {
@@ -294,7 +294,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"b08a6292bba0f8d74c69de2354972b7866a5d5db12c03d566b91d012cd71acf8\"",
+        "ETag": "W/\"c4d0363583fd9e0f8888245431bcb78a7580277f3ea0b543950b46e0b946fde2\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/HA-Commander/main/icons/home-assistant.png"
     },
     {
@@ -321,7 +321,7 @@
         "Website": "https://github.com/Garulf/Search-MDI",
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v2.2.6/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
-        "ETag": "W/\"2026dac20f9acb3415ed11d031721179647d7c48d4632f4733661656955e9041\"",
+        "ETag": "W/\"9283c140c07184d469f0b6a6d4a53053052fa21081e148f8241d16229735724d\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/Search-MDI/main/app.png"
     },
     {
@@ -334,7 +334,7 @@
         "Website": "https://github.com/Garulf/plexy",
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "ETag": "W/\"a08e5b9f6c9271e05a6a8243448511c0629ae07e77056b1918578c2c1aca9d27\"",
+        "ETag": "W/\"564d07ae11034bc9fe7c2d611faeace24df639520830d4cad41db3783dedcac3\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/plexy/main/./icons/plex.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"9b992023e1209177b0d066cc7f0644bd4cc10260f166e67bb62e4be9bc2e68c9\"",
+        "ETag": "W/\"64898136a7e590ff269fedcacbe5a099cb6f4cf7d5d2c44e6836d27d49bc5d95\"",
         "IcoPath": ""
     },
     {
@@ -386,7 +386,7 @@
         "Website": "https://github.com/Garulf/nexusmods-search",
         "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.1/Nexusmods-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
-        "ETag": "W/\"73dbb1a65212f563d281481e5074f67dcbe5131f151e2bed36d4ff7cb2c37b18\"",
+        "ETag": "W/\"2f7324caefe534bd79abad3ee52be123f078fe4b174c1086bb163d2b2de19992\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/nexusmods-search/main/./icon.png"
     }
 ]
