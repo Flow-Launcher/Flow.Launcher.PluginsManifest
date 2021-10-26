@@ -61,7 +61,7 @@
         "Website": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"5f9d282edc0249947c5fb20d988353dd84895740c7641cb5d310887757ac99c3\"",
+        "ETag": "W/\"e23786a994c7d10835691ca48763cd6144e34fddf2cb64cabe50264de970cd88\"",
         "IcoPath": "https://raw.githubusercontent.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"3b7692ac0eeea73c2fda8555c9d7e70fdf785024732b8e548bc9126559a4c8be\"",
+        "ETag": "W/\"22470d7c925c18249551faea9fcb01ac4295f7fc9c9f3490e673e237bdedf990\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.0/Color-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"930bd51f40ddcae0602e81577668bfd9041ba671a58ff60cffe4f749dbab0c62\"",
+        "ETag": "W/\"d5e5cd3a844fad8d9e5d584f2e255d669b614d60b00c03757974138feda858ce\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Color/main/Images/color.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"c75c555a0f830a5da1ef44671465035a25f25ac51c1fd0f145556fe7d4319bd7\"",
+        "ETag": "W/\"2badb3141fea906efe112460175861517469036118fdfc6c6babf23ec79e3b94\"",
         "IcoPath": "https://raw.githubusercontent.com/deefrawley/Flow.Launcher.Plugin.Currency/main/assets/favicon.ico"
     },
     {
@@ -126,7 +126,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"34f837b3986cb7025a9fe3200b3faee69b53e46c573c2611b968b1eefbcd3dc8\"",
+        "ETag": "W/\"7f0444615fdbcd83515e78403d261b6790cea4da7cc599942c677af2fb88c9ef\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Flow.Plugin.IPAddress/master/ipaddress.png"
     },
     {
@@ -217,7 +217,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"1e5903c1152346331e61ef58ce45f3fefc9433786d9c4930447af9e343a94841\"",
+        "ETag": "W/\"7286e30bbebeef7d021979b6dc01c74dd6d61b5b395412418f7a5282c6913538\"",
         "IcoPath": ""
     },
     {
@@ -243,7 +243,7 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "ETag": "W/\"6c91ba884d6820a7cbd162c85aa39130ce4843b89f34ebb2486db9b6502e1ad2\"",
+        "ETag": "W/\"38fe68cae8f432fe41025f4de04b0c62004343374d7c0baa7ae58fb16bba4f60\"",
         "IcoPath": "https://raw.githubusercontent.com/lvonkacsoh/Flow.Launcher.RollDice/main/assets/icon.jpg"
     },
     {
