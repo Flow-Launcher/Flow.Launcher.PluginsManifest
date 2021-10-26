@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"e2f055170e0b5155b9c53243b256ba9fa0267bb3b08b33a3059d718b1e6a703e\"",
+        "ETag": "W/\"90d47c3ec65a4de63c3155ea387a9c85123dbbc93b379da99a168bad106f09f8\"",
         "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.GoogleSearch/master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"c26fca4063bae77db41007a7d71132d278265555d52b47dff5cfbb6c0b4663ba\"",
+        "ETag": "W/\"6b4081295be3fbc11605b7efb33097668853ab0999369974aa955a3c55ce5743\"",
         "IcoPath": "https://raw.githubusercontent.com/harrynull/Flow.Launcher.Dictionary/main/Images/plugin.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"22470d7c925c18249551faea9fcb01ac4295f7fc9c9f3490e673e237bdedf990\"",
+        "ETag": "W/\"488c1ae405e2e01ab44abd32ba239b2ebe8949b1094d5b1724d5f20154fd9c3d\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
