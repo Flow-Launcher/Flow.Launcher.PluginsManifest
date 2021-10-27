@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"5160b627794ef78e98bb00f8cf02919e60e62b20626c816a8411b5e8e4f9b89a\"",
+        "ETag": "W/\"502e46321b4e1cff7a53f702d664f9729618d8ae63489332f9efe9e33583cd74\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Microsoft.Plugin.WindowWalker/master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"488c1ae405e2e01ab44abd32ba239b2ebe8949b1094d5b1724d5f20154fd9c3d\"",
+        "ETag": "W/\"d4506ac5a6a1205bdd8af4011ce3e4065ea1abc0d74a89c68eb1e0aea5c145bc\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
@@ -126,7 +126,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"7f0444615fdbcd83515e78403d261b6790cea4da7cc599942c677af2fb88c9ef\"",
+        "ETag": "W/\"852bff0fb00140e048b65a4547cb0f6f3d9b55b386bdcda86d59c0bd6e53bbd6\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Flow.Plugin.IPAddress/master/ipaddress.png"
     },
     {
