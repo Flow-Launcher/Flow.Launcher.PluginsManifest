@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"8e08d3d0490ccf9d43c7161ae5428bc65e8c515e10add69231785bf879daa1a9\"",
+        "ETag": "W/\"00ab37fe4ed2ae2d81e9f70cc6dd6c0d0153cb950853a29e68df501973edb91c\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.0/Color-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"d5e5cd3a844fad8d9e5d584f2e255d669b614d60b00c03757974138feda858ce\"",
+        "ETag": "W/\"a7fa3e5ab22c906880af45fd11b02486be9fcbe2285e9d1f11c947077652dfa4\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Color/main/Images/color.png"
     },
     {
@@ -347,7 +347,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"8d5b6477bf50f7721e8223adddf0f05e3741a8d7c89fe9b88749992eba8d2000\"",
+        "ETag": "W/\"a3e4616f39c1ee4f4831a7676f6b35bb56aad1cf1aff801787b1e018fe530400\"",
         "IcoPath": "https://raw.githubusercontent.com/Garulf/Steam-Search/main/plugin/icon/steam-icon.png"
     },
     {
