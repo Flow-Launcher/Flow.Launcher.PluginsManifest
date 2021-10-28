@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"6b4081295be3fbc11605b7efb33097668853ab0999369974aa955a3c55ce5743\"",
+        "ETag": "W/\"1716c459a9964390dac0ba184300862178b26cefbe63daf220814ae3a2676b3b\"",
         "IcoPath": "https://raw.githubusercontent.com/harrynull/Flow.Launcher.Dictionary/main/Images/plugin.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"376ffb4dc44653f812f607a2aeb78eb2e0a32fa7fba9b952d92f19fcc8c79407\"",
+        "ETag": "W/\"61b03f991a2aaf3c82cb2f8acf15a00dfb17223304f7e1d13783c2d0f32ef772\"",
         "IcoPath": "https://raw.githubusercontent.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/main/icon.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
         "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"0df85da661829a748e6bf4e2d4deeedce3c4582950bb18b0f5e8b78d38d90262\"",
+        "ETag": "W/\"113bc0c10ef24f4a67dab89f5225e8df6c18f865992c1086e86db1de8a2f9736\"",
         "IcoPath": "https://raw.githubusercontent.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"560b48df333ecb539affaf9c8448708cd577a209cc2af24b56f8051871ce5cac\"",
+        "ETag": "W/\"64a0d852abbf66ab7f9a26b1693813c43815750572ef5a5d6a33f6804be4d20b\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
@@ -178,7 +178,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"a5819451151780232d103a4138e8fb0f165acd7d65a67e0fa666ffb2548dc2c6\"",
+        "ETag": "W/\"f954b7982e02d7324fcf16996832a56ddf863a5815a07d56c604880b0b5261ee\"",
         "IcoPath": ""
     },
     {
@@ -281,7 +281,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "ETag": "W/\"948c17340a19a722fc21057565da322b7aaad51a6421b921304db14866a5d003\"",
+        "ETag": "W/\"f37feb69ef55c3e304b8239e3e0069cf63e8a5641573c5634c020183f2ad7ef1\"",
         "IcoPath": "https://raw.githubusercontent.com/deefrawley/Flow.Launcher.Plugin.GenConvert/main/assets/favicon.ico"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"bbdd44e47aff15e874544e7ad71535bbcf79eeebb3c2ddc839e1f6614785493e\"",
+        "ETag": "W/\"bd0198ab1f3f7368fd6b4ed5cd7b457d6430066464cccdf105f538668c15c241\"",
         "IcoPath": ""
     },
     {
