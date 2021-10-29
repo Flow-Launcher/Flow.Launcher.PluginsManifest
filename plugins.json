@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"aaecf1c4dcf0b84176a040d907ad74965b3709dc3317735c88678c215c50c18a\"",
+        "ETag": "W/\"c6c4f3400ebb8216d4729349c719c37f0ac8c03bbe67a8a9116e3487d699309b\"",
         "IcoPath": "https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/master/Images/find.png"
     },
     {
@@ -165,7 +165,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"a37feb4606d399b040858e770b4ae2530990fae07c3038914ee0d60aa98a390e\"",
+        "ETag": "W/\"4a3c9626c1cadfa9017eb053b8484eea57cf5bc643142e19125a557e6ba021f6\"",
         "IcoPath": "https://raw.githubusercontent.com/taooceros/Flow.LibreTranslate/main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -204,7 +204,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"09e5785e80158dfffec98c832f1ce78e37addbdc641f7e18bbeeeb382d7a0f25\"",
+        "ETag": "W/\"3a42c29b506722ad69ff6d8952eedc85be991c8eecaf86b4e32a01f6093f91cf\"",
         "IcoPath": "https://raw.githubusercontent.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/master/Images/app.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"bd0198ab1f3f7368fd6b4ed5cd7b457d6430066464cccdf105f538668c15c241\"",
+        "ETag": "W/\"56b04e6896fe4f9ae010bf12caf44b202dc39cfa5a7ae1b212299cab97a58a63\"",
         "IcoPath": ""
     },
     {
