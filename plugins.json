@@ -178,8 +178,8 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"a5819451151780232d103a4138e8fb0f165acd7d65a67e0fa666ffb2548dc2c6\"",
-        "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.Todoist/master/src/images/icon.png"
+        "ETag": "W/\"f954b7982e02d7324fcf16996832a56ddf863a5815a07d56c604880b0b5261ee\"",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todoist@master/src/images/icon.png"
     },
     {
         "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
@@ -218,7 +218,7 @@
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
         "ETag": "W/\"7286e30bbebeef7d021979b6dc01c74dd6d61b5b395412418f7a5282c6913538\"",
-        "IcoPath": "https://raw.githubusercontent.com/JohnTheGr8/Flow.Plugin.Github/main/src/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png"
     },
     {
         "ID": "b9aaddfa36a948f384b31b4fb6186861",
@@ -307,8 +307,8 @@
         "Website": "https://github.com/peterschussheim/CPPreference-flow-plugin",
         "UrlDownload": "https://github.com/peterschussheim/CPPreference-flow-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.CPPreference.zip",
         "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master",
-        "ETag": "W/\"d7f823fbafd9d9531c93cd920c340b1b603bff02e0bc29e71d3bb9eb244f00df\"",
-        "IcoPath": "https://raw.githubusercontent.com/peterschussheim/CPPreference-flow-plugin/master/Flow.Launcher.Plugin.CPPreference/icon.png"
+        "ETag": "W/\"c6fed642ebbdf857c38f600fbe15d45d71be18f4630ba3c4c5034428069dc7d4\"",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/peterschussheim/CPPreference-flow-plugin@master/Flow.Launcher.Plugin.CPPreference/icon.png"
     },
     {
         "ID": "8G5CDC9A78EF4A7E667E138F1FC04015",
@@ -373,8 +373,8 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"bbdd44e47aff15e874544e7ad71535bbcf79eeebb3c2ddc839e1f6614785493e\"",
-        "IcoPath": "https://raw.githubusercontent.com/jjw24/Wox.Plugin.QuickUninstaller/master/QuickUninstaller/Images/UninstallerIcon.png"
+        "ETag": "W/\"56b04e6896fe4f9ae010bf12caf44b202dc39cfa5a7ae1b212299cab97a58a63\"",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
         "ID": "3C62514E3C8644D583E3F12202F11161",
