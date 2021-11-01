@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"1716c459a9964390dac0ba184300862178b26cefbe63daf220814ae3a2676b3b\"",
+        "ETag": "W/\"0e13ec60ab161245c034757b3713d6841efa04a9952f69c6a93c1f0f3b7e2417\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -191,7 +191,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "ETag": "W/\"382921338313c1e4bc0dfb879d492d3ee913d6e7be328c9fa9fd23186f596745\"",
+        "ETag": "W/\"e6fd7ff38cad8e1532296071e19db65a2b3211f33a4c429d4c420660be870667\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png"
     },
     {
