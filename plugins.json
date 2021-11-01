@@ -62,7 +62,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
         "ETag": "W/\"4e9513c32eace0ba718be066c41abb61a8478ba10c73e5b141fb17f0ac5483d7\"",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
