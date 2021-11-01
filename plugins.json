@@ -388,5 +388,17 @@
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
         "ETag": "W/\"2f7324caefe534bd79abad3ee52be123f078fe4b174c1086bb163d2b2de19992\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/nexusmods-search@main/./icon.png"
+    },
+    {
+        "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
+        "Name": "Number Converter",
+        "Description": "Convert numbers between dec/oct/hex/bin",
+        "Author": "liberize",
+        "Version": "1.0",
+        "Language": "python",
+        "Website": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter",
+        "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png"
     }
 ]
