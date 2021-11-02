@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"7f8d1481825247c411c3f2d96390cec74cf18ef4659e799e0b4585506f0c9ef1\"",
+        "ETag": "W/\"4113caf63965c14c36dd1b88c8f3f4eeb7d1f0994af385a17ce2862d6973f223\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"4e9513c32eace0ba718be066c41abb61a8478ba10c73e5b141fb17f0ac5483d7\"",
+        "ETag": "W/\"1979e86283f81447084865c61810b8d806d81b64ff0d6851e9273bcf4c960f5d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"6e95ad3dd33c1dbbbbfd97439edf4cb8ff599bdbea1f41184351e5fd92fecd86\"",
+        "ETag": "W/\"8682c8ecfdc5f5089a49f82d4a683944a704b03b83586099b96df816d4639b77\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"47f2dcff3004fc5ad936099b3214a971e38f317f282e97c15a200ca2e9d9f6cb\"",
+        "ETag": "W/\"5af50d889098cb62dc89bc47990dab69035bcc4a2ad830d2f44f9c786d1d4327\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico"
     },
     {
@@ -191,7 +191,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "ETag": "W/\"e6fd7ff38cad8e1532296071e19db65a2b3211f33a4c429d4c420660be870667\"",
+        "ETag": "W/\"b922afc1e7b83a71e5784dbb453b0c4fdcea416a3c72469a3762a8fb9950faa2\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png"
     },
     {
@@ -281,7 +281,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "ETag": "W/\"2cef8e90fb43a56df03adf29202425c9fab9d991e3a18f877447223d0a313f23\"",
+        "ETag": "W/\"41bd0fcca3cc0555100dfda62fe3edadd39eab874a8f9b99cc658e6010467b2e\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico"
     },
     {
@@ -347,7 +347,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"b09373a189a2d5a693a6973a58fe03d2ef8b40f004a1b02e2cbd64abc6be21cf\"",
+        "ETag": "W/\"096be5f3c9e509ac0c14fe756e5aff030bad1f3fa13c28c311a94ec00db8c8ef\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"43c769b27f0167646a8c3cf3bcd024cb901609c57c82aa1780cd3cdb3c331e5c\"",
+        "ETag": "W/\"4659b3e51371acdc184180f144d3eb559f1e6877646397638dfd22ab87885d18\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -394,11 +394,12 @@
         "Name": "Number Converter",
         "Description": "Convert numbers between dec/oct/hex/bin",
         "Author": "liberize",
-        "Version": "1.0",
+        "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
+        "ETag": "W/\"228c29c0fae16a31758288cd74ab6c35bd3f8f260e6fcf172bd4b8e9f6aa9d91\""
     }
 ]
