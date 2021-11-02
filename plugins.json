@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"7b85d355dad799d32d51b2ce49767ca333bd8c887f1071a36a1eb51df9b9b956\"",
+        "ETag": "W/\"7f8d1481825247c411c3f2d96390cec74cf18ef4659e799e0b4585506f0c9ef1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"00ddb1db4a4af9d4bb8225a72e8c25ba600c4326a1043a51bed0acc6c94c2bf7\"",
+        "ETag": "W/\"31beda0f64ce953105b9fa8148b40fa453995d806ff4306b854fbe6c77c61504\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -53,16 +53,16 @@
     },
     {
         "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
-        "Name": "ClipboardHistory",
+        "Name": "Clipboard History",
         "Description": "a Clipboard History Plugin for FlowLauncher",
-        "Author": "Xenolphthalein",
-        "Version": "1.0.0",
+        "Author": "liberize,Xenolphthalein",
+        "Version": "1.1.1",
         "Language": "csharp",
-        "Website": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory",
-        "UrlDownload": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.0.0/Flow.Launcher.Plugin.ClipboardHistory.zip",
-        "UrlSourceCode": "https://github.com/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"14b181a305574e6c4bbc9e8a1c2ba6e5591ff28d15e3bdea1b0fd548c08479f2\"",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Xenolphthalein/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
+        "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
+        "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
+        "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
+        "ETag": "W/\"4e9513c32eace0ba718be066c41abb61a8478ba10c73e5b141fb17f0ac5483d7\"",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
         "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"aa9e7706b111502e57fc47f6b9e7117b7dff52d6f8af935bcbefc987fa5eb4be\"",
+        "ETag": "W/\"6e95ad3dd33c1dbbbbfd97439edf4cb8ff599bdbea1f41184351e5fd92fecd86\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.0/Color-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"a70083012abf711ea5645c47baf27fc414414537c848687438837fbefc6af5c4\"",
+        "ETag": "W/\"d545c4c3b798c4f1305d8e659b48e0d9d5c175186e8d17c2ea651f83c71ace1a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -281,7 +281,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "ETag": "W/\"fe07b5ae0d2fd534c70f3f8df1a5b9c1c00e7572a7dc896a9da6b64433ed9ed2\"",
+        "ETag": "W/\"2cef8e90fb43a56df03adf29202425c9fab9d991e3a18f877447223d0a313f23\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico"
     },
     {
@@ -402,5 +402,16 @@
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
         "ExecuteFileName": "Flow.Launcher.Plugin.Favorites.dll"
+    },
+        "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
+        "Name": "Number Converter",
+        "Description": "Convert numbers between dec/oct/hex/bin",
+        "Author": "liberize",
+        "Version": "1.0",
+        "Language": "python",
+        "Website": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter",
+        "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png"
     }
 ]
