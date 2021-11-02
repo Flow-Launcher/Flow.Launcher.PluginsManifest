@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"5eb6c34245df94864ceb5f07b41eacb6dccda6f2dd90eedf6ec84c6cffa6fc49\"",
+        "ETag": "W/\"7f8d1481825247c411c3f2d96390cec74cf18ef4659e799e0b4585506f0c9ef1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"1716c459a9964390dac0ba184300862178b26cefbe63daf220814ae3a2676b3b\"",
+        "ETag": "W/\"31beda0f64ce953105b9fa8148b40fa453995d806ff4306b854fbe6c77c61504\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"61b03f991a2aaf3c82cb2f8acf15a00dfb17223304f7e1d13783c2d0f32ef772\"",
+        "ETag": "W/\"0c40ac8b1e9a5b0b08576187a948331216ac0eb8f599909a698b0a158a46e708\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"8c092fa0f4ed716c452d7d83caa0f994ea645d73e9ff8babf1bf4de0fe6208ce\"",
+        "ETag": "W/\"8cff63835e7404069678613b384024f33da8f83578255b0921140b843ecc2f4a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"a8cbb6e6dffe3291785e53b787153afcb9b13417881017b6437372896f599f89\"",
+        "ETag": "W/\"6e95ad3dd33c1dbbbbfd97439edf4cb8ff599bdbea1f41184351e5fd92fecd86\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.0/Color-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"a70083012abf711ea5645c47baf27fc414414537c848687438837fbefc6af5c4\"",
+        "ETag": "W/\"d545c4c3b798c4f1305d8e659b48e0d9d5c175186e8d17c2ea651f83c71ace1a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -191,7 +191,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "ETag": "W/\"382921338313c1e4bc0dfb879d492d3ee913d6e7be328c9fa9fd23186f596745\"",
+        "ETag": "W/\"e6fd7ff38cad8e1532296071e19db65a2b3211f33a4c429d4c420660be870667\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png"
     },
     {
@@ -281,7 +281,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "ETag": "W/\"fe07b5ae0d2fd534c70f3f8df1a5b9c1c00e7572a7dc896a9da6b64433ed9ed2\"",
+        "ETag": "W/\"2cef8e90fb43a56df03adf29202425c9fab9d991e3a18f877447223d0a313f23\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico"
     },
     {
@@ -307,7 +307,7 @@
         "Website": "https://github.com/peterschussheim/CPPreference-flow-plugin",
         "UrlDownload": "https://github.com/peterschussheim/CPPreference-flow-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.CPPreference.zip",
         "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master",
-        "ETag": "W/\"c6fed642ebbdf857c38f600fbe15d45d71be18f4630ba3c4c5034428069dc7d4\"",
+        "ETag": "W/\"f78e5f1b4553ad8c0e1b88cf93ce4038c398bf213fc008d3fb077456b89e8c9f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/peterschussheim/CPPreference-flow-plugin@master/Flow.Launcher.Plugin.CPPreference/icon.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"56b04e6896fe4f9ae010bf12caf44b202dc39cfa5a7ae1b212299cab97a58a63\"",
+        "ETag": "W/\"43c769b27f0167646a8c3cf3bcd024cb901609c57c82aa1780cd3cdb3c331e5c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
