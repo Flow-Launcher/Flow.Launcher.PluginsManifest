@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"a82e97f79999a63db56184b53f1213c423b82ab2bf4537fd91bdf38a147d44a4\"",
+        "ETag": "W/\"7db70b6b0cbd592e68594a21dbb5b1aa69d693650fc45c477c652ac6bf5e44c5\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"0c40ac8b1e9a5b0b08576187a948331216ac0eb8f599909a698b0a158a46e708\"",
+        "ETag": "W/\"54966f71daddc623a80db181173a99d6e8a0bdfbf0053d3771e9dd898eec9288\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"733e114b8dd44bb5a9415af7ed65018ce1b72ba234fe5d89e0c66b74b1bb8e48\"",
+        "ETag": "W/\"13b59decf233745f8dd8b51feff1e0cba7e8869281919194488cf11eb4bf6db6\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.0/Color-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"25c171ae4546fa36f304cfc1c6be7092970ab17cf869cdf2a15ffb39afe71cd4\"",
+        "ETag": "W/\"37738849cb70c8655809d4b4c9d921915ec3cee7d1c73ab8c55e8bf4fd68c16c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"ba331a18aafce881bf7265247f22f75a83029131c568cbd330d5fbfeaaaf1dfa\"",
+        "ETag": "W/\"9be24fdcfc3eb198cf291cacd65d2239dec0bd8fefe7dcccad17729b36a926e5\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico"
     },
     {
@@ -165,7 +165,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"4a3c9626c1cadfa9017eb053b8484eea57cf5bc643142e19125a557e6ba021f6\"",
+        "ETag": "W/\"cad7e0e14b0d62460646b5d59a2fe479cab78c75047f81cd595e296078130c50\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -204,7 +204,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"3a42c29b506722ad69ff6d8952eedc85be991c8eecaf86b4e32a01f6093f91cf\"",
+        "ETag": "W/\"b60b77ae268bdfc1aec915b0e31fdff5909ec1e4cb1ceab758496d354c72b9b5\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Drimix20/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png"
     },
     {
@@ -217,7 +217,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"7286e30bbebeef7d021979b6dc01c74dd6d61b5b395412418f7a5282c6913538\"",
+        "ETag": "W/\"b88aa3241456c02308d1e9986e9575bad1e23da22bed964a5e0f6818d460ffc5\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png"
     },
     {
