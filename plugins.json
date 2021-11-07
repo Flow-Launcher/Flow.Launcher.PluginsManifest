@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"2f6a10a09dc15855d8557c0789d245577c175be42cc474152510e5f26aee6fef\"",
+        "ETag": "W/\"bec807491022e049a83469be4e2f1ea766a91afd51e8d76bc47b24807e56f1a1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"6fa7d481c7a9c54fc9d53e43e60ea35a8abc78a84e73a104f590b9137bff8841\""
+        "ETag": "W/\"a81a4e6c051e6819b0a126241c5b310cb326e070a88a717ca6f80ff10020da3a\""
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
@@ -427,6 +427,7 @@
         "Website": "https://github.com/Garulf/window-services",
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
-        "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png"
+        "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
+        "ETag": "W/\"b5cdd2d4b168063f5f772efb45ba5b3c15f8ed705b14cf4e9e212b106f1a261d\""
     }
 ]
