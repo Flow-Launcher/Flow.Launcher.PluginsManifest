@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"995c7671ae31320478f6c32496795d1e08e530e60f3013ccbde35d16efbcb7dc\"",
+        "ETag": "W/\"8a8852ddf974201df579bfe39569e3461e5bc053ec174dbd32a5959b9adfcec1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -395,13 +395,14 @@
         "Name": "Favorites",
         "Description": "Flow Launcher plugin to define favorite apps, files, folders and URLs.",
         "Author": "stax76",
-        "Version": "1.1.0",
+        "Version": "1.2",
         "Language": "csharp",
         "Website": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites",
-        "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.1/Flow.Launcher.Plugin.Favorites-v1.1.zip",
+        "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.2/Flow.Launcher.Plugin.Favorites-v1.2.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ExecuteFileName": "Flow.Launcher.Plugin.Favorites.dll"
+        "ExecuteFileName": "Flow.Launcher.Plugin.Favorites.dll",
+        "ETag": "W/\"9add2cc55e57ab2695b8526f7ecc0aa2cff19d891f1232c6f4342306fb33ad62\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
