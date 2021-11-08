@@ -401,7 +401,6 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.2/Flow.Launcher.Plugin.Favorites-v1.2.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ExecuteFileName": "Flow.Launcher.Plugin.Favorites.dll",
         "ETag": "W/\"91e42d4f49bc83048372e4f22c583c39c01d8a2b4fc5b2faf275b3a2a7b4a40e\""
     },
     {
