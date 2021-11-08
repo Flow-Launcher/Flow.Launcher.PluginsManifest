@@ -428,5 +428,17 @@
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
         "ETag": "W/\"a0dd4ebbe49c85de15bd2dde17ac1debd018cf0ee4c661d4962adf143b50c652\""
+    },
+    {
+        "ID": "4F31D5DF26984581BDF4213D40860ADF",
+        "Name": "Windows Dark Mode Toggle",
+        "Description": "Toggle Window's Dark & Light modes",
+        "Author": "Garulf",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/windows-dark-mode-toggle",
+        "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
+        "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
+        "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png"
     }
 ]
