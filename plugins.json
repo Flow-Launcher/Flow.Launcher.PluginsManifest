@@ -433,7 +433,7 @@
     {
         "ID": "4F31D5DF26984581BDF4213D40860ADF",
         "Name": "Windows Dark Mode Toggle",
-        "Description": "Search and cast your Plex Media Library",
+        "Description": "Toggle Window's Dark & Light modes",
         "Author": "Garulf",
         "Version": "1.0.0",
         "Language": "python",
