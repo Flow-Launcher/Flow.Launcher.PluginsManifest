@@ -429,5 +429,17 @@
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
         "ETag": "W/\"b5cdd2d4b168063f5f772efb45ba5b3c15f8ed705b14cf4e9e212b106f1a261d\""
+    },
+    {
+        "ID": "4F31D5DF26984581BDF4213D40860ADF",
+        "Name": "Windows Dark Mode Toggle",
+        "Description": "Search and cast your Plex Media Library",
+        "Author": "Garulf",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/windows-dark-mode-toggle",
+        "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.1/windows-dark-mode-toggle.zip",
+        "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
+        "IcoPath": "./icon/light-dark.png",
     }
 ]
