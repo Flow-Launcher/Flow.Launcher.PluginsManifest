@@ -95,12 +95,12 @@
         "Name": "Colors",
         "Description": "Provides HEX and RGB color preview.",
         "Author": "qianlifeng, Vladimir Antos, bluray",
-        "Version": "2.0.0",
+        "Version": "2.0.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.0/Color-2.0.0.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"37738849cb70c8655809d4b4c9d921915ec3cee7d1c73ab8c55e8bf4fd68c16c\"",
+        "ETag": "W/\"f1ba50421e066e155ec6f3ae07d12e795cfebec2000f0454450d914136b1372d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -204,7 +204,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"f3cc43e6aac2dde301bffe324dbd5c2ee3421a9ae428ece2c036987f3a24cad7\"",
+        "ETag": "W/\"8c28d997f37965ef875a95caeaccda98da6b26594bf788522ea6d85d8f14b9c6\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Drimix20/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png"
     },
     {
@@ -427,6 +427,6 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"c4aa0b963fef4376f102efbe7e74b9d8e7c2fcd21b40d563b1b3d31b7a8e1c65\""
+        "ETag": "W/\"a0dd4ebbe49c85de15bd2dde17ac1debd018cf0ee4c661d4962adf143b50c652\""
     }
 ]
