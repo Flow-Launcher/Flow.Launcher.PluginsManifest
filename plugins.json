@@ -440,6 +440,6 @@
         "Website": "https://github.com/Garulf/windows-dark-mode-toggle",
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
-        "IcoPath": "./icon/light-dark.png"
+        "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png"
     }
 ]
