@@ -427,7 +427,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"a0dd4ebbe49c85de15bd2dde17ac1debd018cf0ee4c661d4962adf143b50c652\""
+        "ETag": "W/\"faaa87fd1a90e6951bba7c9f5373fb283fc0b0df0c405efe772db610c865c204\""
     },
     {
         "ID": "4F31D5DF26984581BDF4213D40860ADF",
@@ -439,6 +439,7 @@
         "Website": "https://github.com/Garulf/windows-dark-mode-toggle",
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
-        "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png"
+        "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
+        "ETag": "W/\"a42681910afd6b6cc4b93cd40b8ada51dda809117139fa9bf25a6304cef97776\""
     }
 ]
