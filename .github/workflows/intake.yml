@@ -1,4 +1,4 @@
-name: Auto generate manifest
+name: Generate Manifest
 on:
   push:
     paths:
@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        name: Checkout Repository
       - name: Set up Python 3.7
         uses: actions/setup-python@v1
         with:
