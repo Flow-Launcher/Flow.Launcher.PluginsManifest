@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"e2d97bb9a39aa4ac4c493a61d30c8c1a5bd2d9ed8a84382d212de5d44f5b1162\"",
+        "ETag": "W/\"01ad95a9b58a96dccea2ede0ad4e99cb3376e8c57dbf1f57911911f5de569eb0\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"ea28b4650e0b71e97d658616c0ff603a5f5409e38cb149ff5a12d15ace5778f8\"",
+        "ETag": "W/\"1cf6d6a012b47437950a343dd64dad92b51f29c48f2e76d481582a33d5f5a784\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"f9966619aa136aadd8e7031a46092262f2d769efc1c587ca7a2c3226a5a86a86\"",
+        "ETag": "W/\"1bf46622963892e017fcf8547fe07824f906248012d1a44f0c8dca8211316305\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"95b4428cba59ce938fcd11f7cfb72a63758b6119f157bc419650919c53caff40\"",
+        "ETag": "W/\"e73051f9a75c50bf1cc09e2a3508ace7b42e6b777d1f5af4d6c4b4cb307eb84d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"8e022518cf7a6a062ed545322e1836620fe1b57f5ff76ca43377a17189d87e0d\"",
+        "ETag": "W/\"7a928876cec968cc6b2d6b7bc8f8febc0958db058293db6008794e581689611d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"f1ba50421e066e155ec6f3ae07d12e795cfebec2000f0454450d914136b1372d\"",
+        "ETag": "W/\"891ae35d369f40d0c3ed864694e2b3f03353a8a97e30acb80a8e0bd8ecd29066\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"d86e120b1e7a0b73a075f28abfc6bc7159947bb7fd648963d682ec568635f595\"",
+        "ETag": "W/\"d91033a94b323a9b3c97df15b9fb7619ee87688f7b382aa11542fb74ae263dc6\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico"
     },
     {
@@ -126,7 +126,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"8f6879fb78aee566a40c55d8e9b347b960fb4fbd609faae767962985efdf2afe\"",
+        "ETag": "W/\"3646f52d92cf43aa825a06bdca60efd438e1bccc6240967e3b5d3860d46425e4\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -165,7 +165,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"cad7e0e14b0d62460646b5d59a2fe479cab78c75047f81cd595e296078130c50\"",
+        "ETag": "W/\"70dc8f1cd9f83a5f2a86d7153a336ccf1fbab8ffee466aa000b54bf2930d34f3\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -204,7 +204,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"8c28d997f37965ef875a95caeaccda98da6b26594bf788522ea6d85d8f14b9c6\"",
+        "ETag": "W/\"b0f27862fd19fe66a4ab254b48e746b030657a22843e78e35118914d6aea028f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Drimix20/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png"
     },
     {
@@ -243,7 +243,7 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "ETag": "W/\"38fe68cae8f432fe41025f4de04b0c62004343374d7c0baa7ae58fb16bba4f60\"",
+        "ETag": "W/\"e8c80701c32f9377a5f93900784e009258308bedfc31a4a66c8396cdfa1f51aa\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg"
     },
     {
@@ -281,7 +281,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "ETag": "W/\"41bd0fcca3cc0555100dfda62fe3edadd39eab874a8f9b99cc658e6010467b2e\"",
+        "ETag": "W/\"a437695aa6c363c3e1360535243fbe6e96231b1835c945621998bb790758769c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico"
     },
     {
@@ -414,7 +414,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"a7fd4da563666c16735108d62a5dc68fe11bce3b2e0ceee5d827a1c691bb85e4\""
+        "ETag": "W/\"bf996b7e9baff8c06dcd50df44d35debbbbb4136afe73e09e7fea2b466ccf01c\""
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
