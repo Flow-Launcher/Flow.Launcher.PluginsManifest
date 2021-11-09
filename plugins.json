@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"8f81aa59ba840ea1596fb01cfb68f114c89ff3a2f09c9af4694d4d80585d7ac5\"",
+        "ETag": "W/\"f9966619aa136aadd8e7031a46092262f2d769efc1c587ca7a2c3226a5a86a86\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"eafda55d0b4c5dad3fe4c75c8734ef065907da02366d60023bf194c1c0204d58\"",
+        "ETag": "W/\"802feca4cc0d70ac358dac09a53cce9e5cf26a830cc067112f108070d826cc95\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -294,7 +294,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"c4d0363583fd9e0f8888245431bcb78a7580277f3ea0b543950b46e0b946fde2\"",
+        "ETag": "W/\"db903e50fec1c104e90c0fdb2aa442f9e754911a8fe4d08a7d2107fa934586a2\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"dee094a00197ebf5f8f03b4a59f87b549fa6d2af6c58e1f2360996d2529e7617\"",
+        "ETag": "W/\"745eb37e978e48f5c2bf03e03a5015b99c11a4a2a8ed4619ab87ebfa52dc926a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -401,7 +401,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.2/Flow.Launcher.Plugin.Favorites-v1.2.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"91e42d4f49bc83048372e4f22c583c39c01d8a2b4fc5b2faf275b3a2a7b4a40e\""
+        "ETag": "W/\"cc4daed01dc3fd834a47c7bed93cd9fa2ee87d88a318194574c5b685cab14a1a\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
@@ -414,7 +414,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"a81a4e6c051e6819b0a126241c5b310cb326e070a88a717ca6f80ff10020da3a\""
+        "ETag": "W/\"a7fd4da563666c16735108d62a5dc68fe11bce3b2e0ceee5d827a1c691bb85e4\""
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
