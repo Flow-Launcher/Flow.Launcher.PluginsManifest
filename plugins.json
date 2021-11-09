@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"6d33959526690b197cd47e9a9e0958ea48e8081c48278329f66037bf1bdef53b\"",
+        "ETag": "W/\"9a4803db676a05c65f1be5dc26a218de15197e34bfcafe4473edcda4d906096c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -440,6 +440,6 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"a42681910afd6b6cc4b93cd40b8ada51dda809117139fa9bf25a6304cef97776\""
+        "ETag": "W/\"b38ea9a46af47ac3a0e94eb5f2b5e8221fd9e61a82eadca7769d8d36100d71b0\""
     }
 ]
