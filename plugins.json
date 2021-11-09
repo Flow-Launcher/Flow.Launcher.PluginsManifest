@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"c3d2e2519d05eed8e430772e7aa27cf76422828ab428ac0b90375d14f71986e6\"",
+        "ETag": "W/\"bb4b06ab0563be8e61f144c5d08ad6b8ab5fa1997616d132b4c9832d242e8569\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -427,7 +427,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"faaa87fd1a90e6951bba7c9f5373fb283fc0b0df0c405efe772db610c865c204\""
+        "ETag": "W/\"fd88cd8708f9173c09ace26f7e5c5de2db59e149d28c7261028823daa394873f\""
     },
     {
         "ID": "4F31D5DF26984581BDF4213D40860ADF",
