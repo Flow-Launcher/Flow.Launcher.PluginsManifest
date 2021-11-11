@@ -294,7 +294,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"db903e50fec1c104e90c0fdb2aa442f9e754911a8fe4d08a7d2107fa934586a2\"",
+        "ETag": "W/\"f08bf2f127ef9af91fb7bc13630e92cbb217d20f0010a712b166cc20ecc20e54\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png"
     },
     {
@@ -347,7 +347,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"b34de5eeaaf810d7ed4a42a1340d7bc2503d081fd0998393d552561c3da7b2ec\"",
+        "ETag": "W/\"565d4d9acbefd1121d78a24ceab733f7a89d52904b32308a256c0ed3fb20021b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png"
     },
     {
@@ -414,7 +414,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"801754cead3a4a270e4404530d27a188fd4d428952ea65596a6af490c4d9db60\""
+        "ETag": "W/\"a074b959beb6b5feb74077d80510067cf5b1306e37fbdd5b4ce8dfc78074561e\""
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
@@ -440,6 +440,6 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"b38ea9a46af47ac3a0e94eb5f2b5e8221fd9e61a82eadca7769d8d36100d71b0\""
+        "ETag": "W/\"5b47fa10bb90900808b0f95b13537dbdd4872844800011933b9dc7a71985f6ef\""
     }
 ]
