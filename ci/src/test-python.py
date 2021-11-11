@@ -1,4 +1,5 @@
 import sys
+import json
 import os
 import zipfile
 import io
@@ -39,7 +40,7 @@ if __name__ == "__main__":
     zip_dir = os.path.join(os.getcwd(), "plugin")
     os.mkdir(zip_dir)
     z.extractall(zip_dir)
-    print(read_plugin("./plugin.json")["ExecuteFileName"])
+    print(read_plugin("./plugin/plugin.json")["ExecuteFileName"])
 
 
 
