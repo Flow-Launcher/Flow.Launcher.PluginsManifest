@@ -35,5 +35,5 @@ jobs:
       - name: Test run plugin
         run: |
           cd ./plugin
-          python "${{ steps.download.outputs.execute_file }}"
+          python -S "${{ steps.download.outputs.execute_file }}"
       
