@@ -2,6 +2,8 @@ name: Test run Python plugins
 on:
   pull_request:
     types: [opened, edited, reopened, ready_for_review]
+    paths:
+      - 'plugins.json'
 jobs:
   test:
     runs-on: windows-latest
