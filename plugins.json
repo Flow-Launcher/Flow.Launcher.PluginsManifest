@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"5bed512de781732758b22e00bf030807127bab17d860c0df9d4bcc802cc062f3\"",
+        "ETag": "W/\"07cf391e1e1fabaf661a94551d2d09033b5dac0e069e24f68e90db2d28e082cc\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"d19acbd39d5fd43d8454ab2af67ff03bc0a91a8c235bf888291b718b519fff6e\"",
+        "ETag": "W/\"c427fa5c09ab832bc0701a88375d7380fcc70462c5e56d458b06e6f704d7269b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -414,7 +414,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"2adbe577ea286711155cc87364bb14a77b96f5ace699c4f9aca2f9eaa093ccec\""
+        "ETag": "W/\"801754cead3a4a270e4404530d27a188fd4d428952ea65596a6af490c4d9db60\""
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
