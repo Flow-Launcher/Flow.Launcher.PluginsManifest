@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"4740e0c3869818a519682a1d38948f936b463a2d8ec3ac34d51177a974c4c3ea\"",
+        "ETag": "W/\"8cb51aef91e21de954066e02a48b729f23769d8bbfcbcfef828f0471efd524b7\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"5d714cbc814dcae497e6053175d304a00c5bb0dbde2344ada14b11687e01f8af\"",
+        "ETag": "W/\"64c5dec70882c829dc87c89b52775f8d2780c515077c72dcc7bdd1047e81a93d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -401,7 +401,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"8ae4b1cb5f67f3489ccad9d023e09fc1a1d65e223d8ea794a189cda7b61c6455\""
+        "ETag": "W/\"2ac4574debf326ff0f3ce60c0b0ea70fcca5a604d31981331e964bfd797dc817\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
