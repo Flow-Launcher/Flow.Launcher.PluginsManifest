@@ -16,7 +16,7 @@ def get_download_url(url):
     return response.json()["assets"][0]["browser_download_url"]
 
 def download_release(url):
-    r = requests.get(latest_release)
+    r = requests.get(url)
     r.raise_for_status()
     return zipfile.ZipFile(io.BytesIO(r.content))
 
