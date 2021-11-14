@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"75a07be2e3fcab5a752a04750322a2beeba2073d32cd676d2fc29157604383b5\"",
+        "ETag": "W/\"d6921105ba9a32f0473ce682cf91d6c22f96483614307b9f62268a9ca3d79033\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"850bb4158609cb02155581f4be37590c935de658a072397d577ead1bf8b2274f\"",
+        "ETag": "W/\"6b52f171004be25d533b825221aafd9bbfd862705df0b5baa07179e98722b48c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"7d0f006e27da140a4390f297d0aaf031883aeb048cd3ef8c72505bd69197dd2c\"",
+        "ETag": "W/\"08c906b83e60ac59e4f78bf0b3d06b7a51c8ed463a3ba9c989f6c831d1df72e6\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -217,7 +217,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"f988df0445aee2654709b0c8481de07d8829bac57711593f7dd3706861d05ccb\"",
+        "ETag": "W/\"36ea3b7e63cb841f97b6f7ec0b3c556c8fab22c89537c12916ba3f39847934c9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png"
     },
     {
@@ -373,7 +373,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"0bea8300e83b118f60c44008fa5731e32ef887c9198576a0ed0772fdf7edf84d\"",
+        "ETag": "W/\"9898ccd9eb6173542da8eab071628c5b57a9b6d630dc8480077b9e202f21e639\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -401,7 +401,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"c9be2779be672bf7bba5960f64a67aa93575f6e5a4db9a88af4c0a34ef92c541\""
+        "ETag": "W/\"f2af16c373a90321d7a44d91507ca21c18e920004216731f3740f4905ab172de\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
