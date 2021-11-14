@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"64416aa014d727fbb6214d075881c1c23bdef2e9b972babc5c59faa9e8e281c0\"",
+        "ETag": "W/\"082196506fee0f21411b220e99a00a2d2e6b3f571f107ffb0e9b0ac0c620372c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico"
     },
     {
@@ -440,6 +440,6 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"a1899452d355521c8bd3d65ab3c9d2b93d6edffd310bc9679eaeb5d9a98d7820\""
+        "ETag": "W/\"833acc8103862fcf4ca155082a1cbeb9c361e18cdb973eb34678afa3057adb82\""
     }
 ]
