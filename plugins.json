@@ -342,12 +342,12 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.1.3",
+        "Version": "1.2.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.1.3/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.2.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"4a85050dccd9f346938d045b31ddbd8959583197fb8676ec3b7f95433c1c9f7b\"",
+        "ETag": "W/\"ff5fb0184d6e90938385f760416d79d538864cb213cf2bd49a943481a4465897\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png"
     },
     {
@@ -401,7 +401,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"2ac4574debf326ff0f3ce60c0b0ea70fcca5a604d31981331e964bfd797dc817\""
+        "ETag": "W/\"c9be2779be672bf7bba5960f64a67aa93575f6e5a4db9a88af4c0a34ef92c541\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
@@ -427,7 +427,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"c57079000afc3aa286af15077ea61525050fb2ff6013b98acf3102a4e5657093\""
+        "ETag": "W/\"19517b92c10888886198b76633cf16f957d3f16c9467c538534d132906ad2b97\""
     },
     {
         "ID": "4F31D5DF26984581BDF4213D40860ADF",
