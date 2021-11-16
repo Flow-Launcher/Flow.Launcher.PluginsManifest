@@ -52,6 +52,7 @@ if __name__ == "__main__":
     for path in Path(zip_dir).glob("**/plugin.json"):
         execute_file = read_plugin(path)["ExecuteFileName"]
         plugin_path = Path(path).parent
+    os.chdir(plugin_path)
     p = Popen(["python3", "-S", Path(Path(plugin_path, execute_file)), '{\"method\": \"query\", \"parameters\": [\"\"]}'], text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
     exit_code = p.wait()
