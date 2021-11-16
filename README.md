@@ -27,7 +27,7 @@ Add your plugin by updating the plugins.json file with the following details via
 }
 ```
 
-All the information above except for `UrlDownload`, `UrlSourceCode` and `IcoPath` should already exist in your own plugin's **plugin.json** file, simply copying them across is fine. For `IcoPath`, you will need to provide the direct url to your plugin's icon image (usually via your repo, see other listed plugins in [plugins.json](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/blob/plugin_api_v2/plugins.json) as an example).
+All the information above except for `UrlDownload`, `UrlSourceCode` and `IcoPath` should already exist in your own plugin's **plugin.json** file, simply copying them across is fine. For `IcoPath`, you will need to provide the direct URL to your plugin's icon image (usually via your repo). It is recommended to use a CDN provider for international access. [jsdelivr.com](https://www.jsdelivr.com/) for example, provides a simple API and supports github repositories. see other listed plugins in [plugins.json](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/blob/plugin_api_v2/plugins.json) for examples.
 
 Once your submission is approved by the Flow Launcher Team it will be available immediately in Flow.
 
