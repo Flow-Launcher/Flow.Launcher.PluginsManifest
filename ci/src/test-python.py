@@ -57,7 +57,7 @@ if __name__ == "__main__":
         plugin_path = Path(path).parent
     os.chdir(plugin_path)
     print("Running plugin...")
-    p = Popen(["python3", "-S", Path(Path(plugin_path, execute_file)), '{\"method\": \"query\", \"parameters\": [\"\"]}'], text=True, stdout=PIPE, stderr=PIPE)
+    p = Popen(["python", "-S", Path(Path(plugin_path, execute_file)), '{\"method\": \"query\", \"parameters\": [\"\"]}'], text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
     exit_code = p.wait()
     if stdout != "":
