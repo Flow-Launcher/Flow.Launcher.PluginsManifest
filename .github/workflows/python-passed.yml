@@ -6,6 +6,7 @@ on:
       - 'plugins.json'
 jobs:
   build:
+    continue-on-error: true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,6 +18,7 @@ jobs:
       - name: Run script
         run: python ./ci/src/update-tested.py
       - name: Update plugin manifest
+        if: success()
         run: |
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
