@@ -15,6 +15,10 @@ def get_last_url():
     with open(LIST_FILE, "r", encoding="utf-8") as f:
         return f.read().splitlines()[-1]
 
+def validate_github_url(url):
+    if "github.com" not in url:
+        raise ValueError("Invalid Github URL")
+
 def get_github_info(url):
     author = url[3]
     plugin_name = url[4]
@@ -60,6 +64,7 @@ if __name__ == '__main__':
     source_url = get_last_url()
     author, plugin_name, main_branch, raw_url = get_github_info(source_url)
     plugin_data = get_plugins_data(author, plugin_name, main_branch)
+    validate_github_url(source_url)
     icon_url = get_icon_url(raw_url, plugin_data["IcoPath"])
     download_url = get_download_url(author, plugin_name)
     update_plugin_manifest(plugin_data, source_url, download_url, icon_url)
