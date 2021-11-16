@@ -57,14 +57,7 @@ if __name__ == "__main__":
     exit_code = p.wait()
     if stdout != "":
         print(stdout)
-    if exit_code == 0:
-        plugin_infos = plugin_reader()
-        for _idx, _plugin in enumerate(plugin_infos):
-            if plugin['Name'] == _plugin['Name']:
-                plugin_infos[_idx]['Tested'] = True
-                plugin_writer(plugin_infos)
-                break
-    else:
+    if exit_code != 0:
         print(f'Test failed!\nPlugin returned a non-zero exit code!\n{"#" * 9} Trace {"#" * 9}')
         if stderr != "":
             print(stderr)
