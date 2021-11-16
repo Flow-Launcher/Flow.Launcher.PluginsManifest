@@ -49,11 +49,9 @@ if __name__ == "__main__":
     except FileExistsError:
         pass
     z.extractall(zip_dir)
-    if zip_dir.joinpath(z.namelist()[0]).is_dir():
-        plugin_path = zip_dir.joinpath(z.namelist()[0])
-    else:
-        plugin_path = zip_dir
-    execute_file = read_plugin(Path(plugin_path, "plugin.json"))["ExecuteFileName"]
+    for path in Path(zip_dir).glob("**/plugin.json"):
+        execute_file = read_plugin(path)["ExecuteFileName"]
+        plugin_path = Path(path).parent
     p = Popen(["python3", "-S", Path(Path(plugin_path, execute_file)), '{\"method\": \"query\", \"parameters\": [\"\"]}'], text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
     exit_code = p.wait()
