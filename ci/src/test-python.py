@@ -61,7 +61,7 @@ if __name__ == "__main__":
         print(f'Test failed!\nPlugin returned a non-zero exit code!\n{"#" * 9} Trace {"#" * 9}')
         if stderr != "":
             print(stderr)
-            sys.exit(exit_code)
+        sys.exit(exit_code)
 
 
 
