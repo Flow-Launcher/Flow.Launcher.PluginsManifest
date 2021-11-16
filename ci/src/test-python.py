@@ -28,7 +28,7 @@ if __name__ == "__main__":
     plugin_infos = plugin_reader()
 
     for plugin in plugin_infos[::-1]:
-        if plugin["Language"] == "python" and "ETag" not in plugin.keys():
+        if plugin["Language"] == "python" and "Tested" not in plugin.keys():
             if "github.com" not in plugin["UrlSourceCode"]:
                 print("Non-Github based website!")
                 sys.exit(0)
