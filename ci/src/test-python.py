@@ -1,10 +1,12 @@
 import sys
 import json
 import os
+from pathlib import Path
 import zipfile
 import io
+from subprocess import Popen, PIPE
 
-from _utils import clean, id_name, language_list, language_name, plugin_reader
+from _utils import clean, id_name, language_list, language_name, plugin_reader, plugin_writer
 
 import requests
 
@@ -24,23 +26,51 @@ def read_plugin(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-if __name__ == "__main__":
-    plugin_infos = plugin_reader()
-
-    for plugin in plugin_infos[::-1]:
-        if plugin["Language"] == "python" and "Tested" not in plugin.keys():
-            if "github.com" not in plugin["UrlSourceCode"]:
+def get_latest_plugin(manifest):
+    for _plugin in manifest[::-1]:
+        if _plugin["Language"] == "python" and "Tested" not in _plugin.keys():
+            if "github.com" not in _plugin["UrlSourceCode"]:
                 print("Non-Github based website!")
                 sys.exit(0)
-            source_url = plugin["UrlSourceCode"]
             break
+    else:
+        print("No Untested plugin found!")
+        sys.exit(1)
+    return _plugin
 
-    latest_release = get_download_url(source_url)
+if __name__ == "__main__":
+    manifest = plugin_reader()
+    plugin = get_latest_plugin(manifest)
+    latest_release = get_download_url(plugin["UrlSourceCode"])
     z = download_release(latest_release)
-    zip_dir = os.path.join(os.getcwd(), "plugin")
-    os.mkdir(zip_dir)
+    zip_dir = Path.cwd().joinpath("plugin")
+    try:
+        os.mkdir(zip_dir)
+    except FileExistsError:
+        pass
     z.extractall(zip_dir)
-    print(read_plugin("./plugin/plugin.json")["ExecuteFileName"])
+    if zip_dir.joinpath(z.namelist()[0]).is_dir():
+        plugin_path = zip_dir.joinpath(z.namelist()[0])
+    else:
+        plugin_path = zip_dir
+    execute_file = read_plugin(Path(plugin_path, "plugin.json"))["ExecuteFileName"]
+    p = Popen(["python3", "-S", Path(Path(plugin_path, execute_file)), '{\"method\": \"query\", \"parameters\": [\"\"]}'], text=True, stdout=PIPE, stderr=PIPE)
+    stdout, stderr = p.communicate()
+    exit_code = p.wait()
+    if stdout != "":
+        print(stdout)
+    if exit_code == 0:
+        plugin_infos = plugin_reader()
+        for _idx, _plugin in enumerate(plugin_infos):
+            if plugin['Name'] == _plugin['Name']:
+                plugin_infos[_idx]['Tested'] = True
+                plugin_writer(plugin_infos)
+                break
+    else:
+        print(f'Test failed!\nPlugin returned a non-zero exit code!\n{"#" * 9} Trace {"#" * 9}')
+        if stderr != "":
+            print(stderr)
+            sys.exit(exit_code)
 
 
 

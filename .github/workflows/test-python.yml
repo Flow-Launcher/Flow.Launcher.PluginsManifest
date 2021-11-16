@@ -27,13 +27,17 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r ./ci/envs/requirements-test-python.txt
-      - name: Find and download plugin
+      - name: Download & test plugin
         id: download
         run: |
-          output=$(./ci/src/test-python.py)
-          echo "::set-output name=execute_file::$output"
-      - name: Test run plugin
+          ./ci/src/test-python.py
+      - name: If successful commit passed status to plugin manifest
+        if: success()
         run: |
-          cd ./plugin
-          python -S "${{ steps.download.outputs.execute_file }}" '{\"method\": \"query\", \"parameters\": [\"\"]}'
-      
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git checkout $GITHUB_HEAD_REF
+          git add plugins.json
+          git commit -m "Plugin passed testing"
+          git push
