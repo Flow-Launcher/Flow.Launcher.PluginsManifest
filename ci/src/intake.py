@@ -19,14 +19,20 @@ def validate_github_url(url):
     if "github.com" not in url:
         raise ValueError("Invalid Github URL")
 
-def get_github_info(url):
-    author = url[3]
-    plugin_name = url[4]
-    main_branch = url[5]
-    return author, plugin_name, main_branch, raw_url
+def get_default_branch(username, repo_name):
+    api_url = f"https://api.github.com/repos/{username}/{repo_name}"
+    response = requests.get(api_url)
+    response.raise_for_status()
+    return response.json()["default_branch"]
 
-def get_plugins_data(author, plugin_name, main_branch):
-    raw_path = f"https://raw.githubusercontent.com/{author}/{plugin_name}/{main_branch}"
+def get_github_info(url):
+    _url_split = url.split("/")
+    username = url[-2]
+    plugin_name = url[-1]
+    return username, plugin_name
+
+def get_plugins_data(author, plugin_name, default_branch):
+    raw_path = f"https://raw.githubusercontent.com/{author}/{plugin_name}/{default_branch}"
     info_url = f"{raw_path}/plugin.json"
     response = requests.get(info_url)
     return response.json()
@@ -62,9 +68,10 @@ def update_plugin_manifest(plugin_data, source_url, download_url, icon_url):
 
 if __name__ == '__main__':
     source_url = get_last_url()
-    author, plugin_name, main_branch, raw_url = get_github_info(source_url)
-    plugin_data = get_plugins_data(author, plugin_name, main_branch)
     validate_github_url(source_url)
+    username, plugin_name = get_github_info(source_url)
+    default_branch = get_default_branch(username, plugin_name)
+    plugin_data = get_plugins_data(author, plugin_name, default_branch)
     icon_url = get_icon_url(raw_url, plugin_data["IcoPath"])
     download_url = get_download_url(author, plugin_name)
     update_plugin_manifest(plugin_data, source_url, download_url, icon_url)
