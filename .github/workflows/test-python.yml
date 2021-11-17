@@ -30,4 +30,4 @@ jobs:
       - name: Download & test plugin
         id: download
         run: |
-          ./ci/src/test-python.py
+          ./main/ci/src/test-python.py
