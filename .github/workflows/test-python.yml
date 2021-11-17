@@ -1,0 +1,33 @@
+name: Test run Python plugins
+on:
+  workflow_dispatch:
+  pull_request:
+    types: [opened, edited, reopened, ready_for_review]
+    paths:
+      - 'plugins.json'
+jobs:
+  test-run-plugin:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          path: main
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - uses: actions/cache@v2
+        if: startsWith(runner.os, 'Windows')
+        with:
+          path: ~\AppData\Local\pip\Cache
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./ci/envs/requirements-test-python.txt
+      - name: Download & test plugin
+        id: download
+        run: |
+          ./ci/src/test-python.py
