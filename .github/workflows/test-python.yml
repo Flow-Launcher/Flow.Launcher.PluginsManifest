@@ -6,7 +6,7 @@ on:
     paths:
       - 'plugins.json'
 jobs:
-  test-plugin:
+  test-run-plugin:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
