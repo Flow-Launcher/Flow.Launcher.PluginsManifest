@@ -1,8 +1,6 @@
 name: Test run Python plugins
 on:
-  workflow_dispatch:
-  pull_request:
-    types: [opened, edited, reopened, ready_for_review]
+  pull_request
 jobs:
   skip_check_job:
     runs-on: ubuntu-latest
