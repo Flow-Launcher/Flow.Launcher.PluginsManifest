@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"031efdff2c2bdd6b3b860a2ce1255def0a34ae1d3c93bace72a66c5dbc245fb6\"",
+        "ETag": "W/\"dad6ac3bd66ee52b8816e796ce5d41e258160bbc64be185cdcfab65774f11852\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"8ac7ac1710854a160295c45dafe843d35a6a60ee52e374c7c157e017eee2d16a\"",
+        "ETag": "W/\"3f4b7fcf3c987c6105b3be320aac3b96d20a30cc8a84e1a8ed6423a8e5ad4e99\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -246,7 +246,7 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "ETag": "W/\"5bbb25f95c4ea9bfd249ed41231e1cfc9b4945fbe2b738ee1380e61bf22477cb\"",
+        "ETag": "W/\"4c6534e263fcbafe6658266e2a9c68bb08a3f38c11b3ae830c951971c3da3064\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
         "Tested": false
     },
@@ -301,7 +301,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"5a30fda113261190e2b280c2bac6e1f7eb762262797003be0be8d79548d07f72\"",
+        "ETag": "W/\"f7c2947457e4174f9bcf16034dd43b224fbbe55d32d37a5c44d309d7615acfcc\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
@@ -427,7 +427,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"debae93f1e91a4c31e48e5ad39d441ff86ab8b947bc25812dcc732c33a235378\"",
+        "ETag": "W/\"4e682d80a4b92285fabc13c80c0e08ea01ba4785ecf1b4bb28edfc08c66cbf42\"",
         "Tested": false
     },
     {
@@ -469,6 +469,6 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"f2e95a07dcafe42cd1937fb7bf0986530f9698085c9fb8a3faa35bb515c82a71\""
+        "ETag": "W/\"a79976e454a43932fd35f0452ad08d623a4e452b3c60e8bb48bd865e446869c9\""
     }
 ]
