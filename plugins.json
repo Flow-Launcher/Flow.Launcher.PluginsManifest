@@ -301,7 +301,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"f7c2947457e4174f9bcf16034dd43b224fbbe55d32d37a5c44d309d7615acfcc\"",
+        "ETag": "W/\"34eeaa3764e63b56293fc690f6c7f7506809165e8baf56a5f7f49c3ea7553e85\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
