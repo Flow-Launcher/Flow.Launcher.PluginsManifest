@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"e12797affd8a9170c43cc3d097b1d30840e05f9ffee56df0cc926f9a7f23abf2\"",
+        "ETag": "W/\"0c8a3c180022447fc37ae9550bedb84b2d7b374f5aa8cd547b56f961c23097e6\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"bbc72dbeaa3e983fd94785b58ef7640dbe0d3770733590318b4e4924bdd7e2d1\"",
+        "ETag": "W/\"12c553be75048941916578d3559cdd580635be0fea101cbd018a1d3499fd8d84\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
