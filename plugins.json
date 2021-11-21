@@ -301,7 +301,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"3187dea8032aa38aa1c23d7aebd2e4c49abde492bf630a8d0a3f6e7ff7067cef\"",
+        "ETag": "W/\"28c27af2b4d42eec8a73f19be986a943cd0d0a09e83a3359a2e893093ba90cda\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
@@ -343,7 +343,7 @@
         "Website": "https://github.com/Garulf/plexy",
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "ETag": "W/\"ac146a85a1f7d717551a978ef36aef222ea54112089739058e96f063dac8c613\"",
+        "ETag": "W/\"fcfee8a945f8db281013aa9f20c0c3b253bb80b3855cb894fe2f894452cacd27\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
         "Tested": false
     },
