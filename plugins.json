@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"2056ca5373681cf68a2df7c7c734d8bb869dd392c174c6db3565cd1b4ccc3a91\"",
+        "ETag": "W/\"7c3dbf1c3a45380fd6abf3782e391451c1d39b107a5b31e33949f46e4bd89877\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"0c8a3c180022447fc37ae9550bedb84b2d7b374f5aa8cd547b56f961c23097e6\"",
+        "ETag": "W/\"abf93f5d264cd8222f706c847452ac8bd89bdcbdec685b323dd5d1deaa5f8bee\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -357,7 +357,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.2.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"24e0913cd8f2d5ce08275bc3c06a192d163cfc10c4d997496a435699ada86d42\"",
+        "ETag": "W/\"5140bc2c209b186f108ce75350633d49415f373906f0ee032afba259f04ac5b7\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -427,7 +427,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"4e682d80a4b92285fabc13c80c0e08ea01ba4785ecf1b4bb28edfc08c66cbf42\"",
+        "ETag": "W/\"5bcc9e5d0ed0de2fcc30dde2c74a511c83b5eee0b5c3a3ae83975926096a1ca8\"",
         "Tested": false
     },
     {
