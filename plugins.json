@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"7eead99ac43a4096fe8dfb1dba907d4909b3f6dc5ee60426c3f29097974b984b\"",
+        "ETag": "W/\"1ec73abbe031bfef204b9eb52aec3d0699b0b45e933bd5e1bf6a5c07a8ca7220\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -371,7 +371,7 @@
         "Website": "https://github.com/Garulf/twitchy",
         "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.1.0/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
-        "ETag": "W/\"b7afbada47cc823d26e9cc80cc0e300b7c9de31282ca12dfa7b767dbe8d2cc75\"",
+        "ETag": "W/\"f0cc7f84c7cc6d307fce49081d6eadcb0671a6d1dd78059775c5a3795881bd08\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
         "Tested": false
     },
@@ -469,6 +469,6 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"a79976e454a43932fd35f0452ad08d623a4e452b3c60e8bb48bd865e446869c9\""
+        "ETag": "W/\"2222a47ab835567bc4c5035b2da6453f4a5745d35f4637fe544a54e7320aa81b\""
     }
 ]
