@@ -2,6 +2,7 @@
 import json
 from pathlib import Path
 from typing import Dict, List, TypeVar
+import re
 
 # path
 utils_path = Path(__file__).resolve()
@@ -20,6 +21,7 @@ version = "Version"
 url_sourcecode = "UrlSourceCode"
 url_download = "UrlDownload"
 url_release = "https://api.github.com/repos/{repo}/releases/latest"
+icon_path = "IcoPath"
 
 # typing
 PluginType = Dict[str, str]
@@ -40,3 +42,13 @@ def plugin_writer(content: P):
 
 def clean(string: str, flag="-") -> str:
     return string.lower().replace(flag, "").strip()
+
+def check_url(url: str) -> bool:
+    regex = re.compile(
+            r'^(?:http|ftp)s?://' # http:// or https://
+            r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' #domain...
+            r'localhost|' #localhost...
+            r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})' # ...or ip
+            r'(?::\d+)?' # optional port
+            r'(?:/?|[/?]\S+)$', re.IGNORECASE)
+    return re.match(regex, url) is not None
