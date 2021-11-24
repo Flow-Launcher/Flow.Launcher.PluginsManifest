@@ -301,7 +301,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"28c27af2b4d42eec8a73f19be986a943cd0d0a09e83a3359a2e893093ba90cda\"",
+        "ETag": "W/\"02c70196bf469f84c28b91886fe16cf7fde1d7b0b2aa0fa41a564e28e0467dc8\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
@@ -469,6 +469,6 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"2222a47ab835567bc4c5035b2da6453f4a5745d35f4637fe544a54e7320aa81b\""
+        "ETag": "W/\"2176750efccce710c2175c47815133bdeadcc8cc86be4025f9605b2c4e240721\""
     }
 ]
