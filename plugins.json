@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"c980c18f47b774de4957a5ded7e79d55e81dd9eb55ad97ad39b41c3efd35e4d5\"",
+        "ETag": "W/\"6b068a0647ebb060f88fccc8382fc805dd4485af506f9c119a3759f56ae8eb2a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"9d92a2a1ca3703a61990efe108f2fc5337bd4a3651daf10a9f17a66bfa25b77f\"",
+        "ETag": "W/\"7fa5b671d27fdb0ce931ca1547aeb8436079297c096a75736e0d324c7d93aa84\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -414,7 +414,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"281a24bbb5c5b17b066829b3f8db59c9d2ce29da3e93eb73b3e4ead801f61966\""
+        "ETag": "W/\"a6c3fd37adf2b258bfbc4001fdb4b4dc6a500beea2e4468fd17415e2061298e0\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
@@ -455,7 +455,7 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"bd1df1f3d532bd1427c2689e138732f12dad44b1624a28ff6819191715ffa562\"",
+        "ETag": "W/\"3fa9a0ad1764997864e883ac8d1bf94f0e14b03aea15b145ff9ed1f8018784c0\"",
         "Tested": false
     },
     {
@@ -469,7 +469,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"96f7dffec34e62002204e6a8bc7f77ed21cd07e468e752d9ffc53d391bb6af70\"",
+        "ETag": "W/\"fa9b5de1f414b6ca9971f01e26f3edc101bfe0cca1dd46716a7c1b1cb1389c83\"",
         "Tested": false
     }
 ]
