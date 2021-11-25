@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"5a2a8b2e492969788b8c352c30324e22837675c36d96c0cb75326e717baf4877\"",
+        "ETag": "W/\"7deee366166968ed3a9eaadb740f9331a0613c94f19d2c6798db37225a09e174\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"c3bf530943cb3f7c7e484af52e4fe6371d3f273ccaf84126aeabcfb2c7a4526a\"",
+        "ETag": "W/\"c980c18f47b774de4957a5ded7e79d55e81dd9eb55ad97ad39b41c3efd35e4d5\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"ec4574beeaee8cf78f45abbf356eb4a813b45c54abeaeedfa73a52bec47d556c\"",
+        "ETag": "W/\"9d92a2a1ca3703a61990efe108f2fc5337bd4a3651daf10a9f17a66bfa25b77f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -246,7 +246,7 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "ETag": "W/\"4c6534e263fcbafe6658266e2a9c68bb08a3f38c11b3ae830c951971c3da3064\"",
+        "ETag": "W/\"f8d1a09a36ba969735dcca040d0f66da7c9a724e030d36a2d62fdb271c5f6f00\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
         "Tested": false
     },
@@ -301,7 +301,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"28c27af2b4d42eec8a73f19be986a943cd0d0a09e83a3359a2e893093ba90cda\"",
+        "ETag": "W/\"d224f0c82c5b8e50de1aab421479d79c9014a9ce6d2705b4c58292d30c05076d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
@@ -352,12 +352,12 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.2.0",
+        "Version": "1.2.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.2.0/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.2.1/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"5140bc2c209b186f108ce75350633d49415f373906f0ee032afba259f04ac5b7\"",
+        "ETag": "W/\"3e2cb8c65b03ae18ad7c5ced32acf68bdfd6d48a4b97940373c515ae2f275f43\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -385,7 +385,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"d656e1cffe62575c372276b5f1cdb0b4ad10385155976cc9c7499474aa021647\"",
+        "ETag": "W/\"c9e20ed2b10965b8a0e2f13c1cd7e69259e61cb9dde9aede704c8a4b1cb4317b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -427,7 +427,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"6086dbaac6acbd24c66318643697ae6a9a4337e4d7260f6f3561b857ad847c52\"",
+        "ETag": "W/\"78d0e2a5c6c66bd4f43e6cfd099d37b2b42f6fc63262017fa0bfcb8a9f60ed09\"",
         "Tested": false
     },
     {
@@ -441,7 +441,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"99c8765cc3c37b428cadc7edb828c0a62a29cd392812eac00bc9e4a1b9de099d\"",
+        "ETag": "W/\"adba3a6f6c3d3aa1b6bf9fddb7f10f587385438e97d29f1c894c2b84a7f67054\"",
         "Tested": false
     },
     {
@@ -469,7 +469,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"2222a47ab835567bc4c5035b2da6453f4a5745d35f4637fe544a54e7320aa81b\"",
-        "Tested": true
+        "ETag": "W/\"96f7dffec34e62002204e6a8bc7f77ed21cd07e468e752d9ffc53d391bb6af70\"",
+        "Tested": false
     }
 ]
