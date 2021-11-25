@@ -469,6 +469,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"96f7dffec34e62002204e6a8bc7f77ed21cd07e468e752d9ffc53d391bb6af70\""
+        "ETag": "W/\"96f7dffec34e62002204e6a8bc7f77ed21cd07e468e752d9ffc53d391bb6af70\"",
+        "Tested": false
     }
 ]
