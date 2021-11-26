@@ -352,12 +352,12 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "1.2.1",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v1.2.1/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v2.0.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"3e2cb8c65b03ae18ad7c5ced32acf68bdfd6d48a4b97940373c515ae2f275f43\"",
+        "ETag": "W/\"e29ba0cdf3199c1032f49b3b0ff4b95824f16ac04877d88497cdf150045945e4\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -385,7 +385,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"c9e20ed2b10965b8a0e2f13c1cd7e69259e61cb9dde9aede704c8a4b1cb4317b\"",
+        "ETag": "W/\"a4d10f18525886ee9a9c4b7de7ba3ce58664ab0249375acf3d56dd0f198b9d6a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
