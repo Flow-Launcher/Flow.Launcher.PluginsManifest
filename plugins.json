@@ -385,7 +385,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"a4d10f18525886ee9a9c4b7de7ba3ce58664ab0249375acf3d56dd0f198b9d6a\"",
+        "ETag": "W/\"02785f8a59a1014f65db76846ec78ca231f9aa6b773ed17a321fc2a476d12a63\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -455,7 +455,7 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"3fa9a0ad1764997864e883ac8d1bf94f0e14b03aea15b145ff9ed1f8018784c0\"",
+        "ETag": "W/\"5bc1bfa529d7b4889e81a4db94d6d064e11400a2d64750765cabf990c5e09bfa\"",
         "Tested": false
     },
     {
