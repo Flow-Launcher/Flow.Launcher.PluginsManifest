@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"14b61a01d827c1d27b4d36e671109f642e77e1dc47853fc44cb74af366aeb007\"",
+        "ETag": "W/\"f7e760f0f6c1ff87f84ba54b0c5b3d9bf6c89a95c160085b9efb29bf1216ed45\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"1cf4a3469f799b8e010ef91e4e4026d060496dc100d9b2b71c66387fa16c2b42\"",
+        "ETag": "W/\"6017ec1cebffef8e45c5b9d9599ee46558f42e740dc6717e4b732dcd4f2e8816\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -205,7 +205,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"eb5573d0b03bb7860e1a55def3dea9f90d467d00799262a24007b9d83cc6d859\"",
+        "ETag": "W/\"9624df5c41d23ed4a5d11ab16617d3e7aaa84d32be071cd4fbbbee5b01446226\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Drimix20/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png",
         "Tested": false
     },
@@ -219,7 +219,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"c79e3fba76fd502b124cdeb181ca1abebc3dca2aa639d97911a9d02e8cdbcf23\"",
+        "ETag": "W/\"fc048ab9e387dd073bfa1df92f688ed88115afe1655de6b2bd34492898dbbea1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png"
     },
     {
@@ -449,13 +449,13 @@
         "Name": "Windows Dark Mode Toggle",
         "Description": "Toggle Window's Dark & Light modes",
         "Author": "Garulf",
-        "Version": "1.0.0",
+        "Version": "1.0.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/windows-dark-mode-toggle",
-        "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.0/windows-dark-mode-toggle.zip",
+        "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.2/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"5bc1bfa529d7b4889e81a4db94d6d064e11400a2d64750765cabf990c5e09bfa\"",
+        "ETag": "W/\"9ddf598096986dc8c9f266d5427cb9925c46cc08b37f0d489719554fd57b59ef\"",
         "Tested": false
     },
     {
