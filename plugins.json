@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"78be610bfe7a6b99d95d0f4c8c8f3a15e2a56d48bd5d321a504791353b4181bb\"",
+        "ETag": "W/\"16435d856d5077fb61c662e121f42cb2fdf5714c69bc1c7262f9fb7ff9402a57\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"7deee366166968ed3a9eaadb740f9331a0613c94f19d2c6798db37225a09e174\"",
+        "ETag": "W/\"d0f314b23df06a054ced0451d3c9479bcfe425d50bb9b6b7ae708753d38fa3e2\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"39f7b8345c0cdb493957b0931272e0a9ba71ddcbb0f1a6f9e276aba100392f4c\"",
+        "ETag": "W/\"6715b14b6fa6e55c1242ee3f709d0d3245d8c1a89b61ce53efdf8a150b569b5d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -441,7 +441,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"96ab7937f9db547958566eb51578a1a236f7fe9fdd1e0ff16d31b4856c9ae746\"",
+        "ETag": "W/\"05fadf69a12d0fd4015d41b3b4033a3bff8943f46fae1d45ba1aace207e6165b\"",
         "Tested": false
     },
     {
