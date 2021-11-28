@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"9a6243b12bbc937f8582bd6c67c6053e87b75fdbb6a34acda8ac151061cd1afa\"",
+        "ETag": "W/\"e18e5bf5fb2a2351c658bb297c1c38d0ca35c75648cb1197442c8add90b626ed\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"14d95e9aa492f8f02edfd38f28db2fd4d7962e253d9ea69751d1ad75046f4e96\"",
+        "ETag": "W/\"b29ed9d6b3b166878ae222fae5b15bc3185eca817aef64bc683375b6f2d5676a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"5a6d97b908d6cc32f18b5dae944e7f4600f0d9e39e68d385f48ac8fbb3b42240\"",
+        "ETag": "W/\"fb070019443a6a7810f435f42c1cc50fcdd6f3f25f4c1f5b23e3ce5e72e6e854\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": false
     },
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"12c553be75048941916578d3559cdd580635be0fea101cbd018a1d3499fd8d84\"",
+        "ETag": "W/\"95d45359aa56ef3021a3b6b7c2e916010076de17e127bc12b7af6793eb337801\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -469,7 +469,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"fa9b5de1f414b6ca9971f01e26f3edc101bfe0cca1dd46716a7c1b1cb1389c83\"",
+        "ETag": "W/\"bcb43f0d2a05766bcf81cd3d7f547d30eda43df93d55396ebfd34f7348bf5d5c\"",
         "Tested": false
     }
 ]
