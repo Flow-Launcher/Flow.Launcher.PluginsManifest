@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"fb070019443a6a7810f435f42c1cc50fcdd6f3f25f4c1f5b23e3ce5e72e6e854\"",
+        "ETag": "W/\"57e5060103b18db1b67ffe1dc14df4a09cd014be0b566e12d7a0a948540f8a0a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": false
     },
@@ -371,7 +371,7 @@
         "Website": "https://github.com/Garulf/twitchy",
         "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.1.0/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
-        "ETag": "W/\"f0cc7f84c7cc6d307fce49081d6eadcb0671a6d1dd78059775c5a3795881bd08\"",
+        "ETag": "W/\"efeac0c17680520928952318a8ed3423144ff70e95ad211a0b1ac6cd8c729082\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
         "Tested": false
     },
