@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"16435d856d5077fb61c662e121f42cb2fdf5714c69bc1c7262f9fb7ff9402a57\"",
+        "ETag": "W/\"342266ce2412c6944055bb41c1caa96ac018c75c32ebdfffb5c0bf6d72bcd7d0\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"e18e5bf5fb2a2351c658bb297c1c38d0ca35c75648cb1197442c8add90b626ed\"",
+        "ETag": "W/\"0d3dfd874ab0a8cd6629d07a02164093e6f1d3fbf2177d5af16ff05f525e715c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"ceaf3143f3f72626cd30a18ac6edcbb5797b802d968fc3a880d4265dd41afb5d\"",
+        "ETag": "W/\"2822c8ddd1d7bab71e3bf316f2fae5d24d3270f4a99ce9d071818d845cbc6764\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"58f0e36c51f1e71d931b36e5118a299cc909c7e5d1bb6c1fc4a3454a9dae14c7\"",
+        "ETag": "W/\"17528437a899bdf71dac9a7d35eb666d803e5f9cd7f7919e46f1fcb268d88df3\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -166,7 +166,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"a7929ef44593d901eb2236ba7e0f4dca5a370caa70e2b6a1d8e3230a35bcd1f8\"",
+        "ETag": "W/\"174a4669e7c44cbf6633428b74b6a9967a833f40abc708d3ac268713e4461f4b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -179,7 +179,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"5bfcb6eb40c10376f07269dd278932e653f988e4e021d99d87f467cab2bc76b1\"",
+        "ETag": "W/\"1c8583427cfebd481cc1b73b044f5cc53320894073ca5a91aaf24537ddd090c7\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todoist@master/src/images/icon.png"
     },
     {
@@ -219,7 +219,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"fc048ab9e387dd073bfa1df92f688ed88115afe1655de6b2bd34492898dbbea1\"",
+        "ETag": "W/\"c31c98065b09830479af76465d22072737b9f929e86e99028152be9ff33164ae\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png"
     },
     {
@@ -343,7 +343,7 @@
         "Website": "https://github.com/Garulf/plexy",
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "ETag": "W/\"fcfee8a945f8db281013aa9f20c0c3b253bb80b3855cb894fe2f894452cacd27\"",
+        "ETag": "W/\"0e396228a3dadb1eac57622175fb012e1862b91aa46092e3479e96862cdd6cd8\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
         "Tested": false
     },
@@ -357,7 +357,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v2.0.2/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"2a4e098ea37333ff200342274f91610d18119266df2f59d292c9933569888630\"",
+        "ETag": "W/\"21a571922d5bf1e3b15a22f874e2c05083c656b8b107cca880d20c0eb1cf2995\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -414,7 +414,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"a6c3fd37adf2b258bfbc4001fdb4b4dc6a500beea2e4468fd17415e2061298e0\""
+        "ETag": "W/\"56728ce26799ccad59d31f2b64f0980ccb0931800ed7cd30503e50e5607f82f3\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
