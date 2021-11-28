@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"f7e760f0f6c1ff87f84ba54b0c5b3d9bf6c89a95c160085b9efb29bf1216ed45\"",
+        "ETag": "W/\"afe612f25805ac3f41fe9e08f175820c4c532a0ea826e4d3db01e57bd4369f75\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"1a4072d56aac15eef698ec11e1cb40793302e03beeae9c3b047149075fbe30f0\"",
+        "ETag": "W/\"89ca38da5a0b45c393ebe343723dc12d5d845217fdbc4584eb90c3fbd4ff927a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"57e5060103b18db1b67ffe1dc14df4a09cd014be0b566e12d7a0a948540f8a0a\"",
+        "ETag": "W/\"d3516de7e894790c1c78494804cfc9fc0f71bdce4140fc327ab1653d1f7cdd6a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": false
     },
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"95d45359aa56ef3021a3b6b7c2e916010076de17e127bc12b7af6793eb337801\"",
+        "ETag": "W/\"58f0e36c51f1e71d931b36e5118a299cc909c7e5d1bb6c1fc4a3454a9dae14c7\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -385,7 +385,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"02785f8a59a1014f65db76846ec78ca231f9aa6b773ed17a321fc2a476d12a63\"",
+        "ETag": "W/\"583da1a9633abbb8408f145cd201b058fe7190c9a5c9d93e3986ce1fb3bd1cb0\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -441,7 +441,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"05fadf69a12d0fd4015d41b3b4033a3bff8943f46fae1d45ba1aace207e6165b\"",
+        "ETag": "W/\"2d086995ee5f394605078167781566e68edd9c75a31eed973cb76c53770c469d\"",
         "Tested": false
     },
     {
@@ -469,7 +469,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"bcb43f0d2a05766bcf81cd3d7f547d30eda43df93d55396ebfd34f7348bf5d5c\"",
+        "ETag": "W/\"db7cafc883c82b8a2ff2ab11416baa061fafb73dc9475b52f739c6241ea33fd6\"",
         "Tested": false
     }
 ]
