@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"f4c158707359763c59163ba869974087b6f71b3d8447bbd579dc9477b17fe632\"",
+        "ETag": "W/\"47d7a7f42e64a4f6fdf665a554b8901a10ae790f961a61978fdc555f362c5b20\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -166,7 +166,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"1a7853cc7fd63ae84a0e8bb345b8b6c37202a12e25526d24ebe9bda887c6c994\"",
+        "ETag": "W/\"4309952036e7e9cb81e89cf61b1f9feb5f31ad3d204ef5e46564aa66f57710dd\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -427,7 +427,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"78d0e2a5c6c66bd4f43e6cfd099d37b2b42f6fc63262017fa0bfcb8a9f60ed09\"",
+        "ETag": "W/\"f08836910f02f4fb9c644f2fd48a1dd2d12e71217ead6a1b9f0e051e56275753\"",
         "Tested": false
     },
     {
