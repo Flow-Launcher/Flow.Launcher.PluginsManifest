@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"4448a77eb464355c9a704c6519f7976508cfbd9b52cf1f4f744dcec85dfeb255\"",
+        "ETag": "W/\"efcdbbf744a93887a3833a475bf0660b326833213c20f57efedc34c44ac12ae7\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -301,7 +301,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"d224f0c82c5b8e50de1aab421479d79c9014a9ce6d2705b4c58292d30c05076d\"",
+        "ETag": "W/\"9571323806d82c741a8f967c583fc5aab18bf60714a0870d4d5e2923650005ec\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
