@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"7252a34b3b0bd8807d5a9fa946ae6b4071e754d3ba5bf32e2338b9db5e6405dd\"",
+        "ETag": "W/\"d932e0c0eb44d8edc12b666d3609a976a5c745b506bdd845f7f42265332eebe9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -357,7 +357,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v2.0.2/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"4613e6911c544427965f4ef3d9b76059435bea6a08b8574507a8fa195895a1d4\"",
+        "ETag": "W/\"680de918896ec1dc91e84f125a0b3a9077cfb7f62feb32096d24a98343c566c3\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
