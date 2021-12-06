@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"0c4cd1d7cad47b73c1581ca924bf2a5355df48904c6ae300d36b833e38e2f6de\"",
+        "ETag": "W/\"1840f04a6543a60ba6ba0a9911d3fc04f7580ba522ca7f33d87048ad6bb005ff\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"cd32c20f83aba6d7617e65865fa2f31268e35144a7de6a4b70bca694ce9f1b00\"",
+        "ETag": "W/\"21d66ddf816fa18a357d1ac056305611019345ea7e5d600f5715f17c4674dff8\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"54162cdc9475db8d0604bad0c2f6cce88f4b656a443e9ea1f422dddf529e1d6d\"",
+        "ETag": "W/\"5f0a8d596c94798ace375508d400eb5f40baba08dd27465a1ecc673d98ad686a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -192,7 +192,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "ETag": "W/\"1d1b195e1e0bf807f3682cf6a0381bfa86562ce6082c8162388249c22b4b2d4d\"",
+        "ETag": "W/\"d089180c5c606e832ae7fcbf2cc6717b8f2dda3d922d661f1898f2f7914079f9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png"
     },
     {
@@ -255,15 +255,15 @@
         "Name": "Fancy Emoji",
         "Description": "Search for emoji and add to your clipboard automatically",
         "Author": "Mave",
-        "Version": "1.0.5",
+        "Version": "1.0.6",
         "Language": "python",
         "Website": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji",
-        "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.5/Flow.Launcher.Plugin.FancyEmoji.zip",
+        "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.6/Flow.Launcher.Plugin.FancyEmoji.zip",
         "UrlSourceCode": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/tree/master",
         "Etag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": false,
-        "ETag": "W/\"f6f4bcbd066d819079721566db4d860645d3cfba9638e7628c5db949327e1a41\""
+        "ETag": "W/\"b018cc6d1bffa6adbb28156f0900a060b34f70b11329c12fcad8dbd84a8793c6\""
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
