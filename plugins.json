@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"2a310667cd6a3f34f773aedfad7203a37aadca2b821ac6f2846153bafd250fde\"",
+        "ETag": "W/\"bc0affb1ac0637df60d2e42c6973680d26580f3374f7e784c25b64dda7ba2199\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"33d4475544b0fdc8c70a29c7f3337fd796f2af341d876894d8ad08e6f8c76dc8\"",
+        "ETag": "W/\"3107bf142ce9409961c8768f0e6e8b7feb890d16911470b60a1c5fc3d16ed638\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"502eb82830c611d752e9cb8efbbbc0dd6731bac7b0e2219657cc219466a2ed69\"",
+        "ETag": "W/\"ae1c90fa31aac9c228a3ba47e9fe102bc0053f206ef2a14bb81610ca0826abc7\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": false
     },
@@ -263,7 +263,7 @@
         "Etag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": false,
-        "ETag": "W/\"b018cc6d1bffa6adbb28156f0900a060b34f70b11329c12fcad8dbd84a8793c6\""
+        "ETag": "W/\"bca9c3e6ce4a9a055feb9bf9da7d524eb754ce81f91efef386172d05fdda6656\""
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
