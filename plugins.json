@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"c8d3c8868272d0a0b0f955e69acfc01c64b2f46195aada7e399ffea5c536fb2b\"",
+        "ETag": "W/\"b9646be4a5eeec9bdc85bc2b0213e93b95b1e1985412a6eb446bb93556a4658b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"bc0affb1ac0637df60d2e42c6973680d26580f3374f7e784c25b64dda7ba2199\"",
+        "ETag": "W/\"a17b55f8c58a883355a7323fe61cff01a188e8f504ef7117dd39119cd60d23cc\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -205,7 +205,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"9624df5c41d23ed4a5d11ab16617d3e7aaa84d32be071cd4fbbbee5b01446226\"",
+        "ETag": "W/\"4054035a98382356ac2dbf1d921912f1a50e13361f1822b82586542b9f33e559\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Drimix20/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png",
         "Tested": false
     },
@@ -219,7 +219,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"9ccc79005725a9b7b7c1f461d438027c9126dc29516f9c282c4f97d1391f9531\"",
+        "ETag": "W/\"0c11612be8f81989d22c30a104cf10403a2966f2a0100d8a647b9b58f95f9e89\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"c75f4b474a8e7e0120e217ee2aa1e1a55005562ed61bbd1e1df32ccefe867815\""
+        "ETag": "W/\"703c65f5e7b3f37774f53538d2210774de7608d5f5437c6ef0ea2a9ea2a6267d\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
@@ -456,7 +456,7 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.2/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"ee46eede3f658f4181e69bd0e10a4908db4bb4a81bb82587d75a09d52171599a\"",
+        "ETag": "W/\"3b2b845f37a2e551dd5f759427a43094cc2e326f4895ffe6092a7535992e4960\"",
         "Tested": false
     },
     {
