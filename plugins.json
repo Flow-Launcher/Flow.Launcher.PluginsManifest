@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"8f607e3820b156e8c9be19f28e5a60f34d548a7b9066cd7bbd2fe751ef147902\"",
+        "ETag": "W/\"2d196e70bbc268474c031840a69767f85e5a3ad903a984bd11731f5b79f6d68b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"d1811ff73ac0eb1575c467d054519743fbdb9b1567fed6fbad8516a51d5cc9f4\"",
+        "ETag": "W/\"a5b1679681574fde686bfa6a0abe8bbd681efab0bfcbb3fab9b0a58fa6def2b9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -263,7 +263,7 @@
         "Etag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": false,
-        "ETag": "W/\"9c2d0cc75e935b15636a5e9b9e73c49f7cee1866d7ba0801978b5d82ca37fcc0\""
+        "ETag": "W/\"f30a203b684014909fbaaf7f5645801364d92391f7b5fbdcb4c6ca27add230e0\""
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
@@ -442,7 +442,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"714ef2727fc8ab65c13ea5ee8148e2d9f459756d94c5b910e6aca9fe5ed74361\"",
+        "ETag": "W/\"8c4fc9f32cca2536e33c4e5590569763287a20f80928954be43a5d859a3a8775\"",
         "Tested": false
     },
     {
