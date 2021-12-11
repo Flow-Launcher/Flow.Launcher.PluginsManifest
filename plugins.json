@@ -472,5 +472,17 @@
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
         "ETag": "W/\"140bc5097e3771aa4157b9a32979838f82cef68ff44653c0f75f85093bac0b22\"",
         "Tested": false
+    },
+    {
+        "ID": "A4A92BC0C742463187E5CCBA9B849B86",
+        "Name": "Tenor Flow",
+        "Description": "Search Tenor for amazing GIFs!",
+        "Author": "Garulf",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/Tenor-Flow",
+        "UrlDownload": "https://github.com/Garulf/Tenor-Flow/releases/download/v1.0.1/Tenor-Flow.zip",
+        "UrlSourceCode": "https://github.com/Garulf/Tenor-Flow/tree/main",
+        "IcoPath": "https://github.com/Garulf/Tenor-Flow/raw/main/icon.png"
     }
 ]
