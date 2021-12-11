@@ -475,13 +475,13 @@
     },
     {
         "ID": "A4A92BC0C742463187E5CCBA9B849B86",
-        "Name": "Tenor Flow",
+        "Name": "TenorGIF",
         "Description": "Search Tenor for amazing GIFs!",
         "Author": "Garulf",
-        "Version": "1.0.1",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/TenorGIF",
-        "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.0.1/TenorGIFzip",
+        "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.1.0/TenorGIFzip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png"
     }
