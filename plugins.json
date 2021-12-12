@@ -484,6 +484,7 @@
         "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.1.0/TenorGIF.zip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
-        "ETag": "W/\"c5fd934c31828e7f52cf0124c54d945de180ca7fdcbd4da3c8e13b7d315d33c9\""
+        "ETag": "W/\"c5fd934c31828e7f52cf0124c54d945de180ca7fdcbd4da3c8e13b7d315d33c9\"",
+        "Tested": true
     }
 ]
