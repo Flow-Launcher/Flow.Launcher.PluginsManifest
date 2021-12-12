@@ -2,8 +2,8 @@ name: Update tested plugins
 on:
   push:
     branches: [ plugin_api_v2 ]
-    # paths:
-    #   - 'plugins.json'
+    paths:
+      - 'plugins.json'
 jobs:
   build:
     continue-on-error: true
