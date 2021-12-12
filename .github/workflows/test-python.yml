@@ -11,10 +11,10 @@ jobs:
         uses: fkirc/skip-duplicate-actions@master
         with:
           skip_after_successful_duplicate: 'true'
-          paths: '["plugin.json"]'
+          paths: '["plugins.json"]'
   test-run-plugin:
     needs: skip_check_job
-    if: ${{ needs.pre_job.outputs.should_skip != 'true' }}
+    if: ${{ needs.skip_check_job.outputs.should_skip != 'true' }}
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
