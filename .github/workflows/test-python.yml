@@ -36,4 +36,4 @@ jobs:
       - name: Download & test plugin
         id: download
         run: |
-          ./ci/src/test-python.py
+          python ./ci/src/test-python.py
