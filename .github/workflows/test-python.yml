@@ -14,7 +14,7 @@ jobs:
           paths: '["plugins.json"]'
   test-run-plugin:
     needs: skip_check_job
-    if: ${{ needs.should_skip.outputs.should_skip != 'true' }}
+    if: ${{ needs.skip_check_job.outputs.should_skip != 'true' }}
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
