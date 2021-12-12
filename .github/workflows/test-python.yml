@@ -5,16 +5,18 @@ jobs:
   skip_check_job:
     runs-on: ubuntu-latest
     outputs:
-      should_skip: ${{ steps.skip_check.outputs.should_skip }}
+      plugins: ${{ steps.filter.outputs.plugins }}
     steps:
-      - id: skip_check
-        uses: fkirc/skip-duplicate-actions@master
-        with:
-          skip_after_successful_duplicate: 'true'
-          paths: '["plugins.json"]'
+    - uses: actions/checkout@v2
+    - uses: dorny/paths-filter@v2
+      id: filter
+      with:
+        filters: |
+          plugins:
+            - 'plugins.json'
   test-run-plugin:
     needs: skip_check_job
-    if: ${{ needs.skip_check_job.outputs.should_skip != 'true' }}
+    if: ${{ needs.skip_check_job.outputs.plugins == 'true' }}
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
