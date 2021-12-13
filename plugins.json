@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"a47871a7d9b692e493ff950ab49562d906f61b3bdcd37a7d8e28879055711fbc\"",
+        "ETag": "W/\"6d18fe095b3b579c6f68326d8ef9b62ea10ca69c9a212718798af2cec7161664\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"ff17b9b2a31699bfdc5ee2b2d7ab90ef08255cf796f8b1db13be30127850ba9f\"",
+        "ETag": "W/\"d43bf6b04a2f9ae5d3bcb9de03003411ec39f21a4dbceb789f33c0e9e9aaf0b6\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"a2fd9a301cb3daa6b8a57ef63edc613ac9dae15999ebae93bf04c616c9d0f81a\"",
+        "ETag": "W/\"69b0bb04888dcdad2c04d8db99ea310e0df98bba8fce33ecaef4b9d1702a8e9f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"87062a06782cef5b36a05c54eeff43b629dfbd863aa8636e07d01a6ea88d4e9b\"",
+        "ETag": "W/\"c7fbf4879b89ef7d63740984c8e0b6044c8cb16efde51e05ec77f043c9887ae9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -166,7 +166,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"8506ec4e486ce2940a1b82cd8c99d872d6d1cf4dc2e5217fc651f7b6f81af8a7\"",
+        "ETag": "W/\"65924f6501ad7c27c1c05b08d8341874dddf3301fcec7ea3901ab3ba61fab10b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -358,7 +358,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v2.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"d0dd5a4cbf85891a4b5e1e57a1410871e061b09cd0ca1c992a755d3309c15c79\"",
+        "ETag": "W/\"713eea2ef76c6abe2c47fdb40622f8768273a4ef61dc01a3fbf9a67af0c445b2\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"6b6131888180c384b7150d6f0378c05f94e145ecc7765ef12be5e9a333759b57\"",
+        "ETag": "W/\"abe9056008cfe72df88fe76790a54311e008a51e9a986cb7a15ef930f3263026\"",
         "Tested": false
     },
     {
@@ -484,7 +484,7 @@
         "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.1.1/TenorGIF.zip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
-        "ETag": "W/\"440810515f01ccda28d3a2e952baa72571cf404ab6fb7e1f74cb89fbda4c80b9\"",
+        "ETag": "W/\"77785a8bcc488bd35101cef5182aafa1f0200aed58c9c2ecbcb1eef4303f7602\"",
         "Tested": true
     }
 ]
