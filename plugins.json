@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"d9b11d82d626b797f076d8796c223d2c4d173e5196b3143c5b3f227812da050d\"",
+        "ETag": "W/\"a47871a7d9b692e493ff950ab49562d906f61b3bdcd37a7d8e28879055711fbc\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"82c1c54fc066c6a12819e3aa3ba0503c343e8b1fc051dd5a640d6d731af0e623\"",
+        "ETag": "W/\"2d6c9d3460c29919215be43e6f56b68ed8883b78bdf081c6b5ce599282324c4c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"bb3af134d31afb32a52e59ad88301953aabd3b4abada2cdc5d7adf4f9c0891be\"",
+        "ETag": "W/\"ff17b9b2a31699bfdc5ee2b2d7ab90ef08255cf796f8b1db13be30127850ba9f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"8864341d9e19a10fe3398b833749f7d7996788b963f04f5b13e7a1e150ed4ee1\"",
+        "ETag": "W/\"a2fd9a301cb3daa6b8a57ef63edc613ac9dae15999ebae93bf04c616c9d0f81a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"ccbacb15bb81df1b63b5f8eac5589430f5510a31b807298948953a55b5918172\"",
+        "ETag": "W/\"0ef028dca9cfdb8e8d9cdc9da192f313e0aafec24b0ffbf96e58cb6fc8f9b087\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -442,7 +442,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.3/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"0782dae632e89c77935f6275702accbff0191105204a3afe42246a8958ccce42\"",
+        "ETag": "W/\"dfb2516367b8027bfc3085c7c23087b2808e47c1a9143bd2b622b7c62e1aa5b9\"",
         "Tested": false
     },
     {
@@ -456,7 +456,7 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.2/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"d7e0bc28a9872e9ed405a5715e04b8e15f69773848226f426b34a07a22c535b2\"",
+        "ETag": "W/\"98b9b29dd1631311a17f0a372edd265dedd524cbeafdc7f66ca21ec068b45322\"",
         "Tested": false
     },
     {
