@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"48b556dfcde43e1cc1b433c0541f5d5afe5ebf19f4d90fad58c2294567911382\"",
+        "ETag": "W/\"5118be71ba3f8ae9872e35b182407d87059836562633eb865007f7d72cc9e3d8\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"8e9b63c188789f115feb3280c99ed80d94ce6c6cc8f6e9bbe697dfda2f7819b0\"",
+        "ETag": "W/\"4f46225069959edff5ac7a3381697c1e79a64511ca6582661b10fb23962a65a5\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"93a93396dcf91190273a210383231db506b93703fb75a14eb24e589e295f7d5b\"",
+        "ETag": "W/\"86d169f4dc1abc07294b37ea73e819e38204712f3819c495a2be3f351704be2f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -241,12 +241,12 @@
         "Name": "RollDice",
         "Description": "Rolls the given dices and evaluates the expression",
         "Author": "lvonkacsoh",
-        "Version": "1.0",
+        "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
-        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0/Flow.Launcher.RollDice.zip",
+        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0.1/Flow.Launcher.Plugin.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "ETag": "W/\"613a20ab3d70a5efc76a22ed6f4385e4c2287e73e272a30ca966bfccf39f5c38\"",
+        "ETag": "W/\"70259bedaa403cebfe3942999d4e0f927922d0091d0a4c785b071d2640c66a2e\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
         "Tested": false
     },
@@ -358,7 +358,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v2.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"8f6bcac44cc365b7b7df0273d2b0e667e1f6a08e69340ab4ae10b98a84f631c9\"",
+        "ETag": "W/\"d0dd5a4cbf85891a4b5e1e57a1410871e061b09cd0ca1c992a755d3309c15c79\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -386,7 +386,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"b2a60f81b9d278fcfefb7e40360b6fdea7ba1089806b6c074c208e695cefb3d7\"",
+        "ETag": "W/\"accff183983eb54fa846977b9f8cafc72108ceb29b54f64fe346dd9138135dc3\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -436,13 +436,13 @@
         "Name": "Window Services",
         "Description": "Start and stop Windows services.",
         "Author": "Garulf",
-        "Version": "1.1.1",
+        "Version": "1.1.3",
         "Language": "python",
         "Website": "https://github.com/Garulf/window-services",
-        "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.1/window-services.zip",
+        "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.3/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"663ef75298be56344ba5c16a685b711a6c48cbf015f53f86af1977eaafd86f54\"",
+        "ETag": "W/\"8ed5b64872c1e36211a4af36991cc6ac07e369d3b3b209f3107566b7f2924d4e\"",
         "Tested": false
     },
     {
