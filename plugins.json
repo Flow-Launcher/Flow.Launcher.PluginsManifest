@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"c0fc2f22b64707cb10641a83867d2b08b16635886c252b1df081d3e87377fd9d\"",
+        "ETag": "W/\"912fd7328c2ff20cda8e5183806a89fc7bfc5ed641fe1d1ae0120e2cfcc02b9a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -166,7 +166,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"65924f6501ad7c27c1c05b08d8341874dddf3301fcec7ea3901ab3ba61fab10b\"",
+        "ETag": "W/\"b60c5988d3336c26b265d198ef95a4b33814141512600e1018d4e79465667b56\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -263,7 +263,7 @@
         "Etag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": false,
-        "ETag": "W/\"a06fb8540da535237200c593d571a7dbc1dcfaa172f4b5280fff8278e6ccd465\""
+        "ETag": "W/\"bcc75f7820562773189dd22168e708f3bcd6692b6bf50d7250c84a22075db805\""
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"89e356c479aacd309d58c6c4ec98ea54cebb063cb3d4107e13d3936e62ca6291\"",
+        "ETag": "W/\"56e141797d09922dc6eed6b756a697b667066edf85f857e148485a2fc85d2a02\"",
         "Tested": false
     },
     {
