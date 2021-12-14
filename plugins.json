@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"e66bdb0714694d8c94f43feb5eb7d0ae631397889af3288ede8929c21bb186c4\"",
+        "ETag": "W/\"4ea014b4d3b3f0911a68b55e6041fee5ba388988904a2df1e8f33f3a04297bc8\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"cde081401768cac538ed870e329d8185efaf334aafac34d31f610dd42a4a595a\"",
+        "ETag": "W/\"6247d78ff59918fb4a74a4c64731d21441e8ff306cdf3cdc24d25d5570a45f9c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"ea8a40814bb89be9472d1057d5e638fb6a8c2121868f891ea36a14947f926c2b\"",
+        "ETag": "W/\"cbce8aeca82b2585b26e86f876c8bd9140eb0ef50dfc216d2883b0ffe24b156b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"fd050149f0017d367dd3a3c90bc655726a2983a5b699bbdd8a54bea9c4ca31dd\"",
+        "ETag": "W/\"a9ab11de72d8d3bca64dd2a325ee327b625f99c34d7f571bab835ad2fe25c013\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -456,7 +456,7 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.2/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "ETag": "W/\"aa4d01858821fb05e8fdbae0fd98aaba00a8f48a99d2c4578b1b10d39c292f9b\"",
+        "ETag": "W/\"c18f8b987896bafbdeb1ddea94e33b09b29b4fae9c7fb0e84f478839d677ec09\"",
         "Tested": false
     },
     {
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"56e141797d09922dc6eed6b756a697b667066edf85f857e148485a2fc85d2a02\"",
+        "ETag": "W/\"64fee59c23d7a0cc2ff7317a708cab8f7dfe99db45e57da8a38b519c9e5e1e78\"",
         "Tested": false
     },
     {
