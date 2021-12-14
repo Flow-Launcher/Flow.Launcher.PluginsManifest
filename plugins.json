@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"912fd7328c2ff20cda8e5183806a89fc7bfc5ed641fe1d1ae0120e2cfcc02b9a\"",
+        "ETag": "W/\"e66bdb0714694d8c94f43feb5eb7d0ae631397889af3288ede8929c21bb186c4\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"e4e7e809646fc9054dfaddf6f8637566a594301ab819dd8c00cbd82c79de5f49\"",
+        "ETag": "W/\"467a1d6f8b2de4188cb7858627ea713a93852b726c9fa198dc4b174d3b714edf\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"5ef8d45d748fff9b2629c403e142d2055b2c5c1cb43549ab265496c0c7a8e282\"",
+        "ETag": "W/\"ea8a40814bb89be9472d1057d5e638fb6a8c2121868f891ea36a14947f926c2b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"e5005eb339d65569838380b7a61dfe73839beb347ae435cf7bf74a57026d395b\""
+        "ETag": "W/\"669bdc10e7602a042e0fb51e40f6c6674ea0f1531e1ac054eeddac0c6badb1d2\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
