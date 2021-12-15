@@ -263,7 +263,7 @@
         "Etag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": false,
-        "ETag": "W/\"e21e44f707111224c9a79b7df70764091fa6dd12f0c43a8da08dbc1fe55e7943\""
+        "ETag": "W/\"e3cb336545145e0fa82e46239ab460b022c2315674219dbdabd5bc99351c7447\""
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
@@ -372,7 +372,7 @@
         "Website": "https://github.com/Garulf/twitchy",
         "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.1.0/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
-        "ETag": "W/\"9197f729aa13cdf818abc6bb898c3c8ca79df08eb54e3a0d4e1271430d7cddfc\"",
+        "ETag": "W/\"01c8d12debbeaa63a4cde08c17fead1187507aab6aaadd3effb2c4bb03bac980\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
         "Tested": false
     },
