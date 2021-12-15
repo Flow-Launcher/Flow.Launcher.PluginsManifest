@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"fa468ab5eb4949bb52932b46a8a44ffa3b6c8eb6c91b463ac2d93f6ca6adc8e1\"",
+        "ETag": "W/\"9b03fcb66db9752602bc801a7e85efa46bcaf77c5907f5d058baedb7660b9505\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -263,7 +263,7 @@
         "Etag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": false,
-        "ETag": "W/\"d11a88149c04e8755b065a4c121ce997cf8d6c17b2ded4d64398e1048476dd24\""
+        "ETag": "W/\"de2eefc3cbba1b50ac8286175ff8141b106478757691bf92c88013fbad9f24cd\""
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
@@ -422,13 +422,13 @@
         "Name": "Number Converter",
         "Description": "Convert numbers between dec/oct/hex/bin",
         "Author": "liberize",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter",
-        "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.0/NumberConverter-1.0.0.zip",
+        "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.1/Flow.Launcher.Plugin.NumberConverter.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"fb246cd944e67617b26a851b8b26362d3c4831f110e9cb798a560700fcbcb99d\"",
+        "ETag": "W/\"72cd76fa9d9747690991fc2a3b9bff624f44e2ea6f55602a75e35a9919e1851b\"",
         "Tested": false
     },
     {
@@ -442,7 +442,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.3/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"48d986def1b30b2b645d234f88171f151fd703961c95797f29900a674c5b047b\"",
+        "ETag": "W/\"ff5a7a10a71d46010c70a304c2d1a239e97b07927b470f5cf03fe543929a49f8\"",
         "Tested": false
     },
     {
