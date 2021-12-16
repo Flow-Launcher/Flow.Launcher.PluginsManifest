@@ -70,6 +70,8 @@ def run_plugin(plugin_name, plugin_path, execute_path):
         {"method": "query", "parameters": [""], "Settings": default_settings}
     )
     full_args = ["python", "-S", Path(Path(plugin_path, execute_path)), args]
+    # Older Flox used environmental variable to locate Images directory
+    os.environ["PYTHONPATH"] = str(USER_PATH.joinpath("PythonEmbeddable"))
     print(f'{"#" * 9} Input {"#" * 9}\n{full_args}')
     p = Popen(full_args, text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
