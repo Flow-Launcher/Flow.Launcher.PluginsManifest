@@ -48,7 +48,7 @@ def get_latest_plugin(manifest):
         sys.exit(1)
     return _plugin
 
-def run_plugin(plugin_path, execute_path):
+def run_plugin(plugin_name, plugin_path, execute_path):
     os.chdir(plugin_path)
     default_settings = init_settings(plugin_name, plugin_path)
     args = json.dumps(
@@ -142,7 +142,7 @@ if __name__ == "__main__":
     print("Adding plugin to Flow Launcher's settings file...")
     create_plugin_settings(id, plugin['Name'], plugin['Version'], read_plugin(path)['ActionKeyword'])
     print("Running plugin...")
-    run_plugin(plugin_path, execute_file)
+    run_plugin(plugin['Name'], plugin_path, execute_file)
 
 
 
