@@ -16,6 +16,10 @@ APP_PATH = Path(os.environ["LOCALAPPDATA"], "FlowLauncher")
 USER_DIRS = ["Settings", "Logs", "PythonEmbeddable", "Themes", "Plugins"]
 APP_DIRS = ["Images"]
 
+def _mkdir(path):
+    if not os.path.exists(path):
+        os.mkdir(path)
+
 def get_download_url(url):
     _url = url.split("/")
     author = _url[3]
@@ -64,14 +68,14 @@ def run_plugin(plugin_path, execute_path):
         sys.exit(exit_code)
 
 def setup_flow_environment():
-    os.mkdir(USER_PATH)
-    os.mkdir(APP_PATH)
+    _mkdir(USER_PATH)
+    _mkdir(APP_PATH)
     for _dir in USER_DIRS:
-        os.mkdir(Path(USER_PATH, _dir))
+        _mkdir(Path(USER_PATH, _dir))
     for _dir in APP_DIRS:
-        os.mkdir(Path(APP_PATH, _dir))
-    os.makedirs(Path(USER_PATH, "Settings", "Plugins"))
-    os.makedirs(Path(APP_PATH, "app-1.9.0"))
+        _mkdir(Path(APP_PATH, _dir))
+    os.makedirs(Path(USER_PATH, "Settings", "Plugins"), exist_ok=True)
+    os.makedirs(Path(APP_PATH, "app-1.9.0"), exist_ok=True)
     with open(USER_PATH.joinpath("Settings", "Settings.json"), "w") as f:
         json.dump({
             "PluginSettings": {"Plugins": {}},
@@ -88,7 +92,7 @@ def init_settings(plugin_name, plugin_path):
                 if "defaultValue" in ui_element['attributes'].keys():
                     default_values[ui_element['attributes']['name']] = ui_element['attributes']['defaultValue']
         settings_path = Path(USER_PATH, "Settings", "Plugins", plugin_name)
-        os.mkdir(settings_path)
+        _mkdir(settings_path)
         with open(settings_path.joinpath("Settings.json"), "w") as f:
             f.write(json.dumps(default_values, indent=4))             
     return json.dumps(default_values)
@@ -126,7 +130,7 @@ if __name__ == "__main__":
     z = download_release(latest_release)
     zip_dir = USER_PATH.joinpath("Plugins", plugin['Name'])
     try:
-        os.mkdir(zip_dir)
+        _mkdir(zip_dir)
     except FileExistsError:
         pass
     print("Extracting...")
