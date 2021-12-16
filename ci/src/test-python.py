@@ -93,7 +93,8 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
         sys.exit(exit_code)
 
 
-def setup_flow_environment():
+def setup_flow_environment() -> None:
+    """Setup Flow Launcher local & roaming directory."""
     _mkdir(USER_PATH)
     _mkdir(APP_PATH)
     for _dir in USER_DIRS:
