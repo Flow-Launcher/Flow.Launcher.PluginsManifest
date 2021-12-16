@@ -20,6 +20,11 @@ def _mkdir(path):
     if not os.path.exists(path):
         os.mkdir(path)
 
+def print_section(title: str, text: str, char: str = "#", repeat_times: int = 9) -> str:
+    _section_string = f'{char * repeat_times} {title} {char * repeat_times}\n{text}'
+    print(_section_string)
+    return _section_string
+
 def get_github_release(url):
     _url = url.split("/")
     author = _url[3]
@@ -73,19 +78,19 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
     full_args = ["python", "-S", Path(Path(plugin_path, execute_path)), args]
     # Older Flox used environmental variable to locate Images directory
     os.environ["PYTHONPATH"] = str(USER_PATH.joinpath("PythonEmbeddable"))
-    print(f'{"#" * 9} Input {"#" * 9}\n{full_args}')
+    print_section("Input", full_args)
     p = Popen(full_args, text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
     exit_code = p.wait()
     if stdout != "":
-        print(f'{"#" * 9} Output {"#" * 9}\n{stdout}')
+        print_section("Output", stdout)
         valid_json = test_valid_json(stdout)
     if exit_code == 0 and valid_json:
-        print("Test passed!")
+        print_section("Test passed!", "")
     else:
-        print(f'Test failed!\nPlugin returned a non-zero exit code!\n{"#" * 9} Trace {"#" * 9}')
+        print(f'Test failed!\nPlugin returned a non-zero exit code!')
         if stderr != "":
-            print(stderr)
+            print_section('Trace', stderr)
         sys.exit(exit_code)
 
 
