@@ -20,14 +20,29 @@ def _mkdir(path):
     if not os.path.exists(path):
         os.mkdir(path)
 
-def get_download_url(url):
+def get_github_release(url):
     _url = url.split("/")
     author = _url[3]
     plugin_name = _url[4]
     response = requests.get(f"https://api.github.com/repos/{author}/{plugin_name}/releases/latest")
-    return response.json()["assets"][0]["browser_download_url"]
+    download_url = response.json()["assets"][0]["browser_download_url"]
+    print(f'Downloading from {download_url}')
+    return download_url
 
-def download_release(url):
+def download_and_extract(plugin: dict) -> str:
+    """Download and extract plugin."""
+    if "UrlDownload" in plugin.keys():
+        print(f'Downloading from {plugin["UrlDownload"]}')
+        file = _download(plugin["UrlDownload"])
+    else:
+        file = _download(get_github_release(plugin["UrlSourceCode"]))
+    extract_dir = USER_PATH.joinpath("Plugins", name)
+    _mkdir(extract_dir)
+    print("Extracting...")
+    file.extractall(extract_dir)
+    return extract_dir
+
+def _download(url):
     r = requests.get(url)
     r.raise_for_status()
     return zipfile.ZipFile(io.BytesIO(r.content))
@@ -61,13 +76,15 @@ def run_plugin(plugin_name, plugin_path, execute_path):
     exit_code = p.wait()
     if stdout != "":
         print(f'{"#" * 9} Output {"#" * 9}\n{stdout}')
-    if exit_code == 0:
+        valid_json = test_valid_json(stdout)
+    if exit_code == 0 and valid_json:
         print("Test passed!")
     else:
         print(f'Test failed!\nPlugin returned a non-zero exit code!\n{"#" * 9} Trace {"#" * 9}')
         if stderr != "":
             print(stderr)
         sys.exit(exit_code)
+
 
 def setup_flow_environment():
     _mkdir(USER_PATH)
@@ -83,7 +100,8 @@ def setup_flow_environment():
             "PluginSettings": {"Plugins": {}},
         }, f, indent=4)
     
-def init_settings(plugin_name, plugin_path):
+def init_settings(plugin_name: str, plugin_path: str) -> dict:
+    """Add settings for the plugin to Flow Launcher's settings file."""
     default_values = {}
     path = Path(plugin_path, "SettingsTemplate.yaml")
     if path.exists():
@@ -113,36 +131,44 @@ def create_plugin_settings(id, name, version, action_keyword):
     with open(USER_PATH.joinpath("Settings", "Settings.json"), "w") as f:
         json.dump(settings, f, indent=4)
 
+def test_valid_json(data):
+    try:
+        json.loads(data)
+    except Exception as e:
+        print(f'Invalid JSON!\n{e}')
+        return False
+    else:
+        return True
 
 if __name__ == "__main__":
     # Load plugins manifest
     manifest = plugin_reader()
 
+    # Get latest untested plugin
+    plugin = get_latest_plugin(manifest)
+    name = plugin["Name"]
+    id = plugin["ID"]
+    version = plugin["Version"]
+    print(f"Found untested plugin: {name}")
+
     # Set up the Flow environment
     print("Setting up Flow Launcher environment...")
     setup_flow_environment()
 
-    # Get latest untested plugin
-    plugin = get_latest_plugin(manifest)
-    print(f"Found untested plugin: {plugin['Name']}")
-
     # Download latest release
-    latest_release = get_download_url(plugin["UrlSourceCode"])
-    print("Downloading latest release...")
-    z = download_release(latest_release)
-    zip_dir = USER_PATH.joinpath("Plugins", plugin['Name'])
-    try:
-        _mkdir(zip_dir)
-    except FileExistsError:
-        pass
-    print("Extracting...")
-    z.extractall(zip_dir)
-    for path in Path(zip_dir).glob("**/plugin.json"):
+    extract_dir = download_and_extract(plugin)
+
+    # Locate Plugins manifest file (plugins.json)
+    for path in Path(extract_dir).glob("**/plugin.json"):
         execute_file = read_plugin(path)["ExecuteFileName"]
         id = read_plugin(path)["ID"]
         plugin_path = Path(path).parent
+
+    # Add plugin to Flow Launcher's settings file
     print("Adding plugin to Flow Launcher's settings file...")
     create_plugin_settings(id, plugin['Name'], plugin['Version'], read_plugin(path)['ActionKeyword'])
+
+    # Run plugin
     print("Running plugin...")
     run_plugin(plugin['Name'], plugin_path, execute_file)
 
