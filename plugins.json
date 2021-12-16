@@ -114,7 +114,8 @@
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
         "ETag": "W/\"a615864c488d5f724dca59d7972f445ac3948e558ce00805adacd23caddfe07e\"",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
+        "Tested": false
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
@@ -302,8 +303,7 @@
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
         "ETag": "W/\"bca6d0e0537de1efdf432143926da5114d38f9eb7bdd8b3e296c84843d0f307c\"",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
-        "Tested": false
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png"
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",

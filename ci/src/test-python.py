@@ -146,10 +146,8 @@ if __name__ == "__main__":
 
     # Get latest untested plugin
     plugin = get_latest_plugin(manifest)
-    name = plugin["Name"]
-    id = plugin["ID"]
-    version = plugin["Version"]
-    print(f"Found untested plugin: {name}")
+    name, id, version = plugin["Name"], plugin["ID"], plugin["Version"]
+    print(f"Found untested plugin: {name} (Version: {version})")
 
     # Set up the Flow environment
     print("Setting up Flow Launcher environment...")
@@ -170,7 +168,7 @@ if __name__ == "__main__":
 
     # Run plugin
     print("Running plugin...")
-    run_plugin(plugin['Name'], plugin_path, execute_file)
+    run_plugin(name, plugin_path, execute_file)
 
 
 
