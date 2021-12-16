@@ -9,6 +9,12 @@ from subprocess import Popen, PIPE
 from _utils import clean, id_name, language_list, language_name, plugin_reader, plugin_writer
 
 import requests
+import yaml
+
+USER_PATH = Path(os.environ["APPDATA"], "FlowLauncher")
+APP_PATH = Path(os.environ["LOCALAPPDATA"], "FlowLauncher")
+USER_DIRS = ["Settings", "Logs", "PythonEmbeddable", "Themes", "Plugins"]
+APP_DIRS = ["Images"]
 
 def get_download_url(url):
     _url = url.split("/")
@@ -40,7 +46,11 @@ def get_latest_plugin(manifest):
 
 def run_plugin(plugin_path, execute_path):
     os.chdir(plugin_path)
-    p = Popen(["python", "-S", Path(Path(plugin_path, execute_path)), '{\"method\": \"query\", \"parameters\": [\"\"]}'], text=True, stdout=PIPE, stderr=PIPE)
+    default_settings = init_settings(plugin_name, plugin_path)
+    args = json.dumps(
+        {"method": "query", "parameters": [""], "Settings": default_settings}
+    )
+    p = Popen(["python", "-S", Path(Path(plugin_path, execute_path)), args], text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
     exit_code = p.wait()
     if stdout != "":
@@ -53,14 +63,68 @@ def run_plugin(plugin_path, execute_path):
             print(stderr)
         sys.exit(exit_code)
 
+def setup_flow_environment():
+    os.mkdir(USER_PATH)
+    os.mkdir(APP_PATH)
+    for _dir in USER_DIRS:
+        os.mkdir(Path(USER_PATH, _dir))
+    for _dir in APP_DIRS:
+        os.mkdir(Path(APP_PATH, _dir))
+    os.makedirs(Path(USER_PATH, "Settings", "Plugins"))
+    os.makedirs(Path(APP_PATH, "app-1.9.0"))
+    with open(USER_PATH.joinpath("Settings", "Settings.json"), "w") as f:
+        json.dump({
+            "PluginSettings": {"Plugins": {}},
+        }, f, indent=4)
+    
+def init_settings(plugin_name, plugin_path):
+    default_values = {}
+    path = Path(plugin_path, "SettingsTemplate.yaml")
+    if path.exists():
+        with open("SettingsTemplate.yaml", "r") as f:
+            settings = yaml.safe_load(f)
+        for key in settings.keys():
+            for ui_element in settings[key]:
+                if "defaultValue" in ui_element['attributes'].keys():
+                    default_values[ui_element['attributes']['name']] = ui_element['attributes']['defaultValue']
+        settings_path = Path(USER_PATH, "Settings", "Plugins", plugin_name)
+        os.mkdir(settings_path)
+        with open(settings_path.joinpath("Settings.json"), "w") as f:
+            f.write(json.dumps(default_values, indent=4))             
+    return json.dumps(default_values)
+
+def create_plugin_settings(id, name, version, action_keyword):
+    with open(USER_PATH.joinpath("Settings", "Settings.json"), "r") as f:
+        settings = json.load(f)
+    settings['PluginSettings']['Plugins'][id] = {
+        "ID": id,
+        "Name": name,
+        "Version": version,
+        "ActionKeywords": [
+            action_keyword
+        ]
+    }
+    with open(USER_PATH.joinpath("Settings", "Settings.json"), "w") as f:
+        json.dump(settings, f, indent=4)
+
+
 if __name__ == "__main__":
+    # Load plugins manifest
     manifest = plugin_reader()
+
+    # Set up the Flow environment
+    print("Setting up Flow Launcher environment...")
+    setup_flow_environment()
+
+    # Get latest untested plugin
     plugin = get_latest_plugin(manifest)
     print(f"Found untested plugin: {plugin['Name']}")
+
+    # Download latest release
     latest_release = get_download_url(plugin["UrlSourceCode"])
     print("Downloading latest release...")
     z = download_release(latest_release)
-    zip_dir = Path.cwd().joinpath("plugin")
+    zip_dir = USER_PATH.joinpath("Plugins", plugin['Name'])
     try:
         os.mkdir(zip_dir)
     except FileExistsError:
@@ -69,7 +133,10 @@ if __name__ == "__main__":
     z.extractall(zip_dir)
     for path in Path(zip_dir).glob("**/plugin.json"):
         execute_file = read_plugin(path)["ExecuteFileName"]
+        id = read_plugin(path)["ID"]
         plugin_path = Path(path).parent
+    print("Adding plugin to Flow Launcher's settings file...")
+    create_plugin_settings(id, plugin['Name'], plugin['Version'], read_plugin(path)['ActionKeyword'])
     print("Running plugin...")
     run_plugin(plugin_path, execute_file)
 
