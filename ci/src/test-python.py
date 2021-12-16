@@ -51,7 +51,7 @@ def read_plugin(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def get_latest_plugin(manifest):
+def get_latest_plugin(manifest: dict) -> dict:
     for _plugin in manifest[::-1]:
         if _plugin["Language"] == "python" and "Tested" not in _plugin.keys():
             if "github.com" not in _plugin["UrlSourceCode"]:
@@ -63,7 +63,8 @@ def get_latest_plugin(manifest):
         sys.exit(1)
     return _plugin
 
-def run_plugin(plugin_name, plugin_path, execute_path):
+def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
+    """Run plugin and check output."""
     os.chdir(plugin_path)
     default_settings = init_settings(plugin_name, plugin_path)
     args = json.dumps(
@@ -103,7 +104,7 @@ def setup_flow_environment():
         }, f, indent=4)
     
 def init_settings(plugin_name: str, plugin_path: str) -> dict:
-    """Add settings for the plugin to Flow Launcher's settings file."""
+    """Read plugins template file and initialize settings."""
     default_values = {}
     path = Path(plugin_path, "SettingsTemplate.yaml")
     if path.exists():
@@ -119,7 +120,8 @@ def init_settings(plugin_name: str, plugin_path: str) -> dict:
             f.write(json.dumps(default_values, indent=4))             
     return json.dumps(default_values)
 
-def create_plugin_settings(id, name, version, action_keyword):
+def create_plugin_settings(id, name, version, action_keyword) -> None:
+    """Add settings for the plugin to Flow Launcher's settings file."""
     with open(USER_PATH.joinpath("Settings", "Settings.json"), "r") as f:
         settings = json.load(f)
     settings['PluginSettings']['Plugins'][id] = {
@@ -133,7 +135,8 @@ def create_plugin_settings(id, name, version, action_keyword):
     with open(USER_PATH.joinpath("Settings", "Settings.json"), "w") as f:
         json.dump(settings, f, indent=4)
 
-def test_valid_json(data):
+def test_valid_json(data: dict) -> None:
+    """Test if the data is valid JSON."""
     try:
         json.loads(data)
     except Exception as e:
