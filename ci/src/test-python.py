@@ -54,7 +54,9 @@ def run_plugin(plugin_name, plugin_path, execute_path):
     args = json.dumps(
         {"method": "query", "parameters": [""], "Settings": default_settings}
     )
-    p = Popen(["python", "-S", Path(Path(plugin_path, execute_path)), args], text=True, stdout=PIPE, stderr=PIPE)
+    full_args = ["python", "-S", Path(Path(plugin_path, execute_path)), args]
+    print(f'{"#" * 9} Input {"#" * 9}\n{full_args}')
+    p = Popen(full_args, text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
     exit_code = p.wait()
     if stdout != "":
