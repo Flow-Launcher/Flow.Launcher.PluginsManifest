@@ -33,8 +33,8 @@ def get_github_release(url):
     print(f'Downloading from {download_url}')
     return download_url
 
-def download_and_extract(plugin: dict) -> str:
-    """Download and extract plugin."""
+def install(plugin: dict) -> str:
+    """Download and install plugin."""
     if "UrlDownload" in plugin.keys():
         print(f'Downloading from {plugin["UrlDownload"]}')
         file = _download(plugin["UrlDownload"])
@@ -163,7 +163,7 @@ if __name__ == "__main__":
     setup_flow_environment()
 
     # Download latest release
-    extract_dir = download_and_extract(plugin)
+    extract_dir = install(plugin)
 
     # Locate Plugins manifest file (plugins.json)
     for path in Path(extract_dir).glob("**/plugin.json"):
