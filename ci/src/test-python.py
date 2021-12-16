@@ -20,10 +20,9 @@ def _mkdir(path):
     if not os.path.exists(path):
         os.mkdir(path)
 
-def print_section(title: str, text: str, char: str = "#", repeat_times: int = 9) -> str:
-    _section_string = f'{char * repeat_times} {title} {char * repeat_times}\n{text}'
-    print(_section_string)
-    return _section_string
+def print_section(title: str, text: str, char: str = "#", repeat_times: int = 20) -> None:
+    _title_line = f'{char * repeat_times} {title} {char * repeat_times}'
+    print(_title_line, text, sep="\n")
 
 def get_github_release(url):
     _url = url.split("/")
@@ -86,7 +85,7 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
         print_section("Output", stdout)
         valid_json = test_valid_json(stdout)
     if exit_code == 0 and valid_json:
-        print_section("Test passed!", "")
+        print_section("Test passed!", "", repeat_times=20)
     else:
         print(f'Test failed!\nPlugin returned a non-zero exit code!')
         if stderr != "":
