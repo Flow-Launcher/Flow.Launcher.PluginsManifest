@@ -63,7 +63,7 @@ def get_latest_plugin(manifest: dict) -> dict:
                 sys.exit(0)
             break
     else:
-        print("No Untested plugin found!")
+        print_section("Test failed!", "No Untested plugin found!\nTest could not find a plugin without \"Tested\" key.")
         sys.exit(1)
     return _plugin
 
