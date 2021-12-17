@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"af84ab2aa611a7158e6147fdac5dabed378773eabb84017ffc381857c6d4e796\"",
+        "ETag": "W/\"a8f00708980a8b0eababa270520bb61b9a70c8027f7d7a17a1f2b3a8378d56bc\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -353,12 +353,12 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "2.1.0",
+        "Version": "3.0.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v2.1.0/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v3.0.1/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"cf8f04790b1232c7b8c72d1bf2310faba2f1a46b889bb92673e769f0fa8fe846\"",
+        "ETag": "W/\"f825e62a2f2abe7979222b632a43e9cb573ea81ae27e4021421c2446cdd3421d\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"c46672a2dfe97317acdf644a06bf002edca5045d9b83a7b8f1e3a9f4df62c5b7\"",
+        "ETag": "W/\"0fde6a8c49958b13cbd8d5423a496e7be9cf764942a83fab1a3cf80386998290\"",
         "Tested": false
     },
     {
