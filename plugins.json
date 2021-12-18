@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"af9bb4649c1586a2f480614451e7694c99be3e17d14597d7acc8add6b50aab24\"",
+        "ETag": "W/\"9240907c71034d97e3d777ab33624704761252dd4f7241f2e753786f0018e934\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -358,7 +358,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v3.0.1/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"5127b6b0b71a2346fd44412cb65cd223ab058406a86500d354fd909129f5efbc\"",
+        "ETag": "W/\"e1be587293c94972b99fc8b3cf95f94a149974bc056d83c389ebd7d3c7f27708\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"0fde6a8c49958b13cbd8d5423a496e7be9cf764942a83fab1a3cf80386998290\"",
+        "ETag": "W/\"5719dffdf26806ae1072c895fb5d5e423b11b972782fcb99d115c46fac3ddcca\"",
         "Tested": false
     },
     {
