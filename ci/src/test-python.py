@@ -83,13 +83,15 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
     exit_code = p.wait()
     if stdout != "":
         print_section("Output", stdout)
-        valid_json = test_valid_json(stdout)
+        valid_json, json_msg = test_valid_json(stdout)
     if exit_code == 0 and valid_json:
         print_section("Test passed!", "", repeat_times=20)
     else:
         print(f'Test failed!\nPlugin returned a non-zero exit code!')
         if stderr != "":
             print_section('Trace', stderr)
+        if json_msg:
+            print(json_msg)
         sys.exit(exit_code)
 
 
@@ -142,13 +144,13 @@ def create_plugin_settings(id, name, version, action_keyword) -> None:
 
 def test_valid_json(data: dict) -> None:
     """Test if the data is valid JSON."""
+    e = None
     try:
         json.loads(data)
     except Exception as e:
-        print(f'Invalid JSON!\n{e}')
-        return False
+        return False, e
     else:
-        return True
+        return True, e
 
 if __name__ == "__main__":
     # Load plugins manifest
