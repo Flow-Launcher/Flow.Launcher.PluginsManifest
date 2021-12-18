@@ -99,7 +99,7 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
             print_section('Trace', stderr)
         if json_msg:
             print(json_msg)
-        sys.exit(exit_code)
+        sys.exit(max(exit_code, 1))
 
 
 def setup_flow_environment() -> None:
