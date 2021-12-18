@@ -81,7 +81,7 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
     args = json.dumps(
         {"method": "query", "parameters": [""], "Settings": default_settings}
     )
-    full_args = ["python", "-S", Path(Path(plugin_path, execute_path)), args]
+    full_args = ["python", "-S", Path(plugin_path, execute_path), args]
     # Older Flox used environmental variable to locate Images directory
     os.environ["PYTHONPATH"] = str(USER_PATH.joinpath("PythonEmbeddable"))
     print_section("Input", full_args)
