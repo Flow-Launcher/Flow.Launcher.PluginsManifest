@@ -358,7 +358,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v3.0.1/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"f825e62a2f2abe7979222b632a43e9cb573ea81ae27e4021421c2446cdd3421d\"",
+        "ETag": "W/\"5127b6b0b71a2346fd44412cb65cd223ab058406a86500d354fd909129f5efbc\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
