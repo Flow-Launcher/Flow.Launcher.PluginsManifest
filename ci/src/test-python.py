@@ -1,4 +1,5 @@
 import sys
+from time import time
 import json
 import os
 from pathlib import Path
@@ -160,6 +161,7 @@ def test_valid_json(data: dict) -> None:
         return True, e
 
 if __name__ == "__main__":
+    start = time()
     # Load plugins manifest
     manifest = plugin_reader()
 
@@ -188,6 +190,7 @@ if __name__ == "__main__":
     # Run plugin
     print("Running plugin...")
     run_plugin(name, plugin_path, execute_file)
+    print(f'Test finished in {time() - start:.2f} seconds.')
 
 
 
