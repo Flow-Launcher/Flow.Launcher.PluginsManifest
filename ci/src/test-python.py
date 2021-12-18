@@ -64,7 +64,8 @@ def get_latest_plugin(manifest: dict) -> dict:
         print_section("Test failed!", "No Untested plugin found!\nTest could not find a plugin without \"Tested\" key.")
         sys.exit(1)
     if len(untested_plugins) > 1:
-        print("Warning: More than one untested plugin found!\nTest will use the first untested plugin.")
+        print_section("Test failed!, More than one untested plugin found!")
+        sys.exit(1)
     return untested_plugins[0]
 
 def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
