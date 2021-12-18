@@ -16,15 +16,18 @@ APP_PATH = Path(os.environ["LOCALAPPDATA"], "FlowLauncher")
 USER_DIRS = ["Settings", "Logs", "PythonEmbeddable", "Themes", "Plugins"]
 APP_DIRS = ["Images"]
 
-def _mkdir(path):
+def _mkdir(path: str) -> None:
+    """Create directory if it doesn't exist."""
     if not os.path.exists(path):
         os.mkdir(path)
 
 def print_section(title: str, text: str, char: str = "#", repeat_times: int = 20) -> None:
+    """Print a section with a title and text."""
     _title_line = f'{char * repeat_times} {title} {char * repeat_times}'
     print(_title_line, text, sep="\n")
 
-def get_github_release(url):
+def get_github_release(url: str) -> str:
+    """Get latest release from GitHub."""
     _url = url.split("/")
     author = _url[3]
     plugin_name = _url[4]
@@ -46,16 +49,19 @@ def install(plugin: dict) -> str:
     file.extractall(extract_dir)
     return extract_dir
 
-def _download(url):
+def _download(url: str) -> zipfile.ZipFile:
+    """Download plugin from url."""
     r = requests.get(url)
     r.raise_for_status()
     return zipfile.ZipFile(io.BytesIO(r.content))
 
-def read_plugin(file_path):
+def read_plugin(file_path: str) -> dict:
+    """Read plugin's manifest."""
     with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def get_latest_plugin(manifest: dict) -> dict:
+    """Get latest plugin from manifest."""
     untested_plugins = []
     for _plugin in manifest[::-1]:
         if _plugin["Language"] == "python" and "Tested" not in _plugin.keys():
