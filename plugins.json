@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"8802c1e848706ca74d821556e736a32b0d61d97b0f6ecd777975990952661b36\"",
+        "ETag": "W/\"92e2c5f49e7a35afffa73936288d73958dda0637caf7600737e39c29c2610d20\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -484,7 +484,7 @@
         "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.1.1/TenorGIF.zip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
-        "ETag": "W/\"b3f820ed7e08efd1617679ac189e2e4c4fa56373db0dbf85df20f0b5b70ae64d\"",
+        "ETag": "W/\"b27dceec78aca6eec8db03982f61c1c71e5582da0583cfb8f1a865bc722720df\"",
         "Tested": true
     }
 ]
