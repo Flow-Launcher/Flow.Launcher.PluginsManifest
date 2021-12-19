@@ -112,7 +112,7 @@ def setup_flow_environment() -> None:
     for _dir in APP_DIRS:
         _mkdir(Path(APP_PATH, _dir))
     os.makedirs(Path(USER_PATH, "Settings", "Plugins"), exist_ok=True)
-    os.makedirs(Path(APP_PATH, "app-1.9.0"), exist_ok=True)
+    os.makedirs(Path(APP_PATH, "app-1.0.0"), exist_ok=True)
     with open(USER_PATH.joinpath("Settings", "Settings.json"), "w") as f:
         json.dump({
             "PluginSettings": {"Plugins": {}},
