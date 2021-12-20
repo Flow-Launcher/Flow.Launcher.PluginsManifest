@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"e161f4fffb9f35beb9197c8cc091c9c085635c54b2f8cc98a746217fba65330f\"",
+        "ETag": "W/\"b0e97eefdd7023500ebd192be45eb3bfecf0711ad32bec59e8de70957f7aa4a9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"3526d45f18b535728d98c3ab6a519afb67924ac51b9e92ac0eca8efc7aca79c8\"",
+        "ETag": "W/\"fddc04e575a3575146a15256456a2512b9dd9e80c845a514db2c1db383458433\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"ef9c4e390437f873093fca3b70b46a4cdcbd3732eba9b7bbdc65c7ca25000882\"",
+        "ETag": "W/\"869e97938dc68c60757e9f64ae2d01915a2b06c714a78eae8101828bbf3aa86c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"41ab9aba3a92f050c506acaa18d15e1180429d5e4f86a4a91c629592567caa7e\"",
+        "ETag": "W/\"8c171206a184485c7ae5d5c07f594e1251d3ca98c28fe62e053abe075f583098\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.3/Flow.Launcher.Plugin.Favorites-v1.3.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"e143fed081d8505cba431ae133f9f184d7278099ed82c82fd478d99b57863d08\""
+        "ETag": "W/\"6afa3f7c92ba099547c253c4ef14fb275e637c10210bc584b0be6e7443a65637\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
@@ -442,7 +442,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.3/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"9417396d0618e3936de4e37056de955b6b2f9a6f0670f68dfca98230756159cf\"",
+        "ETag": "W/\"0da84b4f9658969a3de1053a89ced75cff01a10a3c3a6cea6de7e0696fb4986b\"",
         "Tested": false
     },
     {
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"a9f5814bac9b8b9df7b3626b65988629b9ddb7bec70e4899c0bfe5e010605416\"",
+        "ETag": "W/\"57feb22ab4e9278eb89aa338a3f2f400501df53289434ce33dc3460af5ac6bca\"",
         "Tested": false
     },
     {
