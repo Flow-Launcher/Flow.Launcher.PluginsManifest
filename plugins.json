@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"420ee97ceef41f484d807c8fe928f74747e0987b291843b6c4a997df4376eeba\"",
+        "ETag": "W/\"b657ba53bb64affbe4a46419552bebd6df1ce87d118bdca94a6b66ae34fbedd5\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"7917e37c64332b1df54dafb2922d651886e8db6c394eee4763bee53b9bbbe3a0\"",
+        "ETag": "W/\"10e9ee590aa5e31adc495718ea97c5eb3561ee36715c45a816e83935486dc1c2\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -484,7 +484,7 @@
         "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.1.1/TenorGIF.zip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
-        "ETag": "W/\"b27dceec78aca6eec8db03982f61c1c71e5582da0583cfb8f1a865bc722720df\"",
+        "ETag": "W/\"c64c44ae935f55d89350bc622f12f080602c4392bfdc02965fae9646bc13d4d9\"",
         "Tested": true
     }
 ]
