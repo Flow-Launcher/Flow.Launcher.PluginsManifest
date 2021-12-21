@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"b657ba53bb64affbe4a46419552bebd6df1ce87d118bdca94a6b66ae34fbedd5\"",
+        "ETag": "W/\"99d6400ef8e32d38dbebb0694e5dc74fff2bf0c30945a21a32dad2c00a66e7f1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -428,7 +428,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.1/Flow.Launcher.Plugin.NumberConverter.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "ETag": "W/\"c02548ab23cced58d6d9b7362ae939540d84e34414d3b1472661e9a983a75d8d\"",
+        "ETag": "W/\"aeee3ad3814c78de07a2f8b38af511e64e506d60943d0053d639648cf41b4dad\"",
         "Tested": false
     },
     {
