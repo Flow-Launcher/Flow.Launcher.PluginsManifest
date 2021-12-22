@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"249dd258d86453028c4d279346b6b99b3cadc633d56713e9bf030a77c2944262\"",
+        "ETag": "W/\"8798365177face46ea51e6bb09d5f7ffd48f6491a4887443e325a1d9e5946644\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -263,7 +263,7 @@
         "Etag": "W/\"dfe66c7a7a2dd4c57d8b361135a6c042b25cc1e49d7ad4b9f966300d227ca65c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": false,
-        "ETag": "W/\"25305b4bd2b56570c0cdd2a8c478bed1c875452a403f5a29f9e18515ac27d7d1\""
+        "ETag": "W/\"48c9ce6dfae518bf09efda63a15572fcd360a248784f2555916e3d1655273847\""
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.4/Flow.Launcher.Plugin.Favorites-v1.4.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"8a1ce3ef8f522e7594ab3aa5bf56ae65d252e4353ca3b2dbc7ad301d24f7518c\""
+        "ETag": "W/\"ed3e173ae901b1d66b2b64ed2d0924cf1e905115288e61571d4925306eeed795\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
