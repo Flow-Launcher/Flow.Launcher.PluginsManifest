@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"10e9ee590aa5e31adc495718ea97c5eb3561ee36715c45a816e83935486dc1c2\"",
+        "ETag": "W/\"1a1188836a3ab7c11e7b61f499bb5c9184ab47ce4912812596dcb46e8a7ff942\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -442,7 +442,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.3/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"d7113f23e70c3cb6912072a6f3916abaf04dd64eb43aedb6e7f110db94f180be\"",
+        "ETag": "W/\"e0b4c4e0837cad93390a2c56887ffaf151c9ca96c219397c5aa8b30165d974e1\"",
         "Tested": false
     },
     {
