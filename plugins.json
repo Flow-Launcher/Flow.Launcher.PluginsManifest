@@ -302,7 +302,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"7e9097ae358a93595e969aca52248d90ffe25a557a6d09255274a81e1154d724\"",
+        "ETag": "W/\"c01ba2d847f1b4b38a6dfb14438700631286c5bd1a81ac49420a33f6bd9f105f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
@@ -442,7 +442,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.3/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "ETag": "W/\"01881253439197f8dd13af6c9a844b1e1f02a6d99cc09c18c24847c10ff8b713\"",
+        "ETag": "W/\"d7113f23e70c3cb6912072a6f3916abaf04dd64eb43aedb6e7f110db94f180be\"",
         "Tested": false
     },
     {
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"fdc176759ff88df3e6cd21040fc31e6ce10c68fda070d085a1cf32678efd850e\"",
+        "ETag": "W/\"9ee1d94e4129711f3470d94547a6ac614fdc22784cb2e2730d2a6ecde6ac37d1\"",
         "Tested": false
     },
     {
@@ -484,7 +484,7 @@
         "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.1.1/TenorGIF.zip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
-        "ETag": "W/\"c64c44ae935f55d89350bc622f12f080602c4392bfdc02965fae9646bc13d4d9\"",
+        "ETag": "W/\"636cec8b08d5c81caf853db3448842c42e4d3ac6fad09a829ca04a33d12d7ddc\"",
         "Tested": true
     }
 ]
