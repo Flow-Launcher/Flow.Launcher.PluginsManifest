@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"95da788872067555b6e3bb0889168e18348eccfb7ad87cfbd2a50a4903f8cfae\"",
+        "ETag": "W/\"be6d355d03eadb6c9f53ed1d4eb603fe8b58e19e7f07a23d80804f682ec5dde2\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -179,7 +179,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"a66f49757fcb77689f217f891053cae3f3c1926564b27f9b78d6ddca5f3fc359\"",
+        "ETag": "W/\"2fa56dcb5176176562f6072215ff3dff44cdc9701da3c4e12a338bc4b89d011e\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todoist@master/src/images/icon.png"
     },
     {
@@ -470,7 +470,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "ETag": "W/\"55e505dc9c12f193b0ffce2e0d91255c4d5b0f8e0ed2b4b474964d5a483f944b\"",
+        "ETag": "W/\"d4c87837b069de6d36210a028eff1228b5a25c18f4d1bc7eccb55d5e4efdcea1\"",
         "Tested": false
     },
     {
