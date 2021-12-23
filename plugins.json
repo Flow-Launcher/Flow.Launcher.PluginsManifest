@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"5524234ef7c7952b3659c6d492f28fffb319105b1d5df6ab0b64bb9d094250e9\"",
+        "ETag": "W/\"2bc55c9726189b32dddffb5ca3632b4619365291e83cf02eb38fed5574fc5780\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"0dec1b57223cf6f044f302b3fb28544ecc88cc4ca81101a1a25c0bcf0b73ad15\"",
+        "ETag": "W/\"38c914c143376f7c2cad04ddf415abdd47161060773738cbc94cb8bcfbefe935\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"d27b055ca44d4e359ec0e2f59d1a9758ad89cb576093c0d9d9243777a4b9f447\"",
+        "ETag": "W/\"a5fdaa973436ce6881ad372e70dc80f3762224704f1cec3739d7c2903fea105f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -386,7 +386,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"7de6a5dd6bcf14b5d91257a12bca87dd59204680cdd3d83a597dceab812d88f1\"",
+        "ETag": "W/\"eaba543dc1f5d63e275dd09f2280cddc0f9d3412b1a44a5ac890fcbda0bd2df1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
