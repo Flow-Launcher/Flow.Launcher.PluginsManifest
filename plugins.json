@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"1e0344ea5364a445ae7f582bcd428512138f08911d863433928c0667a9b77425\"",
+        "ETag": "W/\"753c0bbee0f057e2b955332be60f5210ef9b464fdfa8e1903151159ad1cb2b8c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"bcc828a913f27fcfcf7e7e1f73a7b3d7c59fc259ade6c78d46c1e851634129b6\"",
+        "ETag": "W/\"78b0ad996ac5f7e69e8f73cef15ba17b687ab7df5dd7f2effe41153e566dad0f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"82906d01b92818d4ca9411f6786969f0ebdcb132b7d39216866de277ec54408f\"",
+        "ETag": "W/\"ccf9b49ad40b935d80a30790acd51521be8a08f781a408106773fadde9542be3\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"d393c4e72cde0fe94f5c9fc515f3decc7aba4ae742990cc7e649e2b08a0f0eaf\"",
+        "ETag": "W/\"6e153925c20adae71758ed3ff6ebe8f04d2220d4259fc119de2eb736687fd3ca\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"0c80a0318e53c988d58822a0a651079ee02bde6247cc19ea28637790e7c146b7\"",
+        "ETag": "W/\"b785bc81a7b01cb050af7183ad015f53478c3100492ec0c78609a37a3804334b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.4/Flow.Launcher.Plugin.Favorites-v1.4.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"d8f42010debaa95d62fc1297ae6c91a43d9bdd3e688fb64308f357b6b44fd9b1\""
+        "ETag": "W/\"ee05e842b4d47b060b3320fa8cc949413bf3e7ac3f066e99f28f1a2e680bbe81\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
