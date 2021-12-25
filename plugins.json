@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"157b6f528dafd91309c97f17113dd2276ebe3d9083cecb703576e8f634c1ecd3\"",
+        "ETag": "W/\"18942a688c0ca0c8cdacbc67cda64483896af1103ab37f20d67de7863ade9e88\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"b785bc81a7b01cb050af7183ad015f53478c3100492ec0c78609a37a3804334b\"",
+        "ETag": "W/\"8eac2fbc345e59b1a67a1ab54a2c7f5082842e1b9e5f39cfdccab9200d9ab2a0\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"977f93e8b7710ce3e841f71a408d23d5941eecf6546fc2113391d3f13a34c796\"",
+        "ETag": "W/\"c6d97cb8aa288307c6afea4bfa65aca376b727b95090f4c8238b6ddf027c3a19\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -219,7 +219,7 @@
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Github",
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Github/releases/download/v1.2.2/Flow.Plugin.Github.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Github/tree/main",
-        "ETag": "W/\"9cb65f3572ce79d213fdab6ffb1a04253042393b7fd29709c7f62c7c810242e7\"",
+        "ETag": "W/\"c5484b93f0d1dfe56e3e3867ecb05673c5faa196258c71e17c2ba580ed2e6790\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png"
     },
     {
@@ -344,7 +344,7 @@
         "Website": "https://github.com/Garulf/plexy",
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "ETag": "W/\"c10af9694aa78ce85be8c0a9fbea67b2c9735f91a6ef982f9d268d396671f9fa\"",
+        "ETag": "W/\"2d1a4ff47284e2c6f99152a22db44510bbdb46c379d36defc90bec19f072feb3\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
         "Tested": false
     },
@@ -386,7 +386,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
-        "ETag": "W/\"2b0e7322f72df48a9f30a81f2d606d96ca903ee74defeecbc399ca3102e7b500\"",
+        "ETag": "W/\"b198c73dedf2174eaffa87e85925508cb89b78e587b6824d6e76a768bd54c708\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.4/Flow.Launcher.Plugin.Favorites-v1.4.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"ee05e842b4d47b060b3320fa8cc949413bf3e7ac3f066e99f28f1a2e680bbe81\""
+        "ETag": "W/\"334652774489af9b3b8c7198634367fdafa3ec3ee2e46c12167f735e116c635b\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
