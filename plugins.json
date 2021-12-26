@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"54c6eb0f8db03e792a1c3b7d6a99474499e28a160f95ecca592010736d66d805\"",
+        "ETag": "W/\"60d819e8b13fe619b4a6fb5013eff00d1fa1cd4f5997b4b625161067031796dc\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -69,12 +69,12 @@
         "Name": "Window Walker",
         "Description": "Alt-Tab alternative enabling searching through your windows.",
         "Author": "betadele",
-        "Version": "2.0.1",
+        "Version": "2.0.2",
         "Language": "csharp",
         "Website": "https://www.windowwalker.com/",
-        "UrlDownload": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/releases/download/v2.0.1/WindowWalker-2.0.1.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.WindowWalker/releases/download/v2.0.2/WindowWalker-2.0.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"49ec3f5db0146a1c6aa36032d47dad2d83be580142bebb736bc56d278dc43e37\"",
+        "ETag": "W/\"0e9e906db1dfb7b80a3ed2e722b3982f93cbb5bc9a335cc79e737da62f60e260\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
