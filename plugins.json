@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"719ca5a496e8bf6ffca1f72646530e088d6444f2d775ee9e241aa74706751c96\"",
+        "ETag": "W/\"b724180e993e71436836d2ee9cd92bafe2e9e373a237628055ee7e1fda26fe8b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"5fc4524a69033b08ec1b7021deebb61a219c7130183135da64d39f3df0367d2b\"",
+        "ETag": "W/\"a379e8e4fd57450a3e70e86794582d7475967d878ed52a646ce3c801071387d1\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"1a08824fcc7522dc806434aea946f31be1627c080d7b7ee69df77f8cfecd8090\"",
+        "ETag": "W/\"bcf5859ee019b50dd0fcf4920b3ba07302300f1f490d0c8f703cc179d8fb0a87\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": false
     },
