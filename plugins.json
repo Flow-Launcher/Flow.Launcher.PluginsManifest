@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"23ddbe935a36eece315c2493daf2273c258f2a661898456833620660bd063769\"",
+        "ETag": "W/\"591cfe7318ea19d53bdb0aee17f96a64ced31e5bc6853f519dc03372c15f74f9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.4/Flow.Launcher.Plugin.Favorites-v1.4.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"e85c26fbdd3e5c09463bedb0a213622b401468b81c9016d21b339652c8b401ab\""
+        "ETag": "W/\"081f96c60e90a723f82208be4620e70defb7aa692ef4895939ba7ec1e96c7c5a\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
