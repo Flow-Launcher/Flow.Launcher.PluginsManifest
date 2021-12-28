@@ -68,7 +68,7 @@ def get_latest_plugin(manifest: dict) -> dict:
         if _plugin["Language"] == "python" and "Tested" not in _plugin.keys():
             untested_plugins.append(_plugin)
         if _plugin["Language"] != "python" and "Tested" not in _plugin.keys():
-            print_section("Non-Python plugin detected, test not required.", f'Detected Plugin: {_plugin["name"]}\nPassing test...')
+            print_section("Non-Python plugin detected, test not required.", f'Detected Plugin: {_plugin["Name"]}\nPassing test...')
             sys.exit(0)
     if len(untested_plugins) == 0:
         print_section("Test failed!", "The new plugin should not have the \"Tested\" key.")
