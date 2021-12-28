@@ -302,7 +302,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"237e82ac4fa7c144b49639bd620beec0b6b1c4845209ee64308c7fc6499dedff\"",
+        "ETag": "W/\"8e50cf44d08820b6a6b2359804daca6c04c4ea7b6911838030fee524022a2719\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
@@ -358,7 +358,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v3.0.1/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"cacf5551632b5b3f8d419346a8a1277c7e8f88f758809c52c5d04886b2d45677\"",
+        "ETag": "W/\"bee4129bdd9bede5da9263258a4d575559851a93608bff023b8ddacc42790d96\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
@@ -498,6 +498,6 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldNodeJS.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS@main/Images/app.png",
-        "ETag": "W/\"51b57db55f4230e2b421a2e2a5577071ad05582e99bec51bac76896cf208e0cf\""
+        "ETag": "W/\"120c097f102386774f7ecdd01bdba7dcbfdcfafe6fd36f515e076fe5b7b81f5c\""
     }
 ]
