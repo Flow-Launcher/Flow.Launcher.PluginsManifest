@@ -486,5 +486,17 @@
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
         "ETag": "W/\"733c15e699c21222430a34773569bed61bfc31f83c75befb27f61bcef5cc04b4\"",
         "Tested": true
+    },
+    {
+        "ID": "427af2d93887868f8179665uy661c6c3",
+        "Name": "Hello World Node.js",
+        "Description": "TypeScript/JavaScript plugin example using Node.js",
+        "Author": "Flow Launcher",
+        "Version": "1.0.0",
+        "Language": "executable",
+        "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldNodeJS.zip",
+        "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS@main/Images/app.png"
     }
 ]
