@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"bd6d7aac93c437630a4862cb0f32917a8b51ce46a1c92e11f180f6a5b6cefa6b\"",
+        "ETag": "W/\"9e600192042a5b6337032cf0e4aedc57da7d9d0028da4484cbf23207637f66b0\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"16cc1aab205921dae32d9805d8ff2aa1e3a7134661ebe7b5adae2054e0633b74\"",
+        "ETag": "W/\"fe215aac5272840542782349a26b9e23a4a977568ea0aa0fbc790a9c73b99614\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -179,7 +179,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v2.0.0/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
-        "ETag": "W/\"2fa56dcb5176176562f6072215ff3dff44cdc9701da3c4e12a338bc4b89d011e\"",
+        "ETag": "W/\"f4c1f19afc4d75a88da6f1b978b6faa7017f97e96b66f95bb73c453f50f839ea\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todoist@master/src/images/icon.png"
     },
     {
@@ -302,7 +302,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v2.5.0/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "ETag": "W/\"55d115cb10307f3e7cfd1f4fd6ce0bb7aba0a2addd454c6ead531f76588ab709\"",
+        "ETag": "W/\"237e82ac4fa7c144b49639bd620beec0b6b1c4845209ee64308c7fc6499dedff\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": false
     },
@@ -497,6 +497,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldNodeJS.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS@main/Images/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS@main/Images/app.png",
+        "ETag": "W/\"51b57db55f4230e2b421a2e2a5577071ad05582e99bec51bac76896cf208e0cf\""
     }
 ]
