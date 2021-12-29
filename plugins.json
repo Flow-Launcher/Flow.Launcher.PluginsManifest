@@ -505,13 +505,13 @@
         "Name": "Emoji+",
         "Description": "Search and copy the right Emoji for any occasion.",
         "Author": "Garulf",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/emoji-plus",
-        "UrlDownload": "https://github.com/Garulf/Emoji-plus/releases/download/v1.0.0/Emoji-plus.zip",
+        "UrlDownload": "https://github.com/Garulf/Emoji-plus/releases/download/v1.0.1/Emoji-plus.zip",
         "UrlSourceCode": "https://github.com/Garulf/emoji-plus/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/emoji-plus@main/icon.png",
         "Tested": true,
-        "ETag": "W/\"efd9f9713974b9627d68d22f102387a217d69574c514f973f8d88175962a612e\""
+        "ETag": "W/\"8dbb9e9b1a979525c27735b661e78ed5dadaf902edbba412ea42d50ec2dd082c\""
     }
 ]
