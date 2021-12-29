@@ -510,6 +510,7 @@
         "Website": "https://github.com/Garulf/emoji-plus",
         "UrlDownload": "https://github.com/Garulf/Emoji-plus/releases/download/v1.0.0/Emoji-plus.zip",
         "UrlSourceCode": "https://github.com/Garulf/emoji-plus/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/emoji-plus@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/emoji-plus@main/icon.png",
+        "Tested": true
     }
 ]
