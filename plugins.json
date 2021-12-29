@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"9e30d33579011f622caf4b92d36ecea3b484a3310f628a772497904aab97e51c\"",
+        "ETag": "W/\"34d81aabbdea832e6c0eee670833f1b788ab570af85473aeeb351c335832ee4e\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"6f0e5b3a6cca9ae28468df9a031403676ee1580b51a47f5dc26e069a9a0a5611\"",
+        "ETag": "W/\"b5e9786d47b9b21c8260af95a59fa0b04c84505437e3fa1db77ad996282c86d9\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -415,7 +415,7 @@
         "UrlDownload": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/releases/download/v1.4/Flow.Launcher.Plugin.Favorites-v1.4.zip",
         "UrlSourceCode": "https://github.com/stax76/Flow.Launcher.Plugin.Favorites/tree/master",
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
-        "ETag": "W/\"081f96c60e90a723f82208be4620e70defb7aa692ef4895939ba7ec1e96c7c5a\""
+        "ETag": "W/\"c019c7a2642ffd1eed81e2a064a6d97687795e892cba32cd73fc143af4c06d8e\""
     },
     {
         "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
@@ -511,6 +511,7 @@
         "UrlDownload": "https://github.com/Garulf/Emoji-plus/releases/download/v1.0.0/Emoji-plus.zip",
         "UrlSourceCode": "https://github.com/Garulf/emoji-plus/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/emoji-plus@main/icon.png",
-        "Tested": true
+        "Tested": true,
+        "ETag": "W/\"efd9f9713974b9627d68d22f102387a217d69574c514f973f8d88175962a612e\""
     }
 ]
