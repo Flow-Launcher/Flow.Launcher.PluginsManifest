@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"f0c12880d8bf5ca30e99baf1604600df0e4ebd7aa5485c9c7f524ce27023ce3c\"",
+        "ETag": "W/\"9e30d33579011f622caf4b92d36ecea3b484a3310f628a772497904aab97e51c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"591cfe7318ea19d53bdb0aee17f96a64ced31e5bc6853f519dc03372c15f74f9\"",
+        "ETag": "W/\"7299675c1282ce682033c336cab5523267d22f4e8b6661e91f4d2663222dc1a4\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -192,7 +192,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "ETag": "W/\"347540f56189c97927c7a1b541cbbbab3497dac1d6c449a3cad8f76737febae4\"",
+        "ETag": "W/\"9210d57b8832bf9a3919d992b1445c067f6c2ef9192a4486346432bfa2dca848\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png"
     },
     {
@@ -246,7 +246,7 @@
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0.1/Flow.Launcher.Plugin.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
-        "ETag": "W/\"4a471fe17d1275227b2c84a755413248633fb665cf11e374ee908e5ddcde26d0\"",
+        "ETag": "W/\"8f03aee8ff41450976f800e1dc6b5d95752ea5dd2e39e0f5b4992a03117335b4\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
         "Tested": false
     },
@@ -498,6 +498,6 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldNodeJS.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS@main/Images/app.png",
-        "ETag": "W/\"120c097f102386774f7ecdd01bdba7dcbfdcfafe6fd36f515e076fe5b7b81f5c\""
+        "ETag": "W/\"f030311e6b2796636e1f65510c993cf3b9292e2a2083f0e5c9893294737338b3\""
     }
 ]
