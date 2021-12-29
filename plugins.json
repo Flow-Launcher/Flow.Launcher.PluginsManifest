@@ -74,7 +74,7 @@
         "Website": "https://www.windowwalker.com/",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.WindowWalker/releases/download/v2.0.2/WindowWalker-2.0.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
-        "ETag": "W/\"2958688ede21fa74c66c1e11c0ce99434d0eb8fea0b39be3e735d1d7e9ad66aa\"",
+        "ETag": "W/\"919dda48dc873cdcd0dd39950fe3060b50fd3effa75175062f37cf3b4a3a037b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"7299675c1282ce682033c336cab5523267d22f4e8b6661e91f4d2663222dc1a4\"",
+        "ETag": "W/\"6f0e5b3a6cca9ae28468df9a031403676ee1580b51a47f5dc26e069a9a0a5611\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -166,7 +166,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "ETag": "W/\"f08bb65d02e5377f8f418ae22a8a8a76359bf7ce1bb1d945abfa8c6f10f7c37e\"",
+        "ETag": "W/\"490b9590e55144b6005626f67a33538b80584d448f0cc5996a2df843b3c4dfde\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png"
     },
     {
@@ -205,7 +205,7 @@
         "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "ETag": "W/\"6833da5328eb0a11700a272ef614f05e23728fa430de2c48a01561e373513336\"",
+        "ETag": "W/\"12590782b6f4daf8f83e3c764ee7958810c6992bdfa0eada56673d20d68b6734\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Drimix20/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png",
         "Tested": false
     },
