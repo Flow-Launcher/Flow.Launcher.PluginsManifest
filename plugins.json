@@ -48,7 +48,7 @@
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
         "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.0/Flow.Launcher.Plugin.SpotifyPremium.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
-        "ETag": "W/\"fec2a4c5402e58d06770107d6a8151614962208f021cdc0fbac2ed656511a40e\"",
+        "ETag": "W/\"7e69ce45c49cc308a6eddda7f0736d57f1e7ee9b7ecff03d0e4bd8c54ecaff53\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png"
     },
     {
@@ -61,7 +61,7 @@
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
-        "ETag": "W/\"04b5507db07342a759e24293e076dddf4add5d2a693a173a8f42669213944589\"",
+        "ETag": "W/\"50778bd4c03d30429a20ecb1ceb4b3fd589b24c9c7508426a913c3cc5157b68f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"b5e9786d47b9b21c8260af95a59fa0b04c84505437e3fa1db77ad996282c86d9\"",
+        "ETag": "W/\"e7e849aa14c625978005b4e68c73a3df370935ed51bf51f31559b1c8e95d350c\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
