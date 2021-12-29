@@ -67,14 +67,12 @@ def get_latest_plugin(manifest: dict) -> dict:
     for _plugin in manifest[::-1]:
         if _plugin["Language"] == "python" and "Tested" not in _plugin.keys():
             untested_plugins.append(_plugin)
+            break
         if _plugin["Language"] != "python" and "Tested" not in _plugin.keys():
             print_section("Non-Python plugin detected, test not required.", f'Detected Plugin: {_plugin["Name"]}\nPassing test...')
             sys.exit(0)
     if len(untested_plugins) == 0:
         print_section("Test failed!", "The new plugin should not have the \"Tested\" key.")
-        sys.exit(1)
-    if len(untested_plugins) > 1:
-        print_section("Test failed!", "More than one untested plugin found!")
         sys.exit(1)
     return untested_plugins[0]
 
