@@ -22,7 +22,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.2.3/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
-        "ETag": "W/\"64bcfb803bc733444fb59f2cb4517f5b9a48e80fac63cae290f88320508db7cf\"",
+        "ETag": "W/\"6b9e4ac957ccd32b2f239f0ece23d144b78effeffae55a6946af9d647bde0c36\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"16c466f3d06ba5750c26d8a34aa9b28f2ec76fa7d0c60bf8287930d1dc256024\"",
+        "ETag": "W/\"ac42a7e3fddf7270827ad9831d20be1d9b3629518828bd10f78fd1d693ff3607\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"1569b07533cdd8fd50156502532654b9ff14aee7f07e008ac40de9f0c38f70ab\"",
+        "ETag": "W/\"e37b50b4d4c6ea17f2f68e63d737479faac4d43e199ee6fb121f631209dac7e8\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -113,7 +113,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
-        "ETag": "W/\"70fe6c568f772443ebb93bbc413249ccc66dc3f3991f7e3b5df2d47f428458cd\"",
+        "ETag": "W/\"869a7809c8273d21e16c4d2d6aedf593ddd6c5f4331ab5489d0b0a6c2f441c4b\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": false
     },
@@ -192,7 +192,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "ETag": "W/\"f59d5ca990a7f7d48792837b13ea79b7ac8080222989fd139189151c362e745a\"",
+        "ETag": "W/\"67550487f7d57ce848fea717fb5e0aa02f3a5c7c2f0d7cc75e03d36cccac543f\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png"
     },
     {
@@ -288,7 +288,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
-        "ETag": "W/\"b545da71896e748115bf9c6f9e4ded715826daad299943c7e7970de114b8e4a4\"",
+        "ETag": "W/\"9d4640e0f8bb9fe8b2cf52cad1272f2a25dc8edeb36433e865c89aabda191b43\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico",
         "Tested": false
     },
@@ -358,7 +358,7 @@
         "Website": "https://github.com/Garulf/Steam-Search",
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v3.0.1/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
-        "ETag": "W/\"0e37e073c53e2fd89ab4f2ee1a54d6d74cb68e34d36a90adb8db78bf1bbeb5d7\"",
+        "ETag": "W/\"ab8e1b5548590d35c3948d96672727445e4f6b270fbd53dfbfaffa65d0ce3a2a\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": false
     },
