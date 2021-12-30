@@ -513,5 +513,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/emoji-plus@main/icon.png",
         "Tested": true,
         "ETag": "W/\"9eae89a6f4cc9b0aa60589ccce3977808480339333d84fb71cfa2e5c3084d922\""
+    },
+    {
+      "ID": "525995402BEF4A8CA860D92F6D108092",
+      "ActionKeyword": "{",
+      "Name": "VS Code Workspaces",
+      "Author": "ricardosantos9521, taooceros",
+      "Version": "1.0.0",
+      "Language": "csharp",
+      "Website": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
+      "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.0.0/Flow.Plugin.VSCodeWorkspaces-1.0.0.zip",
+      "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
+      "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png"
     }
 ]
