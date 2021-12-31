@@ -9,7 +9,7 @@
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
         "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "ETag": "W/\"fe43f485cd9142bfb11d06153c2f585e32a5220cb2c78376ce364399bda2619f\"",
+        "ETag": "W/\"70e16db4d10dd6648a27bd7531a404de62d3f2d025e5ad47847652017a047c04\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
     {
@@ -35,7 +35,7 @@
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
         "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
-        "ETag": "W/\"b6dc012e41194675f4d487d7b967e3ec8d4cff0e382468f22f6942f699993ca1\"",
+        "ETag": "W/\"f6db1b4ad04ded5db1c08b3dfd379508430b2c51e9aa6fd387140edc87ece1fd\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
     {
@@ -87,7 +87,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.5.6/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "ETag": "W/\"d0a6b7541901e48b4a8dd5ec45ea18300ee57a1105ddd37e07c43aa518d1ff74\"",
+        "ETag": "W/\"5e8193ac4f424dc9b9eb508a1b8eebe1618fe5af73d1539e8712b2b030f63353\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
     {
@@ -100,7 +100,7 @@
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
-        "ETag": "W/\"a6d35adb2ec38c651d5096e21f15f062b9f6f109423cbad4989ab7ce1285eaac\"",
+        "ETag": "W/\"a6e6dd6860afae0305f0243d36f15d694f5b44790661a9253227478001907494\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png"
     },
     {
@@ -127,7 +127,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.1/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
-        "ETag": "W/\"54719d72ff5e60ed21a6cfe6c3973891a3dfe5a7b8677a68f47f54f09d1c2bec\"",
+        "ETag": "W/\"97e0357316fd9d983e397b835264319b83d0ecc31eab8326942bdd5a1cc2fbd3\"",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png"
     },
     {
@@ -484,7 +484,7 @@
         "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v1.1.1/TenorGIF.zip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
-        "ETag": "W/\"12ece85115d8e2eaa7fadcfec49c275624a8fb3a1007ee52fcf25f9c5eecc07c\"",
+        "ETag": "W/\"5bf85ccf9db84d9c3ab34a4ea35c663aeb2ee28cff6c4877d5558f019db2a9ab\"",
         "Tested": true
     },
     {
@@ -512,7 +512,7 @@
         "UrlSourceCode": "https://github.com/Garulf/emoji-plus/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/emoji-plus@main/icon.png",
         "Tested": true,
-        "ETag": "W/\"1633c13d5061467ee6bb99f2b67c944c02e3c9944675aa251148f8ac9c1916c4\""
+        "ETag": "W/\"a5d4b41118fdf8f9353bbabb758c9f9b8643458570a967585c1bea0b3c022686\""
     },
     {
         "ID": "525995402BEF4A8CA860D92F6D108092",
