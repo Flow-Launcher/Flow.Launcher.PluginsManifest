@@ -524,6 +524,7 @@
         "Website": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.0.0/Flow.Plugin.VSCodeWorkspaces-1.0.0.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
+        "ETag": "W/\"2f059b1bfc80a44ca341858bfcccc639e70c4685d7c568222d13c5b99c30fce2\""
     }
 ]
