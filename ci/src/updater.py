@@ -1,4 +1,5 @@
 # -*-coding: utf-8 -*-
+from http.client import responses
 from typing import List
 
 import requests
@@ -29,6 +30,8 @@ def batch_github_plugin_info(info: P, tags: ETagsType) -> P:
     if assets:
         info[url_download] = assets[0]["browser_download_url"]
         info[version] = clean(latest_rel["tag_name"], "v")
+        
+    tags[info[id_name]] = res.headers.get(etag, "")
 
     return info
 
