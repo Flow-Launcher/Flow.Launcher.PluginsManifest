@@ -526,5 +526,17 @@
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
         "ETag": "W/\"4d5d1c81c4d61f5a5e781b1a881f3fe5be0b0bdec0fff992055bec94867b2709\""
+    },
+    {
+        "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+        "Name": "Hello World Python",
+        "Description": "Python Hello World example plugin",
+        "Author": "Flow Launcher",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldPython.zip",
+        "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython@main/Images/app.png"
     }
 ]
