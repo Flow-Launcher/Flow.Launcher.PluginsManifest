@@ -478,8 +478,8 @@
     },
     {
         "ID": "525995402BEF4A8CA860D92F6D108092",
-        "ActionKeyword": "{",
         "Name": "VS Code Workspaces",
+        "Description": "Search and Open the Used VSCode Workspaces",
         "Author": "ricardosantos9521, taooceros",
         "Version": "1.0.0",
         "Language": "csharp",
