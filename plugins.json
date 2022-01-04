@@ -262,10 +262,10 @@
         "Name": "General Converter",
         "Description": "General weights and measures converter",
         "Author": "deefrawley",
-        "Version": "1.1.1",
+        "Version": "1.1.2",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.1/Flow.Launcher.Plugin.GenConvert.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.2/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico",
         "Tested": false
