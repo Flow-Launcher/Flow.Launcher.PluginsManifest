@@ -106,7 +106,7 @@
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v1.2.2/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
@@ -191,7 +191,7 @@
         "UrlDownload": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.0/Flow.Launcher.Plugin.DirectTranslate-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Drimix20/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -216,7 +216,7 @@
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.3.0/Flow.Launcher.Plugin.IsPrime.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.Plugin.IsPrime@main/assets/icon.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
@@ -229,7 +229,7 @@
         "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0.1/Flow.Launcher.Plugin.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "FF2C31D6A47348FFB9ED4EB26F6794E2",
@@ -242,7 +242,7 @@
         "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.6/Flow.Launcher.Plugin.FancyEmoji.zip",
         "UrlSourceCode": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
@@ -255,7 +255,7 @@
         "UrlDownload": "https://github.com/Garulf/Flow.Launcher.Plugin.Timestamp/releases/download/v1.0.8/Flow.Launcher.Plugin.TimeStamp.zip",
         "UrlSourceCode": "https://github.com/Garulf/Flow.Launcher.Plugin.Timestamp",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Flow.Launcher.Plugin.Timestamp@master/assets/favicon.ico",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "73f2c04d-176a-4586-9ff5-69fae63321ef",
@@ -268,7 +268,7 @@
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.2/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
@@ -281,7 +281,7 @@
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v3.0.2/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
@@ -307,7 +307,7 @@
         "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v3.0.1/Search-MDI.zip",
         "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Search-MDI@main/app.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
@@ -320,7 +320,7 @@
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v0.5.2/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
@@ -333,7 +333,7 @@
         "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v3.0.3/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "477F16413D374364A4D5D36DCE68ED45",
@@ -346,7 +346,7 @@
         "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v1.1.0/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "095A6AE3A255532EAAD78F05A71D4981",
@@ -371,7 +371,7 @@
         "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.1/Nexusmods-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/nexusmods-search@main/./icon.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "D0DB38F5-0199-4DFC-8A8D-1B22F68C157C",
@@ -397,7 +397,7 @@
         "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.1/Flow.Launcher.Plugin.NumberConverter.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
@@ -410,7 +410,7 @@
         "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.3/window-services.zip",
         "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
         "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "4F31D5DF26984581BDF4213D40860ADF",
@@ -423,7 +423,7 @@
         "UrlDownload": "https://github.com/Garulf/windows-dark-mode-toggle/releases/download/v1.0.2/windows-dark-mode-toggle.zip",
         "UrlSourceCode": "https://github.com/Garulf/windows-dark-mode-toggle/tree/main",
         "IcoPath": "https://github.com/Garulf/windows-dark-mode-toggle/raw/main/icon/light-dark.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "747F1A93B6D24CCFBC433BA2455B3BEA",
@@ -436,7 +436,7 @@
         "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.1/Windows-Startup.zip",
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
-        "Tested": false
+        "Tested": true
     },
     {
         "ID": "A4A92BC0C742463187E5CCBA9B849B86",
