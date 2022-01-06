@@ -524,6 +524,7 @@
         "Website": "https://github.com/Garulf/obsidian-notes",
         "UrlDownload": "https://github.com/Garulf/Obsidian-Notes/releases/download/v1.0.0/Obsidian-Notes.zip",
         "UrlSourceCode": "https://github.com/Garulf/obsidian-notes/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/obsidian-notes@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/obsidian-notes@main/icon.png",
+        "Tested": true
     }
 ]
