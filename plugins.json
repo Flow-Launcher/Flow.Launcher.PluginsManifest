@@ -526,5 +526,17 @@
         "UrlSourceCode": "https://github.com/Garulf/obsidian-notes/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/obsidian-notes@main/icon.png",
         "Tested": true
+    },
+    {
+    "ID": "51F9B93359B24716BF9D7FCD1CB075B6",
+    "Name": "Reddit Browser",
+    "Description": "Search and browse Reddit",
+    "Author": "Garulf",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/reddit-browser",
+    "UrlDownload": "https://github.com/Garulf/reddit-browser/releases/download/1.0.0/Reddit-Browser.zip",
+    "UrlSourceCode": "https://github.com/Garulf/reddit-browser/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/reddit-browser@main/icon.png"
     }
 ]
