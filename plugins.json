@@ -513,5 +513,17 @@
         "UrlSourceCode": "https://github.com/Garulf/Epic-Games-Store-Launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Epic-Games-Store-Launcher@main/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "F0DC45CD032F438C9B900679BD9B117A",
+        "Name": "Obsidian Notes",
+        "Description": "Search Obsidian notes",
+        "Author": "Garulf",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/obsidian-notes",
+        "UrlDownload": "https://github.com/Garulf/Obsidian-Notes/releases/download/v1.0.0/Obsidian-Notes.zip",
+        "UrlSourceCode": "https://github.com/Garulf/obsidian-notes/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/obsidian-notes@main/icon.png"
     }
 ]
