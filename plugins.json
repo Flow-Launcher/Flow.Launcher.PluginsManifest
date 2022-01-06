@@ -532,10 +532,10 @@
         "Name": "Reddit Browser",
         "Description": "Search and browse Reddit",
         "Author": "Garulf",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/reddit-browser",
-        "UrlDownload": "https://github.com/Garulf/Reddit-Browser/releases/download/v1.0.1/Reddit-Browser.zip",
+        "UrlDownload": "https://github.com/Garulf/Reddit-Browser/releases/download/v1.0.2/Reddit-Browser.zip",
         "UrlSourceCode": "https://github.com/Garulf/reddit-browser/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/reddit-browser@main/icon.png"
     }
