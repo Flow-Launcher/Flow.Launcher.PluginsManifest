@@ -537,6 +537,7 @@
         "Website": "https://github.com/Garulf/reddit-browser",
         "UrlDownload": "https://github.com/Garulf/Reddit-Browser/releases/download/v1.0.2/Reddit-Browser.zip",
         "UrlSourceCode": "https://github.com/Garulf/reddit-browser/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/reddit-browser@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/reddit-browser@main/icon.png",
+        "Tested": true
     }
 ]
