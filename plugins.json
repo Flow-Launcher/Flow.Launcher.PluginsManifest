@@ -535,7 +535,7 @@
         "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/reddit-browser",
-        "UrlDownload": "https://github.com/Garulf/reddit-browser/releases/download/1.0.0/Reddit-Browser.zip",
+        "UrlDownload": "https://github.com/Garulf/Reddit-Browser/releases/download/v1.0.0/Reddit-Browser.zip",
         "UrlSourceCode": "https://github.com/Garulf/reddit-browser/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/reddit-browser@main/icon.png"
     }
