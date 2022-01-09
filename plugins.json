@@ -539,5 +539,17 @@
         "UrlSourceCode": "https://github.com/Garulf/reddit-browser/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/reddit-browser@main/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "625A2812D5364D708582FDD9ACCD8C93",
+        "Name": "Playnite",
+        "Description": "Search and launch your Playnite library.",
+        "Author": "Garulf",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/playnite-plugin",
+        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v1.0.0/Playnite-Plugin.zip",
+        "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png"
     }
 ]
