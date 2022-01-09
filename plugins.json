@@ -550,6 +550,7 @@
         "Website": "https://github.com/Garulf/playnite-plugin",
         "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v1.0.0/Playnite-Plugin.zip",
         "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png",
+        "Tested": true
     }
 ]
