@@ -552,5 +552,17 @@
         "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png",
         "Tested": true
-    }
+    },
+    {
+        "ID": "a56ae6ac-7b3b-47b9-857f-05ff25d29510",  
+        "Name": "Windows Terminal profiles",
+        "Description": "Windows Terminal profiles launcher",
+        "Author": "Aviv B.D.",
+        "Version": "0.0.2",
+        "Language": "python",
+        "Website": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal",
+        "UrlDownload":"https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal/releases/download/v0.0.2/Flow.Launcher.Plugin.WindowsTerminal.zip",
+        "UrlSourceCode": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/paradox00/Flow.Launcher.Plugin.WindowsTerminal@main/Images/app.png"
+      }
 ]
