@@ -558,10 +558,10 @@
         "Name": "Windows Terminal profiles",
         "Description": "Windows Terminal profiles launcher",
         "Author": "Aviv B.D.",
-        "Version": "0.0.2",
+        "Version": "0.0.4",
         "Language": "python",
         "Website": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal",
-        "UrlDownload": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal/releases/download/v0.0.2/Flow.Launcher.Plugin.WindowsTerminal.zip",
+        "UrlDownload": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal/releases/download/v0.0.4/Flow.Launcher.Plugin.WindowsTerminal.zip",
         "UrlSourceCode": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal",
         "IcoPath": "https://cdn.jsdelivr.net/gh/paradox00/Flow.Launcher.Plugin.WindowsTerminal@main/Images/app.png",
         "Tested": true
