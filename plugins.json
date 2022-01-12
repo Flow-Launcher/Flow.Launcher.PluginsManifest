@@ -565,5 +565,18 @@
         "UrlSourceCode": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal",
         "IcoPath": "https://cdn.jsdelivr.net/gh/paradox00/Flow.Launcher.Plugin.WindowsTerminal@main/Images/app.png",
         "Tested": true
-    }
+    },
+    {
+        "ID": "9B66F9CD1BF54CBBADCF1ACB378E33BB",
+        "Name": "Github Notifications",
+        "Description": "View your github notifications",
+        "Author": "Garulf",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/github-notifications",
+        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v1.0.1/Github-Notifications.zip",
+        "UrlSourceCode": "https://github.com/Garulf/github-notifications/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-notifications@main/icon.png"
+      }
+      
 ]
