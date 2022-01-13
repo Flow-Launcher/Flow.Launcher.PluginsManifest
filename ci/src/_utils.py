@@ -55,6 +55,9 @@ def etags_writer(content: ETagsType):
 def clean(string: str, flag="-") -> str:
     return string.lower().replace(flag, "").strip()
 
+def version_tuple(version: str) -> tuple:
+    version = clean(version, "v")
+    return tuple(map(int, (version.split("."))))
 
 def check_url(url: str) -> bool:
     regex = re.compile(
