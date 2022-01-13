@@ -51,7 +51,7 @@ def batch_plugin_infos(plugin_infos: Ps, tags: ETagsType, webhook_url: str=None)
 
 if __name__ == "__main__":
     webhook_url = None
-    if len(argv) < 1:
+    if len(argv) > 1:
         webhook_url = argv[1]
     plugin_infos = plugin_reader()
     etags = etag_reader()
