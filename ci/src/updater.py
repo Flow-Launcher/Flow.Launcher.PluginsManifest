@@ -38,9 +38,8 @@ def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str=None) ->
         tqdm.write(f"Update detected: {info[id_name]} {info[version]}")
         try:
             update_hook(webhook_url, info)
-        except:
-            # We dont want to crash if the webhook is not working
-            pass
+        except Exception as e:
+            tqdm.write(e)
         
     tags[info[id_name]] = res.headers.get(etag, "")
 
