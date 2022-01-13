@@ -33,7 +33,9 @@ def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str=None) ->
     if assets:
         info[url_download] = assets[0]["browser_download_url"]
         info[version] = clean(latest_rel["tag_name"], "v")
-    else:
+
+    if info[version] != clean(latest_rel["tag_name"], "v"):
+        tqdm.write(f"Update detected: {info[id_name]} {info[version]}")
         try:
             update_hook(webhook_url, info)
         except:
