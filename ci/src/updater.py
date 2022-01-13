@@ -35,7 +35,7 @@ def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str=None) ->
         info[version] = clean(latest_rel["tag_name"], "v")
     else:
         try:
-            update_hook(webhook, info)
+            update_hook(webhook_url, info)
         except:
             # We dont want to crash if the webhook is not working
             pass
