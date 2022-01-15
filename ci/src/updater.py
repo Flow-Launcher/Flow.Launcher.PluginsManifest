@@ -29,7 +29,6 @@ def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str=None) ->
         return info
 
     latest_rel = res.json()
-    print(json.dumps(latest_rel, indent=4))
     assets = latest_rel.get("assets")
     if assets:
         info[url_download] = assets[0]["browser_download_url"]
