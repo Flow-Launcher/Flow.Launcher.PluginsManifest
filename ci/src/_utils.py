@@ -26,6 +26,7 @@ icon_path = "IcoPath"
 author = "Author"
 description = "Description"
 plugin_name = "Name"
+github_url = "https://github.com"
 
 # typing
 PluginType = Dict[str, str]
