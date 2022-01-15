@@ -46,7 +46,7 @@ def batch_plugin_infos(plugin_infos: Ps, tags: ETagsType, webhook_url: str=None)
 
 def send_notification(info: P, latest_ver, release, webhook_url: str=None) -> None:
     if version_tuple(info[version]) != version_tuple(latest_ver):
-        tqdm.write(f"Update detected: {info[id_name]} {latest_ver}")
+        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
         try:
             update_hook(webhook_url, info, latest_ver, release)
         except Exception as e:
