@@ -24,6 +24,8 @@ url_download = "UrlDownload"
 url_release = "https://api.github.com/repos/{repo}/releases/latest"
 icon_path = "IcoPath"
 author = "Author"
+description = "Description"
+plugin_name = "Name"
 
 # typing
 PluginType = Dict[str, str]
