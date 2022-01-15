@@ -33,8 +33,8 @@ def update_hook(webhook_url: str, info: dict, latest_ver: str, release_url: str)
     if 'github.com' in info[url_sourcecode].lower():
         github_username = info[url_sourcecode].split('/')[3]
         embed['embeds'][0]['author']['name'] = github_username
-        embed['embeds'][0]['author']['url'] = f"https://github.com/{github_username}"
-        embed['embeds'][0]["author"]["icon_url"] = f"https://github.com/{github_username}.png?size=40"
+        embed['embeds'][0]['author']['url'] = f"{github_url}/{github_username}"
+        embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
         if github_username.lower() != info['Author'].lower():
             embed['embeds'][0]["fields"].insert(0, {
                 "name": "Plugin Author",
