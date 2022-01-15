@@ -1,12 +1,12 @@
 import requests
 
-def update_hook(webhook_url: str, info: dict) -> None:
+def update_hook(webhook_url: str, info: dict, latest_ver: str) -> None:
     embed = {
         "content": None,
         "embeds": [
             {
             "title": "Plugin Updated",
-            "description": f"{info['Name']} plugin has been updated to v{info['Version']}!",
+            "description": f"{info['Name']} plugin has been updated to v{latest_ver}!",
             "url": info['Website'],
             "color": None,
             "fields": [
