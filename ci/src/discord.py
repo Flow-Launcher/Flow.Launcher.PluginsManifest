@@ -2,22 +2,24 @@ import requests
 
 from _utils import *
 
-def update_hook(webhook_url: str, info: dict, latest_ver: str, release_url: str) -> None:
+
+
+def update_hook(webhook_url: str, info: dict, latest_ver: str, release: dict) -> None:
     embed = {
         "content": None,
         "embeds": [
             {
             "title": info[plugin_name],
             "description": f"Updated to v{latest_ver}!",
-            "url": release_url,
+            "url": release['html_url'],
             "color": None,
             "fields": [
                 {
-                "name": "Description",
+                "name": "Plugin Description",
                 "value": info[description]
                 },
                 {
-                "name": "Language",
+                "name": "Plugin Language",
                 "value": info[language_name]
                 }
             ],
@@ -35,4 +37,6 @@ def update_hook(webhook_url: str, info: dict, latest_ver: str, release_url: str)
         embed['embeds'][0]['author']['name'] = github_username
         embed['embeds'][0]['author']['url'] = f"{github_url}/{github_username}"
         embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
+    if release.get('body'):
+        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": release.get('body', "")})
     requests.post(webhook_url, json=embed)
