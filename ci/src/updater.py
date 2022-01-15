@@ -32,7 +32,7 @@ def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str=None) ->
     assets = latest_rel.get("assets")
     if assets:
         info[url_download] = assets[0]["browser_download_url"]
-        send_notification(info, clean(latest_rel["tag_name"], "v"), webhook_url)
+        send_notification(info, clean(latest_rel["tag_name"], "v"), latest_rel['html_url'], webhook_url)
         info[version] = clean(latest_rel["tag_name"], "v")
         
     tags[info[id_name]] = res.headers.get(etag, "")
@@ -44,11 +44,11 @@ def batch_plugin_infos(plugin_infos: Ps, tags: ETagsType, webhook_url: str=None)
     return [batch_github_plugin_info(info, tags, webhook_url) for info in tqdm(plugin_infos)]
 
 
-def send_notification(info: P, latest_ver, webhook_url: str=None) -> None:
+def send_notification(info: P, latest_ver, release_url, webhook_url: str=None) -> None:
     if version_tuple(info[version]) != version_tuple(latest_ver):
         tqdm.write(f"Update detected: {info[id_name]} {latest_ver}")
         try:
-            update_hook(webhook_url, info, latest_ver)
+            update_hook(webhook_url, info, latest_ver, release_url)
         except Exception as e:
             tqdm.write(e)
 
