@@ -35,9 +35,4 @@ def update_hook(webhook_url: str, info: dict, latest_ver: str, release_url: str)
         embed['embeds'][0]['author']['name'] = github_username
         embed['embeds'][0]['author']['url'] = f"{github_url}/{github_username}"
         embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
-        if github_username.lower() != info[author].lower():
-            embed['embeds'][0]["fields"].insert(0, {
-                "name": "Plugin Author",
-                "value": info[author]
-            })
     requests.post(webhook_url, json=embed)
