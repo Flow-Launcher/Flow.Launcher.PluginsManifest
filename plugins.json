@@ -578,5 +578,17 @@
         "UrlSourceCode": "https://github.com/Garulf/github-notifications/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-notifications@main/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "9AFBFD39E52F415E9B900E92EC1133E4",
+        "Name": "Spell Checker",
+        "Description": "Quickly get spelling suggestions and word definitions.",
+        "Author": "Garulf",
+        "Version": "0.0.2",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/spell-checker",
+        "UrlDownload": "https://github.com/Garulf/spell-checker/releases/download/v0.0.2/Spell-Checker.zip",
+        "UrlSourceCode": "https://github.com/Garulf/spell-checker/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/spell-checker@main/icon.png"
     }
 ]
