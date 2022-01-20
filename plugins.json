@@ -587,7 +587,7 @@
         "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-quick-launcher",
-        "UrlDownload": "https://github.com/Garulf/github-quick-launcher/releases/download/v1.0.1/Github-Quick-Launcher.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v1.0.1/Github-Quick-Launcher.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-quick-launcher@main/icon.png",
         "Tested": true
