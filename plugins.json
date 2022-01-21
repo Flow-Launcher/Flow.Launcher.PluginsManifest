@@ -604,5 +604,17 @@
         "UrlSourceCode": "https://github.com/Garulf/spell-checker/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/spell-checker@main/icon.png",
         "Tested": true
+    },
+    {
+      "ID": "898FC7F0-4F38-401B-82E0-A852798C2D59",
+      "Name": "Kitty",
+      "Description": "Launch Kitty Sessions.",
+      "Author": "LostPing",
+      "Version": "1.0.4",
+      "Language": "csharp",
+      "Website": "https://github.com/lostping/Flow.Launcher.Plugin.Kitty",
+      "UrlDownload": "https://github.com/lostping/Flow.Launcher.Plugin.Kitty/releases/download/v1.0.4/Flow.Launcher.Plugin.Kitty.zip",
+      "UrlSourceCode": "https://github.com/lostping/Flow.Launcher.Plugin.Kitty/tree/main",
+      "IcoPath": "https://raw.githubusercontent.com/lostping/Flow.Launcher.Plugin.Kitty/main/icon.png"
     }
 ]
