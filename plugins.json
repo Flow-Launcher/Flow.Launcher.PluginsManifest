@@ -597,10 +597,10 @@
         "Name": "Spell Checker",
         "Description": "Quickly get spelling suggestions and word definitions.",
         "Author": "Garulf",
-        "Version": "0.0.3",
+        "Version": "0.0.4",
         "Language": "python",
         "Website": "https://github.com/Garulf/spell-checker",
-        "UrlDownload": "https://github.com/Garulf/spell-checker/releases/download/v0.0.3/spell-checker.zip",
+        "UrlDownload": "https://github.com/Garulf/spell-checker/releases/download/v0.0.4/spell-checker.zip",
         "UrlSourceCode": "https://github.com/Garulf/spell-checker/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/spell-checker@main/icon.png",
         "Tested": true
