@@ -629,5 +629,17 @@
         "UrlSourceCode": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DesktopCleanup",
         "IcoPath": "https://cdn.jsdelivr.net/gh/umi-uyura/Flow.Launcher.Plugin.DesktopCleanup@main/assets/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "258159A0D7A64C7A931CBBD8FB3A6FA6",
+        "Name": "Sonarr Search",
+        "Description": "Search your Sonarr server library",
+        "Author": "Garulf",
+        "Version": "0.1.0",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/sonarr-search",
+        "UrlDownload": "https://github.com/Garulf/sonarr-search/releases/download/v0.0.2/Sonarr-Search.zip",
+        "UrlSourceCode": "https://github.com/Garulf/sonarr-search/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/sonarr-search@main/icon.png"
     }
 ]
