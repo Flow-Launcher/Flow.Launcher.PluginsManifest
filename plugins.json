@@ -640,6 +640,7 @@
         "Website": "https://github.com/Garulf/sonarr-search",
         "UrlDownload": "https://github.com/Garulf/sonarr-search/releases/download/v0.0.2/Sonarr-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/sonarr-search/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/sonarr-search@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/sonarr-search@main/icon.png",
+        "Tested": true
     }
 ]
