@@ -635,7 +635,7 @@
         "Name": "Sonarr Search",
         "Description": "Search your Sonarr server library",
         "Author": "Garulf",
-        "Version": "0.0.2",
+        "Version": "0.1.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/sonarr-search",
         "UrlDownload": "https://github.com/Garulf/sonarr-search/releases/download/v0.0.2/Sonarr-Search.zip",
