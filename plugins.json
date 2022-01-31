@@ -642,5 +642,17 @@
         "UrlSourceCode": "https://github.com/Garulf/sonarr-search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/sonarr-search@main/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "62A7E77D5AC84177AF902C4A5FF10603",
+        "Name": "BetterTTV Twitch Emotes",
+        "Description": "Search Twitch.tv emotes via BetterTTV",
+        "Author": "Garulf",
+        "Version": "0.0.1",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/Betterttv-twitch-emotes",
+        "UrlDownload": "https://github.com/Garulf/Betterttv-twitch-emotes/releases/download/v0.0.1/BetterTTV-Twitch-Emotes.zip",
+        "UrlSourceCode": "https://github.com/Garulf/Betterttv-twitch-emotes/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Betterttv-twitch-emotes@main/icon.png"
     }
 ]
