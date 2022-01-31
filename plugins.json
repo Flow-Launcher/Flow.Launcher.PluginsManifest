@@ -653,6 +653,7 @@
         "Website": "https://github.com/Garulf/Betterttv-twitch-emotes",
         "UrlDownload": "https://github.com/Garulf/Betterttv-twitch-emotes/releases/download/v0.0.1/BetterTTV-Twitch-Emotes.zip",
         "UrlSourceCode": "https://github.com/Garulf/Betterttv-twitch-emotes/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Betterttv-twitch-emotes@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Betterttv-twitch-emotes@main/icon.png",
+        "Tested": true
     }
 ]
