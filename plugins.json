@@ -655,5 +655,17 @@
         "UrlSourceCode": "https://github.com/Garulf/Betterttv-twitch-emotes/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Betterttv-twitch-emotes@main/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "915f45f7747440f7828621bd8ec0f298",
+        "Name": "DuckDuckGo !bang",
+        "Description": "Search on thousands of sites directly, with DuckDuckGo bangs",
+        "Author": "Ioannis G. (@JohnTheGr8)",
+        "Version": "1.2.0",
+        "Language": "fsharp",
+        "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Bang",
+        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/releases/download/v1.2.0/Flow.Plugin.Bang.zip",
+        "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Bang@main/src/icon.png"
     }
 ]
