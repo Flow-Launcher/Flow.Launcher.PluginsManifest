@@ -76,10 +76,10 @@
         "Name": "Everything",
         "Description": "Search Everything",
         "Author": "qianlifeng, orzfly",
-        "Version": "1.7.0",
+        "Version": "1.7.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.7.0/Flow.Launcher.Plugin.Everything.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.7.1/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png"
     },
