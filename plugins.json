@@ -667,5 +667,17 @@
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/releases/download/v1.2.0/Flow.Plugin.Bang.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Bang@main/src/icon.png"
+    },
+    {
+        "ID": "F6B8C1BC8441496798D2CE2BADB0E95E",
+        "Name": "Browser History",
+        "Description": "Search your Web Browser history",
+        "Author": "Garulf",
+        "Version": "0.0.3",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/browser-history",
+        "UrlDownload": "https://github.com/Garulf/browser-history/releases/download/v0.0.3/Browser-History.zip",  
+        "UrlSourceCode": "https://github.com/Garulf/browser-history/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/browser-history@main/icon.png"
     }
 ]
