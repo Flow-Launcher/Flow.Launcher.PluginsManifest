@@ -676,8 +676,9 @@
         "Version": "0.0.3",
         "Language": "python",
         "Website": "https://github.com/Garulf/browser-history",
-        "UrlDownload": "https://github.com/Garulf/browser-history/releases/download/v0.0.3/Browser-History.zip",  
+        "UrlDownload": "https://github.com/Garulf/browser-history/releases/download/v0.0.3/Browser-History.zip",
         "UrlSourceCode": "https://github.com/Garulf/browser-history/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/browser-history@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/browser-history@main/icon.png",
+        "Tested": true
     }
 ]
