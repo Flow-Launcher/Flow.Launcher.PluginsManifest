@@ -236,10 +236,10 @@
         "Name": "Fancy Emoji",
         "Description": "Search for emoji and add to your clipboard automatically",
         "Author": "Mave",
-        "Version": "1.0.6",
+        "Version": "1.0.7",
         "Language": "python",
         "Website": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji",
-        "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.6/Flow.Launcher.Plugin.FancyEmoji.zip",
+        "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.7/Flow.Launcher.Plugin.FancyEmoji.zip",
         "UrlSourceCode": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": true
