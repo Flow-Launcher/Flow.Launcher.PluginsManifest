@@ -680,5 +680,17 @@
         "UrlSourceCode": "https://github.com/Garulf/browser-history/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/browser-history@main/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "42DE0794627A48B2847E6FDF29DD5561",
+        "Name": "FlowYouTube",
+        "Description": "Search YouTube.com",
+        "Author": "Garulf",
+        "Version": "0.0.2",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/FlowYouTube",
+        "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v0.0.2/FlowYouTube.zip",
+        "UrlSourceCode": "https://github.com/Garulf/FlowYouTube/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/FlowYouTube@main/icon.png"
     }
 ]
