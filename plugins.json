@@ -698,7 +698,7 @@
         "Name": "FlowYouTube",
         "Description": "Search YouTube.com",
         "Author": "Garulf",
-        "Version": "0.1.1",
+        "Version": "0.1.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/FlowYouTube",
         "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v0.1.0/FlowYouTube.zip",
