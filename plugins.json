@@ -718,5 +718,17 @@
         "UrlSourceCode": "https://github.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/tree/main",
         "IcoPath": "https://raw.githubusercontent.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/main/Flow.Launcher.Plugin.Base64/Images/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "7258ab16-fffd-4862-839a-43c7f21b5282",
+        "Name": "GUID",
+        "Description": "Generate a new GUID from flow-launcher",
+        "Author": "cfe84",
+        "Version": "1.0.0",
+        "Language": "executable",
+        "Website": "https://github.com/cfe84/wox-guid",
+        "UrlDownload": "https://github.com/cfe84/wox-guid/files/6495350/wox-guid.zip",
+        "UrlSourceCode": "https://github.com/cfe84/wox-guid/tree/main",
+        "IcoPath": "https://raw.githubusercontent.com/cfe84/wox-guid/main/app.png"
     }
 ]
