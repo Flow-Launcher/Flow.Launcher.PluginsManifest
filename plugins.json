@@ -727,7 +727,7 @@
         "Version": "1.0.0",
         "Language": "executable",
         "Website": "https://github.com/cfe84/wox-guid",
-        "UrlDownload": "https://github.com/cfe84/wox-guid/files/6495350/wox-guid.zip",
+        "UrlDownload": "https://github.com/cfe84/wox-guid/releases/download/v1.0.0/flow-launcher-guid.zip",
         "UrlSourceCode": "https://github.com/cfe84/wox-guid/tree/main",
         "IcoPath": "https://raw.githubusercontent.com/cfe84/wox-guid/main/app.png"
     }
