@@ -730,6 +730,6 @@
         "Website": "https://github.com/gissehel/BarLauncher-WebApp",
         "UrlDownload": "https://github.com/gissehel/BarLauncher-WebApp/releases/download/v2.0.12/BarLauncher.WebApp.Flow.Launcher-2.0.12.zip",
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-WebApp",
-        "IcoPath": "https://raw.githubusercontent.com/gissehel/BarLauncher-WebApp/master/BarLauncher.WebApp.Flow.Launcher/BarLauncher-WebApp-64.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-WebApp/BarLauncher.WebApp.Flow.Launcher/BarLauncher-WebApp-64.png"
     }
 ]
