@@ -730,6 +730,6 @@
         "Website": "https://github.com/gissehel/BarLauncher-UnitConverter",
         "UrlDownload": "https://github.com/gissehel/BarLauncher-UnitConverter/releases/download/v2.0.4/BarLauncher.UnitConverter.Flow.Launcher-2.0.4.zip",
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-UnitConverter",
-        "IcoPath": "https://github.com/gissehel/BarLauncher-UnitConverter/blob/master/BarLauncher.UnitConverter.Flow.Launcher/Unitlib-64.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-UnitConverter/BarLauncher.UnitConverter.Flow.Launcher/Unitlib-64.png"
     }
 ]
