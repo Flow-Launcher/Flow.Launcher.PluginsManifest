@@ -718,5 +718,18 @@
         "UrlSourceCode": "https://github.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/tree/main",
         "IcoPath": "https://raw.githubusercontent.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/main/Flow.Launcher.Plugin.Base64/Images/icon.png",
         "Tested": true
-    }
+    },
+    {
+        "ID": "6361A46C-D08C-49AB-AAA4-D19E1F2ABA0D",
+        "ActionKeyword": "base",
+        "Name": "Base Converter",
+        "Description": "Convert values from one base to another (for example decimal to hexadecimal, etc.)",
+        "Author": "gissehel",
+        "Version": "2.0.4",
+        "Language": "csharp",
+        "Website": "https://github.com/gissehel/BarLauncher-BaseConverter",
+        "UrlDownload": "https://github.com/gissehel/BarLauncher-BaseConverter/releases/download/v2.0.4/BarLauncher.BaseConverter.Flow.Launcher-2.0.4.zip",
+        "UrlSourceCode": "https://github.com/gissehel/BarLauncher-BaseConverter",
+        "IcoPath": "https://raw.githubusercontent.com/gissehel/BarLauncher-BaseConverter/master/BarLauncher.BaseConverter.Flow.Launcher/BarLauncher-BaseConverter-64.png"
+      }
 ]
