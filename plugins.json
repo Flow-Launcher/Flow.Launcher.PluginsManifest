@@ -718,5 +718,18 @@
         "UrlSourceCode": "https://github.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/tree/main",
         "IcoPath": "https://raw.githubusercontent.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/main/Flow.Launcher.Plugin.Base64/Images/icon.png",
         "Tested": true
+    },
+    {
+        "ID": "D87F82F1-5A19-46CC-B5CC-50430B2F77AB",
+        "ActionKeyword": "unit",
+        "Name": "Unit converter",
+        "Description": "Convert between physical units",
+        "Author": "gissehel",
+        "Version": "2.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/gissehel/BarLauncher-UnitConverter",
+        "UrlDownload": "https://github.com/gissehel/BarLauncher-UnitConverter/releases/download/v2.0.4/BarLauncher.UnitConverter.Flow.Launcher-2.0.4.zip",
+        "UrlSourceCode": "https://github.com/gissehel/BarLauncher-UnitConverter",
+        "IcoPath": "https://github.com/gissehel/BarLauncher-UnitConverter/blob/master/BarLauncher.UnitConverter.Flow.Launcher/Unitlib-64.png"
     }
 ]
