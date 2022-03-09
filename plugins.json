@@ -730,6 +730,6 @@
         "Website": "https://github.com/gissehel/BarLauncher-Workspacer",
         "UrlDownload": "https://github.com/gissehel/BarLauncher-Workspacer/releases/download/v2.0.4/BarLauncher.Workspacer.Flow.Launcher-2.0.4.zip",
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-Workspacer",
-        "IcoPath": "https://raw.githubusercontent.com/gissehel/BarLauncher-Workspacer/master/BarLauncher.Workspacer.Flow.Launcher/BarLauncher-Workspacer-64.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-Workspacer/BarLauncher.Workspacer.Flow.Launcher/BarLauncher-Workspacer-64.png"
       }
 ]
