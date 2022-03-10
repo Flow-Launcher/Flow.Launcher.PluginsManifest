@@ -720,6 +720,19 @@
         "Tested": true
     },
     {
+        "ID": "CF8389C7-61AC-4387-93DE-370B31BD07EB",
+        "ActionKeyword": "wap",
+        "Name": "WebApp launcher",
+        "Description": "Start a URL in a webapp mode",
+        "Author": "gissehel",
+        "Version": "2.0.12",
+        "Language": "csharp",
+        "Website": "https://github.com/gissehel/BarLauncher-WebApp",
+        "UrlDownload": "https://github.com/gissehel/BarLauncher-WebApp/releases/download/v2.0.12/BarLauncher.WebApp.Flow.Launcher-2.0.12.zip",
+        "UrlSourceCode": "https://github.com/gissehel/BarLauncher-WebApp",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-WebApp/BarLauncher.WebApp.Flow.Launcher/BarLauncher-WebApp-64.png"
+    },
+    {
         "ID": "D87F82F1-5A19-46CC-B5CC-50430B2F77AB",
         "ActionKeyword": "unit",
         "Name": "Unit converter",
