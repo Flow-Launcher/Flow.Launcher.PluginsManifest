@@ -720,6 +720,19 @@
         "Tested": true
     },
     {
+        "ID": "6361A46C-D08C-49AB-AAA4-D19E1F2ABA0D",
+        "ActionKeyword": "base",
+        "Name": "Base Converter",
+        "Description": "Convert values from one base to another (for example decimal to hexadecimal, etc.)",
+        "Author": "gissehel",
+        "Version": "2.0.6",
+        "Language": "csharp",
+        "Website": "https://github.com/gissehel/BarLauncher-BaseConverter",
+        "UrlDownload": "https://github.com/gissehel/BarLauncher-BaseConverter/releases/download/v2.0.6/BarLauncher.BaseConverter.Flow.Launcher-2.0.6.zip",
+        "UrlSourceCode": "https://github.com/gissehel/BarLauncher-BaseConverter",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-BaseConverter/BarLauncher.BaseConverter.Flow.Launcher/BarLauncher-BaseConverter-64.png"
+    },
+    {
         "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
         "ActionKeyword": "work",
         "Name": "Workspacer",
