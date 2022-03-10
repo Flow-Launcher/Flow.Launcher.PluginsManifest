@@ -731,7 +731,8 @@
         "UrlDownload": "https://github.com/gissehel/BarLauncher-BaseConverter/releases/download/v2.0.6/BarLauncher.BaseConverter.Flow.Launcher-2.0.6.zip",
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-BaseConverter",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-BaseConverter/BarLauncher.BaseConverter.Flow.Launcher/BarLauncher-BaseConverter-64.png"
-      }
+    },
+    {
         "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
         "ActionKeyword": "work",
         "Name": "Workspacer",
