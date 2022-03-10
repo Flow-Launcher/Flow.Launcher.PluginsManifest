@@ -720,6 +720,19 @@
         "Tested": true
     },
     {
+        "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
+        "ActionKeyword": "work",
+        "Name": "Workspacer",
+        "Description": "Create and manage workspaces",
+        "Author": "gissehel",
+        "Version": "2.0.4",
+        "Language": "csharp",
+        "Website": "https://github.com/gissehel/BarLauncher-Workspacer",
+        "UrlDownload": "https://github.com/gissehel/BarLauncher-Workspacer/releases/download/v2.0.4/BarLauncher.Workspacer.Flow.Launcher-2.0.4.zip",
+        "UrlSourceCode": "https://github.com/gissehel/BarLauncher-Workspacer",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-Workspacer/BarLauncher.Workspacer.Flow.Launcher/BarLauncher-Workspacer-64.png"
+      },
+      {
         "ID": "CF8389C7-61AC-4387-93DE-370B31BD07EB",
         "ActionKeyword": "wap",
         "Name": "WebApp launcher",
