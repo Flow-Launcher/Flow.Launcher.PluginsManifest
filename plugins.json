@@ -314,10 +314,10 @@
         "Name": "Plexy",
         "Description": "Search and cast your Plex Media Server Library",
         "Author": "Garulf",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/plexy",
-        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v1.0.0/Plexy.zip",
+        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v1.1.0/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
         "Tested": true
