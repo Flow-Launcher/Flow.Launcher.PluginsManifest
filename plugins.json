@@ -770,5 +770,17 @@
         "UrlDownload": "https://github.com/gissehel/BarLauncher-UnitConverter/releases/download/v2.0.6/BarLauncher.UnitConverter.Flow.Launcher-2.0.6.zip",
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-UnitConverter",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-UnitConverter/BarLauncher.UnitConverter.Flow.Launcher/Unitlib-64.png"
+    },
+    {
+        "ID": "62EE2B99A29740B2A8CB6B58D067DBD2",   
+        "Name": "Wallpaper Engine Profile Selector",
+        "Description": "Change your Wallpaper Engine Profile",
+        "Author": "Garulf",
+        "Version": "0.0.2",
+        "Language": "python",
+        "Website": "https://github.com/Garulf/wallpaper-engine-profile-selector",
+        "UrlDownload": "https://github.com/Garulf/wallpaper-engine-profile-selector/releases/download/v0.0.2/Wallpaper-Engine-Profile-Selector.zip",
+        "UrlSourceCode": "https://github.com/Garulf/wallpaper-engine-profile-selector/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/wallpaper-engine-profile-selector@main/icon.png"
     }
 ]
