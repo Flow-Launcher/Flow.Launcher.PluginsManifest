@@ -772,7 +772,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-UnitConverter/BarLauncher.UnitConverter.Flow.Launcher/Unitlib-64.png"
     },
     {
-        "ID": "62EE2B99A29740B2A8CB6B58D067DBD2",   
+        "ID": "62EE2B99A29740B2A8CB6B58D067DBD2",
         "Name": "Wallpaper Engine Profile Selector",
         "Description": "Change your Wallpaper Engine Profile",
         "Author": "Garulf",
@@ -781,6 +781,7 @@
         "Website": "https://github.com/Garulf/wallpaper-engine-profile-selector",
         "UrlDownload": "https://github.com/Garulf/wallpaper-engine-profile-selector/releases/download/v0.0.2/Wallpaper-Engine-Profile-Selector.zip",
         "UrlSourceCode": "https://github.com/Garulf/wallpaper-engine-profile-selector/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/wallpaper-engine-profile-selector@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/wallpaper-engine-profile-selector@main/icon.png",
+        "Tested": true
     }
 ]
