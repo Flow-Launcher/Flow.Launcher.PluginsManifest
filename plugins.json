@@ -519,10 +519,10 @@
         "Name": "Obsidian Notes",
         "Description": "Search Obsidian notes",
         "Author": "Garulf",
-        "Version": "1.1.1",
+        "Version": "1.1.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/obsidian-notes",
-        "UrlDownload": "https://github.com/Garulf/Obsidian-Notes/releases/download/v1.1.1/Obsidian-Notes.zip",
+        "UrlDownload": "https://github.com/Garulf/Obsidian-Notes/releases/download/v1.1.2/Obsidian-Notes.zip",
         "UrlSourceCode": "https://github.com/Garulf/obsidian-notes/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/obsidian-notes@main/icon.png",
         "Tested": true
