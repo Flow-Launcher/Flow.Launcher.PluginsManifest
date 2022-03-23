@@ -794,6 +794,7 @@
         "Website": "https://github.com/Garulf/flow-raindrop",
         "UrlDownload": "https://github.com/Garulf/Flow-Raindrop/releases/download/v0.0.2/Flow-Raindrop.zip",
         "UrlSourceCode": "https://github.com/Garulf/flow-raindrop/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-raindrop@main/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-raindrop@main/icon.png",
+        "Tested": true
     }
 ]
