@@ -340,10 +340,10 @@
         "Name": "Twitchy",
         "Description": "Search and stream twitch.tv",
         "Author": "Garulf",
-        "Version": "2.1.0",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/twitchy",
-        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v2.1.0/twitchy.zip",
+        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v2.0.0/twitchy.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
         "Tested": true
