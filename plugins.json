@@ -545,10 +545,10 @@
         "Name": "Playnite",
         "Description": "Search and launch your Playnite library.",
         "Author": "Garulf",
-        "Version": "1.5.1",
+        "Version": "1.5.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/playnite-plugin",
-        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v1.5.1/Playnite-Plugin.zip",
+        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v1.5.2/Playnite-Plugin.zip",
         "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png",
         "Tested": true
