@@ -698,10 +698,10 @@
         "Name": "FlowYouTube",
         "Description": "Search YouTube.com",
         "Author": "Garulf",
-        "Version": "0.3.1",
+        "Version": "0.4.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/FlowYouTube",
-        "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v0.3.1/FlowYouTube.zip",
+        "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v0.4.0/FlowYouTube.zip",
         "UrlSourceCode": "https://github.com/Garulf/FlowYouTube/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/FlowYouTube@main/icon.png",
         "Tested": true
