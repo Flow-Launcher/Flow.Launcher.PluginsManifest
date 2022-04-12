@@ -365,10 +365,10 @@
         "Name": "nexusmods-search",
         "Description": "Search Nexusmods.com",
         "Author": "Garulf",
-        "Version": "0.2.2",
+        "Version": "0.2.3",
         "Language": "python",
         "Website": "https://github.com/Garulf/nexusmods-search",
-        "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.2/Nexusmods-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Nexusmods-Search/releases/download/v0.2.3/Nexusmods-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/nexusmods-search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/nexusmods-search@main/./icon.png",
         "Tested": true
