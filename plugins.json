@@ -799,7 +799,6 @@
     },
     {
         "ID": "90170ddfd94a4c188bc5ff2e3690d0ae",
-        "ActionKeyword": "*",
         "Name": "WordReference",
         "Description": "WordReference translations (es, en, fr, it)",
         "Author": "LeoDupont",
