@@ -807,7 +807,6 @@
         "Website": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference",
         "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference/releases/download/v1.0.0/Flow.Launcher.Plugin.WordReference.zip",
         "UrlSourceCode": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference/tree/main",
-        "ExecuteFileName": "start.bat",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.WordReference@main/images/favicon-32x32.png"
     }
 ]
