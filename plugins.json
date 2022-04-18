@@ -820,5 +820,17 @@
         "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/releases/download/v1.0.0/Flow.Launcher.Plugin.DateDiff.zip",
         "UrlSourceCode": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.DateDiff@main/images/icon.png"
+    },
+    {
+        "ID": "3e268e4d-50a7-4847-aa58-adb7b743de1a",
+        "Name": "Notion Search",
+        "Description": "Search notion pages and databases",
+        "Author": "Duckworth",
+        "Version": "0.0.4",
+        "Language": "python",
+        "Website": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch",
+        "UrlDownload": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch/releases/download/v0.0.4/Flow.Launcher.Plugin.NotionSearch.zip",
+        "UrlSourceCode": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/danielduckworth/Flow.Launcher.Plugin.NotionSearch@main/Images/notion.png"
     }
 ]
