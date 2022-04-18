@@ -811,7 +811,6 @@
     },
     {
         "ID": "6bfc4672-5550-4d40-b2dc-53093a2417a0",
-        "ActionKeyword": "dd",
         "Name": "DateDiff",
         "Description": "Difference between two dates (documentation on website)",
         "Author": "LeoDupont",
