@@ -817,7 +817,7 @@
         "Version": "1.0.0",
         "Language": "executable",
         "Website": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff",
-        "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/releases/latest/download/Flow.Launcher.Plugin.DateDiff.zip",
+        "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/releases/download/v1.0.0/Flow.Launcher.Plugin.DateDiff.zip",
         "UrlSourceCode": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.DateDiff@main/images/icon.png"
     }
