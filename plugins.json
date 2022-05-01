@@ -833,7 +833,19 @@
         "UrlSourceCode": "https://github.com/brunolm/workflowy-wf",
         "IcoPath": "https://cdn.jsdelivr.net/gh/brunolm/workflowy-wf@v1.0.0/icon.jpg"
     },
-        {
+    {
+        "ID": "5A1E2AA6-1C6A-4130-990E-973FC5795D87",
+        "Name": "DropboxFinder",
+        "Description": "A plugin for Flow Launcher to search files directly within Dropbox.",
+        "Author": "Ameen Altajer",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/AmeenAltajer/FlowLauncher.DropboxFinder",
+        "UrlDownload": "https://github.com/ameenaltajer/FlowLauncher.DropboxFinder/releases/download/v1.1.0/DropboxFinder-1.1.0.zip",
+        "UrlSourceCode": "https://github.com/ameenaltajer/FlowLauncher.DropboxFinder/",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ameenaltajer/FlowLauncher.DropboxFinder@main/Flow.Launcher.Plugin.DropboxFinder/icon.png"
+    },
+    {
         "ID": "3e268e4d-50a7-4847-aa58-adb7b743de1a",
         "Name": "Notion Search",
         "Description": "Search notion pages and databases",
