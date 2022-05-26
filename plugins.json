@@ -862,7 +862,7 @@
         "ID": "1602DFD6B9F843A3A31CB9AD5561A9A2",
         "Name": "AWS Toolkit",
         "Description": "Open the AWS Console for services in your web browser",
-        "Author": "mjtimblin",
+        "Author": "mikemorain, mjtimblin",
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit",
