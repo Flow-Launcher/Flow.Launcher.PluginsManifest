@@ -863,10 +863,10 @@
         "Name": "AWS Toolkit",
         "Description": "Open the AWS Console for services in your web browser",
         "Author": "mikemorain, mjtimblin",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "csharp",
         "Website": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit",
-        "UrlDownload": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/releases/download/v1.0.0/Flow.Launcher.Plugin.AwsToolkit.zip",
+        "UrlDownload": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/releases/download/v1.0.1/Flow.Launcher.Plugin.AwsToolkit.zip",
         "UrlSourceCode": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mjtimblin/Flow.Launcher.Plugin.AwsToolkit@master/Flow.Launcher.Plugin.AwsToolkit/images/aws.png"
     }
