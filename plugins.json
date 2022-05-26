@@ -857,5 +857,17 @@
         "UrlSourceCode": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/danielduckworth/Flow.Launcher.Plugin.NotionSearch@main/Images/notion.png",
         "Tested": true
+    },
+    {
+        "ID": "1602DFD6B9F843A3A31CB9AD5561A9A2",
+        "Name": "AWS Toolkit",
+        "Description": "Open the AWS Console for services in your web browser",
+        "Author": "mjtimblin",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit",
+        "UrlDownload": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/releases/download/v1.0.0/Flow.Launcher.Plugin.AwsToolkit.zip",
+        "UrlSourceCode": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/mjtimblin/Flow.Launcher.Plugin.AwsToolkit@master/Flow.Launcher.Plugin.AwsToolkit/images/aws.png"
     }
 ]
