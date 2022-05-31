@@ -185,10 +185,10 @@
         "Name": "Direct Translate",
         "Description": "Translate between any languages supported by textblob.",
         "Author": "Drimix20",
-        "Version": "2.0.1",
+        "Version": "2.1.0",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.0.1/Flow.Launcher.Plugin.DirectTranslate-2.0.1.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.1.0/Flow.Launcher.Plugin.DirectTranslate-2.1.0.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png",
         "Tested": true
