@@ -869,5 +869,18 @@
         "UrlDownload": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/releases/download/v1.0.3/Flow.Launcher.Plugin.AwsToolkit.zip",
         "UrlSourceCode": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mjtimblin/Flow.Launcher.Plugin.AwsToolkit@master/icon.png"
+    },
+    {
+        "ID": "68B179AA-4E80-4080-AC68-CC922CD2AE60",
+        "ActionKeyword": "un",
+        "Name": "Unity 3D Helper",
+        "Description": "Unity3D project list/launcher",
+        "Author": "falldeaf",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/falldeaf/unity-flowlauncher",
+        "UrlDownload": "https://github.com/falldeaf/unity-flowlauncher/releases/download/v1.0.0/Flow.Launcher.Plugin.Unityhelper.zip",
+        "UrlSourceCode": "https://github.com/falldeaf/unity-flowlauncher/tree/main/",
+        "IcoPath": "https://github.com/falldeaf/unity-flowlauncher/raw/main/Flow.Launcher.Plugin.UnityHelper/Images/unitylogo.png"
     }
 ]
