@@ -210,10 +210,10 @@
         "Name": "isPrime",
         "Description": "Checks if the given arguments are prime numbers",
         "Author": "lvonkacsoh",
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "Language": "python",
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime",
-        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.2.0/Flow.Launcher.Plugin.IsPrime.zip",
+        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.3.0/Flow.Launcher.Plugin.IsPrime.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.Plugin.IsPrime@main/assets/icon.png",
         "Tested": true
