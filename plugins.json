@@ -894,7 +894,7 @@
         "Website": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo",
         "UrlDownload": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo.zip",
         "UrlSourceCode": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo",
-        "IcoPath": "https://raw.githubusercontent.com/Echostorm44/FlowLauncherPluginEmailTo/main/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/FlowLauncherPluginEmailTo@main/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo/icon.png"
     }
     
 ]
