@@ -882,5 +882,19 @@
         "UrlDownload": "https://github.com/falldeaf/unity-flowlauncher/releases/download/v1.0.2/Flow.Launcher.Plugin.Unityhelper.zip",
         "UrlSourceCode": "https://github.com/falldeaf/unity-flowlauncher/tree/main/",
         "IcoPath": "https://github.com/falldeaf/unity-flowlauncher/raw/main/Flow.Launcher.Plugin.UnityHelper/Images/unitylogo.png"
+    },
+    {
+        "ID": "6f831f62789e4b1c9b06af149f063958",
+        "ActionKeyword": "yd",
+        "Name": "YoudaoTranslate",
+        "Description": "Translate between any languages supported by Youdao",
+        "Author": "AndersonBY",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate",
+        "IcoPath": "assets/favicon.ico",
+        "ExecuteFileName": "main.py",
+        "UrlDownload": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate/releases/download/v1.0.0/Flow.Launcher.Plugin.YoudaoTranslate.zip",
+        "UrlSourceCode": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate"
     }
 ]
