@@ -894,6 +894,6 @@
         "Website": "https://github.com/MayowaAk/Flow.Launcher.Plugin.AnimeSearch",
         "UrlDownload": "https://github.com/MayowaAk/Flow.Launcher.Plugin.AnimeSearch/releases/download/Testing/MalSearch.zip",
         "UrlSourceCode": "https://github.com/MayowaAk/Flow.Launcher.Plugin.AnimeSearch/tree/master/",
-        "IcoPath": "icon.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/MayowaAk/Flow.Launcher.Plugin.AnimeSearch@master/AnimeSearch/Flow.Launcher.Plugin.AnimeSearch/MyAnimeList_Logo.png",
     }
 ]
