@@ -908,5 +908,18 @@
         "UrlDownload": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo.zip",
         "UrlSourceCode": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/FlowLauncherPluginEmailTo@main/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo/icon.png"
-    }
+    },
+    {
+        "ID": "9F2B698F-0F4B-4FC4-B57F-79E6E5BD2E9C",
+        "ActionKeyword": "mal",
+        "Name": "MalSearch",
+        "Description": "Search for anime and manga",
+        "Author": "MayowaA",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/MayowaAk/Flow.Launcher.Plugin.AnimeSearch",
+        "UrlDownload": "https://github.com/MayowaAk/Flow.Launcher.Plugin.AnimeSearch/releases/download/Testing/MalSearch.zip",
+        "UrlSourceCode": "https://github.com/MayowaAk/Flow.Launcher.Plugin.AnimeSearch/tree/master/",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/MayowaAk/Flow.Launcher.Plugin.AnimeSearch@master/AnimeSearch/Flow.Launcher.Plugin.AnimeSearch/MyAnimeList_Logo.png"
+     }
 ]
