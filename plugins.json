@@ -924,7 +924,6 @@
     },
     {
         "ID": "1e87e4c90c8e4daf9eee182d7c023919",
-        "ActionKeyword": "mdn",
         "Name": "Search MDN",
         "Description": "Search MDN Web Docs",
         "Author": "Gabriel Carloto",
