@@ -939,10 +939,10 @@
         "Name": "Translate Tool",
         "Description": "a plugin of translation",
         "Author": "qjc",
-        "Version": "0.0.1",
+        "Version": "0.1.0",
         "Language": "executable",
         "Website": "https://github.com/qjcXu/Flow.Launcher.Translation",
-        "UrlDownload": "https://github.com/qjcXu/Flow.Launcher.Translation/releases/download/v0.0.1/Flow.Launcher.Translation.zip",
+        "UrlDownload": "https://github.com/qjcXu/Flow.Launcher.Translation/releases/download/v0.1.0/Flow.Launcher.Translation.0.1.0.zip",
         "UrlSourceCode": "https://github.com/qjcXu/Flow.Launcher.Translation",
         "IcoPath": "https://cdn.jsdelivr.net/gh/qjcXu/Flow.Launcher.Translation/src/assets/imgs/translate.png"
     }
