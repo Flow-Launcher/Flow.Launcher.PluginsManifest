@@ -28,10 +28,10 @@
         "Name": "Dictionary",
         "Description": "English dictionary, word correction and synonym.",
         "Author": "Harry Yu",
-        "Version": "2.2.3",
+        "Version": "2.3.1",
         "Language": "csharp",
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
-        "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
+        "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.3.1/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
