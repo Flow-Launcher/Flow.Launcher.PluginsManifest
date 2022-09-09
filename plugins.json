@@ -978,11 +978,11 @@
         "Name": "CurrencyPP",
         "Description": "A better currency converter",
         "Author": "Le Loc Tai",
-        "Version": "3.0.0",
+        "Version": "3.0.1",
         "Language": "python",
         "Website": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP",
         "IcoPath": "src/CurrencyPP.png",
-        "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP/releases/download/v3.0.0/Flow.Launcher.Plugin.CurrencyPP.zip",
+        "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP/releases/download/v3.0.1/Flow.Launcher.Plugin.CurrencyPP.zip",
         "UrlSourceCode": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.CurrencyPP@master/src/CurrencyPP.png"
     }
