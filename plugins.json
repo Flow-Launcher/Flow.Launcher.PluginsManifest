@@ -28,10 +28,10 @@
         "Name": "Dictionary",
         "Description": "English dictionary, word correction and synonym.",
         "Author": "Harry Yu",
-        "Version": "2.2.3",
+        "Version": "2.3.1",
         "Language": "csharp",
         "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
-        "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.2.3/Dictionary.zip",
+        "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.3.1/Dictionary.zip",
         "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png"
     },
@@ -314,10 +314,10 @@
         "Name": "Plexy",
         "Description": "Search and cast your Plex Media Server Library",
         "Author": "Garulf",
-        "Version": "1.1.1",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/plexy",
-        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v1.1.1/Plexy.zip",
+        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v2.0.0/Plexy.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
         "Tested": true
@@ -327,10 +327,10 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "4.1.2",
+        "Version": "5.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v4.1.2/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v5.0.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": true
@@ -698,10 +698,10 @@
         "Name": "FlowYouTube",
         "Description": "Search YouTube.com",
         "Author": "Garulf",
-        "Version": "0.5.1",
+        "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/FlowYouTube",
-        "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v0.5.1/FlowYouTube.zip",
+        "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v1.0.0/FlowYouTube.zip",
         "UrlSourceCode": "https://github.com/Garulf/FlowYouTube/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/FlowYouTube@main/icon.png",
         "Tested": true
@@ -970,5 +970,18 @@
         "Website": "https://github.com/cenyG/flow-launch-translate-plugin",
         "ExecuteFileName": "node.bat",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cenyG/flow-launch-translate-plugin@main/Images/liber_icon.png"
+     },
+     {
+        "ID": "F8775498-BD72-4ECA-893F-B33863D81CB5",
+        "ActionKeyword": "u",
+        "Name": "Unity Engine",
+        "Description": "Launch Unity Projects",
+        "Author": "LeLocTai",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine",
+        "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine/releases/download/v1.0.1/Flow.Launcher.Plugin.UnityEngine.zip",
+        "UrlSourceCode": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.UnityEngine@master/Images/unity.png"
     }
 ]
