@@ -961,7 +961,6 @@
     },
     {
         "ID": "5423df3c6dd84fc5ad3ca1bfadad872dfca307c0a013d116dc3e8bed60b8ca5b",
-        "ActionKeyword": "tr",
         "Name": "Translation",
         "Description": "JavaScript Translation plugin with libretranslate.de",
         "Author": "cenygg",
