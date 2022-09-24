@@ -980,9 +980,9 @@
         "Version": "3.0.1",
         "Language": "python",
         "Website": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP",
-        "IcoPath": "src/CurrencyPP.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.CurrencyPP@master/src/CurrencyPP.png",
         "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP/releases/download/v3.0.1/Flow.Launcher.Plugin.CurrencyPP.zip",
         "UrlSourceCode": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.CurrencyPP@master/src/CurrencyPP.png"
+        "Tested": true
     }
 ]
