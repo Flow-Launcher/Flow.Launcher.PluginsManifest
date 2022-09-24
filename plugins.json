@@ -974,7 +974,6 @@
     },
     {
         "ID": "84d9d550-80cb-4e5f-a090-e1ccf3237a40",
-        "ActionKeyword": "*",
         "Name": "CurrencyPP",
         "Description": "A better currency converter",
         "Author": "Le Loc Tai",
