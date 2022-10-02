@@ -994,7 +994,7 @@
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard",
-        "UrlDownload":"https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard/releases/download/v1.0.0/PoiPoiClipboard.zip",
+        "UrlDownload": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard/releases/download/v1.0.0/PoiPoiClipboard.zip",
         "UrlSourceCode": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard",
         "IcoPath": "https://cdn.jsdelivr.net/gh/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard@v1.0.0/Flow.Launcher.Plugin.PoiPoiClipboard/Images/icon.png"
     }
