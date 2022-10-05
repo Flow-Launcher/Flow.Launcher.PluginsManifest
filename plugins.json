@@ -4,10 +4,10 @@
         "Name": "Google Search Plus",
         "Description": "Plugin for searching Google and navigating directly to the search results.",
         "Author": "mikemorain",
-        "Version": "1.0.3",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
-        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v1.0.3/Wox.Plugin.GoogleSearch.zip",
+        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v2.0.0/Wox.Plugin.GoogleSearch.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/Wox.Plugin.GoogleSearch/images/icon.png"
     },
