@@ -875,7 +875,8 @@
         "UrlDownload": "https://github.com/gissehel/BarLauncher-WebApp/releases/download/v2.0.16/BarLauncher.WebApp.Flow.Launcher-2.0.16.zip",
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-WebApp",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-WebApp/BarLauncher.WebApp.Flow.Launcher/BarLauncher-WebApp-64.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-04-27T22:12:36Z"
     },
     {
         "ID": "D87F82F1-5A19-46CC-B5CC-50430B2F77AB",
@@ -889,7 +890,8 @@
         "UrlDownload": "https://github.com/gissehel/BarLauncher-UnitConverter/releases/download/v2.0.6/BarLauncher.UnitConverter.Flow.Launcher-2.0.6.zip",
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-UnitConverter",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-UnitConverter/BarLauncher.UnitConverter.Flow.Launcher/Unitlib-64.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-03-13T12:07:24Z"
     },
     {
         "ID": "62EE2B99A29740B2A8CB6B58D067DBD2",
@@ -903,7 +905,8 @@
         "UrlSourceCode": "https://github.com/Garulf/wallpaper-engine-profile-selector/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/wallpaper-engine-profile-selector@main/icon.png",
         "Tested": true,
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-03-20T22:56:51Z"
     },
     {
         "ID": "B9B8174812E4474D96C148317BE2BFB7",
@@ -917,7 +920,8 @@
         "UrlSourceCode": "https://github.com/Garulf/flow-raindrop/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-raindrop@main/icon.png",
         "Tested": true,
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-03-23T11:11:00Z"
     },
     {
         "ID": "90170ddfd94a4c188bc5ff2e3690d0ae",
@@ -930,7 +934,8 @@
         "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference/releases/download/v1.0.1/Flow.Launcher.Plugin.WordReference.zip",
         "UrlSourceCode": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.WordReference@main/images/favicon-32x32.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-04-26T20:21:39Z"
     },
     {
         "ID": "6bfc4672-5550-4d40-b2dc-53093a2417a0",
@@ -943,7 +948,8 @@
         "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/releases/download/v1.1.0/Flow.Launcher.Plugin.DateDiff.zip",
         "UrlSourceCode": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.DateDiff@main/images/icon.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-04-26T20:30:57Z"
     },
     {
         "ID": "3b42afc0d17f45b98a55e324728252be",
@@ -956,7 +962,8 @@
         "UrlDownload": "https://github.com/brunolm/workflowy-wf/releases/download/v1.0.0/Flow.Launcher.Plugin.WorkflowyWF.zip",
         "UrlSourceCode": "https://github.com/brunolm/workflowy-wf",
         "IcoPath": "https://cdn.jsdelivr.net/gh/brunolm/workflowy-wf@v1.0.0/icon.jpg",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-04-26T14:08:11Z"
     },
     {
         "ID": "5A1E2AA6-1C6A-4130-990E-973FC5795D87",
@@ -969,7 +976,8 @@
         "UrlDownload": "https://github.com/ameenaltajer/FlowLauncher.DropboxFinder/releases/download/v1.1.0/DropboxFinder-1.1.0.zip",
         "UrlSourceCode": "https://github.com/ameenaltajer/FlowLauncher.DropboxFinder/",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ameenaltajer/FlowLauncher.DropboxFinder@main/Flow.Launcher.Plugin.DropboxFinder/icon.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-05-01T11:40:44Z"
     },
     {
         "ID": "3e268e4d-50a7-4847-aa58-adb7b743de1a",
@@ -983,7 +991,8 @@
         "UrlSourceCode": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/danielduckworth/Flow.Launcher.Plugin.NotionSearch@main/Images/notion.png",
         "Tested": true,
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-05-04T14:36:00Z"
     },
     {
         "ID": "1602DFD6B9F843A3A31CB9AD5561A9A2",
@@ -996,7 +1005,8 @@
         "UrlDownload": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/releases/download/v1.0.3/Flow.Launcher.Plugin.AwsToolkit.zip",
         "UrlSourceCode": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mjtimblin/Flow.Launcher.Plugin.AwsToolkit@master/icon.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-05-27T08:07:39Z"
     },
     {
         "ID": "68B179AA-4E80-4080-AC68-CC922CD2AE60",
@@ -1010,7 +1020,8 @@
         "UrlDownload": "https://github.com/falldeaf/unity-flowlauncher/releases/download/v1.0.2/Flow.Launcher.Plugin.Unityhelper.zip",
         "UrlSourceCode": "https://github.com/falldeaf/unity-flowlauncher/tree/main/",
         "IcoPath": "https://github.com/falldeaf/unity-flowlauncher/raw/main/Flow.Launcher.Plugin.UnityHelper/Images/unitylogo.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-07-20T15:07:28Z"
     },
     {
         "ID": "d91d366e4ff742b3b821f9d60031c3df",
@@ -1024,7 +1035,8 @@
         "UrlDownload": "https://github.com/gabrielcarloto/flow-search-npm/releases/download/v1.0.2/Flow.Launcher.Plugin.SearchNPM.zip",
         "UrlSourceCode": "https://github.com/gabrielcarloto/flow-search-npm/tree/main/",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gabrielcarloto/flow-search-npm@main/app.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-08-04T15:35:20Z"
     },
     {
         "ID": "F229B92B-C4D1-4A87-B05B-A96ACC486263",
@@ -1038,7 +1050,8 @@
         "UrlDownload": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo.zip",
         "UrlSourceCode": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/FlowLauncherPluginEmailTo@main/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo/icon.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-07-28T12:43:27Z"
     },
     {
         "ID": "188b0b5c-159b-11ed-861d-0242ac120002",
@@ -1052,7 +1065,8 @@
         "UrlSourceCode": "https://github.com/gamous/Flow.Launcher.Plugin.CyberChef",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gamous/Flow.Launcher.Plugin.CyberChef@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-08-08T11:30:28Z"
     },
     {
         "ID": "1e87e4c90c8e4daf9eee182d7c023919",
@@ -1065,7 +1079,8 @@
         "UrlDownload": "https://github.com/gabrielcarloto/flow-search-mdn/releases/download/v1.0.0/Flow.Launcher.Plugin.SearchMDN.zip",
         "UrlSourceCode": "https://github.com/gabrielcarloto/flow-search-mdn/tree/main/",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gabrielcarloto/flow-search-mdn@main/app.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-08-09T18:37:11Z"
     },
     {
         "ID": "7bfc4332-55t0-4d40-b4cc-530889g415a0",
@@ -1078,7 +1093,8 @@
         "UrlDownload": "https://github.com/qjcXu/Flow.Launcher.Translation/releases/download/v0.1.1/Flow.Launcher.Translation-0.1.1.zip",
         "UrlSourceCode": "https://github.com/qjcXu/Flow.Launcher.Translation",
         "IcoPath": "https://cdn.jsdelivr.net/gh/qjcXu/Flow.Launcher.Translation/src/assets/imgs/translate.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-08-17T09:28:16Z"
     },
     {
         "ID": "F03364BE-101B-4988-B555-528B961E6A86",
@@ -1092,7 +1108,8 @@
         "UrlDownload": "https://github.com/Echostorm44/FlowLauncherPluginMyIPs/releases/download/1.0.1/Flow.Launcher.Plugin.FlowLauncherPluginMyIPs.zip",
         "UrlSourceCode": "https://github.com/Echostorm44/FlowLauncherPluginMyIPs",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/FlowLauncherPluginMyIPs@main/Flow.Launcher.Plugin.FlowLauncherPluginMyIPs/icon.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-08-17T15:00:00Z"
     },
     {
         "ID": "F8775498-BD72-4ECA-893F-B33863D81CB5",
@@ -1106,7 +1123,8 @@
         "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine/releases/download/v1.0.1/Flow.Launcher.Plugin.UnityEngine.zip",
         "UrlSourceCode": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.UnityEngine@master/Images/unity.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-09-07T08:01:46Z"
     },
     {
         "ID": "84d9d550-80cb-4e5f-a090-e1ccf3237a40",
@@ -1120,7 +1138,8 @@
         "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP/releases/download/v3.0.1/Flow.Launcher.Plugin.CurrencyPP.zip",
         "UrlSourceCode": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP",
         "Tested": true,
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-09-09T09:26:17Z"
     },
     {
         "ID": "D738C474-9262-4B94-B58D-0413ED8EB9C6",
@@ -1134,6 +1153,7 @@
         "UrlDownload": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard/releases/download/v1.0.0/PoiPoiClipboard.zip",
         "UrlSourceCode": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard",
         "IcoPath": "https://cdn.jsdelivr.net/gh/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard@v1.0.0/Flow.Launcher.Plugin.PoiPoiClipboard/Images/icon.png",
-        "DateAdded": "2022-10-06T05:37:46Z"
+        "DateAdded": "2022-10-06T05:37:46Z",
+        "LatestReleaseDate": "2022-10-02T01:44:31Z"
     }
 ]
