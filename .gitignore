@@ -4,3 +4,6 @@ __pycache__
 
 # vscode
 .vscode
+
+# Python Virtual Environments
+.venv
