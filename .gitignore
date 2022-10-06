@@ -7,3 +7,6 @@ __pycache__
 
 # Python Virtual Environments
 .venv
+
+# Jetbrains IDEA
+.idea
