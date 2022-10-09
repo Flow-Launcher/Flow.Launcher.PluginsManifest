@@ -1165,6 +1165,7 @@
         "UrlDownload": "https://github.com/cenyG/flow-launch-translate-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Translate.zip",
         "UrlSourceCode": "https://github.com/cenyG/flow-launch-translate-plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cenyG/flow-launch-translate-plugin@main/Images/google_tr_icon.png",
-        "DateAdded": "2022-10-09T19:49:54Z"
+        "DateAdded": "2022-10-09T19:49:54Z",
+        "LatestReleaseDate": "2022-09-02T02:05:26Z"
     }
 ]
