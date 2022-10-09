@@ -1113,7 +1113,6 @@
     },
     {
         "ID": "F8775498-BD72-4ECA-893F-B33863D81CB5",
-        "ActionKeyword": "u",
         "Name": "Unity Engine",
         "Description": "Launch Unity Projects",
         "Author": "LeLocTai",
@@ -1143,7 +1142,6 @@
     },
     {
         "ID": "D738C474-9262-4B94-B58D-0413ED8EB9C6",
-        "ActionKeyword": "pp",
         "Name": "Poi Poi Clipboard",
         "Description": "Clear clipboard quickly to prevent password leakage",
         "Author": "PikkamanV",
@@ -1155,5 +1153,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard@v1.0.0/Flow.Launcher.Plugin.PoiPoiClipboard/Images/icon.png",
         "DateAdded": "2022-10-08T16:26:57Z",
         "LatestReleaseDate": "2022-10-02T01:44:31Z"
-    }
+    },
+    {
+        "ID": "5423df3c6dd84fc5ad3ca1bfadad872dfca307c0a013d116dc3e8bed60b8ca5b",
+        "Name": "Translation",
+        "Description": "Node.js Translation plugin with Google Translate",
+        "Author": "cenygg",
+        "Version": "1.0.0",
+        "Language": "executable",
+        "Website": "https://github.com/cenyG/flow-launch-translate-plugin",
+        "UrlDownload": "https://github.com/cenyG/flow-launch-translate-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Translate.zip",
+        "UrlSourceCode": "https://github.com/cenyG/flow-launch-translate-plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cenyG/flow-launch-translate-plugin@main/Images/google_tr_icon.png"
+     }
 ]
