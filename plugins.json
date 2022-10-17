@@ -88,13 +88,13 @@
         "Name": "Everything",
         "Description": "Search Everything",
         "Author": "qianlifeng, orzfly",
-        "Version": "1.7.6",
+        "Version": "1.7.7",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.7.6/Flow.Launcher.Plugin.Everything.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.7.7/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png",
-        "LatestReleaseDate": "2022-10-07T03:07:52Z",
+        "LatestReleaseDate": "2022-10-17T20:50:36Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
