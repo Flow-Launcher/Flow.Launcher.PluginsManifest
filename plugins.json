@@ -687,21 +687,6 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
-        "ID": "9AFBFD39E52F415E9B900E92EC1133E4",
-        "Name": "Spell Checker",
-        "Description": "Quickly get spelling suggestions and word definitions.",
-        "Author": "Garulf",
-        "Version": "0.1.0",
-        "Language": "python",
-        "Website": "https://github.com/Garulf/spell-checker",
-        "UrlDownload": "https://github.com/Garulf/spell-checker/releases/download/v0.1.0/spell-checker.zip",
-        "UrlSourceCode": "https://github.com/Garulf/spell-checker/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/spell-checker@main/icon.png",
-        "Tested": true,
-        "LatestReleaseDate": "2022-09-18T02:03:01Z",
-        "DateAdded": "2022-10-08T16:26:57Z"
-    },
-    {
         "ID": "898FC7F0-4F38-401B-82E0-A852798C2D59",
         "Name": "Kitty",
         "Description": "Launch Kitty Sessions.",
