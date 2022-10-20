@@ -88,13 +88,13 @@
         "Name": "Everything",
         "Description": "Search Everything",
         "Author": "qianlifeng, orzfly",
-        "Version": "1.7.6",
+        "Version": "1.7.7",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.7.6/Flow.Launcher.Plugin.Everything.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.7.7/Flow.Launcher.Plugin.Everything.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png",
-        "LatestReleaseDate": "2022-10-07T03:07:52Z",
+        "LatestReleaseDate": "2022-10-17T20:50:36Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1069,17 +1069,17 @@
     },
     {
         "ID": "7bfc4332-55t0-4d40-b4cc-530889g415a0",
-        "Name": "Translate Tool",
-        "Description": "a plugin of translation",
+        "Name": "Translation Tool",
+        "Description": "A translation plugin by Baidu Translate",
         "Author": "qjc",
-        "Version": "0.1.1",
+        "Version": "1.0.0",
         "Language": "executable",
         "Website": "https://github.com/qjcXu/Flow.Launcher.Translation",
-        "UrlDownload": "https://github.com/qjcXu/Flow.Launcher.Translation/releases/download/v0.1.1/Flow.Launcher.Translation-0.1.1.zip",
+        "UrlDownload": "https://github.com/qjcXu/Flow.Launcher.Translation/releases/download/v1.0.0/Flow.Launcher.Translation-1.0.0.zip",
         "UrlSourceCode": "https://github.com/qjcXu/Flow.Launcher.Translation",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/qjcXu/Flow.Launcher.Translation/src/assets/imgs/translate.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/qjcXu/Flow.Launcher.Translation/src/assets/images/app.png",
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-08-17T09:28:16Z"
+        "LatestReleaseDate": "2022-10-19T17:32:10Z"
     },
     {
         "ID": "F03364BE-101B-4988-B555-528B961E6A86",
@@ -1152,5 +1152,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/cenyG/flow-launch-translate-plugin@main/Images/google_tr_icon.png",
         "DateAdded": "2022-10-09T19:49:54Z",
         "LatestReleaseDate": "2022-09-02T02:05:26Z"
+    },
+    {
+        "ID": "4e2018ca-4ed0-11ed-bdc3-0242ac120002",
+        "Name": "Cider",
+        "Description": "Control Cider and it's playback with Flow Launcher",
+        "Author": "Monochromish",
+        "Version": "1.0.0",
+        "Language": "executable",
+        "Website": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider",
+        "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.0.0/Flow.Launcher.Plugin.Cider.zip",
+        "UrlSourceCode": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png",
+        "DateAdded": "2022-10-20T11:20:54Z",
+        "LatestReleaseDate": "2022-10-19T12:22:06Z"
     }
 ]
