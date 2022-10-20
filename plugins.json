@@ -1178,6 +1178,7 @@
         "Website": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider",
         "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.0.0/Flow.Launcher.Plugin.Cider.zip",
         "UrlSourceCode": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png",
+        "DateAdded": "2022-10-20T11:20:54Z"
     }
 ]
