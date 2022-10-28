@@ -49,7 +49,7 @@ def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str = None) 
         return info
     except Exception as e:
         tb = traceback.format_exc()
-        print(f"Error: {e}\n{tb}")
+        print(f"Error when processing plugin {info[plugin_name]}:\n{e} {tb}")
         return info
 
 
