@@ -1179,6 +1179,7 @@
         "UrlSourceCode": "https://github.com/ralosant/FlowLauncher.Google.Translator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ralosant/FlowLauncher.Google.Translator@main/images/gt.png",
         "Tested": true,
-        "DateAdded": "2022-11-06T05:01:49Z"
+        "DateAdded": "2022-11-06T05:01:49Z",
+        "LatestReleaseDate": "2022-11-01T18:17:36Z"
     }
 ]
