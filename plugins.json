@@ -1194,6 +1194,7 @@
         "UrlSourceCode": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar/Images/app.png",
         "DateAdded": "2022-12-01T17:37:55Z",
-        "LatestReleaseDate": "2022-12-01T17:37:55Z"
+        "LatestReleaseDate": "2022-12-01T17:37:55Z",
+        "Tested": true
     }
 ]
