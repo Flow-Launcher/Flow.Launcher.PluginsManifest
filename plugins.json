@@ -1205,8 +1205,8 @@
         "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/ItsDysis/OpenAIFlowLauncher",
-        "UrlDownload": "https://github.com/ItsDysis/OpenAIFlowLauncher/archive/refs/tags/v1.0.0.zip"
-        "UrlSourceCode": "https://github.com/ItsDysis/OpenAIFlowLauncher"
+        "UrlDownload": "https://github.com/ItsDysis/OpenAIFlowLauncher/archive/refs/tags/v1.0.0.zip",
+        "UrlSourceCode": "https://github.com/ItsDysis/OpenAIFlowLauncher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ItsDysis/OpenAIFlowLauncher@main/Images/logo.png"
     }
 ]
