@@ -1208,6 +1208,7 @@
         "UrlDownload": "https://github.com/Jessuhh/discord-timestamps-flowlauncher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.DiscordTimestamps.zip",
         "UrlSourceCode": "https://github.com/Jessuhh/discord-timestamps-flowlauncher-plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jessuhh/discord-timestamps-flowlauncher-plugin/app.png",
-        "DateAdded": "2022-12-05T21:48:10Z"
+        "DateAdded": "2022-12-05T21:48:10Z",
+        "LatestReleaseDate": "2022-12-03T21:29:20Z"
     }
 ]
