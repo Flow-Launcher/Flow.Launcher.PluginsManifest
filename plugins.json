@@ -116,14 +116,14 @@
         "Name": "Currency Converter",
         "Description": "Currency converter using the euro and rates at https://www.ecb.europa.eu/",
         "Author": "deefrawley",
-        "Version": "2.0.4",
+        "Version": "2.0.5",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v2.0.4/Flow.Launcher.Plugin.Currency.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v2.0.5/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": true,
-        "LatestReleaseDate": "2022-08-28T03:05:02Z",
+        "LatestReleaseDate": "2022-12-08T05:01:13Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
