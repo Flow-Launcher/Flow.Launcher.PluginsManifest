@@ -1227,15 +1227,16 @@
         "LatestReleaseDate": "2022-12-11T14:22:46Z"
     },
     {
-      "ID": "91B97FA34859445782AEF1893DE4E350",
-      "Name": "Minecraft Multi Launcher",
-      "Description": "Launcher your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
-      "Author": "Garulf",
-      "Version": "1.0.3",
-      "Language": "executable",
-      "Website": "https://github.com/Garulf/mc_multi_launcher",
-      "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.0.3/Minecraft.Multi.Launcher.zip",
-      "UrlSourceCode": "https://github.com/Garulf/MC-Multi-Launcher",
-      "IcoPath": "https://cdn.jsdelivr.net/gh/garulf/MC-Multi-Launcher@main/src/icon.png"
+        "ID": "91B97FA34859445782AEF1893DE4E350",
+        "Name": "Minecraft Multi Launcher",
+        "Description": "Launcher your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
+        "Author": "Garulf",
+        "Version": "1.0.3",
+        "Language": "executable",
+        "Website": "https://github.com/Garulf/mc_multi_launcher",
+        "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.0.3/Minecraft.Multi.Launcher.zip",
+        "UrlSourceCode": "https://github.com/Garulf/MC-Multi-Launcher",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/garulf/MC-Multi-Launcher@main/src/icon.png",
+        "DateAdded": "2022-12-15T07:23:44Z"
     }
 ]
