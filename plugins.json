@@ -1229,7 +1229,7 @@
     {
         "ID": "91B97FA34859445782AEF1893DE4E350",
         "Name": "Minecraft Multi Launcher",
-        "Description": "Launcher your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
+        "Description": "Launch your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
         "Author": "Garulf",
         "Version": "1.0.3",
         "Language": "executable",
