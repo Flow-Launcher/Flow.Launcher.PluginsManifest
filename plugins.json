@@ -1243,7 +1243,7 @@
     {
         "ID": "C04175CF5284406DAA9E30A85EC7DA76",
         "Name": "Audio Device Selector",
-        "Description": "Easy change your playback device",
+        "Description": "Easily change your playback device",
         "Author": "AttilaKapostyak",
         "Version": "1.0.1",
         "Language": "csharp",
