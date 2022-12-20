@@ -37,12 +37,10 @@ If this is the first time you are publishing your plugin to Flow, then you will 
 
 As usual, we will not accept plugin submissions that could potentially harm the computer or contains malicious code.
 
-## Usage
+## Plugin Store
 
-From [flow](https://github.com/Flow-Launcher/Flow.Launcher/releases/latest), query `pm install` and you should see a list of the plugins available to install:
-<p align="center"><img src="https://user-images.githubusercontent.com/26427004/103451827-c08fba80-4d1c-11eb-945b-02546d31baad.png" width="800"></p>
-
-Also use `pm update` to update or `pm uninstall` to uninstall plugins, and go to context menu on each plugin to see more options such as visit the plugin website or submit a suggestion or bug report to the developer.
+Once your plugin submission has been merged, it will soon be available in [flow's](https://github.com/Flow-Launcher/Flow.Launcher/releases/latest) Plugin Store. Users will be able to install your plugin via the store or type `pm install <your-plugin-name>`:
+<p align="center"><img src="https://user-images.githubusercontent.com/6903107/207155616-d559f0d2-ee95-4072-a7bc-3ffcc2faec27.png" width="800"></p>
 
 ## Have a plugin enhancement request or issue?
 
