@@ -661,14 +661,14 @@
         "Name": "Github Notifications",
         "Description": "View your github notifications",
         "Author": "Garulf",
-        "Version": "3.0.10",
+        "Version": "3.0.11",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-notifications",
-        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v3.0.10/Github-Notifications.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v3.0.11/Github-Notifications.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-notifications/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-notifications@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-12-02T01:13:27Z",
+        "LatestReleaseDate": "2022-12-22T01:13:01Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
