@@ -586,14 +586,14 @@
         "Name": "Epic Games Store Launcher",
         "Description": "Launch your Epic Game Store games",
         "Author": "Garulf",
-        "Version": "1.1.0",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/Epic-Games-Store-Launcher",
-        "UrlDownload": "https://github.com/Garulf/Epic-Games-Store-Launcher/releases/download/v1.1.0/Epic-Games-Store-Launcher.zip",
+        "UrlDownload": "https://github.com/Garulf/Epic-Games-Store-Launcher/releases/download/v2.0.0/Epic-Games-Store-Launcher.zip",
         "UrlSourceCode": "https://github.com/Garulf/Epic-Games-Store-Launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Epic-Games-Store-Launcher@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-02-25T10:25:24Z",
+        "LatestReleaseDate": "2022-12-22T05:04:50Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
