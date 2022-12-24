@@ -1253,5 +1253,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/attilakapostyak/Flow.Launcher.Plugin.AudioDeviceSelector@main/icon.png",
         "DateAdded": "2022-12-17T09:25:00Z",
         "LatestReleaseDate": "2022-12-17T08:15:39Z"
+    },
+    {
+        "ID": "506B2EE8-4117-4BDF-8F00-DF58498DF922",
+        "Name": "OneNote",
+        "Description": "Search your OneNote notes",
+        "Author": "Odotocodot",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
+        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v1.0.0/Flow.Launcher.Plugin.OneNote.zip",
+        "UrlSourceCode": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Images/logo.png"
     }
 ]
