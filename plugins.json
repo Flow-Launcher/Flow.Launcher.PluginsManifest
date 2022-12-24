@@ -1264,6 +1264,7 @@
         "Website": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
         "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v1.0.0/Flow.Launcher.Plugin.OneNote.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Images/logo.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Images/logo.png",
+        "DateAdded": "2022-12-24T20:14:35Z"
     }
 ]
