@@ -84,20 +84,6 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
-        "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
-        "Name": "Everything",
-        "Description": "Search Everything",
-        "Author": "qianlifeng, orzfly",
-        "Version": "1.7.7",
-        "Language": "csharp",
-        "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/releases/download/v1.7.7/Flow.Launcher.Plugin.Everything.zip",
-        "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Everything/tree/master",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Everything@master/Images/find.png",
-        "LatestReleaseDate": "2022-10-17T20:50:36Z",
-        "DateAdded": "2022-10-08T16:26:57Z"
-    },
-    {
         "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
         "Name": "Colors",
         "Description": "Provides HEX and RGB color preview.",
