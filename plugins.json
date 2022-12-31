@@ -543,13 +543,13 @@
         "Name": "VS Code Workspaces",
         "Description": "Search and open the previously used VS Code workspaces",
         "Author": "ricardosantos9521, taooceros",
-        "Version": "1.2.0",
+        "Version": "1.2.1",
         "Language": "csharp",
         "Website": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
-        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.2.0/Flow.Plugin.VSCodeWorkspaces-1.2.0.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.2.1/Flow.Plugin.VSCodeWorkspaces-1.2.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
-        "LatestReleaseDate": "2022-12-21T17:17:55Z",
+        "LatestReleaseDate": "2022-12-31T00:01:05Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
