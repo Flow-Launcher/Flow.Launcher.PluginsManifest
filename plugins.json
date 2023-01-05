@@ -1173,14 +1173,14 @@
         "Name": "Google Calendar",
         "Description": "Add events to your Google Calendar",
         "Author": "Ilja van Ipenburg",
-        "Version": "1.2.1",
+        "Version": "1.2.2",
         "Language": "python",
         "Website": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar",
-        "UrlDownload": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar/releases/download/v1.2.1/Flow.Launcher.Plugin.GoogleCalendar.zip",
+        "UrlDownload": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar/releases/download/v1.2.2/Flow.Launcher.Plugin.GoogleCalendar.zip",
         "UrlSourceCode": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar/Images/app.png",
         "DateAdded": "2022-12-01T17:37:55Z",
-        "LatestReleaseDate": "2022-12-23T14:05:41Z",
+        "LatestReleaseDate": "2023-01-05T13:22:02Z",
         "Tested": true
     },
     {
