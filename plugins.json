@@ -173,13 +173,13 @@
         "Name": "Todoist",
         "Description": "A plugin to add tasks to todoist.",
         "Author": "DanielBV",
-        "Version": "3.0.0",
+        "Version": "3.0.1",
         "Language": "csharp",
         "Website": "https://github.com/jjw24/Wox.Plugin.Todoist",
-        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v3.0.0/Wox.Plugin.Todoist.zip",
+        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todoist/releases/download/v3.0.1/Wox.Plugin.Todoist.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todoist/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todoist@master/src/images/icon.png",
-        "LatestReleaseDate": "2023-01-09T03:33:52Z",
+        "LatestReleaseDate": "2023-01-10T02:51:30Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
