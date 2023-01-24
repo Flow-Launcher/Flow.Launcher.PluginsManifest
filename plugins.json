@@ -1263,6 +1263,7 @@
         "Language": "python",
         "Website": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.UUID",
         "UrlSourceCode": "https://github.com/vladislav-atakhanov/Flow.Launcher.UUID",
+        "UrlDownload": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.UUID/releases/download/1.0.0/Flow.Launcher.Plugin.UUID.zip",
         "IcoPath": "https://cdn.jsdelivr.net/gh/vladislav-atakhanov/Flow.Plugin.UUID@main/images/uuid.png"
     }
 ]
