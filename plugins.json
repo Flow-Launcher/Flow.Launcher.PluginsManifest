@@ -1266,6 +1266,7 @@
         "UrlDownload": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.UUID/releases/download/1.0.0/Flow.Launcher.Plugin.UUID.zip",
         "IcoPath": "https://cdn.jsdelivr.net/gh/vladislav-atakhanov/Flow.Plugin.UUID@main/images/uuid.png",
         "Tested": true,
-        "DateAdded": "2023-01-25T10:03:20Z"
+        "DateAdded": "2023-01-25T10:03:20Z",
+        "LatestReleaseDate": "2023-01-24T14:58:33Z"
     }
 ]
