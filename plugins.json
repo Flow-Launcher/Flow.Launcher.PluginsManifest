@@ -1253,5 +1253,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Images/logo.png",
         "DateAdded": "2022-12-24T20:14:35Z",
         "LatestReleaseDate": "2023-01-15T17:37:49Z"
+    },
+    {
+        "ID": "959A3FED8292422784F7892F7FB59DB1",
+        "Name": "UUID Generator",
+        "Description": "Generate uuid4 and  add to your clipboard.",
+        "Author": "Vladislav Atakhanov @vladislav-atakhanov",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.UUID",
+        "UrlSourceCode": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.UUID",
+        "UrlDownload": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.UUID/releases/download/1.0.0/Flow.Launcher.Plugin.UUID.zip",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/vladislav-atakhanov/Flow.Plugin.UUID@main/images/uuid.png"
     }
 ]
