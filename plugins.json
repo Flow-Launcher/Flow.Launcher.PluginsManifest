@@ -1268,5 +1268,17 @@
         "Tested": true,
         "DateAdded": "2023-01-25T10:03:20Z",
         "LatestReleaseDate": "2023-01-24T14:58:33Z"
+    },
+    {
+        "ID": "B69948F0F01A4ED4974E43044D3056BB",
+        "Name": "KeePass",
+        "Description": "Get password and manage KeePass database.",
+        "Author": "Vladislav Atakhanov @vladislav-atakhanov",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.KeePass",
+        "UrlSourceCode": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.KeePass",
+        "UrlDownload": "https://github.com/vladislav-atakhanov/Flow.Launcher.Plugin.KeePass/releases/download/1.0.0/Flow.Launcher.Plugin.KeePass.zip",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/vladislav-atakhanov/Flow.Launcher.Plugin.KeePass@main/images/icon.png"
     }
 ]
