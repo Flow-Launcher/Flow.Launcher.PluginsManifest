@@ -869,15 +869,15 @@
         "Name": "Wallpaper Engine Profile Selector",
         "Description": "Change your Wallpaper Engine Profile",
         "Author": "Garulf",
-        "Version": "0.1.0",
+        "Version": "0.2.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/wallpaper-engine-profile-selector",
-        "UrlDownload": "https://github.com/Garulf/Wallpaper-Engine-Profile-Selector/releases/download/v0.1.0/Wallpaper-Engine-Profile-Selector.zip",
+        "UrlDownload": "https://github.com/Garulf/Wallpaper-Engine-Profile-Selector/releases/download/v0.2.0/Wallpaper-Engine-Profile-Selector.zip",
         "UrlSourceCode": "https://github.com/Garulf/wallpaper-engine-profile-selector/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/wallpaper-engine-profile-selector@main/icon.png",
         "Tested": true,
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-12-26T02:57:53Z"
+        "LatestReleaseDate": "2023-01-30T05:08:15Z"
     },
     {
         "ID": "B9B8174812E4474D96C148317BE2BFB7",
