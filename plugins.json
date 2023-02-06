@@ -1268,5 +1268,17 @@
         "Tested": true,
         "DateAdded": "2023-01-25T10:03:20Z",
         "LatestReleaseDate": "2023-01-24T14:58:33Z"
-    }
+    },
+    {
+        "ID": "140f3da0-7d14-4b20-b897-b4cb155fec2d",
+        "Name": "Hacker News",
+        "Description": "Flow Launcher plugin for viewing the front page of Hacker News",
+        "Author": "Joël Kuijper",
+        "Version": "1.0.0",
+        "Language": "executable",
+        "Website": "https://github.com/Joehoel/flow-hacker-news",
+        "UrlDownload": "https://github.com/Joehoel/flow-hacker-news/releases/download/v1.0.0/HackerNews-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/Joehoel/flow-hacker-news",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Joehoel/flow-hacker-news/assets/hacker-news.png",
+    },
 ]
