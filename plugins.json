@@ -1280,5 +1280,5 @@
         "UrlDownload": "https://github.com/Joehoel/flow-hacker-news/releases/download/v1.0.0/HackerNews-1.0.0.zip",
         "UrlSourceCode": "https://github.com/Joehoel/flow-hacker-news",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Joehoel/flow-hacker-news/assets/hacker-news.png",
-    },
+    }
 ]
