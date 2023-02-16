@@ -1296,5 +1296,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/guilherssousa/flow-launcher-vercel-plugin/icon.png",
         "DateAdded": "2023-02-11T13:18:58Z",
         "LatestReleaseDate": "2023-02-10T14:14:45Z"
+    },
+    {
+        "ID": "dcbb0454f0694431944b1b7f18673a54",
+        "Name": "How Long To Beat",
+        "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
+        "Author": "Tueska",
+        "Version": "1.0.0",
+        "Language": "executable",
+        "ExecuteFileName": "node.bat",
+        "ActionKeyword": "beat",
+        "Website": "https://github.com/Tueska/fl-howlongtobeat",
+        "IcoPath": "Images\\howlongtobeat.png",
+        "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.0/Tueska.HowLongToBeat.zip",
+        "UrlSourceCode": "https://github.com/Tueska/fl-HowLongToBeat/tree/master"
     }
 ]
