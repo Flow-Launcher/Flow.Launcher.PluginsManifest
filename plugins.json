@@ -1307,7 +1307,7 @@
         "ExecuteFileName": "node.bat",
         "ActionKeyword": "beat",
         "Website": "https://github.com/Tueska/fl-howlongtobeat",
-        "IcoPath": "Images\\howlongtobeat.png",
+        "IcoPath": "https://github.com/Tueska/fl-HowLongToBeat/blob/master/Images/howlongtobeat.png",
         "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.0/Tueska.HowLongToBeat.zip",
         "UrlSourceCode": "https://github.com/Tueska/fl-HowLongToBeat/tree/master"
     }
