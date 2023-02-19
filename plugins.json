@@ -1303,11 +1303,10 @@
         "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
         "Author": "Tueska",
         "Version": "1.0.0",
-        "Language": "executable",
-        "ExecuteFileName": "node.bat",
-        "ActionKeyword": "beat",
+        "Language": "JavaScript",
+        "ExecuteFileName": "main.js",
         "Website": "https://github.com/Tueska/fl-howlongtobeat",
-        "IcoPath": "https://github.com/Tueska/fl-HowLongToBeat/blob/master/Images/howlongtobeat.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Tueska/fl-HowLongToBeat/Images/howlongtobeat.png",
         "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.0/Tueska.HowLongToBeat.zip",
         "UrlSourceCode": "https://github.com/Tueska/fl-HowLongToBeat/tree/master"
     }
