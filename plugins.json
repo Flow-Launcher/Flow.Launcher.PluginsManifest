@@ -19,7 +19,7 @@
         "Description": "Search tailwindcss Docs",
         "Author": "Areeb ur Rub",
         "Version": "1.0.0",
-        "Language": "executable",
+        "Language": "typescript",
         "Website": "https://github.com/areeburrub/tailwindcss-flow-launcher-plugin",
         "UrlDownload": "https://github.com/areeburrub/tailwindcss-flow-launcher-plugin/releases/download/v1.0.0/tailwindcss-plugin-flow-launcher.zip",
         "UrlSourceCode": "https://github.com/areeburrub/tailwindcss-flow-launcher-plugin/tree/main",
