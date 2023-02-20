@@ -1188,14 +1188,14 @@
         "Name": "Discord timestamps",
         "Description": "Generate discord timestamps",
         "Author": "Jessuh",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "executable",
         "Website": "https://github.com/Jessuhh/discord-timestamps-flowlauncher-plugin",
-        "UrlDownload": "https://github.com/Jessuhh/discord-timestamps-flowlauncher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.DiscordTimestamps.zip",
+        "UrlDownload": "https://github.com/Jessuhh/discord-timestamps-flowlauncher-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.DiscordTimestamps.zip",
         "UrlSourceCode": "https://github.com/Jessuhh/discord-timestamps-flowlauncher-plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jessuhh/discord-timestamps-flowlauncher-plugin/app.png",
         "DateAdded": "2022-12-05T21:48:10Z",
-        "LatestReleaseDate": "2022-12-03T21:29:20Z"
+        "LatestReleaseDate": "2023-02-18T12:53:20Z"
     },
     {
         "ID": "14b986ef-45ec-44c1-be66-cab460a771f7",
@@ -1298,6 +1298,7 @@
         "LatestReleaseDate": "2023-02-10T14:14:45Z"
     },
     {
+
         "ID": "dcbb0454f0694431944b1b7f18673a54",
         "Name": "How Long To Beat",
         "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
@@ -1309,5 +1310,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Tueska/fl-HowLongToBeat/Images/howlongtobeat.png",
         "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.0/Tueska.HowLongToBeat.zip",
         "UrlSourceCode": "https://github.com/Tueska/fl-HowLongToBeat/tree/master"
+   },
+        "ID": "E1E3DB9C-632D-4187-A5B4-EED6E09CACA7",
+        "Name": "JetBrainsIDEProjects",
+        "Description": "Search projects in JetBrains IDEs",
+        "Author": "kenty02",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects",
+        "UrlDownload": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/releases/download/v1.0.1/Flow.Launcher.Plugin.JetBrainsIDEProjects.zip",
+        "UrlSourceCode": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/Flow.Launcher.Plugin.JetBrainsIDEProjects/icon.png",
+        "DateAdded": "2023-02-19T21:47:51Z"
     }
 ]
