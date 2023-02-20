@@ -16,7 +16,7 @@ etag_file = base_dir / "etags.json"
 # constants
 id_name = "ID"
 language_name = "Language"
-language_list = ("csharp", "executable", "fsharp", "python")
+language_list = ("csharp", "executable", "fsharp", "python", "javascript", "typescript")
 etag = "ETag"
 version = "Version"
 url_sourcecode = "UrlSourceCode"
