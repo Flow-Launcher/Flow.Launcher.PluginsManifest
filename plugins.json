@@ -14,6 +14,18 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",  
+        "Name": "Tailwindcss",
+        "Description": "Search tailwindcss Docs",
+        "Author": "Areeb ur Rub",
+        "Version": "1.0.0",
+        "Language": "typescript",
+        "Website": "https://github.com/areeburrub/tailwindcss-flow-launcher-plugin",
+        "UrlDownload": "https://github.com/areeburrub/tailwindcss-flow-launcher-plugin/releases/download/v1.0.0/tailwindcss-plugin-flow-launcher.zip",
+        "UrlSourceCode": "https://github.com/areeburrub/tailwindcss-flow-launcher-plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/areeburrub/tailwindcss-flow-launcher-plugin/app.png"
+    },
+    {
         "ID": "176690627AB54C8381A7FD99A3519F42",
         "Name": "Plugin Runner",
         "Description": "Create simple command shortcuts",
