@@ -1311,6 +1311,7 @@
         "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.0/Tueska.HowLongToBeat.zip",
         "UrlSourceCode": "https://github.com/Tueska/fl-HowLongToBeat/tree/master"
    },
+   {
         "ID": "E1E3DB9C-632D-4187-A5B4-EED6E09CACA7",
         "Name": "JetBrainsIDEProjects",
         "Description": "Search projects in JetBrains IDEs",
