@@ -528,13 +528,13 @@
         "Name": "Hello World Node.js",
         "Description": "TypeScript/JavaScript plugin example using Node.js",
         "Author": "Flow Launcher",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "javascript",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldNodeJS.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/releases/download/v1.0.1/Flow.Launcher.Plugin.HelloWorldNodeJS.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS@main/Images/app.png",
-        "LatestReleaseDate": "2021-12-25T05:40:05Z",
+        "LatestReleaseDate": "2023-02-22T20:23:52Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
