@@ -379,14 +379,14 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "8.0.0",
+        "Version": "8.1.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v8.0.0/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v8.1.0/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2023-02-15T21:43:34Z",
+        "LatestReleaseDate": "2023-02-23T19:13:58Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1231,14 +1231,14 @@
         "Name": "Minecraft Multi Launcher",
         "Description": "Launch your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
         "Author": "Garulf",
-        "Version": "1.1.1",
+        "Version": "1.2.1",
         "Language": "executable",
         "Website": "https://github.com/Garulf/mc_multi_launcher",
-        "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.1.1/Minecraft.Multi.Launcher.zip",
+        "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.2.1/Minecraft.Multi.Launcher.zip",
         "UrlSourceCode": "https://github.com/Garulf/MC-Multi-Launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/garulf/MC-Multi-Launcher@main/src/icon.png",
         "DateAdded": "2022-12-15T07:23:44Z",
-        "LatestReleaseDate": "2023-02-13T08:25:23Z"
+        "LatestReleaseDate": "2023-02-23T19:06:17Z"
     },
     {
         "ID": "C04175CF5284406DAA9E30A85EC7DA76",
