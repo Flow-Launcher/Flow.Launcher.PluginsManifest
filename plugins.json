@@ -1158,14 +1158,14 @@
         "Name": "Cider",
         "Description": "Control Cider and it's playback with Flow Launcher",
         "Author": "Monochromish",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "executable",
         "Website": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider",
-        "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.1.0/Flow.Launcher.Plugin.Cider.zip",
+        "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.1.1/Flow.Launcher.Plugin.Cider.zip",
         "UrlSourceCode": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png",
         "DateAdded": "2022-10-20T11:20:54Z",
-        "LatestReleaseDate": "2022-10-22T09:21:47Z"
+        "LatestReleaseDate": "2023-02-28T10:34:28Z"
     },
     {
         "ID": "e47fca5f-4305-4c14-9928-57d2c319d78e",
@@ -1259,14 +1259,14 @@
         "Name": "OneNote",
         "Description": "Search your OneNote notes",
         "Author": "Odotocodot",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
-        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v1.0.1/Flow.Launcher.Plugin.OneNote.zip",
+        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v1.0.2/Flow.Launcher.Plugin.OneNote.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Images/logo.png",
         "DateAdded": "2022-12-24T20:14:35Z",
-        "LatestReleaseDate": "2023-01-15T17:37:49Z"
+        "LatestReleaseDate": "2023-02-28T11:21:27Z"
     },
     {
         "ID": "959A3FED8292422784F7892F7FB59DB1",
