@@ -1159,7 +1159,7 @@
         "Description": "Control Cider and it's playback with Flow Launcher",
         "Author": "Monochromish",
         "Version": "1.1.1",
-        "Language": "executable",
+        "Language": "javascript",
         "Website": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider",
         "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.1.1/Flow.Launcher.Plugin.Cider.zip",
         "UrlSourceCode": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/tree/main",
