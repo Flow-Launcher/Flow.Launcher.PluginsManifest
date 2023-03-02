@@ -1159,7 +1159,7 @@
         "Description": "Control Cider and it's playback with Flow Launcher",
         "Author": "Monochromish",
         "Version": "1.1.1",
-        "Language": "executable",
+        "Language": "javascript",
         "Website": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider",
         "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.1.1/Flow.Launcher.Plugin.Cider.zip",
         "UrlSourceCode": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/tree/main",
@@ -1248,11 +1248,11 @@
         "Version": "1.0.2",
         "Language": "csharp",
         "Website": "https://github.com/attilakapostyak/Flow.Launcher.Plugin.AudioDeviceSelector",
-        "UrlDownload": "https://github.com/attilakapostyak/Flow.Launcher.Plugin.AudioDeviceSelector/releases/download/v1.0.1/Flow.Launcher.Plugin.AudioDeviceSelector.zip",
+        "UrlDownload": "https://github.com/attilakapostyak/Flow.Launcher.Plugin.AudioDeviceSelector/releases/download/v1.0.2/Flow.Launcher.Plugin.AudioDeviceSelector.zip",
         "UrlSourceCode": "https://github.com/attilakapostyak/Flow.Launcher.Plugin.AudioDeviceSelector",
         "IcoPath": "https://cdn.jsdelivr.net/gh/attilakapostyak/Flow.Launcher.Plugin.AudioDeviceSelector@main/icon.png",
         "DateAdded": "2022-12-17T09:25:00Z",
-        "LatestReleaseDate": "2022-12-17T08:15:39Z"
+        "LatestReleaseDate": "2023-03-02T16:03:41Z"
     },
     {
         "ID": "506B2EE8-4117-4BDF-8F00-DF58498DF922",
