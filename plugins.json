@@ -1259,14 +1259,14 @@
         "Name": "OneNote",
         "Description": "Search your OneNote notes",
         "Author": "Odotocodot",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
-        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v1.1.0/Flow.Launcher.Plugin.OneNote.zip",
+        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v1.1.1/Flow.Launcher.Plugin.OneNote.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Images/logo.png",
         "DateAdded": "2022-12-24T20:14:35Z",
-        "LatestReleaseDate": "2023-03-04T19:14:17Z"
+        "LatestReleaseDate": "2023-03-05T22:33:55Z"
     },
     {
         "ID": "959A3FED8292422784F7892F7FB59DB1",
