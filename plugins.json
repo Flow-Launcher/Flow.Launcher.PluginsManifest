@@ -1349,7 +1349,7 @@
     "Version": "1.0.0-alpha",
     "Language": "python",
     "Website": "n/a",
-    "IcoPath": "https://github.com/DeepVoyager253/FlowLauncherYTDownload/blob/main/cat.png?raw=true",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/cat.png?raw=true",
     "ExecuteFileName": "main.py",
     "UrlSouceCode": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
     "UrlDownload": "https://github.com/DeepVoyager253/FlowLauncherYTDownload/archive/refs/heads/main.zip"
