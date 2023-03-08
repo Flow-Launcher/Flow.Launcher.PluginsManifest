@@ -1346,7 +1346,7 @@
     "Name": "Youtube Downloader",
     "Description": "A youtube downloader",
     "Author": "LordOfTheEel",
-    "Version": "1.0.0-alpha",
+    "Version": "v1.0.0-beta",
     "Language": "python",
     "Website": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
     "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/cat.png?raw=true",
