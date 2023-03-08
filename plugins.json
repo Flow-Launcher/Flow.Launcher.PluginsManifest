@@ -750,13 +750,13 @@
         "Name": "DuckDuckGo !bang",
         "Description": "Search on thousands of sites directly, with DuckDuckGo bangs",
         "Author": "Ioannis G. (@JohnTheGr8)",
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "Language": "fsharp",
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Bang",
-        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/releases/download/v1.2.0/Flow.Plugin.Bang.zip",
+        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/releases/download/v1.3.0/Flow.Plugin.Bang.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Bang@main/src/icon.png",
-        "LatestReleaseDate": "2022-01-31T23:34:20Z",
+        "LatestReleaseDate": "2023-03-07T18:16:22Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
