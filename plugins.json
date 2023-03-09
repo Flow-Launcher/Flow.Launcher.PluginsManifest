@@ -10,7 +10,7 @@
         "UrlDownload": "https://github.com/IsaacTay/Flow.Launcher.Plugin.FendCalculator/releases/download/v1.0.0/Flow.Launcher.Plugin.FendCalculator.zip",
         "UrlSourceCode": "https://github.com/IsaacTay/Flow.Launcher.Plugin.FendCalculator/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/IsaacTay/Flow.Launcher.Plugin.FendCalculator@main/Images/calculator.png",
-    }
+    },
     {
         "ID": "4579F00804F94B54B23CF207856E495F",
         "Name": "Google Search Plus",
