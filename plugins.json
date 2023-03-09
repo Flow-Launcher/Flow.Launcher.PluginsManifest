@@ -1339,5 +1339,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/Flow.Launcher.Plugin.JetBrainsIDEProjects/icon.png",
         "DateAdded": "2023-02-19T21:47:51Z",
         "LatestReleaseDate": "2023-03-01T00:58:12Z"
-    }
+    },
+    {
+    "ID": "d58fbe34-bce7-11ed-afa1-0242ac120002",
+    "Name": "Youtube Downloader",
+    "Description": "A youtube downloader",
+    "Author": "LordOfTheEel",
+    "Version": "v1.0.0-beta",
+    "Language": "python",
+    "Website": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/cat.png?raw=true",
+    "UrlSouceCode": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
+    "UrlDownload": "https://github.com/DeepVoyager253/FlowLauncherYTDownload/releases/download/v1.0.0-beta/Flow.Launcher.Plugin.YTDownloader.zip"
+}
 ]
