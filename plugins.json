@@ -1341,15 +1341,17 @@
         "LatestReleaseDate": "2023-03-01T00:58:12Z"
     },
     {
-    "ID": "d58fbe34-bce7-11ed-afa1-0242ac120002",
-    "Name": "Youtube Downloader",
-    "Description": "A youtube downloader",
-    "Author": "LordOfTheEel",
-    "Version": "v1.0.0-beta",
-    "Language": "python",
-    "Website": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/cat.png?raw=true",
-    "UrlSouceCode": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
-    "UrlDownload": "https://github.com/DeepVoyager253/FlowLauncherYTDownload/releases/download/v1.0.0-beta/Flow.Launcher.Plugin.YTDownloader.zip"
-}
+        "ID": "d58fbe34-bce7-11ed-afa1-0242ac120002",
+        "Name": "Youtube Downloader",
+        "Description": "A youtube downloader",
+        "Author": "LordOfTheEel",
+        "Version": "v1.0.0-beta",
+        "Language": "python",
+        "Website": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/cat.png?raw=true",
+        "UrlSouceCode": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
+        "UrlDownload": "https://github.com/DeepVoyager253/FlowLauncherYTDownload/releases/download/v1.0.0-beta/Flow.Launcher.Plugin.YTDownloader.zip",
+        "Tested": true,
+        "DateAdded": "2023-03-09T17:22:21Z"
+    }
 ]
