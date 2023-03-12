@@ -1365,6 +1365,8 @@
         "Website": "https://github.com/WaterBoiledPizza/7TV-Emotes",
         "IcoPath": "https://cdn.jsdelivr.net/gh/WaterBoiledPizza/7TV-Emotes@main/icon.png?raw=true",
         "UrlSourceCode": "https://github.com/WaterBoiledPizza/7TV-Emotes",
-        "UrlDownload": "https://github.com/WaterBoiledPizza/7TV-Emotes/releases/download/v0.0.2/Flow.Launcher.Plugin.7tvEmotesv0.0.2.zip"
+        "UrlDownload": "https://github.com/WaterBoiledPizza/7TV-Emotes/releases/download/v0.0.2/Flow.Launcher.Plugin.7tvEmotesv0.0.2.zip",
+        "Tested": true,
+        "DateAdded": "2023-03-12T07:36:16Z"
     }
 ]
