@@ -116,14 +116,14 @@
         "Name": "Currency Converter",
         "Description": "Currency converter using the euro and rates at https://www.ecb.europa.eu/",
         "Author": "deefrawley",
-        "Version": "2.0.5",
+        "Version": "2.0.6",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v2.0.5/Flow.Launcher.Plugin.Currency.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v2.0.6/Flow.Launcher.Plugin.Currency.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
         "Tested": true,
-        "LatestReleaseDate": "2022-12-08T05:01:13Z",
+        "LatestReleaseDate": "2023-03-13T00:37:27Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1353,7 +1353,7 @@
         "UrlDownload": "https://github.com/DeepVoyager253/FlowLauncherYTDownload/releases/download/v1.0.0-beta/Flow.Launcher.Plugin.YTDownloader.zip",
         "Tested": true,
         "DateAdded": "2023-03-09T17:22:21Z",
-        "LatestReleaseDate": "2023-03-10T14:15:44Z"
+        "LatestReleaseDate": "2023-03-12T22:07:29Z"
     },
     {
         "ID": "85eb90ff-b92d-476b-bae4-3d71398e61f9",
