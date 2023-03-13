@@ -1360,14 +1360,14 @@
         "Name": "7TV Emotes",
         "Description": "Search emotes from 7TV",
         "Author": "Water Boiled Pizza",
-        "Version": "0.0.2",
+        "Version": "0.0.3",
         "Language": "python",
         "Website": "https://github.com/WaterBoiledPizza/7TV-Emotes",
         "IcoPath": "https://cdn.jsdelivr.net/gh/WaterBoiledPizza/7TV-Emotes@main/icon.png?raw=true",
         "UrlSourceCode": "https://github.com/WaterBoiledPizza/7TV-Emotes",
-        "UrlDownload": "https://github.com/WaterBoiledPizza/7TV-Emotes/releases/download/v0.0.2/Flow.Launcher.Plugin.7tvEmotesv0.0.2.zip",
+        "UrlDownload": "https://github.com/WaterBoiledPizza/7TV-Emotes/releases/download/v0.0.3/Flow.Launcher.Plugin.7tvEmotesv0.0.3.zip",
         "Tested": true,
         "DateAdded": "2023-03-12T07:36:16Z",
-        "LatestReleaseDate": "2023-03-12T06:26:26Z"
+        "LatestReleaseDate": "2023-03-13T13:03:44Z"
     }
 ]
