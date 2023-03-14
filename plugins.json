@@ -793,14 +793,14 @@
         "Name": "FlowYouTube",
         "Description": "Search YouTube.com",
         "Author": "Garulf",
-        "Version": "2.0.0",
+        "Version": "2.1.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/FlowYouTube",
-        "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v2.0.0/FlowYouTube.zip",
+        "UrlDownload": "https://github.com/Garulf/FlowYouTube/releases/download/v2.1.0/FlowYouTube.zip",
         "UrlSourceCode": "https://github.com/Garulf/FlowYouTube/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/FlowYouTube@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-11-02T09:57:37Z",
+        "LatestReleaseDate": "2023-03-14T08:28:34Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
