@@ -1369,5 +1369,17 @@
         "Tested": true,
         "DateAdded": "2023-03-12T07:36:16Z",
         "LatestReleaseDate": "2023-03-13T13:03:44Z"
+    },
+    {
+        "ID": "df432fe0-9ff7-4ba1-b0fd-5ffd26efbf86",
+        "Name": "ChatGPT",
+        "Description": "Plugin to use OpenAI's ChatGPT in Flow Launcher",
+        "Author": "MichielvanBeers",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
+        "IcoPath": "https://raw.githubusercontent.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/main/Images/app.png",
+        "UrlSourceCode": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
+        "UrlDownload": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldPython.zip",
     }
 ]
