@@ -1380,6 +1380,8 @@
         "Website": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
         "IcoPath": "https://raw.githubusercontent.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/main/Images/app.png",
         "UrlSourceCode": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
-        "UrlDownload": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldPython.zip"
+        "UrlDownload": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldPython.zip",
+        "Tested": true,
+        "DateAdded": "2023-03-19T01:36:29Z"
     }
 ]
