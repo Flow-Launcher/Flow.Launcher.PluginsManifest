@@ -1378,7 +1378,7 @@
         "Version": "1.0.2",
         "Language": "python",
         "Website": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
-        "IcoPath": "https://raw.githubusercontent.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/main/Images/app.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT@main/Images/app.png",
         "UrlSourceCode": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
         "UrlDownload": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.0.2/Flow.Launcher.Plugin.ChatGPT.zip",
         "Tested": true,
