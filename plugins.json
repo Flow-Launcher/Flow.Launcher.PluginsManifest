@@ -319,14 +319,14 @@
         "Name": "HA-Commander",
         "Description": "Search, and interact with Home Assistant using Wox or Flow Launcher.",
         "Author": "Garulf",
-        "Version": "5.1.0",
+        "Version": "5.1.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/HA-Commander",
-        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v5.1.0/HA-Commander.zip",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v5.1.1/HA-Commander.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": true,
-        "LatestReleaseDate": "2023-02-22T16:49:31Z",
+        "LatestReleaseDate": "2023-03-23T05:40:45Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
