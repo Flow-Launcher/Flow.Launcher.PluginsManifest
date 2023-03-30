@@ -1159,7 +1159,7 @@
         "Description": "Node.js Translation plugin with Google Translate",
         "Author": "cenygg",
         "Version": "1.0.2",
-        "Language": "executable",
+        "Language": "javascript",
         "Website": "https://github.com/cenyG/flow-launch-translate-plugin",
         "UrlDownload": "https://github.com/cenyG/flow-launch-translate-plugin/releases/download/v1.0.2/Flow.Launcher.Plugin.Translate.zip",
         "UrlSourceCode": "https://github.com/cenyG/flow-launch-translate-plugin",
