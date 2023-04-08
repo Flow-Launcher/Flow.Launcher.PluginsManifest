@@ -393,14 +393,14 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "8.1.0",
+        "Version": "8.1.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v8.1.0/Steam-Search.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v8.1.2/Steam-Search.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2023-02-23T19:13:58Z",
+        "LatestReleaseDate": "2023-04-08T06:59:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
