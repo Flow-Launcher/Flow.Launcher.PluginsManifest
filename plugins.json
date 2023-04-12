@@ -318,14 +318,14 @@
         "Name": "General Converter",
         "Description": "General weights and measures converter",
         "Author": "deefrawley",
-        "Version": "1.1.4",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v1.1.4/Flow.Launcher.Plugin.GenConvert.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v2.0.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico",
         "Tested": true,
-        "LatestReleaseDate": "2022-11-07T22:53:20Z",
+        "LatestReleaseDate": "2023-04-12T10:25:42Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
