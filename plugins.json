@@ -1410,8 +1410,5 @@
         "IcoPath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AniList_logo.svg/2048px-AniList_logo.svg.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
         "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.0/Anilist.zip",
-        "Tested": true,
-        "DateAdded": "2023-04-03T16:32:32Z",
-        "LatestReleaseDate": "2023-04-03T16:32:32Z"
     }
 ]
