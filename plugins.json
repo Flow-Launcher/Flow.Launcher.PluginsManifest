@@ -1407,8 +1407,9 @@
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils",
-        "UrlDownload":"https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils/releases/download/v1.0.0/Flow.Launcher.Plugin.StringUtils.zip",
+        "UrlDownload": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils/releases/download/v1.0.0/Flow.Launcher.Plugin.StringUtils.zip",
         "UrlSourceCode": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/t-tan/Flow.Launcher.Plugin.StringUtils@main/Flow.Launcher.Plugin.StringUtils/Images/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/t-tan/Flow.Launcher.Plugin.StringUtils@main/Flow.Launcher.Plugin.StringUtils/Images/icon.png",
+        "DateAdded": "2023-04-16T22:43:23Z"
     }
 ]
