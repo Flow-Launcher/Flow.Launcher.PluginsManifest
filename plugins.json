@@ -1410,7 +1410,8 @@
         "UrlDownload": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils/releases/download/v1.0.0/Flow.Launcher.Plugin.StringUtils.zip",
         "UrlSourceCode": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils",
         "IcoPath": "https://cdn.jsdelivr.net/gh/t-tan/Flow.Launcher.Plugin.StringUtils@main/Flow.Launcher.Plugin.StringUtils/Images/icon.png",
-        "DateAdded": "2023-04-16T22:43:23Z"
+        "DateAdded": "2023-04-16T22:43:23Z",
+        "LatestReleaseDate": "2023-04-04T18:19:11Z"
     },
     {
         "ID": "08AF784C-A014-4A03-822F-6C2F3665A843",
@@ -1423,6 +1424,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Anilist@master/Assets/AniListlogo.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
         "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.0/Anilist.zip",
-        "DateAdded": "2023-04-16T23:07:57Z"
+        "DateAdded": "2023-04-16T23:07:57Z",
+        "LatestReleaseDate": "2023-04-03T16:14:34Z"
     }
 ]
