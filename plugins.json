@@ -161,7 +161,7 @@
         "Author": "cxfksword",
         "Version": "1.0",
         "Language": "csharp",
-        "Website": "https://github.com/cxfksword/Wox.Plugin.UrlEncode",
+        "Website": "https://github.com/taooceros/Flow.Plugin.UrlEncode",
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.UrlEncode/releases/download/v1.0/Flow.Plugin.UrlEncode.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.UrlEncode",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.UrlEncode@master/Images/app.png",
