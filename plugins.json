@@ -1439,6 +1439,7 @@
         "UrlSourceCode": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB",
         "UrlDownload": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB/releases/download/v1.0.0/Flow.Launcher.Plugin.RemoveUSB.zip",
         "Tested": true,
-        "DateAdded": "2023-04-25T11:24:27Z"
+        "DateAdded": "2023-04-25T11:24:27Z",
+        "LatestReleaseDate": "2023-04-24T08:29:58Z"
     }
 ]
