@@ -1450,6 +1450,7 @@
     "Version": "0.1.4",
     "Language": "csharp",
     "Website": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR",
+    "IcoPath": "https://cdn.statically.io/gh/rainyl/Flow.Launcher.Plugin.ClipboardR/master/src/ClipboardR/Images/clipboard.png",
     "UrlSourceCode": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR",
     "UrlDownload": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR/releases/download/v0.1.4/ClipboardR-v0.1.4.zip"
     }
