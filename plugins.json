@@ -979,21 +979,6 @@
         "LatestReleaseDate": "2022-05-01T11:40:44Z"
     },
     {
-        "ID": "3e268e4d-50a7-4847-aa58-adb7b743de1a",
-        "Name": "Notion Search",
-        "Description": "Search notion pages and databases",
-        "Author": "Duckworth",
-        "Version": "0.2.0",
-        "Language": "python",
-        "Website": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch",
-        "UrlDownload": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch/releases/download/v0.2.0/Flow.Launcher.Plugin.NotionSearch.zip",
-        "UrlSourceCode": "https://github.com/danielduckworth/Flow.Launcher.Plugin.NotionSearch/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/danielduckworth/Flow.Launcher.Plugin.NotionSearch@main/Images/notion.png",
-        "Tested": true,
-        "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2023-03-05T16:36:12Z"
-    },
-    {
         "ID": "1602DFD6B9F843A3A31CB9AD5561A9A2",
         "Name": "AWS Toolkit",
         "Description": "Open the AWS Console for services in your web browser",
