@@ -675,14 +675,14 @@
         "Name": "Github Notifications",
         "Description": "View your github notifications",
         "Author": "Garulf",
-        "Version": "3.0.20",
+        "Version": "3.0.21",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-notifications",
-        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v3.0.20/Github-Notifications.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v3.0.21/Github-Notifications.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-notifications/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-notifications@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2023-05-05T02:05:15Z",
+        "LatestReleaseDate": "2023-05-10T02:06:10Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1439,6 +1439,6 @@
         "UrlSourceCode": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR",
         "UrlDownload": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR/releases/download/v0.2.0/ClipboardR-v0.2.0.zip",
         "DateAdded": "2023-04-28T12:19:04Z",
-        "LatestReleaseDate": "2023-05-08T03:00:58Z"
+        "LatestReleaseDate": "2023-05-10T02:51:10Z"
     }
 ]
