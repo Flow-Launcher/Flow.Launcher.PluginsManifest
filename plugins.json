@@ -1453,7 +1453,8 @@
         "UrlSourceCode": "https://github.com/asmpro7/AudFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/AudFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-12T14:34:13Z"
+        "DateAdded": "2023-05-12T14:34:13Z",
+        "LatestReleaseDate": "2023-05-12T01:25:27Z"
     },
     {
         "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",
@@ -1467,7 +1468,8 @@
         "UrlSourceCode": "https://github.com/asmpro7/StatisFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/StatisFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-12T14:34:13Z"
+        "DateAdded": "2023-05-12T14:34:13Z",
+        "LatestReleaseDate": "2023-05-08T21:43:37Z"
     },
     {
         "ID": "75894EA334FA4C10AC16E28BC4616C4A",
@@ -1481,7 +1483,8 @@
         "UrlSourceCode": "https://github.com/asmpro7/CkFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/CkFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-12T14:34:13Z"
+        "DateAdded": "2023-05-12T14:34:13Z",
+        "LatestReleaseDate": "2023-05-12T02:49:23Z"
     },
     {
         "ID": "963cdb07-9143-41e6-b77b-14391e8344d8",
@@ -1512,7 +1515,8 @@
         "UrlSourceCode": "https://github.com/asmpro7/QrFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/QrFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-12T14:34:13Z"
+        "DateAdded": "2023-05-12T14:34:13Z",
+        "LatestReleaseDate": "2023-05-12T12:12:49Z"
     },
     {
         "ID": "735A3608B5D240E5A44357CCF852E329",
@@ -1526,20 +1530,22 @@
         "UrlSourceCode": "https://github.com/asmpro7/DdFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/DdFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-12T14:34:13Z"
+        "DateAdded": "2023-05-12T14:34:13Z",
+        "LatestReleaseDate": "2023-05-12T13:14:53Z"
     },
     {
         "ID": "01B8703D-13E2-483D-BBF9-603425628151",
         "Name": "Toggl Track",
         "Description": "A time tracking plugin for Flow Launcher using Toggl Track",
         "Author": "JamesNZL",
-        "Version": "1.0.0",
+        "Version": "2.1.1",
         "Language": "csharp",
         "Website": "https://github.com/JamesNZL/flow-toggl-plugin",
         "IcoPath": "https://cdn.statically.io/gh/JamesNZL/flow-toggl-plugin/main/assets/app.png",
         "UrlSourceCode": "https://github.com/JamesNZL/flow-toggl-plugin",
-        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.TogglTrack.zip",
-        "DateAdded": "2023-05-12T14:51:58Z"
+        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v2.1.1/Flow.Launcher.Plugin.TogglTrack.zip",
+        "DateAdded": "2023-05-12T14:51:58Z",
+        "LatestReleaseDate": "2023-05-12T11:53:32Z"
     },
     {
         "ID": "77435DA907472F189B759F9F4F3E3C23",
