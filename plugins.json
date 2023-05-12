@@ -1495,6 +1495,18 @@
         "Tested": true,
         "DateAdded": "2023-05-12T12:05:40Z",
         "LatestReleaseDate": "2023-05-11T15:16:21Z"
-    }
+    },
+    {
+  "ID": "725660A1CB3D4FFE978A8B477EB376B4",  
+  "Name": "QrFlow",
+  "Description": "Plugin to generate QR code",
+  "Author": "Ahmed ElSaeed",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/asmpro7/QrFlow",
+  "UrlDownload":"https://github.com/asmpro7/QrFlow/releases/download/v1.0.0/QrFlow.zip",
+  "UrlSourceCode": "https://github.com/asmpro7/QrFlow",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/QrFlow@main/Images/app.png"
+}
 ]
 
