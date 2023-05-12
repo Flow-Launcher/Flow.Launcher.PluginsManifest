@@ -1528,7 +1528,7 @@
         "Tested": true,
         "DateAdded": "2023-05-12T14:34:13Z"
     },
-    { 
+    {
         "ID": "01B8703D-13E2-483D-BBF9-603425628151",
         "Name": "Toggl Track",
         "Description": "A time tracking plugin for Flow Launcher using Toggl Track",
@@ -1538,6 +1538,7 @@
         "Website": "https://github.com/JamesNZL/flow-toggl-plugin",
         "IcoPath": "https://cdn.statically.io/gh/JamesNZL/flow-toggl-plugin/main/assets/app.png",
         "UrlSourceCode": "https://github.com/JamesNZL/flow-toggl-plugin",
-        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.TogglTrack.zip"
+        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.TogglTrack.zip",
+        "DateAdded": "2023-05-12T14:51:58Z"
     }
 ]
