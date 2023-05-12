@@ -1507,6 +1507,18 @@
   "UrlDownload":"https://github.com/asmpro7/QrFlow/releases/download/v1.0.0/QrFlow.zip",
   "UrlSourceCode": "https://github.com/asmpro7/QrFlow",
   "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/QrFlow@main/Images/app.png"
+},
+    {
+  "ID": "735A3608B5D240E5A44357CCF852E329",  
+  "Name": "DdFlow",
+  "Description": "Plugin for Get the day from the date",
+  "Author": "Ahmed ElSaeed",
+  "Version": ""1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/asmpro7/DdFlow",
+  "UrlDownload":"https://github.com/asmpro7/DdFlow/releases/download/v1.0.0/DdFlow.zip",
+  "UrlSourceCode": "https://github.com/asmpro7/DdFlow",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/DdFlow@main/Images/app.png"
 }
 ]
 
