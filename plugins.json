@@ -1464,5 +1464,17 @@
         "UrlDownload":"https://github.com/asmpro7/StatisFlow/releases/download/v1.0.0/StatisFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/StatisFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/StatisFlow@main/Images/app.png"
+},
+    {
+  "ID": "75894EA334FA4C10AC16E28BC4616C4A",  
+  "Name": "CkFlow",
+  "Description": "Plugin to check internet access and get the speed of download and upload",
+  "Author": "Ahmed ElSaeed",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/asmpro7/CkFlow",
+  "UrlDownload":"https://github.com/asmpro7/CkFlow/releases/download/v1.0.0/CkFlow.zip",
+  "UrlSourceCode": "https://github.com/asmpro7/CkFlow",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/CkFlow@main/Images/app.png"
 }
 ]
