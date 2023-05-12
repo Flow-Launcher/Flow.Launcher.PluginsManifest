@@ -1442,6 +1442,7 @@
         "LatestReleaseDate": "2023-05-10T02:51:10Z"
     },
     {
+
   "ID": "7CCD5CC94597483EBC3F179A69511D5C",  
   "Name": "AudFlow",
   "Description": "Text to speech Plugin",
@@ -1476,5 +1477,24 @@
   "UrlDownload":"https://github.com/asmpro7/CkFlow/releases/download/v1.0.0/CkFlow.zip",
   "UrlSourceCode": "https://github.com/asmpro7/CkFlow",
   "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/CkFlow@main/Images/app.png"
-}
+},
+  {
+
+        "ID": "963cdb07-9143-41e6-b77b-14391e8344d8",
+        "ActionKeyword": "dp",
+        "Name": "DeepFlow",
+        "Description": "Plugin to use DeepL in FlowLauncher",
+        "Author": "Davide Gena",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow",
+        "IcoPath": "https://cdn.statically.io/gh/DavidG33k/Flow.Launcher.Plugin.DeepFlow/main/images/ico.png",
+        "UrlSourceCode": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow",
+        "UrlDownload": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.DeepFlow.zip",
+        "ExecuteFileName": "main.py",
+        "Tested": true,
+        "DateAdded": "2023-05-12T12:05:40Z",
+        "LatestReleaseDate": "2023-05-11T15:16:21Z"
+    }
 ]
+
