@@ -1452,5 +1452,17 @@
   "UrlDownload":"https://github.com/asmpro7/AudFlow/releases/download/v1.0.0/AudFlow.zip",
   "UrlSourceCode": "https://github.com/asmpro7/AudFlow",
   "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/AudFlow@main/Images/app.png"
+},
+    {
+        "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",  
+        "Name": "Statis",
+        "Description": "Useful statistics plugin",
+        "Author": "Ahmed ElSaeed",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/asmpro7/StatisFlow",
+        "UrlDownload":"https://github.com/asmpro7/StatisFlow/releases/download/v1.0.0/StatisFlow.zip",
+        "UrlSourceCode": "https://github.com/asmpro7/StatisFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/StatisFlow@main/Images/app.png"
 }
 ]
