@@ -1560,6 +1560,7 @@
         "UrlSourceCode": "https://github.com/jonasw234/FlowLauncher.Plugin.WhenToExpect",
         "IcoPath": "https://cdn.statically.io/gh/jonasw234/FlowLauncher.Plugin.WhenToExpect/main/icon/expect.png",
         "Tested": true,
-        "DateAdded": "2023-05-12T15:05:03Z"
+        "DateAdded": "2023-05-12T15:05:03Z",
+        "LatestReleaseDate": "2023-05-10T10:42:50Z"
     }
 ]
