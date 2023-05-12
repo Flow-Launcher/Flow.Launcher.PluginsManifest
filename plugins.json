@@ -1442,6 +1442,42 @@
         "LatestReleaseDate": "2023-05-10T02:51:10Z"
     },
     {
+        "ID": "7CCD5CC94597483EBC3F179A69511D5C",
+        "Name": "AudFlow",
+        "Description": "Text to speech Plugin",
+        "Author": "Ahmed ElSaeed",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/asmpro7/AudFlow",
+        "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v1.0.0/AudFlow.zip",
+        "UrlSourceCode": "https://github.com/asmpro7/AudFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/AudFlow@main/Images/app.png"
+    },
+    {
+        "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",
+        "Name": "Statis",
+        "Description": "Useful statistics plugin",
+        "Author": "Ahmed ElSaeed",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/asmpro7/StatisFlow",
+        "UrlDownload": "https://github.com/asmpro7/StatisFlow/releases/download/v1.0.0/StatisFlow.zip",
+        "UrlSourceCode": "https://github.com/asmpro7/StatisFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/StatisFlow@main/Images/app.png"
+    },
+    {
+        "ID": "75894EA334FA4C10AC16E28BC4616C4A",
+        "Name": "CkFlow",
+        "Description": "Plugin to check internet access and get the speed of download and upload",
+        "Author": "Ahmed ElSaeed",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/asmpro7/CkFlow",
+        "UrlDownload": "https://github.com/asmpro7/CkFlow/releases/download/v1.0.0/CkFlow.zip",
+        "UrlSourceCode": "https://github.com/asmpro7/CkFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/CkFlow@main/Images/app.png"
+    },
+    {
         "ID": "963cdb07-9143-41e6-b77b-14391e8344d8",
         "ActionKeyword": "dp",
         "Name": "DeepFlow",
@@ -1457,5 +1493,29 @@
         "Tested": true,
         "DateAdded": "2023-05-12T12:05:40Z",
         "LatestReleaseDate": "2023-05-11T15:16:21Z"
+    },
+    {
+        "ID": "725660A1CB3D4FFE978A8B477EB376B4",
+        "Name": "QrFlow",
+        "Description": "Plugin to generate QR code",
+        "Author": "Ahmed ElSaeed",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/asmpro7/QrFlow",
+        "UrlDownload": "https://github.com/asmpro7/QrFlow/releases/download/v1.0.0/QrFlow.zip",
+        "UrlSourceCode": "https://github.com/asmpro7/QrFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/QrFlow@main/Images/app.png"
+    },
+    {
+        "ID": "735A3608B5D240E5A44357CCF852E329",
+        "Name": "DdFlow",
+        "Description": "Plugin for Get the day from the date",
+        "Author": "Ahmed ElSaeed",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/asmpro7/DdFlow",
+        "UrlDownload": "https://github.com/asmpro7/DdFlow/releases/download/v1.0.0/DdFlow.zip",
+        "UrlSourceCode": "https://github.com/asmpro7/DdFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/DdFlow@main/Images/app.png"
     }
 ]
