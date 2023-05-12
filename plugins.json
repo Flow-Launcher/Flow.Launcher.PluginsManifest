@@ -1440,5 +1440,19 @@
         "UrlDownload": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR/releases/download/v0.2.0/ClipboardR-v0.2.0.zip",
         "DateAdded": "2023-04-28T12:19:04Z",
         "LatestReleaseDate": "2023-05-10T02:51:10Z"
+    },
+    {
+        "ID": "963cdb07-9143-41e6-b77b-14391e8344d8",
+        "ActionKeyword":"dp",
+        "Name":"DeepFlow",
+        "Description":"Plugin to use DeepL in FlowLauncher",
+        "Author":"Davide Gena",
+        "Version":"1.0.0",
+        "Language":"python",
+        "Website":"https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow", 
+        "IcoPath":"https://cdn.statically.io/gh/DavidG33k/Flow.Launcher.Plugin.DeepFlow/main/images/ico.png",
+        "UrlSourceCode": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow",
+        "UrlDownload": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.DeepFlow.zip",
+        "ExecuteFileName":"main.py"
     }
 ]
