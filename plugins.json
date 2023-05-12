@@ -1450,7 +1450,9 @@
         "Version":"1.0.0",
         "Language":"python",
         "Website":"https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow", 
-        "IcoPath":"images\\ico.png",
+        "IcoPath":"https://cdn.statically.io/gh/DavidG33k/Flow.Launcher.Plugin.DeepFlow/main/images/ico.png",
+        "UrlSourceCode": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow",
+        "UrlDownload": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.DeepFlow.zip",
         "ExecuteFileName":"main.py"
     }
 ]
