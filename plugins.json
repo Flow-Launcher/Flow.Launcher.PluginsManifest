@@ -1455,6 +1455,7 @@
         "UrlDownload": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.DeepFlow.zip",
         "ExecuteFileName": "main.py",
         "Tested": true,
-        "DateAdded": "2023-05-12T12:05:40Z"
+        "DateAdded": "2023-05-12T12:05:40Z",
+        "LatestReleaseDate": "2023-05-11T15:16:21Z"
     }
 ]
