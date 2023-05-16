@@ -1446,15 +1446,15 @@
         "Name": "AudFlow",
         "Description": "Text to speech Plugin",
         "Author": "Ahmed ElSaeed",
-        "Version": "2.0.1",
+        "Version": "2.0.2",
         "Language": "python",
         "Website": "https://github.com/asmpro7/AudFlow",
-        "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v2.0.1/AudFlow.zip",
+        "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v2.0.2/AudFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/AudFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/AudFlow@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-05-12T14:34:13Z",
-        "LatestReleaseDate": "2023-05-15T12:54:58Z"
+        "LatestReleaseDate": "2023-05-16T09:26:01Z"
     },
     {
         "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",
@@ -1538,14 +1538,14 @@
         "Name": "Toggl Track",
         "Description": "A time tracking plugin for Flow Launcher using Toggl Track",
         "Author": "JamesNZL",
-        "Version": "2.1.3",
+        "Version": "2.1.5",
         "Language": "csharp",
         "Website": "https://github.com/JamesNZL/flow-toggl-plugin",
         "IcoPath": "https://cdn.statically.io/gh/JamesNZL/flow-toggl-plugin/main/assets/app.png",
         "UrlSourceCode": "https://github.com/JamesNZL/flow-toggl-plugin",
-        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v2.1.3/Flow.Launcher.Plugin.TogglTrack.zip",
+        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v2.1.5/Flow.Launcher.Plugin.TogglTrack.zip",
         "DateAdded": "2023-05-12T14:51:58Z",
-        "LatestReleaseDate": "2023-05-15T06:56:05Z"
+        "LatestReleaseDate": "2023-05-16T10:07:12Z"
     },
     {
         "ID": "77435DA907472F189B759F9F4F3E3C23",
