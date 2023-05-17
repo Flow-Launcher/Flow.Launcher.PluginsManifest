@@ -1562,5 +1562,17 @@
         "Tested": true,
         "DateAdded": "2023-05-12T15:05:03Z",
         "LatestReleaseDate": "2023-05-10T10:42:50Z"
+    },
+    {
+	    "ID": "2DA1D552-3FAE-660B-C779-9F2AC3596A49",
+	    "ActionKeyword": "t",
+        "Name": "Transform timestamp",
+        "Description": "Generate Transform timestamp",
+        "Author": "HenryTSZ",
+        "Version": "1.0.0",
+        "Language": "JavaScript",
+        "Website": "https://github.com/HenryTSZ/TransformTimestamp",
+        "ExecuteFileName": "./build/index.js",
+        "IcoPath": "https://github.com/HenryTSZ/TransformTimestamp/blob/main/app.png?raw=true"
     }
 ]
