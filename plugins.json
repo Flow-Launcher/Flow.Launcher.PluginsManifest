@@ -1575,6 +1575,7 @@
         "UrlSourceCode": "https://github.com/asmpro7/ElementFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/ElementFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-18T00:44:33Z"
+        "DateAdded": "2023-05-18T00:44:33Z",
+        "LatestReleaseDate": "2023-05-17T13:28:09Z"
     }
 ]
