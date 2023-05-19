@@ -1508,15 +1508,15 @@
         "Name": "QrFlow",
         "Description": "Plugin to generate QR code",
         "Author": "Ahmed ElSaeed",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/asmpro7/QrFlow",
-        "UrlDownload": "https://github.com/asmpro7/QrFlow/releases/download/v1.0.0/QrFlow.zip",
+        "UrlDownload": "https://github.com/asmpro7/QrFlow/releases/download/v1.1.0/QrFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/QrFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/QrFlow@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-05-12T14:34:13Z",
-        "LatestReleaseDate": "2023-05-12T12:12:49Z"
+        "LatestReleaseDate": "2023-05-19T11:26:25Z"
     },
     {
         "ID": "735A3608B5D240E5A44357CCF852E329",
@@ -1538,14 +1538,14 @@
         "Name": "Toggl Track",
         "Description": "A time tracking plugin for Flow Launcher using Toggl Track",
         "Author": "JamesNZL",
-        "Version": "2.1.6",
+        "Version": "2.2.0",
         "Language": "csharp",
         "Website": "https://github.com/JamesNZL/flow-toggl-plugin",
         "IcoPath": "https://cdn.statically.io/gh/JamesNZL/flow-toggl-plugin/main/assets/app.png",
         "UrlSourceCode": "https://github.com/JamesNZL/flow-toggl-plugin",
-        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v2.1.6/Flow.Launcher.Plugin.TogglTrack.zip",
+        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v2.2.0/Flow.Launcher.Plugin.TogglTrack.zip",
         "DateAdded": "2023-05-12T14:51:58Z",
-        "LatestReleaseDate": "2023-05-16T20:55:43Z"
+        "LatestReleaseDate": "2023-05-19T09:09:37Z"
     },
     {
         "ID": "77435DA907472F189B759F9F4F3E3C23",
