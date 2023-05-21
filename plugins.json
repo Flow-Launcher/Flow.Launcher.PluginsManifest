@@ -1590,6 +1590,7 @@
         "UrlSourceCode": "https://github.com/asmpro7/WinsFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/WinsFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-21T00:50:52Z"
+        "DateAdded": "2023-05-21T00:50:52Z",
+        "LatestReleaseDate": "2023-05-20T21:26:54Z"
     }
 ]
