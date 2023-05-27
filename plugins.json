@@ -1592,5 +1592,18 @@
         "Tested": true,
         "DateAdded": "2023-05-21T00:50:52Z",
         "LatestReleaseDate": "2023-05-20T21:26:54Z"
-    }
+    },
+    {
+        "ID": "7d2d209d-5ab9-42dd-ae9b-2487b57ff569",  
+        "Name": "VolumeFlow",
+        "Description": "Plugin for control your Sound Volume",
+        "Author": "Ahmed ElSaeed",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/asmpro7/VolumeFlow",
+        "UrlDownload":"https://github.com/asmpro7/VolumeFlow/releases/download/v1.0.0/VolumeFlow.zip",
+        "UrlSourceCode": "https://github.com/asmpro7/VolumeFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/VolumeFlow@main/Images/app.png"
+}
+
 ]
