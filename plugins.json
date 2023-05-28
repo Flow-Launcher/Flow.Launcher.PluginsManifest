@@ -1605,6 +1605,7 @@
         "UrlSourceCode": "https://github.com/asmpro7/VolumeFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/VolumeFlow@main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2023-05-27T19:51:33Z"
+        "DateAdded": "2023-05-27T19:51:33Z",
+        "LatestReleaseDate": "2023-05-26T21:38:19Z"
     }
 ]
