@@ -1619,6 +1619,7 @@
         "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.RegJump/releases/download/v1.0.0/Flow.Plugin.RegJump.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.RegJump/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.RegJump@main/src/icon.png",
-        "DateAdded": "2023-06-03T09:54:28Z"
+        "DateAdded": "2023-06-03T09:54:28Z",
+        "LatestReleaseDate": "2023-05-30T22:07:24Z"
     }
 ]
