@@ -47,8 +47,9 @@ def truncate_release_notes(release_notes: str, length: int) -> str:
         return release_notes
     
     TRUNCATION_MESSAGE_BASE = "\n{} lines truncated..."
-    # Will definitely not have more lines than total characters
-    maximum_lines_message_length = len(release_notes)
+    # Get the maximum number of characters possibly needed for '{} lines truncated'
+    # Will definitely not have more lines than total characters in the release notes
+    maximum_lines_message_length = len(str(len(release_notes)))
     
     # First get the exact length index that we must break at
     # But, this might cut ``, (), [], etc in half
