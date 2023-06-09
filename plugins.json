@@ -1215,15 +1215,15 @@
         "Name": "DevToys Launcher",
         "Description": "Launch DevToys tools",
         "Author": "Umi Uyura",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
-        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher/releases/download/v1.0.0/Flow.Launcher.Plugin.DevToysLauncher-1.0.0.zip",
+        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher/releases/download/v1.1.0/Flow.Launcher.Plugin.DevToysLauncher-1.1.0.zip",
         "UrlSourceCode": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher@main/assets/300x300.png",
         "Tested": true,
         "DateAdded": "2022-12-12T09:57:51Z",
-        "LatestReleaseDate": "2022-12-11T14:22:46Z"
+        "LatestReleaseDate": "2023-06-09T13:44:22Z"
     },
     {
         "ID": "91B97FA34859445782AEF1893DE4E350",
