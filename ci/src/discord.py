@@ -2,6 +2,7 @@ import requests
 
 from _utils import *
 
+MAX_BODY_LEN = 1024
 
 
 def update_hook(webhook_url: str, info: dict, latest_ver: str, release: dict) -> None:
@@ -39,5 +40,21 @@ def update_hook(webhook_url: str, info: dict, latest_ver: str, release: dict) ->
         embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
     release_notes = release.get('body')
     if release_notes and release_notes.strip():
-        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": release.get('body', "")})
+        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release['html_url'], release.get('body', ""))})
     requests.post(webhook_url, json=embed)
+    
+def truncate_release_notes(url: str, release_notes: str, length: int = MAX_BODY_LEN) -> str:
+    if len(release_notes) <= length:
+        return release_notes
+    
+    TRUNCATION_MESSAGE = f"\n[Show more...]({url})"
+    
+    # First get the exact length index that we must break at
+    # But, this might cut ``, (), [], etc in half
+    rough_truncation_index = length - len(TRUNCATION_MESSAGE)
+
+    # So, we will attempt to discard this entire line so it does not mess up any embed rendering with truncated markdown
+    last_included_newline = release_notes[:rough_truncation_index].rfind('\n')
+    graceful_truncation_index = last_included_newline if last_included_newline != -1 else rough_truncation_index
+    
+    return release_notes[:graceful_truncation_index] + TRUNCATION_MESSAGE
