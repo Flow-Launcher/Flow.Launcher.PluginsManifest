@@ -3,7 +3,11 @@ name: Check Links
 on:
   workflow_dispatch:
   push:
+    paths:
+      - 'plugins.json'
   pull_request:
+    paths:
+      - 'plugins.json'
   schedule:
     - cron: "0 */12 * * *"
 
