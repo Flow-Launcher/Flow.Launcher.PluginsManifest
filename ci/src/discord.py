@@ -39,10 +39,11 @@ def update_hook(webhook_url: str, info: dict, latest_ver: str, release: dict) ->
         embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
     release_notes = release.get('body')
     if release_notes and release_notes.strip():
-        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release.get('body', ""), 1024)})
+        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release.get('body', ""))})
     requests.post(webhook_url, json=embed)
     
-def truncate_release_notes(release_notes: str, length: int) -> str:
+MAX_BODY_LEN = 1024
+def truncate_release_notes(release_notes: str, length: int = MAX_BODY_LEN) -> str:
     if len(release_notes) <= length:
         return release_notes
     
