@@ -39,29 +39,22 @@ def update_hook(webhook_url: str, info: dict, latest_ver: str, release: dict) ->
         embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
     release_notes = release.get('body')
     if release_notes and release_notes.strip():
-        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release.get('body', ""))})
+        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release['html_url'], release.get('body', ""))})
     requests.post(webhook_url, json=embed)
     
 MAX_BODY_LEN = 1024
-def truncate_release_notes(release_notes: str, length: int = MAX_BODY_LEN) -> str:
+def truncate_release_notes(url: str, release_notes: str, length: int = MAX_BODY_LEN) -> str:
     if len(release_notes) <= length:
         return release_notes
     
-    TRUNCATION_MESSAGE_BASE = "\n{} lines truncated..."
-    # Get the maximum number of characters possibly needed for '{} lines truncated'
-    # Will definitely not have more lines than total characters in the release notes
-    maximum_lines_message_length = len(str(len(release_notes)))
+    TRUNCATION_MESSAGE = f"\n[Show more...]({url})"
     
     # First get the exact length index that we must break at
     # But, this might cut ``, (), [], etc in half
-    rough_truncation_index = length - len(TRUNCATION_MESSAGE_BASE) - maximum_lines_message_length
+    rough_truncation_index = length - len(TRUNCATION_MESSAGE)
 
     # So, we will attempt to discard this entire line so it does not mess up any embed rendering with truncated markdown
     last_included_newline = release_notes[:rough_truncation_index].rfind('\n')
     graceful_truncation_index = last_included_newline if last_included_newline != -1 else rough_truncation_index
-
-    # + 1 to account for final line
-    lines_truncated = release_notes[graceful_truncation_index:].count('\n') + 1
-    truncation_message = TRUNCATION_MESSAGE_BASE.format(lines_truncated)
     
-    return release_notes[:graceful_truncation_index] + truncation_message
+    return release_notes[:graceful_truncation_index] + TRUNCATION_MESSAGE
