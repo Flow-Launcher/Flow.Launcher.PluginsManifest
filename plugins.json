@@ -192,7 +192,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images/translate.png",
         "LatestReleaseDate": "2021-10-08T02:22:31Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
@@ -234,7 +234,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.1.0/Flow.Launcher.Plugin.DirectTranslate-2.1.0.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.DirectTranslate@master/assets/favicon.ico",
         "Tested": true,
         "LatestReleaseDate": "2022-05-31T12:40:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
@@ -1232,7 +1232,7 @@
         "Author": "Garulf",
         "Version": "1.2.1",
         "Language": "executable",
-        "Website": "https://github.com/Garulf/mc_multi_launcher",
+        "Website": "https://github.com/Garulf/MC-Multi-Launcher",
         "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.2.1/Minecraft.Multi.Launcher.zip",
         "UrlSourceCode": "https://github.com/Garulf/MC-Multi-Launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/garulf/MC-Multi-Launcher@main/src/icon.png",
