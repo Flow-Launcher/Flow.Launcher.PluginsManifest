@@ -74,13 +74,13 @@
         "Name": "SpotifyPremium",
         "Description": "Spotify Premium for Flow Launcher",
         "Author": "Frank W. (@fow5040)",
-        "Version": "1.1.4",
+        "Version": "1.1.5",
         "Language": "csharp",
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
-        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.4/Flow.Launcher.Plugin.SpotifyPremium.zip",
+        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.5/SpotifyPremium-1.1.5.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png",
-        "LatestReleaseDate": "2022-11-03T05:49:38Z",
+        "LatestReleaseDate": "2023-06-24T13:39:48Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
