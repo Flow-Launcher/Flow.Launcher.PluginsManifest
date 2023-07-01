@@ -74,13 +74,13 @@
         "Name": "SpotifyPremium",
         "Description": "Spotify Premium for Flow Launcher",
         "Author": "Frank W. (@fow5040)",
-        "Version": "1.1.4",
+        "Version": "1.1.5",
         "Language": "csharp",
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
-        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.4/Flow.Launcher.Plugin.SpotifyPremium.zip",
+        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.5/SpotifyPremium-1.1.5.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png",
-        "LatestReleaseDate": "2022-11-03T05:49:38Z",
+        "LatestReleaseDate": "2023-06-24T13:39:48Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -192,7 +192,7 @@
         "Website": "https://github.com/taooceros/Flow.LibreTranslate",
         "UrlDownload": "https://github.com/taooceros/Flow.LibreTranslate/releases/download/v1.0.1/Flow.LibreTranslate.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.LibreTranslate/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images//pic.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images/translate.png",
         "LatestReleaseDate": "2021-10-08T02:22:31Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
@@ -234,7 +234,7 @@
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate",
         "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.1.0/Flow.Launcher.Plugin.DirectTranslate-2.1.0.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/tree/master",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.DirectTranslate@master/Images/app.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.DirectTranslate@master/assets/favicon.ico",
         "Tested": true,
         "LatestReleaseDate": "2022-05-31T12:40:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
@@ -660,14 +660,14 @@
         "Name": "Windows Terminal profiles",
         "Description": "Windows Terminal profiles launcher",
         "Author": "Aviv B.D.",
-        "Version": "0.0.8",
+        "Version": "0.0.10",
         "Language": "python",
         "Website": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal",
-        "UrlDownload": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal/releases/download/v0.0.8/Flow.Launcher.Plugin.WindowsTerminal.zip",
+        "UrlDownload": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal/releases/download/v0.0.10/Flow.Launcher.Plugin.WindowsTerminal.zip",
         "UrlSourceCode": "https://github.com/paradox00/Flow.Launcher.Plugin.WindowsTerminal",
         "IcoPath": "https://cdn.jsdelivr.net/gh/paradox00/Flow.Launcher.Plugin.WindowsTerminal@main/Images/app.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-01-17T15:07:40Z",
+        "LatestReleaseDate": "2023-06-23T19:26:36Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -675,14 +675,14 @@
         "Name": "Github Notifications",
         "Description": "View your github notifications",
         "Author": "Garulf",
-        "Version": "3.0.22",
+        "Version": "3.0.23",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-notifications",
-        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v3.0.22/Github-Notifications.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v3.0.23/Github-Notifications.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-notifications/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-notifications@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2023-05-23T02:05:43Z",
+        "LatestReleaseDate": "2023-06-23T02:05:52Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -764,13 +764,13 @@
         "Name": "DuckDuckGo !bang",
         "Description": "Search on thousands of sites directly, with DuckDuckGo bangs",
         "Author": "Ioannis G. (@JohnTheGr8)",
-        "Version": "1.3.1",
+        "Version": "1.3.2",
         "Language": "fsharp",
         "Website": "https://github.com/JohnTheGr8/Flow.Plugin.Bang",
-        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/releases/download/v1.3.1/Flow.Plugin.Bang.zip",
+        "UrlDownload": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/releases/download/v1.3.2/Flow.Plugin.Bang.zip",
         "UrlSourceCode": "https://github.com/JohnTheGr8/Flow.Plugin.Bang/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Bang@main/src/icon.png",
-        "LatestReleaseDate": "2023-06-06T19:47:47Z",
+        "LatestReleaseDate": "2023-06-17T08:57:34Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1232,7 +1232,7 @@
         "Author": "Garulf",
         "Version": "1.2.1",
         "Language": "executable",
-        "Website": "https://github.com/Garulf/mc_multi_launcher",
+        "Website": "https://github.com/Garulf/MC-Multi-Launcher",
         "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.2.1/Minecraft.Multi.Launcher.zip",
         "UrlSourceCode": "https://github.com/Garulf/MC-Multi-Launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/garulf/MC-Multi-Launcher@main/src/icon.png",
@@ -1403,14 +1403,14 @@
         "Name": "Anilist",
         "Description": "an anilist plugin for Flow-Launcher",
         "Author": "DiekoMA",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "csharp",
         "Website": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Anilist@master/Assets/AniListlogo.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
-        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.0/Anilist.zip",
+        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.1/Anilist.zip",
         "DateAdded": "2023-04-16T23:07:57Z",
-        "LatestReleaseDate": "2023-04-03T16:14:34Z"
+        "LatestReleaseDate": "2023-06-17T22:53:46Z"
     },
     {
         "ID": "5DBA462B9AB77AC5DC158EB5047367F0",
@@ -1446,15 +1446,15 @@
         "Name": "AudFlow",
         "Description": "Text to speech Plugin",
         "Author": "Ahmed ElSaeed",
-        "Version": "2.0.3",
+        "Version": "2.1.0",
         "Language": "python",
         "Website": "https://github.com/asmpro7/AudFlow",
-        "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v2.0.3/AudFlow.zip",
+        "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v2.1.0/AudFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/AudFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/AudFlow@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-05-12T14:34:13Z",
-        "LatestReleaseDate": "2023-05-16T23:01:11Z"
+        "LatestReleaseDate": "2023-06-25T19:26:41Z"
     },
     {
         "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",
@@ -1538,14 +1538,14 @@
         "Name": "Toggl Track",
         "Description": "A time tracking plugin for Flow Launcher using Toggl Track",
         "Author": "JamesNZL",
-        "Version": "2.9.0",
+        "Version": "2.10.1",
         "Language": "csharp",
         "Website": "https://github.com/JamesNZL/flow-toggl-plugin",
         "IcoPath": "https://cdn.statically.io/gh/JamesNZL/flow-toggl-plugin/main/assets/app.png",
         "UrlSourceCode": "https://github.com/JamesNZL/flow-toggl-plugin",
-        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v2.9.0/Flow.Launcher.Plugin.TogglTrack.zip",
+        "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v2.10.1/Flow.Launcher.Plugin.TogglTrack.zip",
         "DateAdded": "2023-05-12T14:51:58Z",
-        "LatestReleaseDate": "2023-06-10T01:33:18Z"
+        "LatestReleaseDate": "2023-06-15T04:56:05Z"
     },
     {
         "ID": "77435DA907472F189B759F9F4F3E3C23",
@@ -1598,15 +1598,15 @@
         "Name": "VolumeFlow",
         "Description": "Plugin for control your Sound Volume",
         "Author": "Ahmed ElSaeed",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/asmpro7/VolumeFlow",
-        "UrlDownload": "https://github.com/asmpro7/VolumeFlow/releases/download/v1.0.0/VolumeFlow.zip",
+        "UrlDownload": "https://github.com/asmpro7/VolumeFlow/releases/download/v1.1.0/VolumeFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/VolumeFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/VolumeFlow@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-05-27T19:51:33Z",
-        "LatestReleaseDate": "2023-05-26T21:38:19Z"
+        "LatestReleaseDate": "2023-06-18T23:49:36Z"
     },
     {
         "ID": "8533B2E5632A449F916D3658EABFB595",
@@ -1623,15 +1623,30 @@
         "LatestReleaseDate": "2023-05-30T22:07:24Z"
     },
     {
-      "ID": "467A8D7E-0DC6-F0C8-347C-BC4B315C397F",
-      "Name": "AntdOpenBrowser",
-      "Description": "Quickly open the antd component",
-      "Author": "HenryTSZ",
-      "Version": "1.0.1",
-      "Language": "JavaScript",
-      "Website": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser",
-      "UrlDownload": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser/releases/download/v1.0.1/Flow.Launcher.Plugin.AntdOpenBrowser.zip",
-      "UrlSourceCode": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser/tree/main",
-      "IcoPath": "https://cdn.jsdelivr.net/gh/HenryTSZ/Flow.Launcher.AntdOpenBrowser@main/app.png"
+        "ID": "467A8D7E-0DC6-F0C8-347C-BC4B315C397F",
+        "Name": "AntdOpenBrowser",
+        "Description": "Quickly open the antd component",
+        "Author": "HenryTSZ",
+        "Version": "1.0.1",
+        "Language": "JavaScript",
+        "Website": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser",
+        "UrlDownload": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser/releases/download/v1.0.1/Flow.Launcher.Plugin.AntdOpenBrowser.zip",
+        "UrlSourceCode": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/HenryTSZ/Flow.Launcher.AntdOpenBrowser@main/app.png"
+    },
+    {
+        "ID": "dff48291-c333-46ed-8784-115aa85acb4f",
+        "Name": "Gitmoji",
+        "Description": "Search and copy the right Gitmoji.",
+        "Author": "Galedrim",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Gitmoji@main/Images/app.png",
+        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji/releases/download/v1.0.0/Flow.Launcher.Plugin.Gitmoji.zip",
+        "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji/tree/main",
+        "Tested": true,
+        "DateAdded": "2023-06-29T14:02:33Z",
+        "LatestReleaseDate": "2023-06-26T17:15:41Z"
     }
 ]
