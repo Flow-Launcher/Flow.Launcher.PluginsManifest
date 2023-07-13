@@ -1315,15 +1315,15 @@
         "Name": "How Long To Beat",
         "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
         "Author": "Tueska",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "javascript",
         "ExecuteFileName": "main.js",
         "Website": "https://github.com/Tueska/fl-howlongtobeat",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Tueska/fl-HowLongToBeat/Images/howlongtobeat.png",
-        "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.0/Tueska.HowLongToBeat.zip",
+        "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.1/Tueska.HowLongToBeat.zip",
         "UrlSourceCode": "https://github.com/Tueska/fl-HowLongToBeat/tree/master",
         "DateAdded": "2023-02-20T01:28:36Z",
-        "LatestReleaseDate": "2023-02-16T15:04:33Z"
+        "LatestReleaseDate": "2023-07-13T05:55:15Z"
     },
     {
         "ID": "E1E3DB9C-632D-4187-A5B4-EED6E09CACA7",
