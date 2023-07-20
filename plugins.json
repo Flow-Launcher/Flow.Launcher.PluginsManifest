@@ -527,14 +527,14 @@
         "Name": "TenorGIF",
         "Description": "Search Tenor for amazing GIFs!",
         "Author": "Garulf",
-        "Version": "2.1.0",
+        "Version": "2.2.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/TenorGIF",
-        "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v2.1.0/TenorGIF-v2.1.0.zip",
+        "UrlDownload": "https://github.com/Garulf/TenorGIF/releases/download/v2.2.0/TenorGIF-v2.2.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/TenorGIF/tree/main",
         "IcoPath": "https://github.com/Garulf/TenorGIF/raw/main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2023-05-13T16:44:47Z",
+        "LatestReleaseDate": "2023-07-20T17:47:37Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
