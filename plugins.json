@@ -1650,5 +1650,17 @@
         "Tested": true,
         "DateAdded": "2023-06-29T14:02:33Z",
         "LatestReleaseDate": "2023-06-26T17:15:41Z"
+    },
+    {
+        "ID": "3bbfd6d1-2e69-4090-b8e6-fe3c60a0c554",
+        "Name": "Radio",
+        "Description": "Search and find Radio Stream.",
+        "Author": "Galedrim",
+        "Version": "0.1.0",
+        "Language": "python",
+        "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Radio",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Radio@main/Images/app.png",
+        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Radio/releases/download/v0.1.0/Flow.Launcher.Plugin.Radio.zip",
+        "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Radio/tree/main",
     }
 ]
