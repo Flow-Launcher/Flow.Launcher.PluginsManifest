@@ -1,6 +1,6 @@
 name: Test run Python plugins
 on:
-  pull_request
+  pull_request:
   workflow_dispatch:
     inputs:
       pyversion:
