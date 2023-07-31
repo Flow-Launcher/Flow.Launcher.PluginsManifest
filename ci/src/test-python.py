@@ -62,7 +62,7 @@ def read_plugin(file_path: str) -> dict:
         return json.load(f)
 
 def get_latest_plugin(manifest: dict) -> dict:
-    """Get latest plugin from manifest."""
+    """Get latest plugin from manifest. Used for PR plugin submission testing"""
     untested_plugins = []
     for _plugin in manifest[::-1]:
         if _plugin["Language"] == "python" and "Tested" not in _plugin.keys():
@@ -72,15 +72,16 @@ def get_latest_plugin(manifest: dict) -> dict:
             print_section("Non-Python plugin detected, test not required.", f'Detected Plugin: {_plugin["Name"]}\nPassing test...')
             sys.exit(0)
     if len(untested_plugins) == 0:
-        print_section("Test failed!", "The new plugin should not have the \"Tested\" key.")
+        print_section("Test FAILED!", "The new plugin should not have the \"Tested\" key.")
         sys.exit(1)
     return untested_plugins[0]
 
-def get_all_python_plugins(manifest: dict):
+def get_all_python_plugins(manifest: dict) -> list:
+    """Get all Python plugins from manifest. Used for manual testing of all plugins"""
     return [plugin for plugin in manifest if plugin["Language"].lower() == "python"]
 
-def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
-    """Run plugin and check output."""
+def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> bool:
+    """Run plugin and check output. Returns true if test successfull else false"""
     os.chdir(plugin_path)
     default_settings = init_settings(plugin_name, plugin_path)
     args = json.dumps(
@@ -98,13 +99,15 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
         valid_json, json_msg = test_valid_json(stdout)
     if exit_code == 0 and valid_json:
         print_section("Test passed!", "", repeat_times=20)
+        return True
     else:
-        print(f'Test failed!\nPlugin returned a non-zero exit code!')
+        print_section("Test FAILED!", "", repeat_times=20)
+        print(f'Plugin returned a non-zero exit code: {max(exit_code, 1)}')
         if stderr != "":
             print_section('Trace', stderr)
         if json_msg:
             print(json_msg)
-        sys.exit(max(exit_code, 1))
+        return False
 
 
 def setup_flow_environment() -> None:
@@ -186,6 +189,7 @@ if __name__ == "__main__":
     print("Setting up Flow Launcher environment...")
     setup_flow_environment()
 
+    test_success = True
     for plugin in py_plugins:
         # Download latest release
         extract_dir = install(plugin)
@@ -201,10 +205,16 @@ if __name__ == "__main__":
         print(f"Adding plugin {plugin['Name']} to Flow Launcher's settings file...")
         create_plugin_settings(plugin_id, plugin['Name'], plugin['Version'], read_plugin(plugin_json_path)['ActionKeyword'])
 
-        # Run plugin
+        # Test plugin
         print(f"Running plugin test for {plugin['Name']} ...")
-        run_plugin(plugin['Name'], plugin_path, execute_file)
+
+        if run_plugin(plugin['Name'], plugin_path, execute_file) is False:
+            test_success = False
+
         print(f"Test for {plugin['Name']} finished in {time() - start:.2f} seconds.\n")
+
+    if test_success is False:
+        sys.exit(1)
 
 
 
