@@ -10,6 +10,13 @@ on:
         options:
           - 3.11
           - 3.8
+      run_type:
+        description: "Run test for all or just the latest untested plugin"
+        default: ""
+        type: choice
+        options:
+          - "all"
+          - ""
 
 jobs:
   skip_check_job:
@@ -48,4 +55,4 @@ jobs:
       - name: Download & test plugin
         id: download
         run: |
-          python ./ci/src/test-python.py
+          python ./ci/src/test-python.py ${{ github.event.inputs.run_type }}
