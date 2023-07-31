@@ -190,6 +190,7 @@ if __name__ == "__main__":
     setup_flow_environment()
 
     test_success = True
+    failed_count = 0
     for plugin in py_plugins:
         # Download latest release
         extract_dir = install(plugin)
@@ -210,8 +211,11 @@ if __name__ == "__main__":
 
         if run_plugin(plugin['Name'], plugin_path, execute_file) is False:
             test_success = False
+            failed_count += 1
 
         print(f"Test for {plugin['Name']} finished in {time() - start:.2f} seconds.\n")
+
+    print(f"Total plugins tested: {len(py_plugins)}, Passed: {len(py_plugins) - failed_count}, Failed: {failed_count}")
 
     if test_success is False:
         sys.exit(1)
