@@ -12,7 +12,7 @@ on:
           - 3.8
       run_type:
         description: "Run test for all or just the latest untested plugin"
-        default: ""
+        default: "all"
         type: choice
         options:
           - "all"
