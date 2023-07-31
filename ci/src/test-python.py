@@ -34,17 +34,17 @@ def get_github_release(url: str) -> str:
     plugin_name = _url[4]
     response = requests.get(f"https://api.github.com/repos/{author}/{plugin_name}/releases/latest")
     download_url = response.json()["assets"][0]["browser_download_url"]
-    print(f'Downloading from {download_url}')
+    print(f'Downloading plugin {plugin_name} from {download_url}')
     return download_url
 
 def install(plugin: dict) -> str:
     """Download and install plugin."""
     if "UrlDownload" in plugin.keys():
-        print(f'Downloading from {plugin["UrlDownload"]}')
+        print(f"Downloading plugin {plugin['Name']} from {plugin['UrlDownload']}")
         file = _download(plugin["UrlDownload"])
     else:
         file = _download(get_github_release(plugin["UrlSourceCode"]))
-    extract_dir = USER_PATH.joinpath("Plugins", name)
+    extract_dir = USER_PATH.joinpath("Plugins", plugin['Name'])
     _mkdir(extract_dir)
     print("Extracting...")
     file.extractall(extract_dir)
@@ -75,6 +75,9 @@ def get_latest_plugin(manifest: dict) -> dict:
         print_section("Test failed!", "The new plugin should not have the \"Tested\" key.")
         sys.exit(1)
     return untested_plugins[0]
+
+def get_all_python_plugins(manifest: dict):
+    return [plugin for plugin in manifest if plugin["Language"].lower() == "python"]
 
 def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> None:
     """Run plugin and check output."""
@@ -118,7 +121,7 @@ def setup_flow_environment() -> None:
         json.dump({
             "PluginSettings": {"Plugins": {}},
         }, f, indent=4)
-    
+
 def init_settings(plugin_name: str, plugin_path: str) -> dict:
     """Read plugins template file and initialize settings."""
     default_values = {}
@@ -133,7 +136,7 @@ def init_settings(plugin_name: str, plugin_path: str) -> dict:
         settings_path = Path(USER_PATH, "Settings", "Plugins", plugin_name)
         _mkdir(settings_path)
         with open(settings_path.joinpath("Settings.json"), "w") as f:
-            f.write(json.dumps(default_values, indent=4))             
+            f.write(json.dumps(default_values, indent=4))
     return json.dumps(default_values)
 
 def create_plugin_settings(id, name, version, action_keyword) -> None:
@@ -162,36 +165,46 @@ def test_valid_json(data: dict) -> None:
         return True, e
 
 if __name__ == "__main__":
+    #Pass 'all' as an arg to test for all Python plugins
+
     start = time()
+
+    py_plugins = []
+
     # Load plugins manifest
     manifest = plugin_reader()
 
-    # Get latest untested plugin
-    plugin = get_latest_plugin(manifest)
-    name, id, version = plugin["Name"], plugin["ID"], plugin["Version"]
-    print(f"Found untested plugin: {name} (Version: {version})")
+    if len(sys.argv) > 1 and str(sys.argv[1]) == "all":
+        py_plugins = get_all_python_plugins(manifest)
+
+    else:
+        # Get and test latest untested plugin for PR submission
+        py_plugins.append(get_latest_plugin(manifest))
+        print(f"Found untested plugin: {py_plugins[0]['Name']} (Version: {py_plugins[0]['Version']})")
 
     # Set up the Flow environment
     print("Setting up Flow Launcher environment...")
     setup_flow_environment()
 
-    # Download latest release
-    extract_dir = install(plugin)
+    for plugin in py_plugins:
+        # Download latest release
+        extract_dir = install(plugin)
 
-    # Locate Plugins manifest file (plugins.json)
-    for path in Path(extract_dir).glob("**/plugin.json"):
-        execute_file = read_plugin(path)["ExecuteFileName"]
-        id = read_plugin(path)["ID"]
-        plugin_path = Path(path).parent
+        # Locate Plugins manifest file (plugins.json)
+        for path in Path(extract_dir).glob("**/plugin.json"):
+            execute_file = read_plugin(path)["ExecuteFileName"]
+            plugin_id = read_plugin(path)["ID"]
+            plugin_path = Path(path).parent
+            plugin_json_path = path
 
-    # Add plugin to Flow Launcher's settings file
-    print("Adding plugin to Flow Launcher's settings file...")
-    create_plugin_settings(id, plugin['Name'], plugin['Version'], read_plugin(path)['ActionKeyword'])
+        # Add plugin to Flow Launcher's settings file
+        print(f"Adding plugin {plugin['Name']} to Flow Launcher's settings file...")
+        create_plugin_settings(plugin_id, plugin['Name'], plugin['Version'], read_plugin(plugin_json_path)['ActionKeyword'])
 
-    # Run plugin
-    print("Running plugin...")
-    run_plugin(name, plugin_path, execute_file)
-    print(f'Test finished in {time() - start:.2f} seconds.')
+        # Run plugin
+        print(f"Running plugin test for {plugin['Name']} ...")
+        run_plugin(plugin['Name'], plugin_path, execute_file)
+        print(f"Test for {plugin['Name']} finished in {time() - start:.2f} seconds.\n")
 
 
 

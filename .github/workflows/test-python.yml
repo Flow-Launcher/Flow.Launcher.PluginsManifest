@@ -1,6 +1,16 @@
 name: Test run Python plugins
 on:
-  pull_request
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      pyversion:
+        description: "Python version for the test"
+        default: 3.8
+        type: choice
+        options:
+          - 3.11
+          - 3.8
+
 jobs:
   skip_check_job:
     runs-on: ubuntu-latest
@@ -20,10 +30,10 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Python 3.8
+      - name: "Set up Python ${{ github.event.inputs.pyversion }}"
         uses: actions/setup-python@v1
         with:
-          python-version: 3.8
+          python-version: ${{ github.event.inputs.pyversion }}
       - uses: actions/cache@v2
         if: startsWith(runner.os, 'Windows')
         with:
