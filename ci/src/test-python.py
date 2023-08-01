@@ -94,6 +94,8 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> bool:
     p = Popen(full_args, text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
     exit_code = p.wait()
+    json_msg = ""
+    valid_json = ""
     if stdout != "":
         print_section("Output", stdout)
         valid_json, json_msg = test_valid_json(stdout)
