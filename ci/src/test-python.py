@@ -103,7 +103,7 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> bool:
         print_section("Test passed!", "", repeat_times=20)
         return True
     else:
-        print_section(f"Above plugin {plugin['Name']} test FAILED!", "")
+        print_section(f"{plugin['Name']} test FAILED!", "")
         print(f'Plugin returned a non-zero exit code: {max(exit_code, 1)}')
         if stderr != "":
             print_section('Trace', stderr)
@@ -218,7 +218,7 @@ if __name__ == "__main__":
         except Exception as err:
             test_success = False
             failed_count += 1
-            print_section(f"Above plugin {plugin['Name']} test FAILED!", "", repeat_times=20)
+            print_section(f"{plugin['Name']} test FAILED!", "")
             print_section('Trace', err)
 
         print(f"Test for {plugin['Name']} finished in {time() - start:.2f} seconds.\n")
