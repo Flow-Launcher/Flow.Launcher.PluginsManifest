@@ -1523,15 +1523,15 @@
         "Name": "DdFlow",
         "Description": "Plugin for Get the day from the date",
         "Author": "Ahmed ElSaeed",
-        "Version": "1.0.0",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/asmpro7/DdFlow",
-        "UrlDownload": "https://github.com/asmpro7/DdFlow/releases/download/v1.0.0/DdFlow.zip",
+        "UrlDownload": "https://github.com/asmpro7/DdFlow/releases/download/v2.0.0/DdFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/DdFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/DdFlow@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-05-12T14:34:13Z",
-        "LatestReleaseDate": "2023-05-12T13:14:53Z"
+        "LatestReleaseDate": "2023-08-11T06:12:55Z"
     },
     {
         "ID": "01B8703D-13E2-483D-BBF9-603425628151",
