@@ -1650,5 +1650,17 @@
         "Tested": true,
         "DateAdded": "2023-06-29T14:02:33Z",
         "LatestReleaseDate": "2023-06-26T17:15:41Z"
+    },
+    {
+        "ID": "661D020D-4E0B-414B-B12B-58F795A20D79",
+        "Name": "Shortcuts",
+        "Description": "Open user defined shortcut quickly from Flow Launcher",
+        "Author": "Mantelis",
+        "Version": "1.0.3",
+        "Language": "csharp",
+        "Website": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin",
+        "UrlDownload": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/releases/download/v1.0.3/Flow.Launcher.Plugin.ShortcutPlugin.zip",
+        "UrlSourceCode": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png"
     }
 ]
