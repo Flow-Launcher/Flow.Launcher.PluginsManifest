@@ -1664,5 +1664,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png",
         "DateAdded": "2023-08-20T03:55:23Z",
         "LatestReleaseDate": "2023-08-20T07:18:03Z"
+    },
+    {
+        "ID": "79BB35BC5B504F04B210D1C41DF14A02",  
+        "Name": "Add2Path",
+        "Description": "Manage your PATH environment variable",
+        "Author": "HorridModz",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
+        "UrlDownload":"https://github.com/HorridModz/FlowLauncher.Plugin.Add2Path/releases/download/V1.0/Flow.Launcher.Plugin.Add2Path.zipn",
+        "UrlSourceCode": "https://github.com/HorridModz/FlowLauncher.Plugin.Add2Path",
+        "IcoPath": "https://github.com/HorridModz/FlowLauncher.Plugin.Add2Path/blob/V1.0/icon.png"
+        "Tested": true,
+        "DateAdded": "2023-08-21T08:48:26Z",
+        "LatestReleaseDate": "2023-08-21T08:48:26Z"
     }
 ]
