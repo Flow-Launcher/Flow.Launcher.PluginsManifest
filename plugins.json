@@ -1649,6 +1649,18 @@
         "UrlSourceCode": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png",
         "DateAdded": "2023-08-20T03:55:23Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2023-08-20T07:18:03Z"
+    },
+    {
+        "ID": "54545DC7B3A542DBB6C7DA50DEAD455B",  
+        "Name": "GamesLauncher",
+        "Description": "Search and launch games from multiple platforms like Steam, Epic Games etc.",
+        "Author": "KrystianLesniak",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher",
+        "UrlDownload":"https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.1.0/GamesLauncher.zip",
+        "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/krystianlesniak/Flow.Launcher.Plugin.GamesLauncher@master/Flow.Launcher.Plugin.GamesLauncher/icon.png"
     }
 ]
