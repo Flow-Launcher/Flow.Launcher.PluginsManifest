@@ -14,20 +14,6 @@
         "LatestReleaseDate": "2023-05-02T05:49:45Z"
     },
     {
-        "ID": "4579F00804F94B54B23CF207856E495F",
-        "Name": "Google Search Plus",
-        "Description": "Plugin for searching Google and navigating directly to the search results.",
-        "Author": "mikemorain",
-        "Version": "2.0.0",
-        "Language": "csharp",
-        "Website": "https://github.com/jjw24/Wox.Plugin.GoogleSearch",
-        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/releases/download/v2.0.0/Wox.Plugin.GoogleSearch.zip",
-        "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.GoogleSearch/tree/master",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.GoogleSearch@master/images/icon.png",
-        "LatestReleaseDate": "2022-10-04T21:31:59Z",
-        "DateAdded": "2022-10-08T16:26:57Z"
-    },
-    {
         "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
         "Name": "Tailwindcss",
         "Description": "Search tailwindcss Docs",
