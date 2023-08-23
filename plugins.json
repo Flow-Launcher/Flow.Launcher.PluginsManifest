@@ -1664,5 +1664,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/krystianlesniak/Flow.Launcher.Plugin.GamesLauncher@master/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-22T14:44:38Z",
         "LatestReleaseDate": null
+    },
+    {
+        "ID":"51dd36d2-9824-4977-8e15-294dfbd7961e",
+        "Name":"Snippets",
+        "Description":"Simple plugin to save key/value snippets and copy to clipboard",
+        "Author":"Fermi Shuangqi Li",
+        "Version":"1.0.0",
+        "Language":"python",
+        "Website":"https://github.com/Fermiz/Flow.Launcher.Snippets",
+        "UrlDownload": "https://github.com/Fermiz/Flow.Launcher.Snippets/releases/download/v1.0.0/Flow.Launcher.Plugin.Snippets.zip",
+        "UrlSourceCode": "https://github.com/Fermiz/Flow.Launcher.Snippets/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Fermiz/Flow.Launcher.Snippets/assets/snippets.png",
+        "DateAdded": "2023-08-23T15:30:00Z",
+        "LatestReleaseDate": "2023-08-23T15:00:00Z"
     }
 ]
