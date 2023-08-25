@@ -1,5 +1,4 @@
 import aiohttp
-import requests
 
 from _utils import *
 
