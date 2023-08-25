@@ -1,13 +1,11 @@
 # -*-coding: utf-8 -*-
 import asyncio
-from http.client import responses
 from typing import List
 from unicodedata import name
 from sys import argv
 import traceback
 import aiohttp
 
-import requests
 from tqdm.asyncio import tqdm
 
 from _utils import *
