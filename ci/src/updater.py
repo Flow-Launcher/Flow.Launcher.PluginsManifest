@@ -44,7 +44,7 @@ async def batch_github_plugin_info(
                 latest_rel = await res.json()
 
                 assets = latest_rel.get("assets")
-                if info.get(release_date, "") != latest_rel.get("published_at"):
+                if info.get(release_date, "") != latest_rel["published_at"]:
                     info[release_date] = latest_rel.get("published_at")
                 if assets:
                     info[url_download] = assets[0]["browser_download_url"]
