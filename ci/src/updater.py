@@ -44,6 +44,9 @@ async def batch_github_plugin_info(
                 latest_rel = await res.json()
 
                 assets = latest_rel.get("assets")
+
+                tqdm.write(str(latest_rel))
+
                 if info.get(release_date, "") != latest_rel["published_at"]:
                     info[release_date] = latest_rel.get("published_at")
                 if assets:
