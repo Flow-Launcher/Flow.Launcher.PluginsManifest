@@ -29,8 +29,7 @@ async def batch_github_plugin_info(
 
         if release_date in info.keys():
             headers = {
-                "If-None-Match": tag,
-                "Authorization": "Bearer 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",
+                "If-None-Match": tag
             }
 
         async with aiohttp.ClientSession() as session:
