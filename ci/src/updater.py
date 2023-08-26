@@ -45,9 +45,7 @@ async def batch_github_plugin_info(
 
                 assets = latest_rel.get("assets")
 
-                tqdm.write(str(latest_rel))
-
-                if info.get(release_date, "") != latest_rel["published_atW"]:
+                if info.get(release_date, "") != latest_rel["published_at"]:
                     info[release_date] = latest_rel.get("published_at")
                 if assets:
                     info[url_download] = assets[0]["browser_download_url"]
