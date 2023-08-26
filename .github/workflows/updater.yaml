@@ -25,7 +25,7 @@ jobs:
 
       - name: Auto Checking Update
         run: |
-          python ./ci/src/updater.py ${{ secrets.DISCORD_WEBHOOK }}
+          python ./ci/src/updater.py ${{ secrets.GITHUB_TOKEN }} ${{ secrets.DISCORD_WEBHOOK }}
 
       - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v4

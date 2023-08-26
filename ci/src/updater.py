@@ -13,7 +13,7 @@ from discord import update_hook
 
 
 async def batch_github_plugin_info(
-    info: P, tags: ETagsType, webhook_url: str = None
+    info: P, tags: ETagsType, github_token: str = None, webhook_url: str = None
 ) -> P:
     try:
         headers = None
@@ -28,9 +28,10 @@ async def batch_github_plugin_info(
         tag: str = tags.get(info[id_name], info.get(etag, ""))
 
         if release_date in info.keys():
-            headers = {
-                "If-None-Match": tag
-            }
+            headers = {"If-None-Match": tag}
+
+        if github_token is not None:
+            headers["Authorization"] = f"Bearer {github_token}"
 
         async with aiohttp.ClientSession() as session:
             async with session.get(
@@ -46,7 +47,7 @@ async def batch_github_plugin_info(
 
                 tqdm.write(str(latest_rel))
 
-                if info.get(release_date, "") != latest_rel["published_at"]:
+                if info.get(release_date, "") != latest_rel["published_atW"]:
                     info[release_date] = latest_rel.get("published_at")
                 if assets:
                     info[url_download] = assets[0]["browser_download_url"]
@@ -68,11 +69,11 @@ async def batch_github_plugin_info(
 
 
 async def batch_plugin_infos(
-    plugin_infos: Ps, tags: ETagsType, webhook_url: str = None
+    plugin_infos: Ps, tags: ETagsType, github_token: str = None, webhook_url: str = None
 ) -> Ps:
     return await tqdm.gather(
         *[
-            batch_github_plugin_info(info, tags, webhook_url)
+            batch_github_plugin_info(info, tags, github_token, webhook_url)
             for info in tqdm(plugin_infos)
         ]
     )
@@ -94,7 +95,9 @@ def remove_unused_etags(plugin_infos: Ps, etags: ETagsType) -> ETagsType:
     return etags_updated
 
 
-async def send_notification(info: P, latest_ver, release, webhook_url: str = None) -> None:
+async def send_notification(
+    info: P, latest_ver, release, webhook_url: str = None
+) -> None:
     if version_tuple(info[version]) != version_tuple(latest_ver):
         tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
         try:
@@ -104,13 +107,18 @@ async def send_notification(info: P, latest_ver, release, webhook_url: str = Non
 
 
 async def main():
+    github_token = None
     webhook_url = None
     if len(argv) > 1:
-        webhook_url = argv[1]
+        github_token = argv[1]
+    if len(argv) > 2:
+        webhook_url = argv[2]
     plugin_infos = plugin_reader()
     etags = etag_reader()
 
-    plugin_infos_new = await batch_plugin_infos(plugin_infos, etags, webhook_url)
+    plugin_infos_new = await batch_plugin_infos(
+        plugin_infos, etags, github_token, webhook_url
+    )
     plugin_writer(plugin_infos_new)
 
     etags_new = remove_unused_etags(plugin_infos_new, etags)
