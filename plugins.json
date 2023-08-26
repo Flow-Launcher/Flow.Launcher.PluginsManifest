@@ -1330,7 +1330,7 @@
         "Name": "Youtube Downloader",
         "Description": "A youtube downloader",
         "Author": "LordOfTheEel; Eyal.Br",
-        "Version": "1.0.0",
+        "Version": "v1.0.0-beta",
         "Language": "python",
         "Website": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/icon.png",
@@ -1642,27 +1642,26 @@
         "Name": "Shortcuts",
         "Description": "Open user defined shortcut quickly from Flow Launcher",
         "Author": "Mantelis",
-        "Version": "1.0.5",
+        "Version": "1.0.4",
         "Language": "csharp",
         "Website": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin",
-        "UrlDownload": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/releases/download/v1.0.5/Flow.Launcher.Plugin.ShortcutPlugin.zip",
+        "UrlDownload": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/releases/download/v1.0.4/Flow.Launcher.Plugin.ShortcutPlugin.zip",
         "UrlSourceCode": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png",
         "DateAdded": "2023-08-20T03:55:23Z",
-        "LatestReleaseDate": "2023-08-25T16:47:31Z"
+        "LatestReleaseDate": "2023-08-20T07:18:03Z"
     },
     {
         "ID": "54545DC7B3A542DBB6C7DA50DEAD455B",
         "Name": "GamesLauncher",
         "Description": "Search and launch games from multiple platforms like Steam, Epic Games etc.",
         "Author": "KrystianLesniak",
-        "Version": "1.2.0",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher",
-        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.2.0/GamesLauncher.zip",
+        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.1.0/GamesLauncher.zip",
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/krystianlesniak/Flow.Launcher.Plugin.GamesLauncher@master/Flow.Launcher.Plugin.GamesLauncher/icon.png",
-        "DateAdded": "2023-08-25T07:12:31Z",
-        "LatestReleaseDate": "2023-08-23T13:32:58Z"
+        "DateAdded": "2023-08-25T07:12:31Z"
     }
 ]
