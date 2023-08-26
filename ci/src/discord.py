@@ -43,7 +43,7 @@ async def update_hook(webhook_url: str, info: dict, latest_ver: str, release: di
         embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release['html_url'], release.get('body', ""))})
     
     async with aiohttp.ClientSession() as session:
-        session.post(webhook_url, json=embed)
+        await session.post(webhook_url, json=embed)
     
 def truncate_release_notes(url: str, release_notes: str, length: int = MAX_BODY_LEN) -> str:
     if len(release_notes) <= length:
