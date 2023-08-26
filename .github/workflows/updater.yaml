@@ -32,4 +32,4 @@ jobs:
         with:
           commit_message: "auto updated plugins"
           push_options: --force
-          branch: asyncio-revision
+          branch: plugin_api_v2
