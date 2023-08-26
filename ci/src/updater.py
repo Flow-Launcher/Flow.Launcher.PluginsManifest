@@ -16,7 +16,7 @@ async def batch_github_plugin_info(
     info: P, tags: ETagsType, github_token: str = None, webhook_url: str = None
 ) -> P:
     try:
-        headers = None
+        headers = {}
         if "github.com" not in info[url_download]:
             return info
 
@@ -28,7 +28,7 @@ async def batch_github_plugin_info(
         tag: str = tags.get(info[id_name], info.get(etag, ""))
 
         if release_date in info.keys():
-            headers = {"If-None-Match": tag}
+            headers["If-None-Match"] = tag
 
         if github_token is not None:
             headers["Authorization"] = f"Bearer {github_token}"
