@@ -1663,5 +1663,17 @@
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/krystianlesniak/Flow.Launcher.Plugin.GamesLauncher@master/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-25T07:12:31Z"
+    },
+    {
+        "ID": "CBDFA9CF044842B4A79939112240FD38",
+        "Name": "Visual Studio Launcher",
+        "Description": "Open your recent solutions, projects and files in Visual Studio",
+        "Author": "Odotocodot",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Odotocodot/VisualStudio4Flow",
+        "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.0/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
+        "UrlSourceCode": "https://github.com/Odotocodot/VisualStudio4Flow/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png"
     }
 ]
