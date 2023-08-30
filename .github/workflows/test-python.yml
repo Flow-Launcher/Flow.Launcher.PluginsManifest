@@ -10,6 +10,13 @@ on:
         options:
           - 3.11
           - 3.8
+      run_type:
+        description: "Run test for all or just the latest untested plugin"
+        default: "all"
+        type: choice
+        options:
+          - "all"
+          - ""
 
 jobs:
   skip_check_job:
@@ -30,7 +37,13 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
-      - name: "Set up Python ${{ github.event.inputs.pyversion }}"
+      - if: ${{ github.event_name == 'pull_request'}}
+        name: "Set up Python 3.8 for pull request test"
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - if: ${{ github.event_name == 'workflow_dispatch'}}
+        name: "Set up Python ${{ github.event.inputs.pyversion }} for manual test"
         uses: actions/setup-python@v1
         with:
           python-version: ${{ github.event.inputs.pyversion }}
@@ -48,4 +61,4 @@ jobs:
       - name: Download & test plugin
         id: download
         run: |
-          python ./ci/src/test-python.py
+          python ./ci/src/test-python.py ${{ github.event.inputs.run_type }}
