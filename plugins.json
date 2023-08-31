@@ -1688,6 +1688,7 @@
         "Website": "https://github.com/Odotocodot/VisualStudio4Flow",
         "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.0/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/VisualStudio4Flow/tree/master",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png",
+        "DateAdded": "2023-08-31T22:46:40Z"
     }
 ]
