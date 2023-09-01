@@ -1690,5 +1690,17 @@
         "UrlSourceCode": "https://github.com/Odotocodot/VisualStudio4Flow/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png",
         "DateAdded": "2023-08-31T22:46:40Z"
+    },
+    {
+        "ID": "79BB35BC5B504F04B210D1C41DF14A02",  
+        "Name": "Add2Path",
+        "Description": "Manage your PATH environment variable",
+        "Author": "HorridModz",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
+        "UrlDownload":"https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path/releases/download/v1.0.0/Flow.Launcher.Plugin.Add2Path.zip",
+        "UrlSourceCode": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/HorridModz/Flow.Launcher.Plugin.Add2Path@master/icon.png"
     }
 ]
