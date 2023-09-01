@@ -1701,6 +1701,6 @@
         "Website": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
         "UrlDownload":"https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path/releases/download/v1.0.0/Flow.Launcher.Plugin.Add2Path.zip",
         "UrlSourceCode": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
-        "IcoPath": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path/blob/V1.0/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/HorridModz/Flow.Launcher.Plugin.Add2Path@master/icon.png"
     }
 ]
