@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.UPDATER }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           # otherwise, you will failed to push refs to dest repo
           fetch-depth: 0
 
@@ -24,6 +24,8 @@ jobs:
           pip install -r ./ci/envs/requirements-updater.txt
 
       - name: Auto Checking Update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python ./ci/src/updater.py ${{ secrets.DISCORD_WEBHOOK }}
 
