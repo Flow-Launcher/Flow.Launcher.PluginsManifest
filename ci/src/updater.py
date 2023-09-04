@@ -2,6 +2,7 @@
 from http.client import responses
 from typing import List
 from unicodedata import name
+from os import getenv
 from sys import argv
 import traceback
 
@@ -14,7 +15,7 @@ from discord import update_hook
 
 def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str = None) -> P:
     try:
-        headers = None
+        headers = {"authorization": f"token {getenv('GITHUB_TOKEN','')}"}
         if "github.com" not in info[url_download]:
             return info
 
@@ -26,7 +27,7 @@ def batch_github_plugin_info(info: P, tags: ETagsType, webhook_url: str = None) 
         tag: str = tags.get(info[id_name], info.get(etag, ""))
 
         if release_date in info.keys():
-            headers = {"If-None-Match": tag}
+            headers["If-None-Match"] = tag
         res = requests.get(
             url_release.format(repo=repo),
             headers=headers,

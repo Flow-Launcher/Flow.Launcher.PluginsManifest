@@ -24,6 +24,8 @@ jobs:
           pip install -r ./ci/envs/requirements-updater.txt
 
       - name: Auto Checking Update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python ./ci/src/updater.py ${{ secrets.DISCORD_WEBHOOK }}
 
