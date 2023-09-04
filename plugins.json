@@ -1418,14 +1418,14 @@
         "Name": "ClipboardR",
         "Description": "A clipboard plugin for Flow.Launcher, support pictures!",
         "Author": "Rainyl",
-        "Version": "0.2.5",
+        "Version": "0.3.0",
         "Language": "csharp",
         "Website": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR",
         "IcoPath": "https://cdn.statically.io/gh/rainyl/Flow.Launcher.Plugin.ClipboardR/master/src/ClipboardR/Images/clipboard.png",
         "UrlSourceCode": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR",
-        "UrlDownload": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR/releases/download/v0.2.5/ClipboardR-v0.2.5.zip",
+        "UrlDownload": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR/releases/download/v0.3.0/ClipboardR-v0.3.0.zip",
         "DateAdded": "2023-04-28T12:19:04Z",
-        "LatestReleaseDate": "2023-08-19T08:47:25Z"
+        "LatestReleaseDate": "2023-08-31T13:58:24Z"
     },
     {
         "ID": "7CCD5CC94597483EBC3F179A69511D5C",
@@ -1642,14 +1642,14 @@
         "Name": "Shortcuts",
         "Description": "Open user defined shortcut quickly from Flow Launcher",
         "Author": "Mantelis",
-        "Version": "1.0.4",
+        "Version": "1.0.5",
         "Language": "csharp",
         "Website": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin",
-        "UrlDownload": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/releases/download/v1.0.4/Flow.Launcher.Plugin.ShortcutPlugin.zip",
+        "UrlDownload": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/releases/download/v1.0.5/Flow.Launcher.Plugin.ShortcutPlugin.zip",
         "UrlSourceCode": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png",
         "DateAdded": "2023-08-20T03:55:23Z",
-        "LatestReleaseDate": "2023-08-20T07:18:03Z"
+        "LatestReleaseDate": "2023-08-25T16:47:31Z"
     },
     {
         "ID": "54545DC7B3A542DBB6C7DA50DEAD455B",
@@ -1663,7 +1663,7 @@
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher@main/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-25T07:12:31Z",
-        "LatestReleaseDate": "2023-08-31T09:10:00Z"
+        "LatestReleaseDate": "2023-08-31T09:10:03Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
@@ -1677,7 +1677,8 @@
         "UrlSourceCode": "https://github.com/Fermiz/Flow.Launcher.Snippets/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Fermiz/Flow.Launcher.Snippets/assets/snippets.png",
         "Tested": true,
-        "DateAdded": "2023-08-31T22:12:05Z"
+        "DateAdded": "2023-08-31T22:12:05Z",
+        "LatestReleaseDate": "2023-08-31T03:14:59Z"
     },
     {
         "ID": "CBDFA9CF044842B4A79939112240FD38",
@@ -1690,7 +1691,8 @@
         "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.0/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/VisualStudio4Flow/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png",
-        "DateAdded": "2023-08-31T22:46:40Z"
+        "DateAdded": "2023-08-31T22:46:40Z",
+        "LatestReleaseDate": "2023-08-28T15:30:46Z"
     },
     {
         "ID": "79BB35BC5B504F04B210D1C41DF14A02",
@@ -1703,6 +1705,7 @@
         "UrlDownload": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path/releases/download/v1.0.0/Flow.Launcher.Plugin.Add2Path.zip",
         "UrlSourceCode": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
         "IcoPath": "https://cdn.jsdelivr.net/gh/HorridModz/Flow.Launcher.Plugin.Add2Path@master/icon.png",
-        "DateAdded": "2023-09-01T04:11:39Z"
+        "DateAdded": "2023-09-01T04:11:39Z",
+        "LatestReleaseDate": "2023-08-21T08:43:16Z"
     }
 ]
