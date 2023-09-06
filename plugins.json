@@ -1656,14 +1656,14 @@
         "Name": "GamesLauncher",
         "Description": "Search and launch games from multiple platforms like Steam, Epic Games etc.",
         "Author": "KrystianLesniak",
-        "Version": "1.2.1",
+        "Version": "1.3.0",
         "Language": "csharp",
         "Website": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher",
-        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.2.1/GamesLauncher.zip",
+        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.3.0/GamesLauncher.zip",
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher@main/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-25T07:12:31Z",
-        "LatestReleaseDate": "2023-08-31T09:10:03Z"
+        "LatestReleaseDate": "2023-09-06T12:44:31Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
