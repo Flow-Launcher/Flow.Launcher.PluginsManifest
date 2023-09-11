@@ -1733,6 +1733,7 @@
         "Website": "https://github.com/bretthysuik/Flow.Launcher.Plugin.Ryot",
         "UrlDownload": "https://github.com/bretthysuik/Flow.Launcher.Plugin.Ryot/releases/download/v1.1.0/Flow.Launcher.Plugin.Ryot.zip",
         "UrlSourceCode": "https://github.com/bretthysuik/Flow.Launcher.Plugin.Ryot/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/bretthysuik/Flow.Launcher.Plugin.Ryot@main/Flow.Launcher.Plugin.Ryot/Images/ryot.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/bretthysuik/Flow.Launcher.Plugin.Ryot@main/Flow.Launcher.Plugin.Ryot/Images/ryot.png",
+        "DateAdded": "2023-09-11T22:03:35Z"
     }
 ]
