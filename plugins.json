@@ -1722,5 +1722,17 @@
         "Tested": true,
         "DateAdded": "2023-09-07T09:51:13Z",
         "LatestReleaseDate": "2023-09-06T01:31:46Z"
+    },
+    {
+        "ID": "BC4E22D7C0CD4FBA9108C26B8B8DBA8D",
+        "Name": "ryot",
+        "Description": "Search your ryot tracker",
+        "Author": "bretthysuik",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/bretthysuik/Flow.Launcher.Plugin.Ryot",
+        "UrlDownload": "https://github.com/bretthysuik/Flow.Launcher.Plugin.Ryot/releases/download/v1.1.0/Flow.Launcher.Plugin.Ryot.zip",
+        "UrlSourceCode": "https://github.com/bretthysuik/Flow.Launcher.Plugin.Ryot/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/bretthysuik/Flow.Launcher.Plugin.Ryot@main/Flow.Launcher.Plugin.Ryot/Images/ryot.png"
     }
 ]
