@@ -1554,15 +1554,15 @@
         "Name": "ElementFlow",
         "Description": "Data for all Chemical Elements",
         "Author": "Ahmed ElSaeed",
-        "Version": "1.0.3",
+        "Version": "1.0.4",
         "Language": "python",
         "Website": "https://github.com/asmpro7/ElementFlow",
-        "UrlDownload": "https://github.com/asmpro7/ElementFlow/releases/download/v1.0.3/ElementFlow.zip",
+        "UrlDownload": "https://github.com/asmpro7/ElementFlow/releases/download/v1.0.4/ElementFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/ElementFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/ElementFlow@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-05-18T00:44:33Z",
-        "LatestReleaseDate": "2023-09-08T21:45:48Z"
+        "LatestReleaseDate": "2023-09-14T19:46:59Z"
     },
     {
         "ID": "72E67DFE0F6F482395AF3CD0A3BC6F04",
