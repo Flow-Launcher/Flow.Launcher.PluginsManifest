@@ -5,7 +5,7 @@ on:
     inputs:
       pyversion:
         description: "Python version for the test"
-        default: 3.8
+        default: 3.11
         type: choice
         options:
           - 3.11
@@ -38,10 +38,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - if: ${{ github.event_name == 'pull_request'}}
-        name: "Set up Python 3.8 for pull request test"
+        name: "Set up Python 3.11 for pull request test"
         uses: actions/setup-python@v1
         with:
-          python-version: 3.8
+          python-version: 3.11
       - if: ${{ github.event_name == 'workflow_dispatch'}}
         name: "Set up Python ${{ github.event.inputs.pyversion }} for manual test"
         uses: actions/setup-python@v1
