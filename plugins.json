@@ -1736,19 +1736,5 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/bretthysuik/Flow.Launcher.Plugin.Ryot@main/Flow.Launcher.Plugin.Ryot/Images/ryot.png",
         "DateAdded": "2023-09-11T22:03:35Z",
         "LatestReleaseDate": "2023-09-08T01:47:40Z"
-    },
-    {
-        "ID": "4f9e42bbcd9045e1969f97293dfaf4c7",
-        "ActionKeyword": "*",
-        "Name": "Flow.Launcher.Plugin.FabCalc",
-        "Description": "Python Calculator",
-        "Author": "Fabio",
-        "Version": "1.0.0",
-        "Language": "python",
-        "Website": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
-        "IcoPath": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/blob/1.0.0/assets/favicon.png",
-        "ExecuteFileName": "main.py",
-        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/1.0.0/Flow.Launcher.Plugin.FabCalc.zip",
-        "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/archive/refs/tags/1.0.0.zip"
     }
 ]
