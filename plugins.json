@@ -1746,7 +1746,7 @@
         "Version": "1.1.6",
         "Language": "python",
         "Website": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
-        "IcoPath": "https://chelly.net/fabio.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/fabiochelly/Flow.Launcher.Plugin.FabCalc@main/fabcalc.png",
         "ExecuteFileName": "main.py",
         "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.1.6/Flow.Launcher.Plugin.FabCalc.zip",
         "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/archive/refs/tags/v1.1.6.zip"
