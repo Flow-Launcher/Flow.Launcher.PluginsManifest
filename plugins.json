@@ -1749,6 +1749,8 @@
         "IcoPath": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/blob/1.0.0/assets/favicon.png",
         "ExecuteFileName": "main.py",
         "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/1.0.0/Flow.Launcher.Plugin.FabCalc.zip",
-        "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/archive/refs/tags/1.0.0.zip"
+        "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/archive/refs/tags/1.0.0.zip",
+        "Tested": true,
+        "DateAdded": "2023-09-26T01:58:57Z"
     }
 ]
