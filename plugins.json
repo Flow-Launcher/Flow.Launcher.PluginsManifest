@@ -1418,14 +1418,14 @@
         "Name": "ClipboardR",
         "Description": "A clipboard plugin for Flow.Launcher, support pictures!",
         "Author": "Rainyl",
-        "Version": "0.3.0",
+        "Version": "0.3.1",
         "Language": "csharp",
         "Website": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR",
         "IcoPath": "https://cdn.statically.io/gh/rainyl/Flow.Launcher.Plugin.ClipboardR/master/src/ClipboardR/Images/clipboard.png",
         "UrlSourceCode": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR",
-        "UrlDownload": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR/releases/download/v0.3.0/ClipboardR-v0.3.0.zip",
+        "UrlDownload": "https://github.com/rainyl/Flow.Launcher.Plugin.ClipboardR/releases/download/v0.3.1/ClipboardR-v0.3.1.zip",
         "DateAdded": "2023-04-28T12:19:04Z",
-        "LatestReleaseDate": "2023-08-31T13:58:24Z"
+        "LatestReleaseDate": "2023-09-27T07:49:47Z"
     },
     {
         "ID": "7CCD5CC94597483EBC3F179A69511D5C",
