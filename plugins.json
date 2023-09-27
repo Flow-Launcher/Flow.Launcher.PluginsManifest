@@ -1403,15 +1403,15 @@
         "Name": "RemoveUSB",
         "Description": "Removes USB drives",
         "Author": "Jonas A. Wendorf",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB",
         "IcoPath": "https://cdn.statically.io/gh/jonasw234/FlowLauncher.Plugin.RemoveUSB/main/icon/usb_stick.png",
         "UrlSourceCode": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB",
-        "UrlDownload": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB/releases/download/v1.0.0/Flow.Launcher.Plugin.RemoveUSB.zip",
+        "UrlDownload": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB/releases/download/v1.1.0/Flow.Launcher.Plugin.RemoveUSB.zip",
         "Tested": true,
         "DateAdded": "2023-04-25T11:24:27Z",
-        "LatestReleaseDate": "2023-04-24T08:29:58Z"
+        "LatestReleaseDate": "2023-09-26T09:46:13Z"
     },
     {
         "ID": "ac0201cb-6610-48dd-9c60-e292d5e3a3da",
@@ -1742,15 +1742,16 @@
         "Name": "Flow.Launcher.Plugin.FabCalc",
         "Description": "Python Calculator",
         "Author": "Fabio",
-        "Version": "1.1.3",
+        "Version": "1.1.6",
         "Language": "python",
         "Website": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "IcoPath": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/blob/1.0.0/assets/favicon.png",
-        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.1.3/Flow.Launcher.Plugin.FabCalc.zip",
+        "ExecuteFileName": "main.py",
+        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.1.6/Flow.Launcher.Plugin.FabCalc.zip",
         "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/archive/refs/tags/1.0.0.zip",
         "Tested": true,
         "DateAdded": "2023-09-26T01:58:57Z",
-        "LatestReleaseDate": "2023-09-26T08:48:47Z"
+        "LatestReleaseDate": "2023-09-26T23:36:40Z"
     },
     {
         "ID": "0ECADE17459B49F587BF81DC3A125110",
@@ -1763,8 +1764,8 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.BrowserBookmark/Images/bookmark.png",
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark/releases/download/v3.1.3/Flow.Launcher.Plugin.BrowserBookmark.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark"
-      },
-      {
+    },
+    {
         "ID": "CEA0FDFC6D3B4085823D60DC76F28855",
         "Name": "Calculator",
         "Description": "Provide mathematical calculations.(Try 5*3-2 in Flow Launcher)",
@@ -1775,8 +1776,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v3.0.3/Flow.Launcher.Plugin.Calculator.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Calculator/Images/calculator.png"
-      },
-      {
+    },
+    {
         "ID": "572be03c74c642baae319fc283e561a8",
         "Name": "Explorer",
         "Description": "Find and manage files and folders via Windows Search or Everything",
@@ -1787,8 +1788,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.2/Flow.Launcher.Plugin.Explorer.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png"
-      },
-      {
+    },
+    {
         "ID": "6A122269676E40EB86EB543B945932B9",
         "Name": "Plugin Indicator",
         "Description": "Provides plugin action keyword suggestions",
@@ -1799,8 +1800,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginIndicator/releases/download/v3.0.2/Flow.Launcher.Plugin.PluginIndicator.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginIndicator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.PluginIndicator/Images/work.png"
-      },
-      {
+    },
+    {
         "ID": "9f8f9b14-2518-4907-b211-35ab6290dee7",
         "Name": "Plugins Manager",
         "Description": "Management of installing, uninstalling or updating Flow Launcher plugins",
@@ -1811,8 +1812,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager/releases/download/v3.0.4/Flow.Launcher.Plugin.PluginsManager.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.PluginsManager/Images/pluginsmanager.png"
-      },
-      {
+    },
+    {
         "ID":"b64d0a79-329a-48b0-b53f-d658318a1bf6",
         "Name":"Process Killer",
         "Description":"Kill running processes from Flow",
@@ -1835,8 +1836,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v3.1.2/Flow.Launcher.Plugin.Program.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Program/Images/program.png"
-      },
-      {
+    },
+    {
         "ID": "D409510CD0D2481F853690A07E6DC426",
         "Name": "Shell",
         "Description": "Provide executing commands from Flow Launcher",
@@ -1847,8 +1848,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell/releases/download/v3.1.1/Flow.Launcher.Plugin.Shell.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Shell/Images/shell.png"
-      },
-      {
+    },
+    {
         "ID": "CEA08895D2544B019B2E9C5009600DF4",
         "Name": "System Commands",
         "Description": "Provide System related commands. e.g. shutdown,lock, setting etc.",
@@ -1859,8 +1860,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.0.3/Flow.Launcher.Plugin.Sys.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Sys/Images/lock.png"
-      },
-      {
+    },
+    {
         "ID": "0308FD86DE0A4DEE8D62B9B535370992",
         "Name": "URL",
         "Description": "Open the typed URL from Flow Launcher",
@@ -1871,8 +1872,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Url/releases/download/v3.0.3/Flow.Launcher.Plugin.Url.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Url",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Url/Images/url.png"
-      },
-      {
+    },
+    {
         "ID": "565B73353DBF4806919830B9202EE3BF",
         "Name": "Web Searches",
         "Description": "Provide the web search ability",
@@ -1883,8 +1884,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.4/Flow.Launcher.Plugin.WebSearch.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WebSearch/Images/web_search.png"
-      },
-      {
+    },
+    {
         "ID": "5043CETYU6A748679OPA02D27D99677A",
         "Description": "Search settings inside Control Panel and Settings App",
         "Name": "Windows Settings",
@@ -1895,5 +1896,5 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.4/Flow.Launcher.Plugin.WindowsSettings.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WindowsSettings/Images/WindowsSettings.light.png"
-      }
+    }
 ]
