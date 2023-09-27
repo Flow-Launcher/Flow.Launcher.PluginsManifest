@@ -1786,14 +1786,14 @@
         "Name": "Explorer",
         "Description": "Find and manage files and folders via Windows Search or Everything",
         "Author": "Jeremy Wu",
-        "Version": "3.1.2",
+        "Version": "3.1.3",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.2/Flow.Launcher.Plugin.Explorer.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.3/Flow.Launcher.Plugin.Explorer.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2023-08-16T12:05:05Z"
+        "LatestReleaseDate": "2023-09-27T10:18:43Z"
     },
     {
         "ID": "6A122269676E40EB86EB543B945932B9",
@@ -1814,14 +1814,14 @@
         "Name": "Plugins Manager",
         "Description": "Management of installing, uninstalling or updating Flow Launcher plugins",
         "Author": "Jeremy Wu",
-        "Version": "3.0.4",
+        "Version": "3.0.5",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager/releases/download/v3.0.4/Flow.Launcher.Plugin.PluginsManager.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager/releases/download/v3.0.5/Flow.Launcher.Plugin.PluginsManager.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.PluginsManager/Images/pluginsmanager.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2023-08-16T12:08:44Z"
+        "LatestReleaseDate": "2023-09-27T10:25:12Z"
     },
     {
         "ID": "b64d0a79-329a-48b0-b53f-d658318a1bf6",
@@ -1842,14 +1842,14 @@
         "Name": "Program",
         "Description": "Search programs in Flow.Launcher",
         "Author": "qianlifeng",
-        "Version": "3.1.2",
+        "Version": "3.1.3",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v3.1.2/Flow.Launcher.Plugin.Program.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v3.1.3/Flow.Launcher.Plugin.Program.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Program/Images/program.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2023-08-16T12:15:03Z"
+        "LatestReleaseDate": "2023-09-27T10:25:25Z"
     },
     {
         "ID": "D409510CD0D2481F853690A07E6DC426",
@@ -1898,27 +1898,27 @@
         "Name": "Web Searches",
         "Description": "Provide the web search ability",
         "Author": "qianlifeng",
-        "Version": "3.0.4",
+        "Version": "3.0.5",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.4/Flow.Launcher.Plugin.WebSearch.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.5/Flow.Launcher.Plugin.WebSearch.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WebSearch/Images/web_search.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2023-08-16T12:15:35Z"
+        "LatestReleaseDate": "2023-09-27T10:25:33Z"
     },
     {
         "ID": "5043CETYU6A748679OPA02D27D99677A",
         "Description": "Search settings inside Control Panel and Settings App",
         "Name": "Windows Settings",
         "Author": "TobiasSekan",
-        "Version": "4.0.4",
+        "Version": "4.0.5",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.4/Flow.Launcher.Plugin.WindowsSettings.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.5/Flow.Launcher.Plugin.WindowsSettings.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WindowsSettings/Images/WindowsSettings.light.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2023-08-16T12:15:44Z"
+        "LatestReleaseDate": "2023-09-27T10:25:41Z"
     }
 ]
