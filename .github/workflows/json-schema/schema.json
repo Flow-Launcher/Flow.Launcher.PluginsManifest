@@ -1,0 +1,77 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "type": "array",
+    "items": {
+        "allOf":
+        [
+            {
+                "type": "object",
+                "properties": {
+                    "ID": {
+                        "type": "string",
+                        "pattern": "^[0-9a-fA-F]{8}-?[0-9a-fA-F]{4}-?[0-9a-fA-F]{4}-?[0-9a-fA-F]{4}-?[0-9a-fA-F]{12}$"
+                    },
+                    "Name": {
+                        "type": "string"
+                    },
+                    "Description": {
+                        "type": "string"
+                    },
+                    "Author": {
+                        "type": "string"
+                    },
+                    "Version": {
+                        "type": "string"
+                    },
+                    "Language": {
+                        "type": "string",
+                        "enum": [
+                            "csharp", "executable", "fsharp", "python", "javascript", "typescript"
+                        ]
+                    },
+                    "Website": {
+                        "type": "string",
+                        "pattern": "^(?:http|ftp)s?://"
+                    },
+                    "UrlDownload": {
+                        "type": "string",
+                        "pattern": "^(?:http|ftp)s?://"
+                    },
+                    "UrlSourceCode": {
+                        "type": "string",
+                        "pattern": "^(?:http|ftp)s?://"
+                    },
+                    "IcoPath": {
+                        "type": "string",
+                        "pattern": "^(?:http|ftp)s?://"
+                    }
+                },
+                "required": [
+                    "ID",
+                    "Name",
+                    "Description",
+                    "Author",
+                    "Version",
+                    "Language",
+                    "Website",
+                    "UrlDownload",
+                    "UrlSourceCode",
+                    "IcoPath"
+                ]
+            }
+        ],
+        "properties": {
+            "DateAdded": {
+                "type": "string"
+            },
+            "LatestReleaseDate": {
+                "type": "string"
+            },
+            "Tested": {
+                "type": "boolean"
+            }
+        },
+        "unevaluatedProperties": false
+    },
+    "additionalItems": true
+}
