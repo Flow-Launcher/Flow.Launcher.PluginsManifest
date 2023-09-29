@@ -1742,16 +1742,16 @@
         "Name": "FabCalc",
         "Description": "Advanced algebric and symbolic Calculator",
         "Author": "Fabio",
-        "Version": "1.1.9",
+        "Version": "1.2.0",
         "Language": "python",
         "Website": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fabiochelly/Flow.Launcher.Plugin.FabCalc@main/fabcalc.png",
         "ExecuteFileName": "main.py",
-        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.1.9/Flow.Launcher.Plugin.FabCalc.zip",
+        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.2.0/Flow.Launcher.Plugin.FabCalc.zip",
         "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/archive/refs/tags/v1.1.8.zip",
         "Tested": true,
         "DateAdded": "2023-09-26T01:58:57Z",
-        "LatestReleaseDate": "2023-09-29T11:48:19Z"
+        "LatestReleaseDate": "2023-09-29T19:53:58Z"
     },
     {
         "ID": "0ECADE17459B49F587BF81DC3A125110",
