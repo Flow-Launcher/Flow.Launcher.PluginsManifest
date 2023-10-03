@@ -1746,9 +1746,8 @@
         "Language": "python",
         "Website": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fabiochelly/Flow.Launcher.Plugin.FabCalc@main/fabcalc.png",
-        "ExecuteFileName": "main.py",
         "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.3.1/Flow.Launcher.Plugin.FabCalc.zip",
-        "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/archive/refs/tags/v1.1.8.zip",
+        "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "Tested": true,
         "DateAdded": "2023-09-26T01:58:57Z",
         "LatestReleaseDate": "2023-10-01T18:48:37Z"
