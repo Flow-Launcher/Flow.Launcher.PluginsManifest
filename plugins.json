@@ -1925,11 +1925,11 @@
         "Name": "Godot",
         "Description": "Quickly launch your Godot projects from flow launcher",
         "Author": "DiekoMA",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "csharp",
         "Website": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Godot@master/Assets/Godot.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/tree/master",
-        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/tag/v1.0.0/Godot.zip"
+        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/download/v1.0.1/Godot-1.0.1.zip"
     }
 ]
