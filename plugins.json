@@ -1931,6 +1931,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Godot@master/Assets/Godot.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/tree/master",
         "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/download/v1.0.1/Godot-1.0.1.zip",
-        "DateAdded": "2023-10-04T09:44:20Z"
+        "DateAdded": "2023-10-04T09:44:20Z",
+        "LatestReleaseDate": "2023-10-02T19:57:56Z"
     }
 ]
