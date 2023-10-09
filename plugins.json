@@ -1201,15 +1201,15 @@
         "Name": "DevToys Launcher",
         "Description": "Launch DevToys tools",
         "Author": "Umi Uyura",
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "Language": "python",
         "Website": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
-        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher/releases/download/v1.2.0/Flow.Launcher.Plugin.DevToysLauncher-1.2.0.zip",
+        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher/releases/download/v1.3.0/Flow.Launcher.Plugin.DevToysLauncher-1.3.0.zip",
         "UrlSourceCode": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher@main/assets/300x300.png",
         "Tested": true,
         "DateAdded": "2022-12-12T09:57:51Z",
-        "LatestReleaseDate": "2023-07-31T14:04:18Z"
+        "LatestReleaseDate": "2023-10-09T12:03:56Z"
     },
     {
         "ID": "91B97FA34859445782AEF1893DE4E350",
@@ -1244,14 +1244,14 @@
         "Name": "OneNote",
         "Description": "Search your OneNote notes",
         "Author": "Odotocodot",
-        "Version": "2.0.0",
+        "Version": "2.0.1",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
-        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v2.0.0/Flow.Launcher.Plugin.OneNote.zip",
+        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v2.0.1/Flow.Launcher.Plugin.OneNote.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Flow.Launcher.Plugin.OneNote/Images/logo.png",
         "DateAdded": "2022-12-24T20:14:35Z",
-        "LatestReleaseDate": "2023-10-07T10:30:44Z"
+        "LatestReleaseDate": "2023-10-09T09:18:58Z"
     },
     {
         "ID": "959A3FED8292422784F7892F7FB59DB1",
