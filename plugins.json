@@ -976,7 +976,7 @@
         "UrlSourceCode": "https://github.com/mjtimblin/Flow.Launcher.Plugin.AwsToolkit/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mjtimblin/Flow.Launcher.Plugin.AwsToolkit@master/icon.png",
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-05-27T08:07:39Z"
+        "LatestReleaseDate": null
     },
     {
         "ID": "68B179AA-4E80-4080-AC68-CC922CD2AE60",
@@ -991,7 +991,7 @@
         "UrlSourceCode": "https://github.com/falldeaf/unity-flowlauncher/tree/main/",
         "IcoPath": "https://github.com/falldeaf/unity-flowlauncher/raw/main/Flow.Launcher.Plugin.UnityHelper/Images/unitylogo.png",
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-07-20T15:07:28Z"
+        "LatestReleaseDate": null
     },
     {
         "ID": "d91d366e4ff742b3b821f9d60031c3df",
