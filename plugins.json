@@ -1685,14 +1685,14 @@
         "Name": "Visual Studio Launcher",
         "Description": "Open your recent solutions, projects and files in Visual Studio",
         "Author": "Odotocodot",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/VisualStudio4Flow",
-        "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.0/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
+        "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.1/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/VisualStudio4Flow/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png",
         "DateAdded": "2023-08-31T22:46:40Z",
-        "LatestReleaseDate": "2023-08-28T15:30:46Z"
+        "LatestReleaseDate": "2023-10-12T15:24:36Z"
     },
     {
         "ID": "79BB35BC5B504F04B210D1C41DF14A02",
