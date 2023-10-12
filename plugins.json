@@ -1670,15 +1670,15 @@
         "Name": "Snippets",
         "Description": "Simple plugin to save key/value snippets and copy to clipboard",
         "Author": "Fermi Shuangqi Li",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "python",
         "Website": "https://github.com/Fermiz/Flow.Launcher.Snippets",
-        "UrlDownload": "https://github.com/Fermiz/Flow.Launcher.Snippets/releases/download/v1.1.0/Flow.Launcher.Plugin.Snippets.zip",
+        "UrlDownload": "https://github.com/Fermiz/Flow.Launcher.Snippets/releases/download/v1.1.1/Flow.Launcher.Plugin.Snippets.zip",
         "UrlSourceCode": "https://github.com/Fermiz/Flow.Launcher.Snippets/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Fermiz/Flow.Launcher.Snippets/assets/snippets.png",
         "Tested": true,
         "DateAdded": "2023-08-31T22:12:05Z",
-        "LatestReleaseDate": "2023-10-12T05:45:57Z"
+        "LatestReleaseDate": "2023-10-12T06:30:04Z"
     },
     {
         "ID": "CBDFA9CF044842B4A79939112240FD38",
