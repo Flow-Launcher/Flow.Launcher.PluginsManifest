@@ -1942,7 +1942,7 @@
         "Version": "1.0.14",
         "Language": "csharp",
         "Website": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
-        "UrlDownload": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP/releases/download/v1.0.14/Flow.Launcher.Plugin.RDP.zip",
+        "UrlDownload": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP/releases/download/1.0.14/RDP-1.0.14.zip",
         "UrlSourceCode": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
         "IcoPath": "https://cdn.jsdelivr.net/gh/MBeggiato/Flow.Launcher.Plugin.RDP@main/screen-mirroring.png"
     }
