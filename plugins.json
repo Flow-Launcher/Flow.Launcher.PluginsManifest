@@ -1201,15 +1201,15 @@
         "Name": "DevToys Launcher",
         "Description": "Launch DevToys tools",
         "Author": "Umi Uyura",
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "Language": "python",
         "Website": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
-        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher/releases/download/v1.2.0/Flow.Launcher.Plugin.DevToysLauncher-1.2.0.zip",
+        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher/releases/download/v1.3.0/Flow.Launcher.Plugin.DevToysLauncher-1.3.0.zip",
         "UrlSourceCode": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher@main/assets/300x300.png",
         "Tested": true,
         "DateAdded": "2022-12-12T09:57:51Z",
-        "LatestReleaseDate": "2023-07-31T14:04:18Z"
+        "LatestReleaseDate": "2023-10-09T12:03:56Z"
     },
     {
         "ID": "91B97FA34859445782AEF1893DE4E350",
@@ -1244,14 +1244,14 @@
         "Name": "OneNote",
         "Description": "Search your OneNote notes",
         "Author": "Odotocodot",
-        "Version": "2.0.0",
+        "Version": "2.0.1",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
-        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v2.0.0/Flow.Launcher.Plugin.OneNote.zip",
+        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v2.0.1/Flow.Launcher.Plugin.OneNote.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Flow.Launcher.Plugin.OneNote/Images/logo.png",
         "DateAdded": "2022-12-24T20:14:35Z",
-        "LatestReleaseDate": "2023-10-07T10:30:44Z"
+        "LatestReleaseDate": "2023-10-09T09:18:58Z"
     },
     {
         "ID": "959A3FED8292422784F7892F7FB59DB1",
@@ -1656,43 +1656,43 @@
         "Name": "GamesLauncher",
         "Description": "Search and launch games from multiple platforms like Steam, Epic Games etc.",
         "Author": "KrystianLesniak",
-        "Version": "1.4.3",
+        "Version": "1.4.5",
         "Language": "csharp",
         "Website": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher",
-        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.4.3/GamesLauncher.zip",
+        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.4.5/GamesLauncher.zip",
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher@main/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-25T07:12:31Z",
-        "LatestReleaseDate": "2023-10-01T15:44:35Z"
+        "LatestReleaseDate": "2023-10-16T18:55:15Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
         "Name": "Snippets",
         "Description": "Simple plugin to save key/value snippets and copy to clipboard",
         "Author": "Fermi Shuangqi Li",
-        "Version": "1.0.1",
+        "Version": "1.1.1",
         "Language": "python",
         "Website": "https://github.com/Fermiz/Flow.Launcher.Snippets",
-        "UrlDownload": "https://github.com/Fermiz/Flow.Launcher.Snippets/releases/download/v1.0.1/Flow.Launcher.Plugin.Snippets.zip",
+        "UrlDownload": "https://github.com/Fermiz/Flow.Launcher.Snippets/releases/download/v1.1.1/Flow.Launcher.Plugin.Snippets.zip",
         "UrlSourceCode": "https://github.com/Fermiz/Flow.Launcher.Snippets/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Fermiz/Flow.Launcher.Snippets/assets/snippets.png",
         "Tested": true,
         "DateAdded": "2023-08-31T22:12:05Z",
-        "LatestReleaseDate": "2023-08-31T03:14:59Z"
+        "LatestReleaseDate": "2023-10-12T06:30:04Z"
     },
     {
         "ID": "CBDFA9CF044842B4A79939112240FD38",
         "Name": "Visual Studio Launcher",
         "Description": "Open your recent solutions, projects and files in Visual Studio",
         "Author": "Odotocodot",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/VisualStudio4Flow",
-        "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.0/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
+        "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.1/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/VisualStudio4Flow/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png",
         "DateAdded": "2023-08-31T22:46:40Z",
-        "LatestReleaseDate": "2023-08-28T15:30:46Z"
+        "LatestReleaseDate": "2023-10-12T15:24:36Z"
     },
     {
         "ID": "79BB35BC5B504F04B210D1C41DF14A02",
@@ -1742,15 +1742,15 @@
         "Name": "FabCalc",
         "Description": "Advanced algebric and symbolic Calculator",
         "Author": "Fabio",
-        "Version": "1.3.2",
+        "Version": "1.3.3",
         "Language": "python",
         "Website": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fabiochelly/Flow.Launcher.Plugin.FabCalc@main/fabcalc.png",
-        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.3.2/Flow.Launcher.Plugin.FabCalc.zip",
+        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.3.3/Flow.Launcher.Plugin.FabCalc.zip",
         "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "Tested": true,
         "DateAdded": "2023-09-26T01:58:57Z",
-        "LatestReleaseDate": "2023-10-03T13:00:28Z"
+        "LatestReleaseDate": "2023-10-12T15:11:15Z"
     },
     {
         "ID": "0ECADE17459B49F587BF81DC3A125110",
@@ -1925,24 +1925,24 @@
         "Name": "Godot",
         "Description": "Quickly launch your Godot projects from flow launcher",
         "Author": "DiekoMA",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "csharp",
         "Website": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Godot@master/Assets/Godot.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/tree/master",
-        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/download/v1.0.1/Godot-1.0.1.zip",
+        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/download/v1.0.2/Godot-1.0.2.zip",
         "DateAdded": "2023-10-04T09:44:20Z",
-        "LatestReleaseDate": "2023-10-02T19:57:56Z"
+        "LatestReleaseDate": "2023-10-11T21:39:12Z"
     },
     {
         "ID": "B7CDDEA47E354243BEE0434DDBAE438A",
         "Name": "RDP",
         "Description": "RDP plugin for Flow Launcher",
         "Author": "MBeggiato",
-        "Version": "1.0.9",
+        "Version": "1.0.14",
         "Language": "csharp",
         "Website": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
-        "UrlDownload": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP/releases/download/v1.0.0.12/Flow.Launcher.Plugin.RDP.zip",
+        "UrlDownload": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP/releases/download/v1.0.14/Flow.Launcher.Plugin.RDP.zip",
         "UrlSourceCode": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
         "IcoPath": "https://cdn.jsdelivr.net/gh/MBeggiato/Flow.Launcher.Plugin.RDP@main/screen-mirroring.png"
     }
