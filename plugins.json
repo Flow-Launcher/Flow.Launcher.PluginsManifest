@@ -1933,5 +1933,17 @@
         "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/download/v1.0.2/Godot-1.0.2.zip",
         "DateAdded": "2023-10-04T09:44:20Z",
         "LatestReleaseDate": "2023-10-11T21:39:12Z"
+    },
+    {
+        "ID": "B7CDDEA47E354243BEE0434DDBAE438A",
+        "Name": "RDP",
+        "Description": "RDP plugin for Flow Launcher",
+        "Author": "MBeggiato",
+        "Version": "1.0.14",
+        "Language": "csharp",
+        "Website": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
+        "UrlDownload": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP/releases/download/1.0.14/RDP-1.0.14.zip",
+        "UrlSourceCode": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/MBeggiato/Flow.Launcher.Plugin.RDP@main/screen-mirroring.png"
     }
 ]
