@@ -1939,12 +1939,13 @@
         "Name": "RDP",
         "Description": "RDP plugin for Flow Launcher",
         "Author": "MBeggiato",
-        "Version": "1.0.14",
+        "Version": "1.0.15",
         "Language": "csharp",
         "Website": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
-        "UrlDownload": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP/releases/download/1.0.14/RDP-1.0.14.zip",
+        "UrlDownload": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP/releases/download/1.0.15/RDP-1.0.15.zip",
         "UrlSourceCode": "https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP",
         "IcoPath": "https://cdn.jsdelivr.net/gh/MBeggiato/Flow.Launcher.Plugin.RDP@main/screen-mirroring.png",
-        "DateAdded": "2023-10-23T03:45:46Z"
+        "DateAdded": "2023-10-23T03:45:46Z",
+        "LatestReleaseDate": "2023-10-22T15:00:50Z"
     }
 ]
