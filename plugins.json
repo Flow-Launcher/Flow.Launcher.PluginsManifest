@@ -1947,5 +1947,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/MBeggiato/Flow.Launcher.Plugin.RDP@main/screen-mirroring.png",
         "DateAdded": "2023-10-23T03:45:46Z",
         "LatestReleaseDate": "2023-10-22T15:00:50Z"
+    },
+    {
+        "ID": "890a6a95-5d36-4fab-bce1-b4c3f1239015",
+        "Name": "Laravel Doc",
+        "Description": "Laravel Documentation Search Engine",
+        "Author": "Henrique Miranda",
+        "Version": "1.0.0",
+        "Language": "TypeScript",
+        "Website": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin",
+        "UrlDownload": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin/releases/download/v1.0.0/laravel-doc-flow-launcher-plugin.zip",
+        "UrlSourceCode": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin",
+        "IcoPath": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin/blob/main/assets/laravel.png?raw=true",
+        "DateAdded": "2023-11-07T06:56:46Z",
+        "LatestReleaseDate": "2023-11-07T06:56:46Z"
     }
 ]
