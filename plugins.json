@@ -1958,8 +1958,6 @@
         "Website": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin",
         "UrlDownload": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin/releases/download/v1.0.0/laravel-doc-flow-launcher-plugin.zip",
         "UrlSourceCode": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin",
-        "IcoPath": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin/blob/main/assets/laravel.png?raw=true",
-        "DateAdded": "2023-11-07T06:56:46Z",
-        "LatestReleaseDate": "2023-11-07T06:56:46Z"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Henriquex25/laravel-doc-flow-launcher-plugin@main/assets/laravel.png"
     }
 ]
