@@ -1959,5 +1959,19 @@
         "UrlDownload":"https://github.com/rrFlowLauncher/amazing_marvin/releases/download/v0.1.5/amazing_marvin.zip",
         "UrlSourceCode": "https://github.com/rrFlowLauncher/amazing_marvin",
         "IcoPath": "https://github.com/rrFlowLauncher/amazing_marvin/blob/main/Images/Amazing_Marvin.09233c09.png"
+    },
+    {
+        "ID": "56A92C3AB5714EA9841098CE7D105E11",
+        "Name": "IpMacAddress",
+        "Description": "Get ip and mac address of current machine",
+        "Author": "seanmars",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.IpMacAddress",
+        "UrlDownload": "https://github.com/seanmars/Flow.Launcher.Plugin.IpMacAddress/releases/download/v1.0.0/Flow.Launcher.Plugin.IpMacAddress.zip",
+        "UrlSourceCode": "https://github.com/seanmars/Flow.Launcher.Plugin.IpMacAddress/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/seanmars/Flow.Launcher.Plugin.IpMacAddress@main/Flow.Launcher.Plugin.IpMacAddress/icon.png",
+        "DateAdded": "2023-11-19T15:42:47Z",
+        "LatestReleaseDate": "2023-11-18T02:17:01Z"
     }
 ]
