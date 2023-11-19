@@ -1959,6 +1959,7 @@
         "UrlDownload": "https://github.com/seanmars/Flow.Launcher.Plugin.IpMacAddress/releases/download/v1.0.0/Flow.Launcher.Plugin.IpMacAddress.zip",
         "UrlSourceCode": "https://github.com/seanmars/Flow.Launcher.Plugin.IpMacAddress/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/seanmars/Flow.Launcher.Plugin.IpMacAddress@main/Flow.Launcher.Plugin.IpMacAddress/icon.png",
-        "DateAdded": "2023-11-19T15:42:47Z"
+        "DateAdded": "2023-11-19T15:42:47Z",
+        "LatestReleaseDate": "2023-11-18T02:17:01Z"
     }
 ]
