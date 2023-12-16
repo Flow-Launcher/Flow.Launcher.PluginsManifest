@@ -1956,9 +1956,11 @@
         "Version": "0.1.5",
         "Language": "python",
         "Website": "https://github.com/rrFlowLauncher/amazing_marvin",
-        "UrlDownload":"https://github.com/rrFlowLauncher/amazing_marvin/releases/download/v0.1.5/amazing_marvin.zip",
+        "UrlDownload": "https://github.com/rrFlowLauncher/amazing_marvin/releases/download/v0.1.5/amazing_marvin.zip",
         "UrlSourceCode": "https://github.com/rrFlowLauncher/amazing_marvin",
-        "IcoPath": "https://github.com/rrFlowLauncher/amazing_marvin/blob/main/Images/Amazing_Marvin.09233c09.png"
+        "IcoPath": "https://github.com/rrFlowLauncher/amazing_marvin/blob/main/Images/Amazing_Marvin.09233c09.png",
+        "Tested": true,
+        "DateAdded": "2023-12-16T06:48:43Z"
     },
     {
         "ID": "56A92C3AB5714EA9841098CE7D105E11",
