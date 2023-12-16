@@ -63,7 +63,7 @@ def clean(string: str, flag="-") -> str:
 
 def version_tuple(version: str) -> tuple:
     version = clean(version, "v")
-    return tuple(map(int, (version.split("."))))
+    return tuple(version.split("."))
 
 def check_url(url: str) -> bool:
     regex = re.compile(
