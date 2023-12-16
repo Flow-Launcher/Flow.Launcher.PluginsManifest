@@ -1977,15 +1977,16 @@
         "LatestReleaseDate": "2023-11-18T02:17:01Z"
     },
     {
-        "ID": "89f50521dd80461895ae6ce1b700f444",  
+        "ID": "89f50521dd80461895ae6ce1b700f444",
         "Name": "Plugin name",
         "Description": "Connect to VPN via WireGuard VPN interfaces",
         "Author": "flooxo",
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard",
-        "UrlDownload":"https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/releases/download/v1.0.0/Flow.Launcher.Plugin.WireGuard.zip",
+        "UrlDownload": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/releases/download/v1.0.0/Flow.Launcher.Plugin.WireGuard.zip",
         "UrlSourceCode": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/tree/master",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/flooxo/Flow.Lancher.Plugin.WireGuard@master/Flow.Launcher.Plugin.WireGuard/Images/wireguard.png"
-      }
+        "IcoPath": "https://cdn.jsdelivr.net/gh/flooxo/Flow.Lancher.Plugin.WireGuard@master/Flow.Launcher.Plugin.WireGuard/Images/wireguard.png",
+        "DateAdded": "2023-12-16T06:53:53Z"
+    }
 ]
