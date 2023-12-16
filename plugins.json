@@ -1979,7 +1979,7 @@
     },
     {
         "ID": "89f50521dd80461895ae6ce1b700f444",
-        "Name": "Plugin name",
+        "Name": "WireGuard",
         "Description": "Connect to VPN via WireGuard VPN interfaces",
         "Author": "flooxo",
         "Version": "1.0.0",
