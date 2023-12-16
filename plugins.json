@@ -1330,7 +1330,7 @@
         "Name": "Youtube Downloader",
         "Description": "A youtube downloader",
         "Author": "LordOfTheEel; Eyal.Br",
-        "Version": "v1.0.0-beta",
+        "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/icon.png",
@@ -1953,14 +1953,15 @@
         "Name": "Amazing Marvin",
         "Description": "Communication with Amazing Marvin over API",
         "Author": "RrobertRr",
-        "Version": "0.1.5",
+        "Version": "0.2.0",
         "Language": "python",
         "Website": "https://github.com/rrFlowLauncher/amazing_marvin",
-        "UrlDownload": "https://github.com/rrFlowLauncher/amazing_marvin/releases/download/v0.1.5/amazing_marvin.zip",
+        "UrlDownload": "https://github.com/rrFlowLauncher/amazing_marvin/releases/download/v0.2.0/amazing_marvin.zip",
         "UrlSourceCode": "https://github.com/rrFlowLauncher/amazing_marvin",
         "IcoPath": "https://github.com/rrFlowLauncher/amazing_marvin/blob/main/Images/Amazing_Marvin.09233c09.png",
         "Tested": true,
-        "DateAdded": "2023-12-16T06:48:43Z"
+        "DateAdded": "2023-12-16T06:48:43Z",
+        "LatestReleaseDate": "2023-11-23T19:45:12Z"
     },
     {
         "ID": "56A92C3AB5714EA9841098CE7D105E11",
@@ -1987,6 +1988,7 @@
         "UrlDownload": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/releases/download/v1.0.0/Flow.Launcher.Plugin.WireGuard.zip",
         "UrlSourceCode": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/flooxo/Flow.Lancher.Plugin.WireGuard@master/Flow.Launcher.Plugin.WireGuard/Images/wireguard.png",
-        "DateAdded": "2023-12-16T06:53:53Z"
+        "DateAdded": "2023-12-16T06:53:53Z",
+        "LatestReleaseDate": "2023-12-13T12:51:34Z"
     }
 ]
