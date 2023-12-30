@@ -4,10 +4,10 @@
         "Name": "EasySSH",
         "Description": "ssh with Flow-Launcher",
         "Author": "Melv1no",
-        "Version": "1.0.0.0",
+        "Version": "1.1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh",
-        "UrlDownload":"https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/1.0.0.0/easyssh.zip",
+        "UrlDownload":"https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/1.1.1.0/easyssh.zip",
         "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png"
     },
