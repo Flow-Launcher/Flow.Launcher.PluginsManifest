@@ -1982,14 +1982,14 @@
         "Name": "WireGuard",
         "Description": "Connect to VPN via WireGuard VPN interfaces",
         "Author": "flooxo",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "csharp",
         "Website": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard",
-        "UrlDownload": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/releases/download/v1.0.1/Flow.Launcher.Plugin.WireGuard.zip",
+        "UrlDownload": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/releases/download/v1.0.2/Flow.Launcher.Plugin.WireGuard.zip",
         "UrlSourceCode": "https://github.com/flooxo/Flow.Lancher.Plugin.WireGuard/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/flooxo/Flow.Lancher.Plugin.WireGuard@master/Flow.Launcher.Plugin.WireGuard/Images/wireguard.png",
         "DateAdded": "2023-12-16T06:53:53Z",
-        "LatestReleaseDate": "2024-01-08T09:12:33Z"
+        "LatestReleaseDate": "2024-01-09T22:49:29Z"
     },
     {
         "ID": "8CBACA12D99946D7B5E4E162EED6B045",
