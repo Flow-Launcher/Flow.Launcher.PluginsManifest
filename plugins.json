@@ -2004,5 +2004,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png",
         "DateAdded": "2024-01-04T00:32:56Z",
         "LatestReleaseDate": "2023-12-30T12:45:32Z"
-    }
+    },
+    {
+        "ID":"dae80b9d-368b-4851-9e64-c24ae1d9a5a1",
+        "Name":"Mcfunction ANSI highlighter",
+        "Description":"highlights your minecraft command with ansi encoding to fancify them in your discord messages",
+        "Author":"SuperAnt_",
+        "Version":"1.0.0",
+        "Language":"python",
+        "Website":"https://github.com/SuperAnt220/mcf-ansi-highlighter-flow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/SuperAnt220/mcf-ansi-highlighter-flow@1.0.0/Images/logo.png",
+        "UrlDownload": "https://github.com/SuperAnt220/mcf-ansi-highlighter-flow/releases/download/v1.0.0/Flow.Launcher.Plugin.McfunctionANSIHighlighter.zip",
+        "UrlSourceCode": "https://github.com/SuperAnt220/mcf-ansi-highlighter-flow/tree/main"
+  }
 ]
