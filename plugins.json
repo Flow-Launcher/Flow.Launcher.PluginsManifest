@@ -2019,5 +2019,17 @@
         "Tested": true,
         "DateAdded": "2024-01-10T15:07:37Z",
         "LatestReleaseDate": "2024-01-09T17:29:33Z"
+    },
+    {
+        "ID": "2bf97885-af0d-11ee-94b6-00e04c239987",
+        "Name": "Notion Search",
+        "Description": "Notion Search API",
+        "Author": "MinYn",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/MinYn/flow-launcher-notion-plugin",
+        "UrlSourceCode": "https://github.com/MinYn/flow-launcher-notion-plugin/tree/master/",
+        "UrlDownload": "https://github.com/MinYn/flow-launcher-notion-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Notion.Search.zip",
+        "IcoPath": "https://github.com/MinYn/flow-launcher-notion-plugin/blob/master/plugin/icons/notion-icon.png"
     }
 ]
