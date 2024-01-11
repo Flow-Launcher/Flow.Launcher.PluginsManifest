@@ -2030,6 +2030,6 @@
         "Website": "https://github.com/MinYn/flow-launcher-notion-plugin",
         "UrlSourceCode": "https://github.com/MinYn/flow-launcher-notion-plugin/tree/master/",
         "UrlDownload": "https://github.com/MinYn/flow-launcher-notion-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Notion.Search.zip",
-        "IcoPath": "https://github.com/MinYn/flow-launcher-notion-plugin/blob/master/plugin/icons/notion-icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/MinYn/flow-launcher-notion-plugin@1.0.0/plugin/icons/notion-icon.png"
     }
 ]
