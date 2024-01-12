@@ -2034,5 +2034,18 @@
         "Tested": true,
         "DateAdded": "2024-01-11T09:09:11Z",
         "LatestReleaseDate": "2024-01-11T13:15:30Z"
-    }
+    },
+    {
+        "ID":"cb7d1472-7da9-459e-b987-57f92cb3cea2",
+        "ActionKeyword":"shinnku",
+        "Name":"UpsetGalgame",
+        "Description":"Search galgame on shinnku.com",
+        "Author":"luohua",
+        "Version":"0.1.1",
+        "Language":"python",
+        "Website":"https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame",
+        "IcoPath": "https://shinnku.com/favicon.ico",
+        "ExecuteFileName":"main.py",
+        "UrlSourceCode": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/tree/main",
+        "UrlDownload": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/releases/download/v0.1.1/ShinnkuGalgamePlugin.zip"
 ]
