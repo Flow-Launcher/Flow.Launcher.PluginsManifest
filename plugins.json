@@ -1036,7 +1036,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/gamous/Flow.Launcher.Plugin.CyberChef@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-08-08T11:30:28Z"
+        "LatestReleaseDate": null
     },
     {
         "ID": "1e87e4c90c8e4daf9eee182d7c023919",
@@ -2032,6 +2032,7 @@
         "UrlDownload": "https://github.com/MinYn/flow-launcher-notion-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Notion.Search.zip",
         "IcoPath": "https://cdn.jsdelivr.net/gh/MinYn/flow-launcher-notion-plugin@1.0.0/plugin/icons/notion-icon.png",
         "Tested": true,
-        "DateAdded": "2024-01-12T14:23:37Z"
+        "DateAdded": "2024-01-12T14:23:37Z",
+        "LatestReleaseDate": "2024-01-11T13:15:30Z"
     }
 ]
