@@ -1024,21 +1024,6 @@
         "LatestReleaseDate": "2022-07-28T12:43:27Z"
     },
     {
-        "ID": "188b0b5c-159b-11ed-861d-0242ac120002",
-        "Name": "CyberChef",
-        "Description": "Send your input to the CyberChef",
-        "Author": "Gamous",
-        "Version": "1.0.0",
-        "Language": "python",
-        "Website": "https://github.com/gamous/Flow.Launcher.Plugin.CyberChef",
-        "UrlDownload": "https://github.com/gamous/Flow.Launcher.Plugin.CyberChef/releases/download/v1.0.0/Flow.Launcher.Plugin.CyberChef.zip",
-        "UrlSourceCode": "https://github.com/gamous/Flow.Launcher.Plugin.CyberChef",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/gamous/Flow.Launcher.Plugin.CyberChef@main/Images/app.png",
-        "Tested": true,
-        "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": null
-    },
-    {
         "ID": "1e87e4c90c8e4daf9eee182d7c023919",
         "Name": "Search MDN",
         "Description": "Search MDN Web Docs",
