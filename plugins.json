@@ -1996,7 +1996,7 @@
         "Name": "EasySSH",
         "Description": "ssh with Flow-Launcher",
         "Author": "Melv1no",
-        "Version": "1.1.1.0",
+        "Version": "1.1.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh",
         "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/1.1.1.0/easyssh.zip",
