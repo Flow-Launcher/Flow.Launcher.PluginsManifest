@@ -1981,14 +1981,14 @@
         "Name": "EasySSH",
         "Description": "ssh with Flow-Launcher",
         "Author": "Melv1no",
-        "Version": "1.1.1.1",
+        "Version": "1.1.1.2",
         "Language": "csharp",
         "Website": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh",
-        "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/1.1.1.1/easyssh.zip",
+        "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/1.1.1.2/easyssh.zip",
         "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png",
         "DateAdded": "2024-01-04T00:32:56Z",
-        "LatestReleaseDate": "2024-01-14T20:43:04Z"
+        "LatestReleaseDate": "2024-01-18T23:12:58Z"
     },
     {
         "ID": "dae80b9d-368b-4851-9e64-c24ae1d9a5a1",
