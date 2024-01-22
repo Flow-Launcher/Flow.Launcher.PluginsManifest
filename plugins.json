@@ -676,14 +676,14 @@
         "Name": "Github Quick Launcher",
         "Description": "Quickly access your personal repositories and stars.",
         "Author": "Garulf",
-        "Version": "3.0.0",
+        "Version": "3.0.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-quick-launcher",
-        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v3.0.0/Github-Quick-Launcher-3.0.0.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v3.0.1/Github-Quick-Launcher-3.0.1.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-quick-launcher@main/src/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2024-01-16T07:24:51Z",
+        "LatestReleaseDate": "2024-01-20T19:04:30Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -2019,6 +2019,20 @@
         "Tested": true,
         "DateAdded": "2024-01-12T14:23:37Z",
         "LatestReleaseDate": "2024-01-17T13:15:13Z"
+    },
+    {
+        "ID": "EAE9772F43F949CAB65F826300C5AD3C",
+        "Name": "One-time Password",
+        "Description": "Manage and generate time-based one-time passwords",
+        "Author": "GoodbyeNJN",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword",
+        "UrlDownload": "https://github.com/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword/releases/download/v1.0.0/Flow.Launcher.Plugin.OneTimePassword.zip",
+        "UrlSourceCode": "https://github.com/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword@main/Images/app.png",
+        "DateAdded": "2024-01-10T18:43:13Z",
+        "LatestReleaseDate": "2024-01-10T18:49:57Z"
     },
     {
         "ID": "B348C4F7608746DAA8B519F223CFC8FB",
