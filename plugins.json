@@ -2036,14 +2036,14 @@
     },
     {
         "ID": "8F1A123859D0489C8B72187FB724DD42",
-        "ActionKeyword": "tew",
         "Name": "TerrariaWiki",
         "Description": "Plugin to search the Terraria wiki with",
         "Author": "jonesy-b-dev",
         "Version": "1.0",
         "Language": "csharp",
         "Website": "https://github.com/jonesy-b-dev/Flow.Launcher.Plugin.TerrariaWiki",
-        "IcoPath": "icon.png",
-        "ExecuteFileName": "Flow.Launcher.Plugin.TerrariaWiki.dll"
+        "UrlDownload": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/releases/download/v1.0/Flow.Launcher.Plugin.TerrariaWiki.zip",
+        "UrlSourceCode": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jonesy-b-dev/TerrariaWiki-flow-Plugin@main/TerrariaWiki/Flow.Launcher.Plugin.TerrariaWiki/icon.png"
     }
 ]
