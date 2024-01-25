@@ -2033,5 +2033,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword@main/Images/app.png",
         "DateAdded": "2024-01-10T18:43:13Z",
         "LatestReleaseDate": "2024-01-10T18:49:57Z"
+    },
+    {
+        "ID": "8F1A123859D0489C8B72187FB724DD42",
+        "Name": "TerrariaWiki",
+        "Description": "Plugin to search the Terraria wiki with",
+        "Author": "jonesy-b-dev",
+        "Version": "1.1.1",
+        "Language": "csharp",
+        "Website": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin",
+        "UrlDownload": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/releases/download/v1.1.1/Flow.Launcher.Plugin.TerrariaWiki.zip",
+        "UrlSourceCode": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jonesy-b-dev/TerrariaWiki-flow-Plugin@main/TerrariaWiki/Flow.Launcher.Plugin.TerrariaWiki/icon.png"
     }
 ]
