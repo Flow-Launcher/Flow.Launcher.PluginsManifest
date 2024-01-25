@@ -2044,6 +2044,7 @@
         "Website": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin",
         "UrlDownload": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/releases/download/v1.1.1/Flow.Launcher.Plugin.TerrariaWiki.zip",
         "UrlSourceCode": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/jonesy-b-dev/TerrariaWiki-flow-Plugin@main/TerrariaWiki/Flow.Launcher.Plugin.TerrariaWiki/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jonesy-b-dev/TerrariaWiki-flow-Plugin@main/TerrariaWiki/Flow.Launcher.Plugin.TerrariaWiki/icon.png",
+        "DateAdded": "2024-01-25T22:14:40Z"
     }
 ]
