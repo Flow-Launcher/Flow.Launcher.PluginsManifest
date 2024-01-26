@@ -676,14 +676,14 @@
         "Name": "Github Quick Launcher",
         "Description": "Quickly access your personal repositories and stars.",
         "Author": "Garulf",
-        "Version": "3.1.0",
+        "Version": "3.2.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-quick-launcher",
-        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v3.1.0/Github-Quick-Launcher-3.1.0.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v3.2.0/Github-Quick-Launcher-3.2.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-quick-launcher@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2024-01-26T02:09:59Z",
+        "LatestReleaseDate": "2024-01-26T04:28:16Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
