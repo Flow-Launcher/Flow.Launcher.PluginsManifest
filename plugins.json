@@ -1345,15 +1345,15 @@
         "Name": "ChatGPT",
         "Description": "Plugin to use OpenAI's ChatGPT in Flow Launcher",
         "Author": "MichielvanBeers",
-        "Version": "1.1.2",
+        "Version": "1.2.0",
         "Language": "python",
         "Website": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
         "IcoPath": "https://cdn.jsdelivr.net/gh/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT@main/Images/app.png",
         "UrlSourceCode": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT",
-        "UrlDownload": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.1.2/Flow.Launcher.Plugin.ChatGPT.zip",
+        "UrlDownload": "https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.2.0/Flow.Launcher.Plugin.ChatGPT.zip",
         "Tested": true,
         "DateAdded": "2023-03-19T01:36:29Z",
-        "LatestReleaseDate": "2023-04-09T19:17:45Z"
+        "LatestReleaseDate": "2024-01-27T07:20:44Z"
     },
     {
         "ID": "2972879D-1702-48A7-BA50-CA8352A6AA74",
