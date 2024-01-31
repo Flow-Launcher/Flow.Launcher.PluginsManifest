@@ -453,14 +453,14 @@
         "Name": "Number Converter",
         "Description": "Convert numbers between dec/oct/hex/bin",
         "Author": "liberize",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "python",
         "Website": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter",
-        "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.1/Flow.Launcher.Plugin.NumberConverter.zip",
+        "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.2/Flow.Launcher.Plugin.NumberConverter.zip",
         "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
         "Tested": true,
-        "LatestReleaseDate": "2021-12-15T05:44:36Z",
+        "LatestReleaseDate": "2022-07-01T12:44:16Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -2060,6 +2060,6 @@
         "UrlSourceCode": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter/tree/main",
         "IcoPath": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter/blob/main/Flow.Launcher.Plugin.GuidConverter/Images/icon.png",
         "DateAdded": "2024-01-29T22:14:40Z",
-        "LatestReleaseDate": "2024-01-29T22:14:40Z"
+        "LatestReleaseDate": "2024-01-30T02:43:51Z"
     }
 ]
