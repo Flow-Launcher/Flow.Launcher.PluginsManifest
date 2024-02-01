@@ -2061,5 +2061,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.GuidConverter@main/Flow.Launcher.Plugin.GuidConverter/Images/icon.png",
         "DateAdded": "2024-01-29T22:14:40Z",
         "LatestReleaseDate": "2024-01-30T02:43:51Z"
+    },
+    {
+        "ID": "2DC588F9-98DB-4E8E-BBE0-B4EFF4286E40",
+        "Name": "Temp Cleaner",
+        "Description": "Temp Cleaner can help you delete all files in temporary folder (just run it)",
+        "Author": "N.Duong",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner/tree/main",
+        "UrlDownload": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner/releases/download/v1.1.0/Flow.Launcher.Plugin.TempCleaner.zip",
+        "UrlSourceCode": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.TempCleaner@main/Flow.Launcher.Plugin.TempCleaner/Images/icon.png",
+        "DateAdded": "2024-02-01T22:14:40Z",
+        "LatestReleaseDate": "2024-02-01T22:14:40Z"
     }
 ]
