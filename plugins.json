@@ -2061,5 +2061,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.GuidConverter@main/Flow.Launcher.Plugin.GuidConverter/Images/icon.png",
         "DateAdded": "2024-01-29T22:14:40Z",
         "LatestReleaseDate": "2024-01-30T02:43:51Z"
-    }
+    },
+    {
+        "ID": "425D1CE7-1327-4593-B1C0-A37614B313EF",  
+        "Name": "URL Shortener",
+        "Description": "Plugin to shorten URLs",
+        "Author": "z1nc0r3",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/z1nc0r3/URL-Shortener-Plugin",
+        "UrlDownload":"https://github.com/z1nc0r3/URL-Shortener-Plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.URL.Shortener.zip",
+        "UrlSourceCode": "https://github.com/z1nc0r3/URL-Shortener-Plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/URL-Shortener-Plugin@main/Images/app.png",
+        "DateAdded": "2024-02-04T05:17:00Z",
+        "LatestReleaseDate": "2024-02-04T04:43:00Z"
+      }
 ]
