@@ -1,9 +1,8 @@
-import os
-from os import path
+from pathlib import Path
 import json
 
 if __name__ == "__main__":
-    plugins = [file for file in os.listdir("plugins") if path.isfile(file) and file.endswith("json")]
+    plugins = list(Path("plugins").rglob("*.json"))
 
     manifests = []
 
