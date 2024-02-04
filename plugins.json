@@ -2090,6 +2090,20 @@
         "DateAdded": "2024-02-04T05:50:45Z"
     },
     {
+        "ID": "cb7d1472-7da9-459e-b987-57f92cb3cea2",
+        "Name": "UpsetGalgame",
+        "Description": "Search galgame on shinnku.com",
+        "Author": "luohua",
+        "Version": "0.1.1",
+        "Language": "python",
+        "Website": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame",
+        "UrlSourceCode": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/tree/main",
+        "UrlDownload": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/releases/download/v0.1.1/ShinnkuGalgamePlugin.zip",
+        "IcoPath": "https://shinnku.com/favicon.ico",
+        "Tested": true,
+        "DateAdded": "2024-02-04T06:02:40Z"
+    },
+    {
         "ID": "425D1CE7-1327-4593-B1C0-A37614B313EF",  
         "Name": "URL Shortener",
         "Description": "Plugin to shorten URLs",
@@ -2102,5 +2116,5 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/URL-Shortener-Plugin@main/Images/app.png",
         "DateAdded": "2024-02-04T05:17:00Z",
         "LatestReleaseDate": "2024-02-04T04:43:00Z"
-      }
+    }
 ]
