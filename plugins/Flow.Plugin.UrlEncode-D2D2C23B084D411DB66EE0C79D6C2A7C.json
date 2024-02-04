@@ -1,0 +1,14 @@
+{
+    "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
+    "Name": "Flow.Plugin.UrlEncode",
+    "Description": "urlencode or urldecode a string",
+    "Author": "cxfksword",
+    "Version": "1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/taooceros/Flow.Plugin.UrlEncode",
+    "UrlDownload": "https://github.com/taooceros/Flow.Plugin.UrlEncode/releases/download/v1.0/Flow.Plugin.UrlEncode.zip",
+    "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.UrlEncode",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.UrlEncode@master/Images/app.png",
+    "LatestReleaseDate": "2021-02-07T09:48:28Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

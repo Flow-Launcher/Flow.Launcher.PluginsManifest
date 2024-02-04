@@ -1,0 +1,15 @@
+{
+    "ID": "477F16413D374364A4D5D36DCE68ED45",
+    "Name": "Twitchy",
+    "Description": "Search and stream twitch.tv",
+    "Author": "Garulf",
+    "Version": "7.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/twitchy",
+    "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v7.0.0/twitchy.zip",
+    "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-11-02T10:03:00Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

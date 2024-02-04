@@ -1,0 +1,14 @@
+{
+    "ID": "467A8D7E-0DC6-F0C8-347C-BC4B315C397F",
+    "Name": "AntdOpenBrowser",
+    "Description": "Quickly open the antd component",
+    "Author": "HenryTSZ",
+    "Version": "1.0.2",
+    "Language": "JavaScript",
+    "Website": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser",
+    "UrlDownload": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser/releases/download/v1.0.2/Flow.Launcher.Plugin.AntdOpenBrowser.zip",
+    "UrlSourceCode": "https://github.com/HenryTSZ/Flow.Launcher.AntdOpenBrowser/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/HenryTSZ/Flow.Launcher.AntdOpenBrowser@main/app.png",
+    "DateAdded": "2023-07-01T15:26:47Z",
+    "LatestReleaseDate": "2023-07-03T08:23:48Z"
+}

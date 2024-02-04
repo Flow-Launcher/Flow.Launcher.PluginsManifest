@@ -1,0 +1,15 @@
+{
+    "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
+    "Name": "RollDice",
+    "Description": "Rolls the given dices and evaluates the expression",
+    "Author": "lvonkacsoh",
+    "Version": "1.0.1",
+    "Language": "python",
+    "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
+    "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0.1/Flow.Launcher.Plugin.RollDice.zip",
+    "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
+    "Tested": true,
+    "LatestReleaseDate": "2021-12-13T07:00:48Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

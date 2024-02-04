@@ -24,7 +24,7 @@ jobs:
     outputs:
       plugins: ${{ steps.filter.outputs.plugins }}
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - uses: dorny/paths-filter@v2
       id: filter
       with:
@@ -36,15 +36,15 @@ jobs:
     if: ${{ needs.skip_check_job.outputs.plugins == 'true' }}
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - if: ${{ github.event_name == 'pull_request'}}
         name: "Set up Python 3.11 for pull request test"
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v5
         with:
           python-version: 3.11
       - if: ${{ github.event_name == 'workflow_dispatch'}}
         name: "Set up Python ${{ github.event.inputs.pyversion }} for manual test"
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ github.event.inputs.pyversion }}
       - uses: actions/cache@v2

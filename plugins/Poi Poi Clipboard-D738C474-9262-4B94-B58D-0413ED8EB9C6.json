@@ -1,0 +1,14 @@
+{
+    "ID": "D738C474-9262-4B94-B58D-0413ED8EB9C6",
+    "Name": "Poi Poi Clipboard",
+    "Description": "Clear clipboard quickly to prevent password leakage",
+    "Author": "PikkamanV",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard",
+    "UrlDownload": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard/releases/download/v1.0.0/PoiPoiClipboard.zip",
+    "UrlSourceCode": "https://github.com/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/PikkamanV/Flow.Launcher.Plugin.PoiPoiClipboard@v1.0.0/Flow.Launcher.Plugin.PoiPoiClipboard/Images/icon.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-10-02T01:44:31Z"
+}

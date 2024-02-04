@@ -1,0 +1,14 @@
+{
+    "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
+    "Name": "Colors",
+    "Description": "Provides HEX and RGB color preview.",
+    "Author": "qianlifeng, Vladimir Antos, bluray",
+    "Version": "2.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/releases/download/v2.0.1/Color-2.0.1.zip",
+    "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Color/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.Color@main/Images/color.png",
+    "LatestReleaseDate": "2021-11-08T19:34:47Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

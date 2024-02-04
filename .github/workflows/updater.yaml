@@ -9,13 +9,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.UPDATER }}
           # otherwise, you will failed to push refs to dest repo
           fetch-depth: 0
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
@@ -28,6 +28,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python ./ci/src/updater.py ${{ secrets.DISCORD_WEBHOOK }}
+
+      - name: Merge Manifest
+        run: |
+          python ./ci/src/merge-manifest.py
 
       - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v4

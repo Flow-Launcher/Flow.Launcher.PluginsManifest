@@ -1,0 +1,15 @@
+{
+    "ID": "18892B7863AC43ABA27859A5A2866DD8",
+    "Name": "Currency Converter",
+    "Description": "Currency converter using the euro and rates at https://www.ecb.europa.eu/",
+    "Author": "deefrawley",
+    "Version": "2.0.6",
+    "Language": "python",
+    "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency",
+    "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/releases/download/v2.0.6/Flow.Launcher.Plugin.Currency.zip",
+    "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.Currency/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.Currency@main/assets/favicon.ico",
+    "Tested": true,
+    "LatestReleaseDate": "2023-03-13T00:37:27Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

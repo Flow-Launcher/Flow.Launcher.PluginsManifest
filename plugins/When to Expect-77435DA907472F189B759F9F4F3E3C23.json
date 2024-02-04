@@ -1,0 +1,16 @@
+{
+    "ID": "77435DA907472F189B759F9F4F3E3C23",
+    "ActionKeyword": "when",
+    "Name": "When to Expect",
+    "Description": "Calculates how many tries are needed to expect an event (by default with \u2265 50\u2009% probability).",
+    "Author": "Jonas A. Wendorf",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/jonasw234/FlowLauncher.Plugin.WhenToExpect",
+    "UrlDownload": "https://github.com/jonasw234/FlowLauncher.Plugin.WhenToExpect/releases/download/v1.0.0/Flow.Launcher.Plugin.WhenToExpect.zip",
+    "UrlSourceCode": "https://github.com/jonasw234/FlowLauncher.Plugin.WhenToExpect",
+    "IcoPath": "https://cdn.statically.io/gh/jonasw234/FlowLauncher.Plugin.WhenToExpect/main/icon/expect.png",
+    "Tested": true,
+    "DateAdded": "2023-05-12T15:05:03Z",
+    "LatestReleaseDate": "2023-05-10T10:42:50Z"
+}

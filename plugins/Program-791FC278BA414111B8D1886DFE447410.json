@@ -1,0 +1,14 @@
+{
+    "ID": "791FC278BA414111B8D1886DFE447410",
+    "Name": "Program",
+    "Description": "Search programs in Flow.Launcher",
+    "Author": "qianlifeng",
+    "Version": "3.2.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v3.2.0/Flow.Launcher.Plugin.Program.zip",
+    "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Program/Images/program.png",
+    "DateAdded": "2023-09-27T02:43:06Z",
+    "LatestReleaseDate": "2024-02-04T03:36:46Z"
+}

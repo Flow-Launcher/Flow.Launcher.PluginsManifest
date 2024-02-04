@@ -1,0 +1,14 @@
+{
+    "ID": "E5E5A4BD-39C7-4B41-93F8-0D4850BC317C",
+    "Name": "FendCalculator",
+    "Description": "Arbitrary-precision unit-aware calculator. https://printfn.github.io/fend/",
+    "Author": "IsaacTay",
+    "Version": "1.1.1",
+    "Language": "csharp",
+    "Website": "https://github.com/IsaacTay/Flow.Launcher.Plugin.FendCalculator",
+    "UrlDownload": "https://github.com/IsaacTay/Flow.Launcher.Plugin.FendCalculator/releases/download/v1.1.1/Flow.Launcher.Plugin.FendCalculator.zip",
+    "UrlSourceCode": "https://github.com/IsaacTay/Flow.Launcher.Plugin.FendCalculator/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/IsaacTay/Flow.Launcher.Plugin.FendCalculator@main/Images/calculator.png",
+    "DateAdded": "2023-03-23T20:51:29Z",
+    "LatestReleaseDate": "2023-08-26T20:18:08Z"
+}

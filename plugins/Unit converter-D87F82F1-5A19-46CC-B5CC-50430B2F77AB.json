@@ -1,0 +1,15 @@
+{
+    "ID": "D87F82F1-5A19-46CC-B5CC-50430B2F77AB",
+    "ActionKeyword": "unit",
+    "Name": "Unit converter",
+    "Description": "Convert between physical units",
+    "Author": "gissehel",
+    "Version": "2.0.6",
+    "Language": "csharp",
+    "Website": "https://github.com/gissehel/BarLauncher-UnitConverter",
+    "UrlDownload": "https://github.com/gissehel/BarLauncher-UnitConverter/releases/download/v2.0.6/BarLauncher.UnitConverter.Flow.Launcher-2.0.6.zip",
+    "UrlSourceCode": "https://github.com/gissehel/BarLauncher-UnitConverter",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-UnitConverter/BarLauncher.UnitConverter.Flow.Launcher/Unitlib-64.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-03-13T12:07:24Z"
+}

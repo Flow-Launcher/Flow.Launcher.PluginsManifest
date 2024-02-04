@@ -1,0 +1,14 @@
+{
+    "ID": "095A6AE3A255532EAAD78F05A71D4981",
+    "Name": "Quick Uninstaller",
+    "Description": "A plugin for uninstalling programs",
+    "Author": "Hogan Lee",
+    "Version": "2.0.0",
+    "Language": "CSharp",
+    "Website": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller",
+    "UrlDownload": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/releases/download/v2.0.0/QuickUninstaller.zip",
+    "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.QuickUninstaller/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.QuickUninstaller@master/QuickUninstaller/Images/UninstallerIcon.png",
+    "LatestReleaseDate": "2021-08-31T03:08:48Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

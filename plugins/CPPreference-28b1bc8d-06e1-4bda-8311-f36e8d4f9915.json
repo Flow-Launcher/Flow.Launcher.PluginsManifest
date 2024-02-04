@@ -1,0 +1,14 @@
+{
+    "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
+    "Name": "CPPreference",
+    "Description": "Search cppreference.com efficiently",
+    "Author": "Peter Schussheim",
+    "Version": "1.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/peterschussheim/CPPreference-flow-plugin",
+    "UrlDownload": "https://github.com/peterschussheim/CPPreference-flow-plugin/releases/download/v1.1.0/Flow.Launcher.Plugin.CPPreference_v1.1.0.zip",
+    "UrlSourceCode": "https://github.com/peterschussheim/CPPreference-flow-plugin/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/peterschussheim/CPPreference-flow-plugin@master/Flow.Launcher.Plugin.CPPreference/icon.png",
+    "LatestReleaseDate": "2024-01-12T19:04:08Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

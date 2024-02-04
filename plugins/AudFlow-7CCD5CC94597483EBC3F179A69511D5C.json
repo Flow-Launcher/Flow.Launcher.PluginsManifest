@@ -1,0 +1,15 @@
+{
+    "ID": "7CCD5CC94597483EBC3F179A69511D5C",
+    "Name": "AudFlow",
+    "Description": "Text to speech Plugin",
+    "Author": "Ahmed ElSaeed",
+    "Version": "2.1.0",
+    "Language": "python",
+    "Website": "https://github.com/asmpro7/AudFlow",
+    "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v2.1.0/AudFlow.zip",
+    "UrlSourceCode": "https://github.com/asmpro7/AudFlow",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/AudFlow@main/Images/app.png",
+    "Tested": true,
+    "DateAdded": "2023-05-12T14:34:13Z",
+    "LatestReleaseDate": "2023-06-25T19:26:41Z"
+}

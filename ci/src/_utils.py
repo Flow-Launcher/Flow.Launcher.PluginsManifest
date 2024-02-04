@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 from typing import Dict, List, TypeVar
 import re
+import os
 
 # path
 utils_path = Path(__file__).resolve()
@@ -10,7 +11,7 @@ utils_path = Path(__file__).resolve()
 src_dir = utils_path.parent
 ci_dir = src_dir.parent
 base_dir = ci_dir.parent
-plugin_file = base_dir / "plugins.json"
+plugin_dir = base_dir / "plugins/"
 etag_file = base_dir / "etags.json"
 
 # constants
@@ -40,8 +41,16 @@ ETagsType = Dict[str, str]
 
 
 def plugin_reader() -> P:
-    with open(plugin_file, "r", encoding="utf-8") as f:
-        return json.load(f)
+    plugin_files = [os.path.join(plugin_dir, file) for file in os.listdir(plugin_dir)]
+
+    manifests = []
+
+    for plugin in plugin_files:
+        with open(plugin, "r", encoding="utf-8") as f:
+            manifest = json.load(f)
+            manifests.append(manifest)
+
+    return manifests
 
 
 def etag_reader() -> ETagsType:
@@ -50,8 +59,9 @@ def etag_reader() -> ETagsType:
 
 
 def plugin_writer(content: P):
-    with open(plugin_file, "w", encoding="utf-8") as f:
-        json.dump(content, f, indent=4)
+    for plugin in content:
+        with open(plugin_dir / f"{plugin[plugin_name]}-{plugin[id_name]}.json", "w", encoding="utf-8") as f:
+            json.dump(plugin, f, indent=4)
         
 def etags_writer(content: ETagsType):
     with open(etag_file, "w", encoding="utf-8") as f:

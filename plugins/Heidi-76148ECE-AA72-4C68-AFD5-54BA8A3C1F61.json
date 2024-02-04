@@ -1,0 +1,14 @@
+{
+    "ID": "76148ECE-AA72-4C68-AFD5-54BA8A3C1F61",
+    "Name": "Heidi",
+    "Description": "Launch HeidiSQL Sessions.",
+    "Author": "LostPing",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/lostping/Flow.Launcher.Plugin.Heidi",
+    "UrlDownload": "https://github.com/lostping/Flow.Launcher.Plugin.Heidi/releases/download/v1.0.0/Flow.Launcher.Plugin.Heidi.zip",
+    "UrlSourceCode": "https://github.com/lostping/Flow.Launcher.Plugin.Heidi/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/lostping/Flow.Launcher.Plugin.Heidi@main/icon.png",
+    "LatestReleaseDate": "2022-02-15T23:44:20Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

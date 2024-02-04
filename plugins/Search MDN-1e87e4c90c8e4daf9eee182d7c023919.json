@@ -1,0 +1,14 @@
+{
+    "ID": "1e87e4c90c8e4daf9eee182d7c023919",
+    "Name": "Search MDN",
+    "Description": "Search MDN Web Docs",
+    "Author": "Gabriel Carloto",
+    "Version": "1.0.2",
+    "Language": "typescript",
+    "Website": "https://github.com/gabrielcarloto/flow-search-mdn",
+    "UrlDownload": "https://github.com/gabrielcarloto/flow-search-mdn/releases/download/v1.0.2/Flow.Launcher.Plugin.SearchMDN.zip",
+    "UrlSourceCode": "https://github.com/gabrielcarloto/flow-search-mdn/tree/main/",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/gabrielcarloto/flow-search-mdn@main/app.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2023-07-10T17:43:08Z"
+}

@@ -1,0 +1,14 @@
+{
+    "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
+    "Name": "Window Walker",
+    "Description": "Alt-Tab alternative enabling searching through your windows.",
+    "Author": "betadele",
+    "Version": "3.0.0",
+    "Language": "csharp",
+    "Website": "https://www.windowwalker.com/",
+    "UrlDownload": "https://github.com/taooceros/Flow.Plugin.WindowWalker/releases/download/v3.0.0/WindowWalker-3.0.0.zip",
+    "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png",
+    "LatestReleaseDate": "2024-01-31T03:24:47Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

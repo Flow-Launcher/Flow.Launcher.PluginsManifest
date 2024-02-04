@@ -1,0 +1,15 @@
+{
+    "ID": "F229B92B-C4D1-4A87-B05B-A96ACC486263",
+    "ActionKeyword": "email",
+    "Name": "EmailTo",
+    "Description": "Flow plugin to spawn a new email in the system default client",
+    "Author": "Adam Marciniec",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo",
+    "UrlDownload": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo.zip",
+    "UrlSourceCode": "https://github.com/Echostorm44/FlowLauncherPluginEmailTo",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/FlowLauncherPluginEmailTo@main/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo/icon.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-07-28T12:43:27Z"
+}
