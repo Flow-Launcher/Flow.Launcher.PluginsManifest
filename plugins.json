@@ -705,14 +705,14 @@
         "Name": "Desktop Cleanup",
         "Description": "Clean files and folders on the desktop",
         "Author": "Umi Uyura",
-        "Version": "1.0.1",
+        "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DesktopCleanup",
-        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DesktopCleanup/releases/download/v1.0.1/Flow.Launcher.Plugin.DesktopCleanup-1.0.1.zip",
+        "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DesktopCleanup/releases/download/v1.0.0/Flow.Launcher.Plugin.DesktopCleanup-1.0.0.zip",
         "UrlSourceCode": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DesktopCleanup",
         "IcoPath": "https://cdn.jsdelivr.net/gh/umi-uyura/Flow.Launcher.Plugin.DesktopCleanup@main/assets/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-01-18T14:25:23Z",
+        "LatestReleaseDate": "2022-01-15T13:43:32Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
