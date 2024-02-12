@@ -88,13 +88,13 @@
         "Name": "Window Walker",
         "Description": "Alt-Tab alternative enabling searching through your windows.",
         "Author": "betadele",
-        "Version": "3.0.0",
+        "Version": "3.0.1",
         "Language": "csharp",
         "Website": "https://www.windowwalker.com/",
-        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.WindowWalker/releases/download/v3.0.0/WindowWalker-3.0.0.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.WindowWalker/releases/download/v3.0.1/WindowWalker-3.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png",
-        "LatestReleaseDate": "2024-01-31T03:24:47Z",
+        "LatestReleaseDate": "2024-02-11T06:45:23Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -2118,6 +2118,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/URL-Shortener-Plugin@main/Images/app.png",
         "DateAdded": "2024-02-04T05:17:00Z",
         "LatestReleaseDate": "2024-02-04T04:43:28Z",
+        "Tested": true
+    },
+    {
+        "ID": "88312EF0-3300-4D7E-999C-50212CF8F3C8",
+        "Name": "Unicode Finder",
+        "Description": "Find Unicode characters by name.",
+        "Author": "z1nc0r3",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/z1nc0r3/Unicode-Finder-Plugin",
+        "UrlDownload": "https://github.com/z1nc0r3/Unicode-Finder-Plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Unicode.Finder.zip",
+        "UrlSourceCode": "https://github.com/z1nc0r3/Unicode-Finder-Plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/Unicode-Finder-Plugin@main/Images/app.png",
+        "DateAdded": "2024-02-11T21:34:00Z",
+        "LatestReleaseDate": "2024-02-11T21:17:00Z",
         "Tested": true
     },
     {
