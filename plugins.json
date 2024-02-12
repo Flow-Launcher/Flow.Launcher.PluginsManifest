@@ -2132,6 +2132,7 @@
         "UrlSourceCode": "https://github.com/z1nc0r3/Unicode-Finder-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/Unicode-Finder-Plugin@main/Images/app.png",
         "DateAdded": "2024-02-11T21:34:00Z",
-        "LatestReleaseDate": "2024-02-11T21:17:00Z"
+        "LatestReleaseDate": "2024-02-11T21:17:00Z",
+        "Tested": true
     }
 ]
