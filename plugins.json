@@ -1854,14 +1854,14 @@
         "Name": "System Commands",
         "Description": "Provide System related commands. e.g. shutdown,lock, setting etc.",
         "Author": "qianlifeng",
-        "Version": "3.1.0",
+        "Version": "3.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.0/Flow.Launcher.Plugin.Sys.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.1/Flow.Launcher.Plugin.Sys.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Sys/Images/lock.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:36:57Z"
+        "LatestReleaseDate": "2024-02-12T11:20:07Z"
     },
     {
         "ID": "0308FD86DE0A4DEE8D62B9B535370992",
@@ -1882,14 +1882,14 @@
         "Name": "Web Searches",
         "Description": "Provide the web search ability",
         "Author": "qianlifeng",
-        "Version": "3.0.6",
+        "Version": "3.0.7",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.6/Flow.Launcher.Plugin.WebSearch.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.7/Flow.Launcher.Plugin.WebSearch.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WebSearch/Images/web_search.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:37:07Z"
+        "LatestReleaseDate": "2024-02-12T11:20:21Z"
     },
     {
         "ID": "5043CETYU6A748679OPA02D27D99677A",
@@ -2132,7 +2132,7 @@
         "UrlSourceCode": "https://github.com/z1nc0r3/Unicode-Finder-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/Unicode-Finder-Plugin@main/Images/app.png",
         "DateAdded": "2024-02-11T21:34:00Z",
-        "LatestReleaseDate": "2024-02-11T21:17:00Z",
+        "LatestReleaseDate": "2024-02-11T21:16:57Z",
         "Tested": true
     }
 ]
