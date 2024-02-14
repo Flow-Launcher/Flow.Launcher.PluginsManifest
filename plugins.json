@@ -1286,14 +1286,14 @@
         "Name": "JetBrainsIDEProjects",
         "Description": "Search projects in JetBrains IDEs",
         "Author": "kenty02",
-        "Version": "2.1.0",
+        "Version": "3.0.0",
         "Language": "csharp",
         "Website": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects",
-        "UrlDownload": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/releases/download/v2.1.0/Flow.Launcher.Plugin.JetBrainsIDEProjects.zip",
+        "UrlDownload": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/releases/download/v3.0.0/Flow.Launcher.Plugin.JetBrainsIDEProjects.zip",
         "UrlSourceCode": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects",
         "IcoPath": "https://cdn.jsdelivr.net/gh/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/Flow.Launcher.Plugin.JetBrainsIDEProjects/icon.png",
         "DateAdded": "2023-02-19T21:47:51Z",
-        "LatestReleaseDate": "2023-11-10T14:40:32Z"
+        "LatestReleaseDate": "2024-02-14T13:56:39Z"
     },
     {
         "ID": "d58fbe34-bce7-11ed-afa1-0242ac120002",
