@@ -898,15 +898,15 @@
         "Name": "FlowRaindrop",
         "Description": "Access Raindrop.io bookmarks with Flow Launcher/Wox",
         "Author": "Garulf",
-        "Version": "0.0.2",
+        "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/flow-raindrop",
-        "UrlDownload": "https://github.com/Garulf/Flow-Raindrop/releases/download/v0.0.2/Flow-Raindrop.zip",
+        "UrlDownload": "https://github.com/Garulf/Flow-Raindrop/releases/download/v1.0.0/Flow-Raindrop.zip",
         "UrlSourceCode": "https://github.com/Garulf/flow-raindrop/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-raindrop@main/icon.png",
         "Tested": true,
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-03-23T11:11:00Z"
+        "LatestReleaseDate": "2024-02-16T08:39:36Z"
     },
     {
         "ID": "90170ddfd94a4c188bc5ff2e3690d0ae",
