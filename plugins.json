@@ -2144,6 +2144,7 @@
         "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan",
         "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan/releases/download/v1.0.0/Flow.Launcher.Plugin.Azan.zip",
         "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan/tree/main/src",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.Azan@main/src/Icons/date.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.Azan@main/src/Icons/date.png",
+        "DateAdded": "2024-02-19T00:44:27Z"
     }
 ]
