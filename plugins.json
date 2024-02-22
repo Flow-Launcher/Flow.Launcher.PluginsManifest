@@ -2146,7 +2146,6 @@
         "UrlDownload": "https://github.com/DevHJS/TinyUrlPlugin/releases/download/v1.0.0/tiny.url.plugin.zip",
         "UrlSourceCode": "https://github.com/DevHJS/TinyUrlPlugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DevHJS/TinyUrlPlugin/Flow.Launcher.Plugin.TinyUrlPlugin/icons/icon.png",
-        "Tested": true
     }
     
 ]
