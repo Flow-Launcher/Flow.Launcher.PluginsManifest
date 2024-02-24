@@ -88,13 +88,13 @@
         "Name": "Window Walker",
         "Description": "Alt-Tab alternative enabling searching through your windows.",
         "Author": "betadele",
-        "Version": "3.0.0",
+        "Version": "3.0.1",
         "Language": "csharp",
         "Website": "https://www.windowwalker.com/",
-        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.WindowWalker/releases/download/v3.0.0/WindowWalker-3.0.0.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.WindowWalker/releases/download/v3.0.1/WindowWalker-3.0.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Microsoft.Plugin.WindowWalker/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Microsoft.Plugin.WindowWalker@master/Images/windowwalker.dark.png",
-        "LatestReleaseDate": "2024-01-31T03:24:47Z",
+        "LatestReleaseDate": "2024-02-11T06:45:23Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -259,14 +259,14 @@
         "Name": "RollDice",
         "Description": "Rolls the given dices and evaluates the expression",
         "Author": "lvonkacsoh",
-        "Version": "1.0.1",
+        "Version": "2.0.1",
         "Language": "python",
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
-        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0.1/Flow.Launcher.Plugin.RollDice.zip",
+        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v2.0.1/Flow.Launcher.Plugin.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
         "Tested": true,
-        "LatestReleaseDate": "2021-12-13T07:00:48Z",
+        "LatestReleaseDate": "2024-02-21T18:16:22Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -676,14 +676,14 @@
         "Name": "Github Quick Launcher",
         "Description": "Quickly access your personal repositories and stars.",
         "Author": "Garulf",
-        "Version": "3.2.0",
+        "Version": "3.2.1",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-quick-launcher",
-        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v3.2.0/Github-Quick-Launcher-3.2.0.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v3.2.1/Github-Quick-Launcher-3.2.1.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-quick-launcher@main/src/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2024-01-26T04:28:16Z",
+        "LatestReleaseDate": "2024-02-20T10:06:40Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -898,15 +898,15 @@
         "Name": "FlowRaindrop",
         "Description": "Access Raindrop.io bookmarks with Flow Launcher/Wox",
         "Author": "Garulf",
-        "Version": "0.0.2",
+        "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/flow-raindrop",
-        "UrlDownload": "https://github.com/Garulf/Flow-Raindrop/releases/download/v0.0.2/Flow-Raindrop.zip",
+        "UrlDownload": "https://github.com/Garulf/Flow-Raindrop/releases/download/v1.0.0/Flow-Raindrop.zip",
         "UrlSourceCode": "https://github.com/Garulf/flow-raindrop/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-raindrop@main/icon.png",
         "Tested": true,
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-03-23T11:11:00Z"
+        "LatestReleaseDate": "2024-02-16T08:39:36Z"
     },
     {
         "ID": "90170ddfd94a4c188bc5ff2e3690d0ae",
@@ -1153,21 +1153,6 @@
         "LatestReleaseDate": "2022-11-01T18:17:36Z"
     },
     {
-        "ID": "f823a07e-7191-11ed-a1eb-0242ac120002",
-        "Name": "Google Calendar",
-        "Description": "Add events to your Google Calendar",
-        "Author": "Ilja van Ipenburg",
-        "Version": "1.2.3",
-        "Language": "python",
-        "Website": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar",
-        "UrlDownload": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar/releases/download/v1.2.3/Flow.Launcher.Plugin.GoogleCalendar.zip",
-        "UrlSourceCode": "https://github.com/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/ivanipenburg/Flow.Launcher.Plugin.GoogleCalendar/Images/app.png",
-        "DateAdded": "2022-12-01T17:37:55Z",
-        "LatestReleaseDate": "2023-07-04T10:26:31Z",
-        "Tested": true
-    },
-    {
         "ID": "32DD22C2-7E7D-4A49-9032-B57046975824",
         "Name": "Discord timestamps",
         "Description": "Generate discord timestamps",
@@ -1301,14 +1286,14 @@
         "Name": "JetBrainsIDEProjects",
         "Description": "Search projects in JetBrains IDEs",
         "Author": "kenty02",
-        "Version": "2.1.0",
+        "Version": "3.0.2",
         "Language": "csharp",
         "Website": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects",
-        "UrlDownload": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/releases/download/v2.1.0/Flow.Launcher.Plugin.JetBrainsIDEProjects.zip",
+        "UrlDownload": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/releases/download/v3.0.2/Flow.Launcher.Plugin.JetBrainsIDEProjects.zip",
         "UrlSourceCode": "https://github.com/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects",
         "IcoPath": "https://cdn.jsdelivr.net/gh/kenty02/Flow.Launcher.Plugin.JetBrainsIDEProjects/Flow.Launcher.Plugin.JetBrainsIDEProjects/icon.png",
         "DateAdded": "2023-02-19T21:47:51Z",
-        "LatestReleaseDate": "2023-11-10T14:40:32Z"
+        "LatestReleaseDate": "2024-02-15T10:50:07Z"
     },
     {
         "ID": "d58fbe34-bce7-11ed-afa1-0242ac120002",
@@ -1417,15 +1402,15 @@
         "Name": "AudFlow",
         "Description": "Text to speech Plugin",
         "Author": "Ahmed ElSaeed",
-        "Version": "2.1.0",
+        "Version": "2.1.1",
         "Language": "python",
         "Website": "https://github.com/asmpro7/AudFlow",
-        "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v2.1.0/AudFlow.zip",
+        "UrlDownload": "https://github.com/asmpro7/AudFlow/releases/download/v2.1.1/AudFlow.zip",
         "UrlSourceCode": "https://github.com/asmpro7/AudFlow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/AudFlow@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-05-12T14:34:13Z",
-        "LatestReleaseDate": "2023-06-25T19:26:41Z"
+        "LatestReleaseDate": "2024-02-17T19:08:59Z"
     },
     {
         "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",
@@ -1770,14 +1755,14 @@
         "Name": "Explorer",
         "Description": "Find and manage files and folders via Windows Search or Everything",
         "Author": "Jeremy Wu",
-        "Version": "3.1.4",
+        "Version": "3.1.5",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.4/Flow.Launcher.Plugin.Explorer.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.5/Flow.Launcher.Plugin.Explorer.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2023-11-14T10:03:03Z"
+        "LatestReleaseDate": "2024-02-05T07:38:39Z"
     },
     {
         "ID": "6A122269676E40EB86EB543B945932B9",
@@ -1854,14 +1839,14 @@
         "Name": "System Commands",
         "Description": "Provide System related commands. e.g. shutdown,lock, setting etc.",
         "Author": "qianlifeng",
-        "Version": "3.1.0",
+        "Version": "3.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.0/Flow.Launcher.Plugin.Sys.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.1/Flow.Launcher.Plugin.Sys.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Sys/Images/lock.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:36:57Z"
+        "LatestReleaseDate": "2024-02-12T11:20:07Z"
     },
     {
         "ID": "0308FD86DE0A4DEE8D62B9B535370992",
@@ -1882,14 +1867,14 @@
         "Name": "Web Searches",
         "Description": "Provide the web search ability",
         "Author": "qianlifeng",
-        "Version": "3.0.6",
+        "Version": "3.0.7",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.6/Flow.Launcher.Plugin.WebSearch.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.7/Flow.Launcher.Plugin.WebSearch.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WebSearch/Images/web_search.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:37:07Z"
+        "LatestReleaseDate": "2024-02-12T11:20:21Z"
     },
     {
         "ID": "5043CETYU6A748679OPA02D27D99677A",
@@ -2119,5 +2104,62 @@
         "DateAdded": "2024-02-04T05:17:00Z",
         "LatestReleaseDate": "2024-02-04T04:43:28Z",
         "Tested": true
+    },
+    {
+        "ID": "88312EF0-3300-4D7E-999C-50212CF8F3C8",
+        "Name": "Unicode Finder",
+        "Description": "Find Unicode characters by name.",
+        "Author": "z1nc0r3",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/z1nc0r3/Unicode-Finder-Plugin",
+        "UrlDownload": "https://github.com/z1nc0r3/Unicode-Finder-Plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Unicode.Finder.zip",
+        "UrlSourceCode": "https://github.com/z1nc0r3/Unicode-Finder-Plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/Unicode-Finder-Plugin@main/Images/app.png",
+        "DateAdded": "2024-02-11T21:34:00Z",
+        "LatestReleaseDate": "2024-02-11T21:16:57Z",
+        "Tested": true
+    },
+    {
+        "ID": "BDC409081E7F4D879FC1FE8BC7F9D606",
+        "Name": "Notion",
+        "Description": "A Plugin For Search, Create, Edit and Delete Notion Pages.",
+        "Author": "Amin Salah",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion/releases/download/v1.1.0/Flow.Launcher.Plugin.Notion.zip",
+        "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion/tree/main/src",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.Notion@main/src/Images/app.png",
+        "DateAdded": "2024-02-12T20:58:11Z",
+        "LatestReleaseDate": "2024-02-13T22:35:54Z"
+    },
+    {
+        "ID": "3458F01618974683B339D53528A78573",
+        "Name": "Azan",
+        "Description": "A plugin to display prayer times.",
+        "Author": "Amin Salah",
+        "Version": "2.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan/releases/download/v2.0.0/Flow.Launcher.Plugin.Azan.zip",
+        "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan/tree/main/src",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.Azan@main/src/Icons/date.png",
+        "DateAdded": "2024-02-19T00:44:27Z",
+        "LatestReleaseDate": "2024-02-23T04:54:48Z"
+    },
+    {
+        "ID": "7D530704C68E4838896BBA5C4C1DE7DF",
+        "Name": "Win Hotkey",
+        "Description": "Trigger Flow Launcher by Win Key.",
+        "Author": "Amin Salah",
+        "Version": "2.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/releases/download/v2.0.0/Flow.Launcher.Plugin.WinHotkey.zip",
+        "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.WinHotkey@main/app.png",
+        "DateAdded": "2024-02-22T06:54:14Z",
+        "LatestReleaseDate": "2024-02-23T04:43:48Z"
     }
 ]
