@@ -1,0 +1,14 @@
+{
+    "ID": "BDC409081E7F4D879FC1FE8BC7F9D606",
+    "Name": "Notion",
+    "Description": "A Plugin For Search, Create, Edit and Delete Notion Pages.",
+    "Author": "Amin Salah",
+    "Version": "1.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion",
+    "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion/releases/download/v1.1.0/Flow.Launcher.Plugin.Notion.zip",
+    "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion/tree/main/src",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.Notion@main/src/Images/app.png",
+    "DateAdded": "2024-02-12T20:58:11Z",
+    "LatestReleaseDate": "2024-02-13T22:35:54Z"
+}

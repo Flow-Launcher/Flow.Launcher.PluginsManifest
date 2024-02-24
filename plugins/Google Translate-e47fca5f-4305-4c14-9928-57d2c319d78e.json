@@ -2,7 +2,7 @@
     "ID": "e47fca5f-4305-4c14-9928-57d2c319d78e",
     "Name": "Google Translate",
     "Description": "Simple Plugin to use Google Translate in FlowLauncher",
-    "Author": "Ra\u00fal Losantos",
+    "Author": "Raúl Losantos",
     "Version": "1.0.0",
     "Language": "python",
     "Website": "https://github.com/ralosant/FlowLauncher.Google.Translator",

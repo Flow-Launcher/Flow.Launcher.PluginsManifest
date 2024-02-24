@@ -3,12 +3,12 @@
     "Name": "Explorer",
     "Description": "Find and manage files and folders via Windows Search or Everything",
     "Author": "Jeremy Wu",
-    "Version": "3.1.4",
+    "Version": "3.1.5",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.4/Flow.Launcher.Plugin.Explorer.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.5/Flow.Launcher.Plugin.Explorer.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2023-11-14T10:03:03Z"
+    "LatestReleaseDate": "2024-02-05T07:38:39Z"
 }

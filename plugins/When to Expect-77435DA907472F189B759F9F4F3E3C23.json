@@ -2,7 +2,7 @@
     "ID": "77435DA907472F189B759F9F4F3E3C23",
     "ActionKeyword": "when",
     "Name": "When to Expect",
-    "Description": "Calculates how many tries are needed to expect an event (by default with \u2265 50\u2009% probability).",
+    "Description": "Calculates how many tries are needed to expect an event (by default with ≥ 50 % probability).",
     "Author": "Jonas A. Wendorf",
     "Version": "1.0.0",
     "Language": "python",
