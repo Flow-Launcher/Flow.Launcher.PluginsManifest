@@ -2161,5 +2161,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.WinHotkey@main/app.png",
         "DateAdded": "2024-02-22T06:54:14Z",
         "LatestReleaseDate": "2024-02-28T21:23:52Z"
-    }
+    },
+    {
+        "ID": "589CA535BD5041E78179C4F2D2F2D8FD",
+        "Name": "TinyUrlPlugin",
+        "Description": "a plugin that use tinyurl api, it's very basic but powerful",
+        "Author": "haider",
+        "Version": "1.0.5",
+        "Language": "csharp",
+        "Website": "https://github.com/DevHJS/TinyUrlPlugin",
+        "UrlDownload": "https://github.com/DevHJS/TinyUrlPlugin/releases/download/v1.0.5/TinyUrlPlugin-1.0.5.zip",
+        "UrlSourceCode": "https://github.com/DevHJS/TinyUrlPlugin/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/DevHJS/TinyUrlPlugin/Flow.Launcher.Plugin.TinyUrlPlugin/icons/icon.png"
+     }
 ]
