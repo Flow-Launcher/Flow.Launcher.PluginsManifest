@@ -2167,7 +2167,7 @@
         "Name": "TinyUrlPlugin",
         "Description": "a plugin that use tinyurl api, it's very basic but powerful",
         "Author": "haider",
-        "Version": "1.0.0",
+        "Version": "1.0.5",
         "Language": "csharp",
         "Website": "https://github.com/DevHJS/TinyUrlPlugin",
         "UrlDownload": "https://github.com/DevHJS/TinyUrlPlugin/releases/download/v1.0.5/tiny.url.plugin.zip",
