@@ -259,14 +259,14 @@
         "Name": "RollDice",
         "Description": "Rolls the given dices and evaluates the expression",
         "Author": "lvonkacsoh",
-        "Version": "1.0.1",
+        "Version": "2.0.1",
         "Language": "python",
         "Website": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice",
-        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v1.0.1/Flow.Launcher.Plugin.RollDice.zip",
+        "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/releases/download/v2.0.1/Flow.Launcher.Plugin.RollDice.zip",
         "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.RollDice/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.RollDice@main/assets/icon.jpg",
         "Tested": true,
-        "LatestReleaseDate": "2024-02-21T18:17:11Z",
+        "LatestReleaseDate": "2024-02-21T18:16:22Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -676,14 +676,14 @@
         "Name": "Github Quick Launcher",
         "Description": "Quickly access your personal repositories and stars.",
         "Author": "Garulf",
-        "Version": "3.2.1",
+        "Version": "4.0.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-quick-launcher",
-        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v3.2.1/Github-Quick-Launcher-3.2.1.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v4.0.0/Github-Quick-Launcher-4.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-quick-launcher@main/src/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2024-02-20T10:06:40Z",
+        "LatestReleaseDate": "2024-02-24T19:54:51Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1626,14 +1626,14 @@
         "Name": "GamesLauncher",
         "Description": "Search and launch games from multiple platforms like Steam, Epic Games etc.",
         "Author": "KrystianLesniak",
-        "Version": "1.8.0",
+        "Version": "1.9.0",
         "Language": "csharp",
         "Website": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher",
-        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.8.0/GamesLauncher.zip",
+        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.9.0/GamesLauncher.zip",
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher@main/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-25T07:12:31Z",
-        "LatestReleaseDate": "2024-01-14T15:16:31Z"
+        "LatestReleaseDate": "2024-02-29T16:57:00Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
@@ -2139,28 +2139,28 @@
         "Name": "Azan",
         "Description": "A plugin to display prayer times.",
         "Author": "Amin Salah",
-        "Version": "1.0.0",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan",
-        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan/releases/download/v1.0.0/Flow.Launcher.Plugin.Azan.zip",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan/releases/download/v2.0.0/Flow.Launcher.Plugin.Azan.zip",
         "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.Azan/tree/main/src",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.Azan@main/src/Icons/date.png",
         "DateAdded": "2024-02-19T00:44:27Z",
-        "LatestReleaseDate": "2024-02-18T19:48:47Z"
+        "LatestReleaseDate": "2024-02-23T04:54:48Z"
     },
     {
         "ID": "7D530704C68E4838896BBA5C4C1DE7DF",
         "Name": "Win Hotkey",
         "Description": "Trigger Flow Launcher by Win Key.",
         "Author": "Amin Salah",
-        "Version": "1.0.0",
+        "Version": "2.1.0",
         "Language": "csharp",
         "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey",
-        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/releases/download/v1.0.0/Flow.Launcher.Plugin.WinHotkey.zip",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/releases/download/v2.1.0/Flow.Launcher.Plugin.WinHotkey.zip",
         "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.WinHotkey@main/app.png",
         "DateAdded": "2024-02-22T06:54:14Z",
-        "LatestReleaseDate": "2024-02-20T05:05:01Z"
+        "LatestReleaseDate": "2024-02-28T21:23:52Z"
     },
     {
         "ID": "589CA535BD5041E78179C4F2D2F2D8FD",
@@ -2173,5 +2173,5 @@
         "UrlDownload": "https://github.com/DevHJS/TinyUrlPlugin/releases/download/v1.0.5/tiny.url.plugin.zip",
         "UrlSourceCode": "https://github.com/DevHJS/TinyUrlPlugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DevHJS/TinyUrlPlugin/Flow.Launcher.Plugin.TinyUrlPlugin/icons/icon.png"
-    }
+     }
 ]
