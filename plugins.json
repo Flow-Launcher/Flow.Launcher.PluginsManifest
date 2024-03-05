@@ -2186,6 +2186,7 @@
         "Website": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.FakeData/tree/main",
         "UrlDownload": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.FakeData/releases/download/1.0.0/Flow.Launcher.Plugin.FakeData.zip",
         "UrlSourceCode": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.FakeData/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Yusyuriv/Flow.Launcher.Plugin.FakeData@main/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Yusyuriv/Flow.Launcher.Plugin.FakeData@main/app.png",
+        "DateAdded": "2024-03-05T10:21:51Z"
     }
 ]
