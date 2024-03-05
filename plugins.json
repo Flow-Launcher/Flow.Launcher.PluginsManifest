@@ -2175,5 +2175,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/DevHJS/TinyUrlPlugin/Flow.Launcher.Plugin.TinyUrlPlugin/icons/icon.png",
         "DateAdded": "2024-03-01T12:42:03Z",
         "LatestReleaseDate": "2024-02-29T20:34:38Z"
+    },
+    {
+        "ID": "8BE6E623BC294D4684F86A47CA797742",
+        "Name": "Fake Data",
+        "Description": "Generates a variety of fake data using the Bogus library",
+        "Author": "Yusyuriv",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.FakeData/tree/main",
+        "UrlDownload": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.FakeData/releases/download/1.0.0/Flow.Launcher.Plugin.FakeData.zip",
+        "UrlSourceCode": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.FakeData/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Yusyuriv/Flow.Launcher.Plugin.FakeData@main/app.png"
     }
 ]
