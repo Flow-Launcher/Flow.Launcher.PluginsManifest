@@ -2153,14 +2153,14 @@
         "Name": "Win Hotkey",
         "Description": "Trigger Flow Launcher by Win Key.",
         "Author": "Amin Salah",
-        "Version": "2.1.0",
+        "Version": "3.0.0",
         "Language": "csharp",
         "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey",
-        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/releases/download/v2.1.0/Flow.Launcher.Plugin.WinHotkey.zip",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/releases/download/v3.0.0/Flow.Launcher.Plugin.WinHotkey.zip",
         "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.WinHotkey@main/app.png",
         "DateAdded": "2024-02-22T06:54:14Z",
-        "LatestReleaseDate": "2024-02-28T21:23:52Z"
+        "LatestReleaseDate": "2024-03-06T01:26:54Z"
     },
     {
         "ID": "589CA535BD5041E78179C4F2D2F2D8FD",
