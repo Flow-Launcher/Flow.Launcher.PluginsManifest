@@ -2199,7 +2199,7 @@
       "Language": "python",
       "Website": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator",
       "UrlDownload":"https://github.com/jasonz3157/Flow.Plugin.DateCalculator/releases/download/v0.1.6/Flow.Launcher.Plugin.DateCalculator.zip",
-      "UrlSourceCode": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator",
+      "UrlSourceCode": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/tree/master",
       "IcoPath": "https://cdn.jsdelivr.net/gh/jasonz3157/Flow.Plugin.DateCalculator@master/Images/app.png"
     }
 ]
