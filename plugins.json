@@ -2203,5 +2203,17 @@
         "IcoPath": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main/Images/app.png",
         "Tested": true,
         "DateAdded": "2024-03-08T10:42:47Z"
+    },
+    {
+      "ID": "b6a9192c-6646-4c77-bc6b-be4f8195ffda",  
+      "Name": "Date Calculator",
+      "Description": "Date Calculator using Flow's embedded python",
+      "Author": "jasonz3157",
+      "Version": "0.1.6",
+      "Language": "python",
+      "Website": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator",
+      "UrlDownload":"https://github.com/jasonz3157/Flow.Plugin.DateCalculator/releases/download/v0.1.6/Flow.Launcher.Plugin.DateCalculator.zip",
+      "UrlSourceCode": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/tree/master",
+      "IcoPath": "https://cdn.jsdelivr.net/gh/jasonz3157/Flow.Plugin.DateCalculator@master/Images/app.png"
     }
 ]
