@@ -2189,5 +2189,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Yusyuriv/Flow.Launcher.Plugin.FakeData@main/app.png",
         "DateAdded": "2024-03-05T10:21:51Z",
         "LatestReleaseDate": "2024-03-03T22:59:55Z"
+    },
+    {
+        "ID": "eda56b23-b5c5-48d9-be0d-05ccb907c86d",
+        "Name": "Pokedex",
+        "Description": "Search Pokemon",
+        "Author": "Galedrim",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main",
+        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/releases/download/v1.0.0/Flow.Launcher.Plugin.Pokedex.zip",
+        "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main", 
+        "IcoPath": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main/Images/app.png"
     }
 ]
