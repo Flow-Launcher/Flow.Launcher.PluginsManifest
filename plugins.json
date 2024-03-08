@@ -2199,7 +2199,9 @@
         "Language": "python",
         "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main",
         "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/releases/download/v1.0.0/Flow.Launcher.Plugin.Pokedex.zip",
-        "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main", 
-        "IcoPath": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main/Images/app.png"
+        "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main",
+        "IcoPath": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2024-03-08T10:42:47Z"
     }
 ]
