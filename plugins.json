@@ -2202,7 +2202,8 @@
         "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main",
         "IcoPath": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main/Images/app.png",
         "Tested": true,
-        "DateAdded": "2024-03-08T10:42:47Z"
+        "DateAdded": "2024-03-08T10:42:47Z",
+        "LatestReleaseDate": "2024-03-06T02:12:23Z"
     },
     {
         "ID": "b6a9192c-6646-4c77-bc6b-be4f8195ffda",
@@ -2216,6 +2217,7 @@
         "UrlSourceCode": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jasonz3157/Flow.Plugin.DateCalculator@master/Images/app.png",
         "Tested": true,
-        "DateAdded": "2024-03-08T11:08:46Z"
+        "DateAdded": "2024-03-08T11:08:46Z",
+        "LatestReleaseDate": "2024-03-05T09:06:58Z"
     }
 ]
