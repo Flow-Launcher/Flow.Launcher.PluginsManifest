@@ -24,7 +24,8 @@
         "UrlDownload": "https://github.com/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.SmartTimestamps.zip",
         "UrlSourceCode": "https://github.com/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin@main/icon.png",
-        "DateAdded": "2024-03-27T10:35:12Z"
+        "DateAdded": "2024-03-27T10:35:12Z",
+        "LatestReleaseDate": "2024-03-20T13:31:20Z"
     },
     {
         "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
@@ -2244,6 +2245,7 @@
         "UrlDownload": "https://github.com/palmiak/astro-flow-launcher-plugin/releases/download/v0.0.2/astrodocs-plugin-flow-launcher.zip",
         "UrlSourceCode": "https://github.com/palmiak/astro-flow-launcher-plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/palmiak/astro-flow-launcher-plugin@main/astro.png",
-        "DateAdded": "2024-03-27T10:39:02Z"
+        "DateAdded": "2024-03-27T10:39:02Z",
+        "LatestReleaseDate": "2024-03-19T16:05:20Z"
     }
 ]
