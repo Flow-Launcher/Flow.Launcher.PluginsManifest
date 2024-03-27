@@ -14,6 +14,18 @@
         "LatestReleaseDate": "2023-08-26T20:18:08Z"
     },
     {
+        "ID": "e375c983-bdea-4b5f-9325-ea71e44c1a08",
+        "Name": "Smart Timestamps",
+        "Description": "Generate smarter timestamps, look up dates, and copy them to your clipboard.",
+        "Author": "DustofShadows",
+        "Version": "1.0.0",
+        "Language": "javascript",
+        "Website": "https://github.com/DustofShadows/smart-timestamps-flowlauncher-plugin",
+        "UrlDownload": "https://github.com/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.SmartTimestamps.zip",
+        "UrlSourceCode": "https://github.com/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin@main/icon.png"
+    },
+    {
         "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
         "Name": "Tailwindcss",
         "Description": "Search tailwindcss Docs",
