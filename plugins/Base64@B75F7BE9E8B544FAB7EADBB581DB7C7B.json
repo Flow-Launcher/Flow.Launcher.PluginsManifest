@@ -1,0 +1,15 @@
+{
+    "ID": "B75F7BE9E8B544FAB7EADBB581DB7C7B",
+    "Name": "Base64",
+    "Description": "Encode or decode a string using Base64 encoding",
+    "Author": "oSumAtrIX",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/oSumAtrIX/Flow.Launcher.Plugin.Base64",
+    "UrlDownload": "https://github.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/releases/download/v1.0.0/Flow.Launcher.Plugin.Base64.zip",
+    "UrlSourceCode": "https://github.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/tree/main",
+    "IcoPath": "https://raw.githubusercontent.com/oSumAtrIX/Flow.Launcher.Plugin.Base64/main/Flow.Launcher.Plugin.Base64/Images/icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-02-18T22:35:58Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

@@ -1,0 +1,15 @@
+{
+    "ID": "2d5036e2-eccc-4254-b88e-de78580e2195",
+    "Name": "Bulk URL Opener",
+    "Description": "Opens groups of tabs",
+    "Author": "Tarik Jaber",
+    "Version": "1.1.0",
+    "Language": "python",
+    "Website": "https://github.com/tarikjaber/Bulk-URL-Opener",
+    "UrlDownload": "https://github.com/tarikjaber/Bulk-URL-Opener/releases/download/v1.1.0/Flow.Launcher.Plugin.BulkURLOpener.zip",
+    "UrlSourceCode": "https://github.com/tarikjaber/Bulk-URL-Opener/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/tarikjaber/Bulk-URL-Opener/Images/app.png",
+    "Tested": true,
+    "DateAdded": "2023-09-07T09:51:13Z",
+    "LatestReleaseDate": "2023-12-19T00:54:43Z"
+}

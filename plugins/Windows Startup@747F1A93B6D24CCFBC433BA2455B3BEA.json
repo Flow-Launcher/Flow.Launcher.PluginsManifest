@@ -1,0 +1,15 @@
+{
+    "ID": "747F1A93B6D24CCFBC433BA2455B3BEA",
+    "Name": "Windows Startup",
+    "Description": "Control Windows start-up programs.",
+    "Author": "Garulf",
+    "Version": "1.0.2",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/Windows-Startup",
+    "UrlDownload": "https://github.com/Garulf/Windows-Startup/releases/download/v1.0.2/Windows-Startup.zip",
+    "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
+    "IcoPath": "https://github.com/Garulf/Windows-Startup/raw/main/icons/application.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-01-12T08:10:51Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

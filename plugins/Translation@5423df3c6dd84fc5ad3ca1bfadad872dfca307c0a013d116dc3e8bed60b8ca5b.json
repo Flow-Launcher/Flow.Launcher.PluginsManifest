@@ -1,0 +1,14 @@
+{
+    "ID": "5423df3c6dd84fc5ad3ca1bfadad872dfca307c0a013d116dc3e8bed60b8ca5b",
+    "Name": "Translation",
+    "Description": "Node.js Translation plugin with Google Translate",
+    "Author": "cenygg",
+    "Version": "1.0.2",
+    "Language": "javascript",
+    "Website": "https://github.com/cenyG/flow-launch-translate-plugin",
+    "UrlDownload": "https://github.com/cenyG/flow-launch-translate-plugin/releases/download/v1.0.2/Flow.Launcher.Plugin.Translate.zip",
+    "UrlSourceCode": "https://github.com/cenyG/flow-launch-translate-plugin",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cenyG/flow-launch-translate-plugin@main/Images/google_tr_icon.png",
+    "DateAdded": "2022-10-09T19:49:54Z",
+    "LatestReleaseDate": "2023-03-04T13:31:19Z"
+}

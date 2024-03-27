@@ -1,0 +1,14 @@
+{
+    "ID": "3b42afc0d17f45b98a55e324728252be",
+    "Name": "Workflowy",
+    "Description": "Save notes directly into Workflowy",
+    "Author": "BrunoLM",
+    "Version": "1.0.0",
+    "Language": "executable",
+    "Website": "https://github.com/brunolm/workflowy-wf",
+    "UrlDownload": "https://github.com/brunolm/workflowy-wf/releases/download/v1.0.0/Flow.Launcher.Plugin.WorkflowyWF.zip",
+    "UrlSourceCode": "https://github.com/brunolm/workflowy-wf",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/brunolm/workflowy-wf@v1.0.0/icon.jpg",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-04-26T14:08:11Z"
+}

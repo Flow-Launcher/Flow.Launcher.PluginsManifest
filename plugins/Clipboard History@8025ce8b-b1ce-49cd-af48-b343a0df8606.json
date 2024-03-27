@@ -1,0 +1,14 @@
+{
+    "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
+    "Name": "Clipboard History",
+    "Description": "a Clipboard History Plugin for FlowLauncher",
+    "Author": "liberize,Xenolphthalein",
+    "Version": "1.1.1",
+    "Language": "csharp",
+    "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",
+    "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/releases/download/v1.1.1/ClipboardHistory-1.1.1.zip",
+    "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.ClipboardHistory@master/Images/clipboard.png",
+    "LatestReleaseDate": "2021-10-29T13:49:47Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

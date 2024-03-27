@@ -1,0 +1,15 @@
+{
+    "ID": "14b986ef-45ec-44c1-be66-cab460a771f7",
+    "Name": "DevToys Launcher",
+    "Description": "Launch DevToys tools",
+    "Author": "Umi Uyura",
+    "Version": "1.3.0",
+    "Language": "python",
+    "Website": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
+    "UrlDownload": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher/releases/download/v1.3.0/Flow.Launcher.Plugin.DevToysLauncher-1.3.0.zip",
+    "UrlSourceCode": "https://github.com/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/umi-uyura/Flow.Launcher.Plugin.DevToysLauncher@main/assets/300x300.png",
+    "Tested": true,
+    "DateAdded": "2022-12-12T09:57:51Z",
+    "LatestReleaseDate": "2023-10-09T12:03:56Z"
+}

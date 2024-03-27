@@ -1,0 +1,15 @@
+{
+    "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
+    "Name": "Steam Search",
+    "Description": "Search and launch your Steam Game library",
+    "Author": "Garulf",
+    "Version": "9.0.1",
+    "Language": "executable",
+    "Website": "https://github.com/Garulf/Steam-Search",
+    "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v9.0.1/Steam-Search.zip",
+    "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/plugin/icon/steam-icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2023-04-18T19:56:52Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

@@ -1,0 +1,15 @@
+{
+    "ID": "72E67DFE0F6F482395AF3CD0A3BC6F04",
+    "Name": "WinsFlow",
+    "Description": "Plugin to control your windows",
+    "Author": "Ahmed ElSaeed",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/asmpro7/WinsFlow",
+    "UrlDownload": "https://github.com/asmpro7/WinsFlow/releases/download/v1.0.0/WinsFlow.zip",
+    "UrlSourceCode": "https://github.com/asmpro7/WinsFlow",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/WinsFlow@main/Images/app.png",
+    "Tested": true,
+    "DateAdded": "2023-05-21T00:50:52Z",
+    "LatestReleaseDate": "2023-05-20T21:26:54Z"
+}

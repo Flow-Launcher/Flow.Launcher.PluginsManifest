@@ -1,0 +1,16 @@
+{
+    "ID": "8G5CDC9A78EF4A7E667E138F1FC04015",
+    "ActionKeyword": "mdi",
+    "Name": "Search-MDI",
+    "Description": "Search materialdesignicons.com",
+    "Author": "Garulf",
+    "Version": "3.0.3",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/Search-MDI",
+    "UrlDownload": "https://github.com/Garulf/Search-MDI/releases/download/v3.0.3/Search-MDI.zip",
+    "UrlSourceCode": "https://github.com/Garulf/Search-MDI/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Search-MDI@main/app.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-01-13T15:54:00Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

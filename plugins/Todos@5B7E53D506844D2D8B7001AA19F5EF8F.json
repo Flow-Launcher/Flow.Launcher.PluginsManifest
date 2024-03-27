@@ -1,0 +1,14 @@
+{
+    "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
+    "Name": "Todos",
+    "Description": "A simple todo app.",
+    "Author": "caoyue",
+    "Version": "2.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
+    "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
+    "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png",
+    "LatestReleaseDate": "2021-03-11T09:54:22Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

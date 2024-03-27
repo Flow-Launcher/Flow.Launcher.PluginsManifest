@@ -1,0 +1,14 @@
+{
+    "ID": "5043CETYU6A748679OPA02D27D99677A",
+    "Description": "Search settings inside Control Panel and Settings App",
+    "Name": "Windows Settings",
+    "Author": "TobiasSekan",
+    "Version": "4.0.6",
+    "Language": "csharp",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.6/Flow.Launcher.Plugin.WindowsSettings.zip",
+    "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WindowsSettings/Images/WindowsSettings.light.png",
+    "DateAdded": "2023-09-27T02:43:06Z",
+    "LatestReleaseDate": "2024-02-04T03:37:14Z"
+}

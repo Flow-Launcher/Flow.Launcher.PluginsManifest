@@ -1,0 +1,15 @@
+{
+    "ID": "62A7E77D5AC84177AF902C4A5FF10603",
+    "Name": "BetterTTV Twitch Emotes",
+    "Description": "Search Twitch.tv emotes via BetterTTV",
+    "Author": "Garulf",
+    "Version": "0.0.2",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/Betterttv-twitch-emotes",
+    "UrlDownload": "https://github.com/Garulf/BetterTTV-Twitch-Emotes/releases/download/v0.0.2/BetterTTV-Twitch-Emotes.zip",
+    "UrlSourceCode": "https://github.com/Garulf/Betterttv-twitch-emotes/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Betterttv-twitch-emotes@main/icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-01-31T18:25:12Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

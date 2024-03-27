@@ -1,0 +1,14 @@
+{
+    "ID": "4e2018ca-4ed0-11ed-bdc3-0242ac120002",
+    "Name": "Cider",
+    "Description": "Control Cider and it's playback with Flow Launcher",
+    "Author": "Monochromish",
+    "Version": "1.1.1",
+    "Language": "javascript",
+    "Website": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider",
+    "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.1.1/Flow.Launcher.Plugin.Cider.zip",
+    "UrlSourceCode": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png",
+    "DateAdded": "2022-10-20T11:20:54Z",
+    "LatestReleaseDate": "2023-02-28T10:34:28Z"
+}

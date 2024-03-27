@@ -1,0 +1,14 @@
+{
+    "ID": "0ECADE17459B49F587BF81DC3A125110",
+    "Name": "Browser Bookmarks",
+    "Description": "Search your browser bookmarks",
+    "Author": "qianlifeng, Ioannis G.",
+    "Version": "3.1.5",
+    "Language": "csharp",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.BrowserBookmark/Images/bookmark.png",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark/releases/download/v3.1.5/Flow.Launcher.Plugin.BrowserBookmark.zip",
+    "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark",
+    "DateAdded": "2023-09-27T02:43:06Z",
+    "LatestReleaseDate": "2024-02-04T03:35:58Z"
+}

@@ -1,0 +1,14 @@
+{
+    "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
+    "Name": "IP Address",
+    "Description": "Shows your internal and external IP address",
+    "Author": "ishu3101",
+    "Version": "1.2.2",
+    "Language": "csharp",
+    "Website": "https://github.com/taooceros/Flow.Plugin.IPAddress",
+    "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.2/Flow.Plugin.IPAddress.zip",
+    "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png",
+    "LatestReleaseDate": "2022-07-20T20:25:51Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

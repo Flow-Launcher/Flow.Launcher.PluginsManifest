@@ -1,0 +1,15 @@
+{
+    "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",
+    "Name": "Statis",
+    "Description": "Useful statistics plugin",
+    "Author": "Ahmed ElSaeed",
+    "Version": "1.1.0",
+    "Language": "python",
+    "Website": "https://github.com/asmpro7/StatisFlow",
+    "UrlDownload": "https://github.com/asmpro7/StatisFlow/releases/download/v1.1.0/StatisFlow.zip",
+    "UrlSourceCode": "https://github.com/asmpro7/StatisFlow",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/asmpro7/StatisFlow@main/Images/app.png",
+    "Tested": true,
+    "DateAdded": "2023-05-12T14:34:13Z",
+    "LatestReleaseDate": "2023-09-08T09:26:46Z"
+}

@@ -1,0 +1,15 @@
+{
+    "ID": "6361A46C-D08C-49AB-AAA4-D19E1F2ABA0D",
+    "ActionKeyword": "base",
+    "Name": "Base Converter",
+    "Description": "Convert values from one base to another (for example decimal to hexadecimal, etc.)",
+    "Author": "gissehel",
+    "Version": "2.0.8",
+    "Language": "csharp",
+    "Website": "https://github.com/gissehel/BarLauncher-BaseConverter",
+    "UrlDownload": "https://github.com/gissehel/BarLauncher-BaseConverter/releases/download/v2.0.8/BarLauncher.BaseConverter.Flow.Launcher-2.0.8.zip",
+    "UrlSourceCode": "https://github.com/gissehel/BarLauncher-BaseConverter",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-BaseConverter/BarLauncher.BaseConverter.Flow.Launcher/BarLauncher-BaseConverter-64.png",
+    "LatestReleaseDate": "2022-03-13T13:35:25Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}
