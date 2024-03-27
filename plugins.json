@@ -2234,15 +2234,16 @@
         "LatestReleaseDate": "2024-03-05T09:06:58Z"
     },
     {
-        "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",  
+        "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",
         "Name": "Astro",
         "Description": "Search Astro Docs",
         "Author": "palmiak",
         "Version": "0.0.2",
         "Language": "javascript",
         "Website": "https://github.com/palmiak/astro-flow-launcher-plugin",
-        "UrlDownload":"https://github.com/palmiak/astro-flow-launcher-plugin/releases/download/v0.0.2/astrodocs-plugin-flow-launcher.zip",
+        "UrlDownload": "https://github.com/palmiak/astro-flow-launcher-plugin/releases/download/v0.0.2/astrodocs-plugin-flow-launcher.zip",
         "UrlSourceCode": "https://github.com/palmiak/astro-flow-launcher-plugin/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/palmiak/astro-flow-launcher-plugin@main/astro.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/palmiak/astro-flow-launcher-plugin@main/astro.png",
+        "DateAdded": "2024-03-27T10:39:02Z"
     }
 ]
