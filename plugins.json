@@ -2258,6 +2258,8 @@
         "Website": "https://github.com/z1nc0r3/remove.bg",
         "UrlDownload": "https://github.com/z1nc0r3/remove.bg/releases/download/v1.0.0/Flow.Launcher.Plugin.Remove.BG.zip",
         "UrlSourceCode": "https://github.com/z1nc0r3/remove.bg/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/remove.bg@main/Images/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/remove.bg@main/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2024-03-30T05:39:25Z"
     }
 ]
