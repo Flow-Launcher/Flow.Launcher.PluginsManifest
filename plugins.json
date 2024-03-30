@@ -2247,5 +2247,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/palmiak/astro-flow-launcher-plugin@main/astro.png",
         "DateAdded": "2024-03-27T10:39:02Z",
         "LatestReleaseDate": "2024-03-19T16:05:20Z"
+    },
+    {
+        "ID": "D2B1550D-7F24-4A9C-9952-2CF0A253A555",
+        "Name": "Remove.bg",
+        "Description": "Remove backgrounds from images",
+        "Author": "z1nc0r3",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/z1nc0r3/remove.bg",
+        "UrlDownload": "https://github.com/z1nc0r3/remove.bg/releases/download/v1.0.0/Flow.Launcher.Plugin.Remove.BG.zip",
+        "UrlSourceCode": "https://github.com/z1nc0r3/remove.bg/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/remove.bg@main/Images/app.png"
     }
 ]
