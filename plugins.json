@@ -1564,6 +1564,19 @@
         "LatestReleaseDate": "2023-05-20T21:26:54Z"
     },
     {
+        "ID": "BE59F950D3E746A399BD4334344F5A0F",
+    	"Name": "WinsFlowEnhanced",
+        "ActionKeyword": "w",
+        "Description": "Plugin to control your windows. Alternate version of WinFlow that uses powershell commands instead of nircmd. This eliminates some of the strange behavior nircmd caused with some applications, including FlowLauncher itself.",
+        "Author": "https://github.com/tdtrumble",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/tdtrumble/WinsFlowEnhanced",
+    	"UrlDownload":"https://github.com/tdtrumble/WinsFlowEnhanced/archive/refs/tags/v1.0.0.zip",
+    	"UrlSourceCode": "https://github.com/tdtrumble/WinsFlowEnhanced",
+        "IcoPath": "https://github.com/tdtrumble/WinsFlowEnhanced/blob/main/Images/app.png"
+    },
+    {
         "ID": "7d2d209d-5ab9-42dd-ae9b-2487b57ff569",
         "Name": "VolumeFlow",
         "Description": "Plugin for control your Sound Volume",
