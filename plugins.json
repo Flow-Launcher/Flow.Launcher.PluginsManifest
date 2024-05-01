@@ -2290,5 +2290,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/ptagx/Flow.Launcher.Plugin.StardewValleyWiki@main/icon.png",
         "DateAdded": "2024-05-08T07:34:04Z",
         "LatestReleaseDate": "2024-05-03T18:05:49Z"
+    },
+    {
+        "ID": "a6da9c8f-523f-4806-a140-45f10af18e21",
+        "Name": "KeePass2Flow",
+        "Description": "Hook up Flow to KeePass 2",
+        "Author": "geisterfurz007",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/geisterfurz007/KeePass2Flow",
+        "UrlDownload": "https://github.com/geisterfurz007/KeePass2Flow/releases/download/1.0.0/KeePass2Flow.zip",
+        "UrlSourceCode": "https://github.com/geisterfurz007/KeePass2Flow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png",
     }
 ]
