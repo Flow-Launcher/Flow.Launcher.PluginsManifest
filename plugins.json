@@ -2195,11 +2195,11 @@
         "Name": "Pokedex",
         "Description": "Search Pokemon",
         "Author": "Galedrim",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "python",
         "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main",
-        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/releases/download/v1.0.0/Flow.Launcher.Plugin.Pokedex.zip",
+        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/releases/download/v1.0.1/Flow.Launcher.Plugin.Pokedex.zip",
         "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main", 
-        "IcoPath": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main/Images/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Pokedex@main/Images/app.png"
     }
 ]
