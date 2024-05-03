@@ -2276,5 +2276,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
         "DateAdded": "2024-05-04T02:18:48Z",
         "LatestReleaseDate": "2024-04-16T14:03:35Z"
+    },
+    {
+        "ID": "E5CBD6900F7743059CCB66A44652E12A",
+        "Name": "StardewValleyWiki",
+        "Description": "A Flow Launcher plugin to search the Stardew Valley Wiki",
+        "Author": "ptagx",
+        "Version": "1.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/ptagx/Flow.Launcher.Plugin.StardewValleyWiki",
+        "UrlDownload": "https://github.com/ptagx/Flow.Launcher.Plugin.StardewValleyWiki/releases/download/v1.0.2/Flow.Launcher.Plugin.StardewValleyWiki.zip",
+        "UrlSourceCode": "https://github.com/ptagx/Flow.Launcher.Plugin.StardewValleyWiki/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ptagx/Flow.Launcher.Plugin.StardewValleyWiki@main/icon.png"
     }
 ]
