@@ -2296,10 +2296,10 @@
         "Name": "KeePass2Flow",
         "Description": "Hook up Flow to KeePass 2",
         "Author": "geisterfurz007",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/geisterfurz007/KeePass2Flow",
-        "UrlDownload": "https://github.com/geisterfurz007/KeePass2Flow/releases/download/1.0.0/KeePass2Flow.zip",
+        "UrlDownload": "https://github.com/geisterfurz007/KeePass2Flow/releases/download/1.1.0/KeePass2Flow.zip",
         "UrlSourceCode": "https://github.com/geisterfurz007/KeePass2Flow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png"
     }
