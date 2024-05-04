@@ -2277,6 +2277,7 @@
         "DateAdded": "2024-04-29T03:49:00Z",
         "LatestReleaseDate": "2024-04-29T03:49:00Z"
     },
+    {
         "ID": "dc27e477-0aff-45bf-801f-b09d3b843753",
         "Name": "FileZilla",
         "Description": "Launch FileZilla sessions",
