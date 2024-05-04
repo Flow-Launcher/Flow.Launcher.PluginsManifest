@@ -2273,6 +2273,7 @@
         "Website": "https://github.com/shaffe-fr/flow-filezilla",
         "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.0/Flow.Launcher.Plugin.FileZilla.zip",
         "UrlSourceCode": "https://github.com/shaffe-fr/flow-filezilla/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
+        "DateAdded": "2024-05-04T02:18:48Z"
     }
 ]
