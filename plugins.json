@@ -1267,20 +1267,6 @@
         "LatestReleaseDate": "2023-02-05T22:47:46Z"
     },
     {
-        "ID": "29d4e311-eb40-4943-bc94-9b733fc307c7",
-        "Name": "Vercel",
-        "Description": "View your Vercel projects.",
-        "Author": "Guilherme S. Sousa (@krteazy)",
-        "Version": "1.0.1",
-        "Language": "typescript",
-        "Website": "https://github.com/guilherssousa/flow-launcher-vercel-plugin",
-        "UrlDownload": "https://github.com/guilherssousa/flow-launcher-vercel-plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.Vercel.zip",
-        "UrlSourceCode": "https://github.com/guilherssousa/flow-launcher-vercel-plugin",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/guilherssousa/flow-launcher-vercel-plugin/icon.png",
-        "DateAdded": "2023-02-11T13:18:58Z",
-        "LatestReleaseDate": null
-    },
-    {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
         "Name": "How Long To Beat",
         "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
