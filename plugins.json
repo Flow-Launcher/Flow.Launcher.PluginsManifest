@@ -14,6 +14,20 @@
         "LatestReleaseDate": "2023-08-26T20:18:08Z"
     },
     {
+        "ID": "e375c983-bdea-4b5f-9325-ea71e44c1a08",
+        "Name": "Smart Timestamps",
+        "Description": "Generate smarter timestamps, look up dates, and copy them to your clipboard.",
+        "Author": "DustofShadows",
+        "Version": "1.0.1",
+        "Language": "javascript",
+        "Website": "https://github.com/DustofShadows/smart-timestamps-flowlauncher-plugin",
+        "UrlDownload": "https://github.com/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.SmartTimestamps.zip",
+        "UrlSourceCode": "https://github.com/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/DustofShadows/Smart-Timestamps-FlowLauncher-Plugin@main/icon.png",
+        "DateAdded": "2024-03-27T10:35:12Z",
+        "LatestReleaseDate": "2024-03-28T01:12:16Z"
+    },
+    {
         "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
         "Name": "Tailwindcss",
         "Description": "Search tailwindcss Docs",
@@ -274,14 +288,14 @@
         "Name": "Fancy Emoji",
         "Description": "Search for emoji and add to your clipboard automatically",
         "Author": "Mave",
-        "Version": "1.0.8",
+        "Version": "1.0.9",
         "Language": "python",
         "Website": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji",
-        "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.8/Flow.Launcher.Plugin.FancyEmoji.zip",
+        "UrlDownload": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/releases/download/1.0.9/Flow.Launcher.Plugin.FancyEmoji.zip",
         "UrlSourceCode": "https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ma-ve/Flow.Launcher.Plugin.FancyEmoji@master/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-07-09T19:22:40Z",
+        "LatestReleaseDate": "2024-03-12T08:40:07Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -557,13 +571,13 @@
         "Name": "VS Code Workspaces",
         "Description": "Search and open the previously used VS Code workspaces",
         "Author": "ricardosantos9521, taooceros",
-        "Version": "1.3.0",
+        "Version": "1.3.1",
         "Language": "csharp",
         "Website": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
-        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.3.0/Flow.Plugin.VSCodeWorkspaces-1.3.0.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.3.1/Flow.Plugin.VSCodeWorkspaces-1.3.1.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
-        "LatestReleaseDate": "2023-05-25T23:15:33Z",
+        "LatestReleaseDate": "2024-04-06T16:34:03Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -661,14 +675,14 @@
         "Name": "Github Notifications",
         "Description": "View your github notifications",
         "Author": "Garulf",
-        "Version": "4.0.3",
+        "Version": "4.0.4",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-notifications",
-        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v4.0.3/Github-Notifications.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v4.0.4/Github-Notifications.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-notifications/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-notifications@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2024-01-31T01:22:55Z",
+        "LatestReleaseDate": "2024-03-25T01:34:56Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1264,7 +1278,7 @@
         "UrlSourceCode": "https://github.com/guilherssousa/flow-launcher-vercel-plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/guilherssousa/flow-launcher-vercel-plugin/icon.png",
         "DateAdded": "2023-02-11T13:18:58Z",
-        "LatestReleaseDate": "2023-02-23T00:37:37Z"
+        "LatestReleaseDate": null
     },
     {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
@@ -1612,28 +1626,28 @@
         "Name": "Shortcuts",
         "Description": "Open user defined shortcut quickly from Flow Launcher",
         "Author": "Mantelis",
-        "Version": "1.1.4",
+        "Version": "1.1.5",
         "Language": "csharp",
         "Website": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin",
-        "UrlDownload": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/releases/download/v1.1.4/Flow.Launcher.Plugin.ShortcutPlugin.zip",
+        "UrlDownload": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/releases/download/v1.1.5/Flow.Launcher.Plugin.ShortcutPlugin.zip",
         "UrlSourceCode": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png",
         "DateAdded": "2023-08-20T03:55:23Z",
-        "LatestReleaseDate": "2024-02-04T16:01:48Z"
+        "LatestReleaseDate": "2024-04-05T10:02:12Z"
     },
     {
         "ID": "54545DC7B3A542DBB6C7DA50DEAD455B",
         "Name": "GamesLauncher",
         "Description": "Search and launch games from multiple platforms like Steam, Epic Games etc.",
         "Author": "KrystianLesniak",
-        "Version": "1.9.0",
+        "Version": "1.9.1",
         "Language": "csharp",
         "Website": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher",
-        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.9.0/GamesLauncher.zip",
+        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.9.1/GamesLauncher.zip",
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher@main/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-25T07:12:31Z",
-        "LatestReleaseDate": "2024-02-29T16:57:00Z"
+        "LatestReleaseDate": "2024-04-19T08:28:39Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
@@ -1712,29 +1726,29 @@
         "Name": "FabCalc",
         "Description": "Advanced algebric and symbolic Calculator",
         "Author": "Fabio",
-        "Version": "1.3.3",
+        "Version": "1.3.5",
         "Language": "python",
         "Website": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fabiochelly/Flow.Launcher.Plugin.FabCalc@main/fabcalc.png",
-        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.3.3/Flow.Launcher.Plugin.FabCalc.zip",
+        "UrlDownload": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc/releases/download/v1.3.5/Flow.Launcher.Plugin.FabCalc.zip",
         "UrlSourceCode": "https://github.com/fabiochelly/Flow.Launcher.Plugin.FabCalc",
         "Tested": true,
         "DateAdded": "2023-09-26T01:58:57Z",
-        "LatestReleaseDate": "2023-10-12T15:11:15Z"
+        "LatestReleaseDate": "2024-04-06T07:15:31Z"
     },
     {
         "ID": "0ECADE17459B49F587BF81DC3A125110",
         "Name": "Browser Bookmarks",
         "Description": "Search your browser bookmarks",
         "Author": "qianlifeng, Ioannis G.",
-        "Version": "3.1.5",
+        "Version": "3.2.0",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.BrowserBookmark/Images/bookmark.png",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark/releases/download/v3.1.5/Flow.Launcher.Plugin.BrowserBookmark.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark/releases/download/v3.2.0/Flow.Launcher.Plugin.BrowserBookmark.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:35:58Z"
+        "LatestReleaseDate": "2024-04-18T10:28:34Z"
     },
     {
         "ID": "CEA0FDFC6D3B4085823D60DC76F28855",
@@ -1755,14 +1769,14 @@
         "Name": "Explorer",
         "Description": "Find and manage files and folders via Windows Search or Everything",
         "Author": "Jeremy Wu",
-        "Version": "3.1.5",
+        "Version": "3.1.6",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.5/Flow.Launcher.Plugin.Explorer.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v3.1.6/Flow.Launcher.Plugin.Explorer.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-05T07:38:39Z"
+        "LatestReleaseDate": "2024-04-18T10:28:49Z"
     },
     {
         "ID": "6A122269676E40EB86EB543B945932B9",
@@ -1783,14 +1797,14 @@
         "Name": "Plugins Manager",
         "Description": "Management of installing, uninstalling or updating Flow Launcher plugins",
         "Author": "Jeremy Wu",
-        "Version": "3.1.0",
+        "Version": "3.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager/releases/download/v3.1.0/Flow.Launcher.Plugin.PluginsManager.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager/releases/download/v3.1.1/Flow.Launcher.Plugin.PluginsManager.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginsManager",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.PluginsManager/Images/pluginsmanager.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:36:31Z"
+        "LatestReleaseDate": "2024-04-18T10:28:55Z"
     },
     {
         "ID": "b64d0a79-329a-48b0-b53f-d658318a1bf6",
@@ -1811,42 +1825,42 @@
         "Name": "Program",
         "Description": "Search programs in Flow.Launcher",
         "Author": "qianlifeng",
-        "Version": "3.2.0",
+        "Version": "3.2.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v3.2.0/Flow.Launcher.Plugin.Program.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v3.2.1/Flow.Launcher.Plugin.Program.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Program/Images/program.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:36:46Z"
+        "LatestReleaseDate": "2024-04-18T10:29:05Z"
     },
     {
         "ID": "D409510CD0D2481F853690A07E6DC426",
         "Name": "Shell",
         "Description": "Provide executing commands from Flow Launcher",
         "Author": "qianlifeng",
-        "Version": "3.2.0",
+        "Version": "3.2.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell/releases/download/v3.2.0/Flow.Launcher.Plugin.Shell.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell/releases/download/v3.2.1/Flow.Launcher.Plugin.Shell.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Shell/Images/shell.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:36:51Z"
+        "LatestReleaseDate": "2024-04-18T10:29:10Z"
     },
     {
         "ID": "CEA08895D2544B019B2E9C5009600DF4",
         "Name": "System Commands",
         "Description": "Provide System related commands. e.g. shutdown,lock, setting etc.",
         "Author": "qianlifeng",
-        "Version": "3.1.1",
+        "Version": "3.1.2",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.1/Flow.Launcher.Plugin.Sys.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.2/Flow.Launcher.Plugin.Sys.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Sys/Images/lock.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-12T11:20:07Z"
+        "LatestReleaseDate": "2024-04-18T10:29:16Z"
     },
     {
         "ID": "0308FD86DE0A4DEE8D62B9B535370992",
@@ -1881,14 +1895,14 @@
         "Description": "Search settings inside Control Panel and Settings App",
         "Name": "Windows Settings",
         "Author": "TobiasSekan",
-        "Version": "4.0.6",
+        "Version": "4.0.7",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.6/Flow.Launcher.Plugin.WindowsSettings.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.7/Flow.Launcher.Plugin.WindowsSettings.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WindowsSettings/Images/WindowsSettings.light.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:37:14Z"
+        "LatestReleaseDate": "2024-04-18T10:29:22Z"
     },
     {
         "ID": "D8AF059F555C48A380AAD5D57B4A5D61",
@@ -2095,14 +2109,14 @@
         "Name": "URL Shortener",
         "Description": "Plugin to shorten URLs",
         "Author": "z1nc0r3",
-        "Version": "1.0.1",
+        "Version": "1.1.0",
         "Language": "python",
         "Website": "https://github.com/z1nc0r3/URL-Shortener-Plugin",
-        "UrlDownload": "https://github.com/z1nc0r3/URL-Shortener-Plugin/releases/download/v1.0.1/Flow.Launcher.Plugin.URL.Shortener.zip",
+        "UrlDownload": "https://github.com/z1nc0r3/URL-Shortener-Plugin/releases/download/v1.1.0/Flow.Launcher.Plugin.URL.Shortener.zip",
         "UrlSourceCode": "https://github.com/z1nc0r3/URL-Shortener-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/URL-Shortener-Plugin@main/Images/app.png",
         "DateAdded": "2024-02-04T05:17:00Z",
-        "LatestReleaseDate": "2024-03-04T16:17:12Z",
+        "LatestReleaseDate": "2024-03-11T10:07:53Z",
         "Tested": true
     },
     {
@@ -2125,14 +2139,14 @@
         "Name": "Notion",
         "Description": "A Plugin For Search, Create, Edit and Delete Notion Pages.",
         "Author": "Amin Salah",
-        "Version": "2.0.0",
+        "Version": "3.1.0",
         "Language": "csharp",
         "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion",
-        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion/releases/download/v2.0.0/Flow.Launcher.Plugin.Notion.zip",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion/releases/download/v3.1.0/Flow.Launcher.Plugin.Notion.zip",
         "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.Notion/tree/main/src",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.Notion@main/src/Images/app.png",
         "DateAdded": "2024-02-12T20:58:11Z",
-        "LatestReleaseDate": "2024-03-03T23:23:42Z"
+        "LatestReleaseDate": "2024-05-01T16:15:26Z"
     },
     {
         "ID": "3458F01618974683B339D53528A78573",
@@ -2153,14 +2167,14 @@
         "Name": "Win Hotkey",
         "Description": "Trigger Flow Launcher by Win Key.",
         "Author": "Amin Salah",
-        "Version": "3.1.0",
+        "Version": "4.0.0",
         "Language": "csharp",
         "Website": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey",
-        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/releases/download/v3.1.0/Flow.Launcher.Plugin.WinHotkey.zip",
+        "UrlDownload": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/releases/download/v4.0.0/Flow.Launcher.Plugin.WinHotkey.zip",
         "UrlSourceCode": "https://github.com/AminSallah/Flow.Launcher.Plugin.WinHotkey/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.WinHotkey@main/app.png",
         "DateAdded": "2024-02-22T06:54:14Z",
-        "LatestReleaseDate": "2024-03-06T12:59:52Z"
+        "LatestReleaseDate": "2024-05-01T16:15:54Z"
     },
     {
         "ID": "589CA535BD5041E78179C4F2D2F2D8FD",
@@ -2201,5 +2215,65 @@
         "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/releases/download/v1.0.1/Flow.Launcher.Plugin.Pokedex.zip",
         "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main", 
         "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Pokedex@main/Images/app.png"
+        "Tested": true,
+        "DateAdded": "2024-03-08T10:42:47Z",
+        "LatestReleaseDate": "2024-05-01T16:17:07Z"
+    },
+    {
+        "ID": "b6a9192c-6646-4c77-bc6b-be4f8195ffda",
+        "Name": "Date Calculator",
+        "Description": "Date Calculator using Flow's embedded python",
+        "Author": "jasonz3157",
+        "Version": "0.1.6",
+        "Language": "python",
+        "Website": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator",
+        "UrlDownload": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/releases/download/v0.1.6/Flow.Launcher.Plugin.DateCalculator.zip",
+        "UrlSourceCode": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jasonz3157/Flow.Plugin.DateCalculator@master/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2024-03-08T11:08:46Z",
+        "LatestReleaseDate": "2024-03-05T09:06:58Z"
+    },
+    {
+        "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",
+        "Name": "Astro",
+        "Description": "Search Astro Docs",
+        "Author": "palmiak",
+        "Version": "0.0.2",
+        "Language": "javascript",
+        "Website": "https://github.com/palmiak/astro-flow-launcher-plugin",
+        "UrlDownload": "https://github.com/palmiak/astro-flow-launcher-plugin/releases/download/v0.0.2/astrodocs-plugin-flow-launcher.zip",
+        "UrlSourceCode": "https://github.com/palmiak/astro-flow-launcher-plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/palmiak/astro-flow-launcher-plugin@main/astro.png",
+        "DateAdded": "2024-03-27T10:39:02Z",
+        "LatestReleaseDate": "2024-03-19T16:05:20Z"
+    },
+    {
+        "ID": "D2B1550D-7F24-4A9C-9952-2CF0A253A555",
+        "Name": "Remove.bg",
+        "Description": "Remove backgrounds from images",
+        "Author": "z1nc0r3",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/z1nc0r3/remove.bg",
+        "UrlDownload": "https://github.com/z1nc0r3/remove.bg/releases/download/v1.0.1/Flow.Launcher.Plugin.Remove.BG.zip",
+        "UrlSourceCode": "https://github.com/z1nc0r3/remove.bg/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/remove.bg@main/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2024-03-30T05:39:25Z",
+        "LatestReleaseDate": "2024-03-30T08:48:45Z"
+    },
+    {
+        "ID": "dc27e477-0aff-45bf-801f-b09d3b843753",
+        "Name": "FileZilla",
+        "Description": "Launch FileZilla sessions",
+        "Author": "Karel Faille",
+        "Version": "1.0.0",
+        "Language": "typescript",
+        "Website": "https://github.com/shaffe-fr/flow-filezilla",
+        "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.0/Flow.Launcher.Plugin.FileZilla.zip",
+        "UrlSourceCode": "https://github.com/shaffe-fr/flow-filezilla/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
+        "DateAdded": "2024-05-04T02:18:48Z"
     }
 ]
