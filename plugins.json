@@ -2275,7 +2275,7 @@
         "UrlSourceCode": "https://github.com/kosz78/Flow.Launcher.Plugin.WinSCP/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/kosz78/Flow.Launcher.Plugin.WinSCP/icon.png",
         "DateAdded": "2024-04-29T03:49:00Z",
-        "LatestReleaseDate": "2024-04-29T03:49:00Z"
+        "LatestReleaseDate": "2024-04-29T08:49:40Z"
     },
     {
         "ID": "dc27e477-0aff-45bf-801f-b09d3b843753",
@@ -2288,6 +2288,7 @@
         "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.0/Flow.Launcher.Plugin.FileZilla.zip",
         "UrlSourceCode": "https://github.com/shaffe-fr/flow-filezilla/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
-        "DateAdded": "2024-05-04T02:18:48Z"
+        "DateAdded": "2024-05-04T02:18:48Z",
+        "LatestReleaseDate": "2024-04-16T14:03:35Z"
     }
 ]
