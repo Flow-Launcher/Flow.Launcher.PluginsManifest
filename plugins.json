@@ -2276,5 +2276,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
         "DateAdded": "2024-05-04T02:18:48Z",
         "LatestReleaseDate": "2024-04-16T14:03:35Z"
+    },
+    {
+        "ID": "6ef46440-fc69-57a1-df6a-9f2d826bdfc0",
+        "Name": "SearchScrapbox",
+        "Description": "Find pages within a project in Scrapbox.",
+        "Author": "Ayasata",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/AyasataInfo/SearchScrapbox",
+        "UrlDownload": "https://github.com/AyasataInfo/SearchScrapbox/releases/download/ver1.0.0/Flow.Launcher.Plugin.SearchScrapbox.zip",
+        "UrlSourceCode": "https://github.com/AyasataInfo/SearchScrapbox/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AyasataInfo/SearchScrapbox/Images/app.png"
     }
 ]
