@@ -2301,6 +2301,7 @@
         "Website": "https://github.com/geisterfurz007/KeePass2Flow",
         "UrlDownload": "https://github.com/geisterfurz007/KeePass2Flow/releases/download/v1.1.1/KeePass2Flow.zip",
         "UrlSourceCode": "https://github.com/geisterfurz007/KeePass2Flow",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png",
+        "DateAdded": "2024-05-09T13:25:18Z"
     }
 ]
