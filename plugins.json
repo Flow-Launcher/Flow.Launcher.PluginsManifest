@@ -778,14 +778,14 @@
         "Name": "Browser History",
         "Description": "Search your Web Browser history",
         "Author": "Garulf",
-        "Version": "0.4.0",
+        "Version": "0.5.0",
         "Language": "python",
         "Website": "https://github.com/Garulf/browser-history",
-        "UrlDownload": "https://github.com/Garulf/Browser-History/releases/download/v0.4.0/Browser-History.zip",
+        "UrlDownload": "https://github.com/Garulf/Browser-History/releases/download/v0.5.0/Browser-History.zip",
         "UrlSourceCode": "https://github.com/Garulf/browser-history/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/browser-history@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2023-02-11T22:39:03Z",
+        "LatestReleaseDate": "2024-05-12T01:47:21Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
