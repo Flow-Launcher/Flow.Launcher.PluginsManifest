@@ -2304,5 +2304,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png",
         "DateAdded": "2024-05-09T13:25:18Z",
         "LatestReleaseDate": "2024-05-09T12:51:15Z"
+    },
+    {
+      "ID": "e483e4f2-ec67-3c54-2aea-f823c5e5f61b",  
+      "Name": "Lorem Ipsum Generator",
+      "Description": "Generates Lorem Ipsum and copies it to your clipboard.",
+      "Author": "Tom Kliner",
+      "Version": "1.0.0",
+      "Language": "python",
+      "Website": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+      "UrlDownload":"https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+      "UrlSourceCode": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+      "IcoPath": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator/blob/main/Images/app.png"
     }
 ]
