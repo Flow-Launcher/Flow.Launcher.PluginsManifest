@@ -2193,7 +2193,7 @@
     {
         "ID": "eda56b23-b5c5-48d9-be0d-05ccb907c86d",
         "Name": "Pokedex",
-        "Description": "Search Pokemon",
+        "Description": "Search Pokemon and Display useful infos about",
         "Author": "Galedrim",
         "Version": "1.0.2",
         "Language": "python",
