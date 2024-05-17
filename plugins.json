@@ -2306,6 +2306,20 @@
         "LatestReleaseDate": "2024-05-09T12:51:15Z"
     },
     {
+      "ID": "9a791986-e9d1-47f1-a342-5ec506135385",
+        "Name": "Timezone Conversion",
+        "Description": "Converts a time from one timezone to another",
+        "Author": "Josh Friedman",
+        "Version": "1.0.0",
+        "Language": "TypeScript",
+        "Website": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin",
+        "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin/releases/download/v1.0.0/TimezoneConversion-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin@main/assets/icon.png",
+        "DateAdded": "2024-05-17T06:12:12Z",
+        "LatestReleaseDate": "2024-05-16T02:53:07Z"
+    },
+    {
       "ID": "e483e4f2-ec67-3c54-2aea-f823c5e5f61b",  
       "Name": "Lorem Ipsum Generator",
       "Description": "Generates Lorem Ipsum and copies it to your clipboard.",
