@@ -2268,14 +2268,14 @@
         "Name": "FileZilla",
         "Description": "Launch FileZilla sessions",
         "Author": "Karel Faille",
-        "Version": "1.0.0",
+        "Version": "1.0.2",
         "Language": "typescript",
         "Website": "https://github.com/shaffe-fr/flow-filezilla",
-        "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.0/Flow.Launcher.Plugin.FileZilla.zip",
+        "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.2/Flow.Launcher.Plugin.FileZilla.zip",
         "UrlSourceCode": "https://github.com/shaffe-fr/flow-filezilla/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
         "DateAdded": "2024-05-04T02:18:48Z",
-        "LatestReleaseDate": "2024-04-16T14:03:35Z"
+        "LatestReleaseDate": "2024-05-22T13:56:14Z"
     },
     {
         "ID": "E5CBD6900F7743059CCB66A44652E12A",
