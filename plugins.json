@@ -1741,14 +1741,14 @@
         "Name": "Calculator",
         "Description": "Provide mathematical calculations.(Try 5*3-2 in Flow Launcher)",
         "Author": "cxfksword",
-        "Version": "3.1.0",
+        "Version": "3.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v3.1.0/Flow.Launcher.Plugin.Calculator.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v3.1.1/Flow.Launcher.Plugin.Calculator.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Calculator/Images/calculator.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:36:11Z"
+        "LatestReleaseDate": "2024-05-26T02:48:07Z"
     },
     {
         "ID": "572be03c74c642baae319fc283e561a8",
