@@ -2306,7 +2306,7 @@
         "LatestReleaseDate": "2024-05-09T12:51:15Z"
     },
     {
-        "ID": "9a791986-e9d1-47f1-a342-5ec506135385",
+      "ID": "9a791986-e9d1-47f1-a342-5ec506135385",
         "Name": "Timezone Conversion",
         "Description": "Converts a time from one timezone to another",
         "Author": "Josh Friedman",
@@ -2318,5 +2318,17 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin@main/assets/icon.png",
         "DateAdded": "2024-05-17T06:12:12Z",
         "LatestReleaseDate": "2024-05-24T03:13:31Z"
+    },
+    {
+      "ID": "e483e4f2-ec67-3c54-2aea-f823c5e5f61b",  
+      "Name": "Lorem Ipsum Generator",
+      "Description": "Generates Lorem Ipsum and copies it to your clipboard.",
+      "Author": "Tom Kliner",
+      "Version": "1.0.0",
+      "Language": "python",
+      "Website": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+      "UrlDownload":"https://github.com/Tomkov1c/Lorem-Ipsum-Generator/releases/download/v1.0.0/Flow.Launcher.Plugin.LoremIpsumGenerator.zip",
+      "UrlSourceCode": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+      "IcoPath": "https://cdn.jsdelivr.net/gh/Tomkov1c/Lorem-Ipsum-Generator@main/Images/app.png"
     }
 ]
