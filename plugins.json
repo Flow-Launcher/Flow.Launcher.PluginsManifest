@@ -1741,14 +1741,14 @@
         "Name": "Calculator",
         "Description": "Provide mathematical calculations.(Try 5*3-2 in Flow Launcher)",
         "Author": "cxfksword",
-        "Version": "3.1.0",
+        "Version": "3.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v3.1.0/Flow.Launcher.Plugin.Calculator.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v3.1.1/Flow.Launcher.Plugin.Calculator.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Calculator/Images/calculator.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2024-02-04T03:36:11Z"
+        "LatestReleaseDate": "2024-05-26T02:48:07Z"
     },
     {
         "ID": "572be03c74c642baae319fc283e561a8",
@@ -2024,14 +2024,14 @@
         "Name": "TerrariaWiki",
         "Description": "Plugin to search the Terraria wiki with",
         "Author": "jonesy-b-dev",
-        "Version": "1.1.1",
+        "Version": "2.1",
         "Language": "csharp",
         "Website": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin",
-        "UrlDownload": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/releases/download/v1.1.1/Flow.Launcher.Plugin.TerrariaWiki.zip",
+        "UrlDownload": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/releases/download/v2.1/Flow.Launcher.Plugin.TerrariaWiki.zip",
         "UrlSourceCode": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jonesy-b-dev/TerrariaWiki-flow-Plugin@main/TerrariaWiki/Flow.Launcher.Plugin.TerrariaWiki/icon.png",
         "DateAdded": "2024-01-25T22:14:40Z",
-        "LatestReleaseDate": "2024-01-25T18:21:55Z"
+        "LatestReleaseDate": "2024-05-29T11:00:38Z"
     },
     {
         "ID": "27ad17d5-dacb-4732-9653-03def5f86125",
@@ -2310,15 +2310,30 @@
         "Name": "Timezone Conversion",
         "Description": "Converts a time from one timezone to another",
         "Author": "Josh Friedman",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "TypeScript",
         "Website": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin",
-        "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin/releases/download/v1.0.0/TimezoneConversion-1.0.0.zip",
+        "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin/releases/download/v1.1.0/TimezoneConversion-1.1.0.zip",
         "UrlSourceCode": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin@main/assets/icon.png",
         "DateAdded": "2024-05-17T06:12:12Z",
         "LatestReleaseDate": "2024-05-16T02:53:07Z"
     },
+    {
+        "ID": "e483e4f2-ec67-3c54-2aea-f823c5e5f61b",
+        "Name": "Lorem Ipsum Generator",
+        "Description": "Generates Lorem Ipsum and copies it to your clipboard.",
+        "Author": "Tom Kliner",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+        "UrlDownload": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator/releases/download/v1.0.0/Flow.Launcher.Plugin.LoremIpsumGenerator.zip",
+        "UrlSourceCode": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Tomkov1c/Lorem-Ipsum-Generator@main/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2024-05-29T12:24:56Z",
+        "LatestReleaseDate": "2024-05-22T15:41:39Z"
+    }
     {
         "ID": "8EC2CDFB9A8C4CC0A49CC61F158510F2",  
         "Name": "Wallpaper Searcher",
@@ -2327,8 +2342,8 @@
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher",
-        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher/releases/download/Release-v1.0.0/WallpaperSearcher.zip",
+        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher/releases/download/v1.0.0/Flow.Launcher.Plugin.WallpaperSearcher.zip",
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher@main/Images/icon.png"
-    }
+    },
 ]
