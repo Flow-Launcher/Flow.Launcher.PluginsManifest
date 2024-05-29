@@ -2329,7 +2329,7 @@
       "Website": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
       "UrlDownload":"https://github.com/Tomkov1c/Lorem-Ipsum-Generator/releases/download/v1.0.0/Flow.Launcher.Plugin.LoremIpsumGenerator.zip",
       "UrlSourceCode": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
-      "IcoPath": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator/blob/main/Images/app.png"
+      "IcoPath": "https://cdn.jsdelivr.net/gh/Tomkov1c/Lorem-Ipsum-Generator@main/Images/app.png"
       "LatestReleaseDate": "2024-05-24T03:13:31Z"
     }
 ]
