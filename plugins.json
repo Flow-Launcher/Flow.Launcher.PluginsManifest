@@ -2024,14 +2024,14 @@
         "Name": "TerrariaWiki",
         "Description": "Plugin to search the Terraria wiki with",
         "Author": "jonesy-b-dev",
-        "Version": "2.1",
+        "Version": "3.0",
         "Language": "csharp",
         "Website": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin",
-        "UrlDownload": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/releases/download/v2.1/Flow.Launcher.Plugin.TerrariaWiki.zip",
+        "UrlDownload": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/releases/download/v3.0/Flow.Launcher.Plugin.TerrariaWiki.zip",
         "UrlSourceCode": "https://github.com/jonesy-b-dev/TerrariaWiki-flow-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jonesy-b-dev/TerrariaWiki-flow-Plugin@main/TerrariaWiki/Flow.Launcher.Plugin.TerrariaWiki/icon.png",
         "DateAdded": "2024-01-25T22:14:40Z",
-        "LatestReleaseDate": "2024-05-29T11:00:38Z"
+        "LatestReleaseDate": "2024-06-01T15:59:38Z"
     },
     {
         "ID": "27ad17d5-dacb-4732-9653-03def5f86125",
