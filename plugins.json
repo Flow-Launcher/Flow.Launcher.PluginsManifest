@@ -2334,7 +2334,7 @@
         "DateAdded": "2024-05-29T12:24:56Z",
         "LatestReleaseDate": "2024-05-22T15:41:39Z"
     }
-    {
+    ,{
         "ID": "8EC2CDFB9A8C4CC0A49CC61F158510F2",  
         "Name": "Wallpaper Searcher",
         "Description": "A plugin for quickly searching for wallpapers",
