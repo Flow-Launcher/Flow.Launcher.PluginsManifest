@@ -2346,5 +2346,17 @@
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher@main/Images/icon.png",
         "DateAdded": "2024-06-08T01:22:39Z"
+    },
+    {
+        "ID": "6ef46440-fc69-57a1-df6a-9f2d826bdfc0",
+        "Name": "SearchScrapbox",
+        "Description": "Find pages within a project in Scrapbox.",
+        "Author": "Ayasata",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/AyasataInfo/SearchScrapbox",
+        "UrlDownload": "https://github.com/AyasataInfo/SearchScrapbox/releases/download/v1.0.0/SearchScrapbox.zip",
+        "UrlSourceCode": "https://github.com/AyasataInfo/SearchScrapbox/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AyasataInfo/SearchScrapbox/Images/app.png"
     }
 ]
