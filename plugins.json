@@ -2362,5 +2362,20 @@
         "Tested": true,
         "DateAdded": "2024-06-08T01:35:50Z",
         "LatestReleaseDate": "2024-05-30T04:13:49Z"
+    },
+    {
+        "ID": "EEC889D32E2A4F7FA7153C32B0C048F6",
+        "Name": "IP Details",
+        "Description": "Retrieve current public IP details/lookup or by providing an IP address. Optionally, include an API key for ipapi.is to take advantage of up to 1000 free requests per day.",
+        "Author": "ibnuh",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails",
+        "UrlDownload": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/releases/download/1.0.0/Flow.Launcher.Plugin.IPDetails.zip",
+        "UrlSourceCode": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ibnuh/Flow.Launcher.Plugin.IPDetails/Flow.Launcher.Plugin.IPDetails/images/icon.png",
+        "Tested": true,
+        "DateAdded": "2024-06-09T07:13:50Z",
+        "LatestReleaseDate": "2024-06-09T07:13:50Z"
     }
 ]
