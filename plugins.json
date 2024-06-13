@@ -2371,7 +2371,7 @@
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails",
-        "UrlDownload": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/releases/download/1.0.0/Flow.Launcher.Plugin.IPDetails.zip",
+        "UrlDownload": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/releases/download/v1.0.0/Flow.Launcher.Plugin.IPDetails.zip",
         "UrlSourceCode": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ibnuh/Flow.Launcher.Plugin.IPDetails/Flow.Launcher.Plugin.IPDetails/images/icon.png"
     }
