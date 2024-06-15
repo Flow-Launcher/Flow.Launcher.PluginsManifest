@@ -2374,6 +2374,7 @@
         "UrlDownload": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/releases/download/v1.0.0/Flow.Launcher.Plugin.IPDetails.zip",
         "UrlSourceCode": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ibnuh/Flow.Launcher.Plugin.IPDetails/Flow.Launcher.Plugin.IPDetails/images/icon.png",
-        "DateAdded": "2024-06-15T10:14:01Z"
+        "DateAdded": "2024-06-15T10:14:01Z",
+        "LatestReleaseDate": "2024-06-13T14:10:31Z"
     }
 ]
