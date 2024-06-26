@@ -2388,6 +2388,6 @@
       "ExecuteFileName": "main.py",
       "UrlDownload":"https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc/releases/download/v1.0.0/Flow.Plugin.SudokuKillerCalc.zip",
       "UrlSourceCode": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
-      "IcoPath": "https://raw.githubusercontent.com/alexdeloy/Flow.Plugin.SudokuKillerCalc/master/icon-search.png"
+      "IcoPath": "https://cdn.jsdelivr.net/gh/alexdeloy/Flow.Plugin.SudokuKillerCalc/icon-search.png"
     }    
 ]
