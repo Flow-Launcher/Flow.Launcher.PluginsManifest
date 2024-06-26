@@ -2376,5 +2376,18 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/ibnuh/Flow.Launcher.Plugin.IPDetails/Flow.Launcher.Plugin.IPDetails/images/icon.png",
         "DateAdded": "2024-06-15T10:14:01Z",
         "LatestReleaseDate": "2024-06-13T14:10:31Z"
-    }
+    },
+    {
+      "ID": "9A30A1AFC6719927B20DFEFFA9DCD50D",
+      "Name": "Killer Sudoku Calculator",
+      "Description": "Calculates the combinations for a sudoku killer cage",
+      "Author": "alexdeloy",
+      "Version": "1.0.0",
+      "Language": "python",
+      "Website": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
+      "ExecuteFileName": "main.py",
+      "UrlDownload":"https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc/releases/download/v1.0.0/Flow.Plugin.SudokuKillerCalc.zip",
+      "UrlSourceCode": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
+      "IcoPath": "https://cdn.jsdelivr.net/gh/alexdeloy/Flow.Plugin.SudokuKillerCalc/icon-search.png"
+    }    
 ]
