@@ -2390,6 +2390,7 @@
         "UrlSourceCode": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
         "IcoPath": "https://cdn.jsdelivr.net/gh/alexdeloy/Flow.Plugin.SudokuKillerCalc/icon-search.png",
         "Tested": true,
-        "DateAdded": "2024-06-26T07:56:06Z"
+        "DateAdded": "2024-06-26T07:56:06Z",
+        "LatestReleaseDate": "2024-06-26T00:33:11Z"
     }
 ]
