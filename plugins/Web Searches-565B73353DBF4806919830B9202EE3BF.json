@@ -3,12 +3,12 @@
     "Name": "Web Searches",
     "Description": "Provide the web search ability",
     "Author": "qianlifeng",
-    "Version": "3.0.6",
+    "Version": "3.0.7",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.6/Flow.Launcher.Plugin.WebSearch.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v3.0.7/Flow.Launcher.Plugin.WebSearch.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WebSearch/Images/web_search.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2024-02-04T03:37:07Z"
+    "LatestReleaseDate": "2024-02-12T11:20:21Z"
 }
