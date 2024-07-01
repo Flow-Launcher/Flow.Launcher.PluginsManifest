@@ -2403,6 +2403,6 @@
         "Website": "https://github.com/PederBirk/Flow.Launcher.Plugin.MediaControl",
         "UrlDownload": "https://github.com/PederBirk/Flow.Launcher.Plugin.MediaControl/releases/download/v1.0.1/Flow.Launcher.Plugin.MediaControl.zip",
         "UrlSourceCode": "https://github.com/PederBirk/Flow.Launcher.Plugin.MediaControl/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/PederBirk/Flow.Launcher.Plugin.MediaControl/images/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/PederBirk/Flow.Launcher.Plugin.MediaControl@main/images/icon.png"
     }
 ]
