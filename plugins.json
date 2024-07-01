@@ -2392,5 +2392,17 @@
         "Tested": true,
         "DateAdded": "2024-06-26T07:56:06Z",
         "LatestReleaseDate": "2024-06-26T00:33:11Z"
+    },
+    {
+        "ID": "a0d7601f81a942e58b4952be3eb17fb2",
+        "Name": "Timer",
+        "Description": "Set timers and alarms.",
+        "Author": "pivotiiii",
+        "Version": "1.0.0",
+        "Language": "JavaScript",
+        "Website": "https://github.com/pivotiiii/flow_launcher_timer",
+        "UrlDownload": "https://github.com/pivotiiii/flow_launcher_timer/releases/download/v1.0.0/pivotiiii.Flow-Plugin.Timer.zip",
+        "UrlSourceCode": "https://github.com/pivotiiii/flow_launcher_timer",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/pivotiiii/flow_launcher_timer@main/img/app.png",
     }
 ]
