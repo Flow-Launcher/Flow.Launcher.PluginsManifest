@@ -7,7 +7,6 @@ from os import getenv
 from sys import argv
 import traceback
 
-import requests
 from tqdm.asyncio import tqdm
 
 from _utils import *
