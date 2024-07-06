@@ -1,3 +1,5 @@
+# winget install nushell
+
 let plugins = open "plugins.json"
 
 for plugin in $plugins {
