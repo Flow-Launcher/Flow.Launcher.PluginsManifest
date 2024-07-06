@@ -1,0 +1,15 @@
+{
+    "ID": "73f2c04d-176a-4586-9ff5-69fae63321ef",
+    "Name": "General Converter",
+    "Description": "General weights and measures converter",
+    "Author": "deefrawley",
+    "Version": "2.0.1",
+    "Language": "python",
+    "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
+    "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v2.0.1/Flow.Launcher.Plugin.GenConvert.zip",
+    "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico",
+    "Tested": true,
+    "LatestReleaseDate": "2023-04-13T11:32:43Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

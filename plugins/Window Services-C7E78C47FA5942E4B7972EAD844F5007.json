@@ -1,0 +1,15 @@
+{
+    "ID": "C7E78C47FA5942E4B7972EAD844F5007",
+    "Name": "Window Services",
+    "Description": "Start and stop Windows services.",
+    "Author": "Garulf",
+    "Version": "1.1.5",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/window-services",
+    "UrlDownload": "https://github.com/Garulf/window-services/releases/download/v1.1.5/window-services.zip",
+    "UrlSourceCode": "https://github.com/Garulf/window-services/tree/main",
+    "IcoPath": "https://github.com/Garulf/window-services/raw/c78cdb4b51c62fb09d860dad143c8773c686c967/icons/cog.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-07-27T03:34:34Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

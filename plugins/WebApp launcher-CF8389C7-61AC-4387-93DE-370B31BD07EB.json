@@ -1,0 +1,15 @@
+{
+    "ID": "CF8389C7-61AC-4387-93DE-370B31BD07EB",
+    "ActionKeyword": "wap",
+    "Name": "WebApp launcher",
+    "Description": "Start a URL in a webapp mode",
+    "Author": "gissehel",
+    "Version": "2.0.16",
+    "Language": "csharp",
+    "Website": "https://github.com/gissehel/BarLauncher-WebApp",
+    "UrlDownload": "https://github.com/gissehel/BarLauncher-WebApp/releases/download/v2.0.16/BarLauncher.WebApp.Flow.Launcher-2.0.16.zip",
+    "UrlSourceCode": "https://github.com/gissehel/BarLauncher-WebApp",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-WebApp/BarLauncher.WebApp.Flow.Launcher/BarLauncher-WebApp-64.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-04-27T22:12:36Z"
+}
