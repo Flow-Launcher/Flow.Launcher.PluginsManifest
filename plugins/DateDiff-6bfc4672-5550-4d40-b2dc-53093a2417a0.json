@@ -1,0 +1,14 @@
+{
+    "ID": "6bfc4672-5550-4d40-b2dc-53093a2417a0",
+    "Name": "DateDiff",
+    "Description": "Difference between two dates (documentation on website)",
+    "Author": "LeoDupont",
+    "Version": "1.1.0",
+    "Language": "executable",
+    "Website": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff",
+    "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/releases/download/v1.1.0/Flow.Launcher.Plugin.DateDiff.zip",
+    "UrlSourceCode": "https://github.com/LeoDupont/Flow.Launcher.Plugin.DateDiff/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.DateDiff@main/images/icon.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-04-26T20:30:57Z"
+}

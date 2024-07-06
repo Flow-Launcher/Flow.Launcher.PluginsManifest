@@ -1,0 +1,15 @@
+{
+    "ID": "F0DC45CD032F438C9B900679BD9B117A",
+    "Name": "Obsidian Notes",
+    "Description": "Search Obsidian notes",
+    "Author": "Garulf",
+    "Version": "1.1.4",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/obsidian-notes",
+    "UrlDownload": "https://github.com/Garulf/Obsidian-Notes/releases/download/v1.1.4/Obsidian-Notes.zip",
+    "UrlSourceCode": "https://github.com/Garulf/obsidian-notes/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/obsidian-notes@main/icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-09-13T04:07:27Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

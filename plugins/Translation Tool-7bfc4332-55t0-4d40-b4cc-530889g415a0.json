@@ -1,0 +1,14 @@
+{
+    "ID": "7bfc4332-55t0-4d40-b4cc-530889g415a0",
+    "Name": "Translation Tool",
+    "Description": "A translation plugin by Baidu Translate",
+    "Author": "qjc",
+    "Version": "1.3.0",
+    "Language": "javascript",
+    "Website": "https://github.com/qjcXu/Flow.Launcher.Translation",
+    "UrlDownload": "https://github.com/qjcXu/Flow.Launcher.Translation/releases/download/v1.3.0/Flow.Launcher.Translation-1.3.0.zip",
+    "UrlSourceCode": "https://github.com/qjcXu/Flow.Launcher.Translation",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/qjcXu/Flow.Launcher.Translation/src/assets/images/app.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2023-05-19T13:55:58Z"
+}
