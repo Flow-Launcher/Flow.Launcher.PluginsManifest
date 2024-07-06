@@ -1,0 +1,15 @@
+{
+    "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
+    "ActionKeyword": "work",
+    "Name": "Workspacer",
+    "Description": "Create and manage workspaces",
+    "Author": "gissehel",
+    "Version": "2.0.6",
+    "Language": "csharp",
+    "Website": "https://github.com/gissehel/BarLauncher-Workspacer",
+    "UrlDownload": "https://github.com/gissehel/BarLauncher-Workspacer/releases/download/v2.0.6/BarLauncher.Workspacer.Flow.Launcher-2.0.6.zip",
+    "UrlSourceCode": "https://github.com/gissehel/BarLauncher-Workspacer",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-Workspacer/BarLauncher.Workspacer.Flow.Launcher/BarLauncher-Workspacer-64.png",
+    "LatestReleaseDate": "2022-03-13T13:14:25Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

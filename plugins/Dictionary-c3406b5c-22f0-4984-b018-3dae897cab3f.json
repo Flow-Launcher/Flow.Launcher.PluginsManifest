@@ -1,0 +1,14 @@
+{
+    "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
+    "Name": "Dictionary",
+    "Description": "English dictionary, word correction and synonym.",
+    "Author": "Harry Yu",
+    "Version": "2.3.2",
+    "Language": "csharp",
+    "Website": "https://github.com/harrynull/Flow.Launcher.Dictionary",
+    "UrlDownload": "https://github.com/harrynull/Flow.Launcher.Dictionary/releases/download/v2.3.2/Dictionary.zip",
+    "UrlSourceCode": "https://github.com/harrynull/Flow.Launcher.Dictionary/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/harrynull/Flow.Launcher.Dictionary@main/Images/plugin.png",
+    "LatestReleaseDate": "2022-10-28T22:57:01Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

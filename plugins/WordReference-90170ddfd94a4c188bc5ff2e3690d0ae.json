@@ -1,0 +1,14 @@
+{
+    "ID": "90170ddfd94a4c188bc5ff2e3690d0ae",
+    "Name": "WordReference",
+    "Description": "WordReference translations (es, en, fr, it)",
+    "Author": "LeoDupont",
+    "Version": "1.0.1",
+    "Language": "executable",
+    "Website": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference",
+    "UrlDownload": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference/releases/download/v1.0.1/Flow.Launcher.Plugin.WordReference.zip",
+    "UrlSourceCode": "https://github.com/LeoDupont/Flow.Launcher.Plugin.WordReference/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.WordReference@main/images/favicon-32x32.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-04-26T20:21:39Z"
+}

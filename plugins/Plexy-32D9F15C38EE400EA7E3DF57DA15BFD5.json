@@ -1,0 +1,15 @@
+{
+    "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
+    "Name": "Plexy",
+    "Description": "Search and cast your Plex Media Server Library",
+    "Author": "Garulf",
+    "Version": "2.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/plexy",
+    "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v2.0.0/Plexy.zip",
+    "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-09-08T10:27:22Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}
