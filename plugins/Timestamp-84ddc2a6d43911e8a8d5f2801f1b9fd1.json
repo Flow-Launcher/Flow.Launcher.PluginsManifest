@@ -1,0 +1,15 @@
+{
+    "ID": "84ddc2a6d43911e8a8d5f2801f1b9fd1",
+    "Name": "Timestamp",
+    "Description": "Show system time and could copy that",
+    "Author": "Zero <Zeroto521>",
+    "Version": "1.0.8",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/Flow.Launcher.Plugin.Timestamp",
+    "UrlDownload": "https://github.com/Garulf/Flow.Launcher.Plugin.Timestamp/releases/download/v1.0.8/Flow.Launcher.Plugin.TimeStamp.zip",
+    "UrlSourceCode": "https://github.com/Garulf/Flow.Launcher.Plugin.Timestamp",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Flow.Launcher.Plugin.Timestamp@master/assets/favicon.ico",
+    "Tested": true,
+    "LatestReleaseDate": "2021-12-11T09:53:48Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

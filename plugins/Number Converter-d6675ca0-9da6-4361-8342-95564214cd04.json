@@ -1,0 +1,15 @@
+{
+    "ID": "d6675ca0-9da6-4361-8342-95564214cd04",
+    "Name": "Number Converter",
+    "Description": "Convert numbers between dec/oct/hex/bin",
+    "Author": "liberize",
+    "Version": "1.0.2",
+    "Language": "python",
+    "Website": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter",
+    "UrlDownload": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/releases/download/v1.0.2/Flow.Launcher.Plugin.NumberConverter.zip",
+    "UrlSourceCode": "https://github.com/liberize/Flow.Launcher.Plugin.NumberConverter/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/liberize/Flow.Launcher.Plugin.NumberConverter@main/Images/app.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-07-01T12:44:16Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

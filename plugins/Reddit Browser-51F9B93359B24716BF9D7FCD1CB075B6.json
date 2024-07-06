@@ -1,0 +1,15 @@
+{
+    "ID": "51F9B93359B24716BF9D7FCD1CB075B6",
+    "Name": "Reddit Browser",
+    "Description": "Search and browse Reddit",
+    "Author": "Garulf",
+    "Version": "1.0.2",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/reddit-browser",
+    "UrlDownload": "https://github.com/Garulf/Reddit-Browser/releases/download/v1.0.2/Reddit-Browser.zip",
+    "UrlSourceCode": "https://github.com/Garulf/reddit-browser/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/reddit-browser@main/icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-01-06T15:47:03Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

@@ -10,7 +10,7 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
 
 ## How to submit your plugin
 
-Add your plugin by updating the plugins.json file with the following details via a pull request:
+Add your plugin by adding a file in _plugins_ directory named "${name}-${uuid}.json" with the following details via a pull request:
 
 ```json
 {
