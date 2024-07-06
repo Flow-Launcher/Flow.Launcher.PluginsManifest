@@ -2392,17 +2392,5 @@
         "Tested": true,
         "DateAdded": "2024-06-26T07:56:06Z",
         "LatestReleaseDate": "2024-06-26T00:33:11Z"
-    },
-    {
-        "ID": "53fcad7f00e244829b0059eaa8ea5ab7",
-        "Name": "Yu-Gi-Oh! card search",
-        "Description": "Searches for Yu-Gi-Oh! cards on ygoprodeck.com",
-        "Author": "pivotiiii",
-        "Version": "1.1.0",
-        "Language": "JavaScript",
-        "Website": "https://github.com/pivotiiii/flow_launcher_ygo",
-        "UrlDownload": "https://github.com/pivotiiii/flow_launcher_ygo/releases/download/v1.1.0/pivotiiii.Flow-Plugin.Yu-Gi-Oh-Search.zip",
-        "UrlSourceCode": "https://github.com/pivotiiii/flow_launcher_ygo/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/pivotiiii/flow_launcher_ygo@main/img/app.png"
     }
 ]
