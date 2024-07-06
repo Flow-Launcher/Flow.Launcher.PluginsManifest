@@ -1,0 +1,14 @@
+{
+    "ID": "F8775498-BD72-4ECA-893F-B33863D81CB5",
+    "Name": "Unity Engine",
+    "Description": "Launch Unity Projects",
+    "Author": "LeLocTai",
+    "Version": "1.0.2",
+    "Language": "csharp",
+    "Website": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine",
+    "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine/releases/download/v1.0.2/Flow.Launcher.Plugin.UnityEngine.zip",
+    "UrlSourceCode": "https://github.com/LeLocTai/Flow.Launcher.Plugin.UnityEngine",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.UnityEngine@master/Images/unity.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-10-22T08:36:17Z"
+}

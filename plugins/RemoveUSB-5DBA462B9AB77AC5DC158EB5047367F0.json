@@ -1,0 +1,15 @@
+{
+    "ID": "5DBA462B9AB77AC5DC158EB5047367F0",
+    "Name": "RemoveUSB",
+    "Description": "Removes USB drives",
+    "Author": "Jonas A. Wendorf",
+    "Version": "1.1.0",
+    "Language": "python",
+    "Website": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB",
+    "IcoPath": "https://cdn.statically.io/gh/jonasw234/FlowLauncher.Plugin.RemoveUSB/main/icon/usb_stick.png",
+    "UrlSourceCode": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB",
+    "UrlDownload": "https://github.com/jonasw234/FlowLauncher.Plugin.RemoveUSB/releases/download/v1.1.0/Flow.Launcher.Plugin.RemoveUSB.zip",
+    "Tested": true,
+    "DateAdded": "2023-04-25T11:24:27Z",
+    "LatestReleaseDate": "2023-09-26T09:46:13Z"
+}
