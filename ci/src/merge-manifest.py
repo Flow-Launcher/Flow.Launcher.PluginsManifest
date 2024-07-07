@@ -11,5 +11,5 @@ if __name__ == "__main__":
             manifest = json.load(f)
             manifests.append(manifest)
 
-    with open("plugins.json", "w") as f:
-        json.dump(manifests, f, indent=4)
+    with open("plugins.json", "w", encoding="utf-8") as f:
+        json.dump(manifests, f, indent=4, ensure_ascii=False)
