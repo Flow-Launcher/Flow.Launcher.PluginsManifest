@@ -30,7 +30,7 @@ jobs:
       with:
         filters: |
           plugins:
-            - 'plugins.json'
+            - 'plugins/*.json'
   test-run-plugin:
     needs: skip_check_job
     if: ${{ needs.skip_check_job.outputs.plugins == 'true' }}
