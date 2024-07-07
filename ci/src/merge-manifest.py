@@ -1,9 +1,8 @@
-import os
-from os import path
+import glob
 import json
 
 if __name__ == "__main__":
-    plugins = [file for file in os.listdir("plugins") if path.isfile(file) and file.endswith("json")]
+    plugins = glob.glob("plugins/*.json")
 
     manifests = []
 
@@ -14,4 +13,3 @@ if __name__ == "__main__":
 
     with open("plugins.json", "w") as f:
         json.dump(manifests, f, indent=4)
-        
