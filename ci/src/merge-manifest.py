@@ -7,7 +7,7 @@ if __name__ == "__main__":
     manifests = []
 
     for plugin in plugins:
-        with open(plugin, "r") as f:
+        with open(plugin, "r", encoding="utf-8") as f:
             manifest = json.load(f)
             manifests.append(manifest)
 
