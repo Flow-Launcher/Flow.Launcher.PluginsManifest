@@ -13,7 +13,7 @@ jobs:
         uses: fkirc/skip-duplicate-actions@master
         with:
           skip_after_successful_duplicate: 'true'
-          paths: "plugins/*.json"
+          paths: '["plugins/*.json"]'
   test:
     needs: skip_check_job
     if: ${{ needs.pre_job.outputs.should_skip != 'true' }}
