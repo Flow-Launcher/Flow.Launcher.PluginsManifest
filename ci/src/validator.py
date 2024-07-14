@@ -5,11 +5,11 @@ plugin_infos = plugin_reader()
 
 
 def test_uuid_unique():
-    uuids = [info[id_name] for info in plugin_infos]
-    uuids = [clean(uuid) for uuid in uuids]
+    uuids = [clean(info[id_name]) for info in plugin_infos]
+    duplicates = set([id for id in uuids if uuids.count(id) > 1])
 
-    msg = f"The '{id_name}' is not unique."
-    assert len(uuids) == len(set(uuids)), msg
+    msg = f"{id_name} not unique: {duplicates}"
+    assert len(duplicates) == 0, msg
 
 
 def test_language_in_list():
