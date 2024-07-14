@@ -27,4 +27,4 @@ def test_valid_icon_url():
 def test_file_type_json():
     incorrect_ext_files = [file for file in get_plugin_files() if not file.endswith(".json")]
 
-    assert incorrect_ext_files == 0, f"Expected the following file to be of .json extension: {incorrect_ext_files}"
+    assert len(incorrect_ext_files) == 0, f"Expected the following file to be of .json extension: {incorrect_ext_files}"
