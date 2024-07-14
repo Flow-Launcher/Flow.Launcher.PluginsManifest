@@ -1,15 +1,15 @@
 # -*-coding: utf-8 -*-
-from _utils import clean, id_name, language_list, language_name, plugin_reader, check_url, icon_path
+from _utils import clean, id_name, language_list, language_name, plugin_reader, check_url, icon_path, get_plugin_files
 
 plugin_infos = plugin_reader()
 
 
 def test_uuid_unique():
-    uuids = [info[id_name] for info in plugin_infos]
-    uuids = [clean(uuid) for uuid in uuids]
+    uuids = [clean(info[id_name]) for info in plugin_infos]
+    duplicates = set([id for id in uuids if uuids.count(id) > 1])
 
-    msg = f"The '{id_name}' is not unique."
-    assert len(uuids) == len(set(uuids)), msg
+    msg = f"{id_name} not unique: {duplicates}"
+    assert len(duplicates) == 0, msg
 
 
 def test_language_in_list():
@@ -23,3 +23,8 @@ def test_valid_icon_url():
     for plugin in plugin_infos:
         msg = f"The URL in {icon_path} is not a valid URL."
         assert check_url(plugin[icon_path]), msg
+
+def test_file_type_json():
+    incorrect_ext_files = [file for file in get_plugin_files() if not file.endswith(".json")]
+
+    assert len(incorrect_ext_files) == 0, f"Expected the following file to be of .json extension: {incorrect_ext_files}"
