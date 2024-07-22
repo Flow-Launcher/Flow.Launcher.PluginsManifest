@@ -1617,13 +1617,13 @@
         "Name": "Git Easy",
         "Description": "Provide easy access to repositories. Allows quickly cloning repository and open in vscode/file explorer.",
         "Author": "zkwokleung",
-        "Version": "0.2.1",
+        "Version": "0.3.0",
         "Language": "csharp",
         "Website": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
-        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.2.1/Flow.Launcher.Plugin.GitEasy.zip",
+        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.3.0/Flow.Launcher.Plugin.GitEasy.zip",
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.GitEasy@main/Flow.Launcher.Plugin.GitEasy/Images/icon.png",
-        "LatestReleaseDate": "2024-07-15T05:54:07Z"
+        "LatestReleaseDate": "2024-07-20T22:45:06Z"
     },
     {
         "ID": "3b42afc0d17f45b98a55e324728252be",
