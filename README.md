@@ -4,42 +4,51 @@ This repository contains the information for community-made plugins used in [Flo
 
 [![AutoUpdate](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/actions/workflows/updater.yaml/badge.svg?branch=plugin_api_v2)](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/actions/workflows/updater.yaml)
 
-## List of Flow plugins
+## Plugin list
 
 Looking for a list of currently available plugins in Flow? Visit [here](https://flow-launcher.github.io/docs/#/plugins)
 
 ## How to submit your plugin
 
-Add your plugin by adding a file in _plugins_ directory named "${name}-${uuid}.json" with the following details via a pull request:
+1. Create a file named `${name}-${uuid}.json` in the _plugins_ directory.
+2. Copy these items from your plugin project's plugin.json file:
+   - `ID`
+   - `Name`
+   - `Description`
+   - `Author`
+   - `Version`
+   - `Language`
+   - `Website`
+3. Add `UrlDownload`, `UrlSourceCode`, and `IcoPath` to the file.
+4. It should look like this:
+   ```json
+   {
+     "ID": "Unique GUID from your plugin.json",  
+     "Name": "Plugin name",
+     "Description": "Short description",
+     "Author": "Author",
+     "Version": "Version from your plugin.json",
+     "Language": "Programming language",
+     "Website": "Plugin website",
+     "UrlDownload": "URL to download",
+     "UrlSourceCode": "URL to source code",
+     "IcoPath": "Plugin icon image's CDN URL, e.g. https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png"
+   }
+   ```
+5. For `IcoPath`, use a CDN provider for global accessibility. [jsdelivr.com](https://www.jsdelivr.com/) for example as shown above, works well with GitHub repositories.
+6. It is a requirement to set up a GitHub Actions workflow for automated build and release. Follow the guide [here](https://www.flowlauncher.com/docs/#/py-setup-project?id=_1-add-github-workflow) and use [this](https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/blob/main/.github/workflows/Publish%20Release.yml) as an example.
+7. Submit a pull request.
+8. The plugin will be available in Flow after the pull request is approved by the Flow Launcher Team.
 
-```json
-{
-  "ID": "This is a unique GUID for your plugin and needs to be the same as the ID in your plugin.json",  
-  "Name": "Plugin name",
-  "Description": "Short description of your plugin",
-  "Author": "Author of the plugin",
-  "Version": "Version of your plugin and needs to be the same as the Version in your plugin.json",
-  "Language": "The programming language the plugin is written in",
-  "Website": "Your plugin's website",
-  "UrlDownload":"The url to download the plugin",
-  "UrlSourceCode": "Url to the source code of the plugin",
-  "IcoPath": "Url to the icon of the plugin"
-}
-```
+Flow downloads the plugins manifest file from various CDN providers, so when your new plugin appears is dependant on when these providers next sync the updated file, and this can be anywhere from one to three hours.
 
-All the information above except for `UrlDownload`, `UrlSourceCode` and `IcoPath` should already exist in your own plugin's **plugin.json** file, simply copying them across is fine. For `IcoPath`, you will need to provide the direct URL to your plugin's icon image (usually via your repo). It is recommended to use a CDN provider for international access. [jsdelivr.com](https://www.jsdelivr.com/) for example, provides a simple API and supports github repositories. see other listed plugins in [plugins.json](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/blob/plugin_api_v2/plugins.json) for examples.
+Every three hours the *CI* in this repository will check for new updates from plugins and automatically update them to the latest version. 
 
-Once your submission is approved by the Flow Launcher Team it will be available immediately in Flow.
-
-Our *CI* will automatically check for new updates from plugins every three hours and update to the newer version if they are stored in the Github Release.
-Therefore, if you are using Github to release and update your plugin, there will be no need to manually create a pull request for every update.
-If this is the first time you are publishing your plugin to Flow, then you will need to create a pull request for it to be reviewed.
-
-As usual, we will not accept plugin submissions that could potentially harm the computer or contains malicious code.
+Plugin submissions that could potentially harm the computer or contains malicious code will not be accepted.
 
 ## Plugin Store
 
-Once your plugin submission has been merged, it will soon be available in [flow's](https://github.com/Flow-Launcher/Flow.Launcher/releases/latest) Plugin Store. Users will be able to install your plugin via the store or type `pm install <your-plugin-name>`:
+Users will be able to install your plugin via the store or type `pm install <your-plugin-name>`:
 <p align="center"><img src="https://user-images.githubusercontent.com/6903107/207155616-d559f0d2-ee95-4072-a7bc-3ffcc2faec27.png" width="800"></p>
 
 ## Have a plugin enhancement request or issue?
