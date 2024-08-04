@@ -1086,6 +1086,8 @@
         "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
         "UrlSourceCode": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/AnyVideo-Downloader-Flow-Plugin@main/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2024-07-30T07:46:00Z",
         "LatestReleaseDate": "2024-07-29T20:43:46Z"
     },
     {
@@ -1677,6 +1679,7 @@
         "UrlDownload": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/releases/download/v1.2.0/Flow.Launcher.Plugin.Bitwarden.zip",
         "UrlSourceCode": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/Images/bitwarden.png",
+        "DateAdded": "2024-07-22T16:13:00Z",
         "LatestReleaseDate": "2024-07-23T23:44:03Z"
     },
     {
@@ -1935,6 +1938,7 @@
         "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.3.0/Flow.Launcher.Plugin.GitEasy.zip",
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.GitEasy@main/Flow.Launcher.Plugin.GitEasy/Images/icon.png",
+        "DateAdded": "2024-07-19T22:34:00Z",
         "LatestReleaseDate": "2024-07-20T22:45:06Z"
     },
     {
@@ -2151,6 +2155,8 @@
         "Website": "https://github.com/NoPlagiarism/ShikiFlow",
         "UrlDownload": "https://github.com/NoPlagiarism/ShikiFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.ShikiFlow.zip",
         "UrlSourceCode": "https://github.com/NoPlagiarism/ShikiFlow/tree/main",
+        "Tested": true,
+        "DateAdded": "2024-08-03T22:34:00Z",
         "LatestReleaseDate": "2024-07-31T18:19:19Z"
     },
     {
@@ -2518,7 +2524,7 @@
     {
         "ID": "eda56b23-b5c5-48d9-be0d-05ccb907c86d",
         "Name": "Pokedex",
-        "Description": "Search Pokemon and Display useful infos about",
+        "Description": "Search for Pokemon",
         "Author": "Galedrim",
         "Version": "1.1.0",
         "Language": "python",
