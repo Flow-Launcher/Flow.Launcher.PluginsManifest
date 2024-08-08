@@ -1,12 +1,13 @@
 {
-  "ID": "4905edc2-7feb-4036-bfae-b06efc60c879",
-  "Name": "LinkOpener",
-  "Description": "Allows you to open URLs using keywords set in the settings",
-  "Author": "Exarilo",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-  "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.0.0/Flow.Launcher.Plugin.LinkOpener.zip ",
-  "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png"
+    "ID": "4905edc2-7feb-4036-bfae-b06efc60c879",
+    "Name": "LinkOpener",
+    "Description": "Allows you to open URLs using keywords set in the settings",
+    "Author": "Exarilo",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
+    "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.0.0/Flow.Launcher.Plugin.LinkOpener.zip",
+    "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
+    "LatestReleaseDate": "2024-08-07T08:29:42Z"
 }
