@@ -1,0 +1,14 @@
+{
+    "ID": "ade0b65b-a1bc-4130-ab4b-18eb7ac9143f",
+    "ActionKeyword": "rd",
+    "Name": "Ride Projects Helper",
+    "Description": "this plugin will help you quickly work with projects in rider without toolbox installed",
+    "Author": "javaro3",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
+    "UrlDownload": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow/releases/download/1.0.0/RiderWorkFlow.zip",
+    "UrlSourceCode": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/javaro3/Flow.Launcher.Plugin.RiderWorkFlow/Images/Icon.png",
+    "ExecuteFileName": "RiderWorkFlow.dll"
+}
