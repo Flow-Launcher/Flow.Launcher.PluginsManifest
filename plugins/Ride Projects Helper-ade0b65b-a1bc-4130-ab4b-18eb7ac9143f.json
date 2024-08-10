@@ -6,8 +6,8 @@
     "Version": "1.0.0",
     "Language": "csharp",
     "Website": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
-    "UrlDownload": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow/releases/download/v1.0.0/RiderWorkFlow-1.0.0.zip",
+    "UrlDownload": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow/releases/download/1.0.0/RiderWorkFlow.zip",
     "UrlSourceCode": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
     "IcoPath": "https://cdn.jsdelivr.net/gh/javaro3/Flow.Launcher.Plugin.RiderWorkFlow/Images/Icon.png",
-    "LatestReleaseDate": "2024-08-09T07:25:58Z"
+    "DateAdded": "2024-08-10T06:24:41Z"
 }
