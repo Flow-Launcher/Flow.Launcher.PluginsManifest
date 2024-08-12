@@ -93,14 +93,14 @@
         "Name": "Bitwarden",
         "Description": "Quick access to your Bitwarden vault via Flow Launcher.",
         "Author": "RedMageKnight",
-        "Version": "1.3.0",
+        "Version": "1.3.1",
         "Language": "csharp",
         "Website": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch",
-        "UrlDownload": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/releases/download/v1.3.0/Flow.Launcher.Plugin.Bitwarden.zip",
+        "UrlDownload": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/releases/download/v1.3.1/Flow.Launcher.Plugin.Bitwarden.zip",
         "UrlSourceCode": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/Images/bitwarden.png",
         "DateAdded": "2024-07-22T16:13:00Z",
-        "LatestReleaseDate": "2024-08-11T21:06:42Z"
+        "LatestReleaseDate": "2024-08-12T05:38:42Z"
     },
     {
         "ID": "747F1A93B6D24CCFBC433BA2455B3BEA",
@@ -585,9 +585,10 @@
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
-        "UrlDownload": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow/releases/download/1.0.0/RiderWorkFlow.zip",
+        "UrlDownload": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow/releases/download/v1.0.0/RiderWorkFlow-1.0.0.zip",
         "UrlSourceCode": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/javaro3/Flow.Launcher.Plugin.RiderWorkFlow/Images/Icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/javaro3/Flow.Launcher.Plugin.RiderWorkFlow/Images/Icon.png",
+        "LatestReleaseDate": "2024-08-09T07:25:58Z"
     },
     {
         "ID": "3b42afc0d17f45b98a55e324728252be",
