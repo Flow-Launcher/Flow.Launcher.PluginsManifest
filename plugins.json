@@ -585,10 +585,9 @@
         "Version": "1.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
-        "UrlDownload": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow/releases/download/v1.0.0/RiderWorkFlow-1.0.0.zip",
+        "UrlDownload": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow/releases/download/1.0.0/RiderWorkFlow.zip",
         "UrlSourceCode": "https://github.com/Javaro3/Flow.Launcher.Plugin.RiderWorkFlow",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/javaro3/Flow.Launcher.Plugin.RiderWorkFlow/Images/Icon.png",
-        "LatestReleaseDate": "2024-08-09T07:25:58Z"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/javaro3/Flow.Launcher.Plugin.RiderWorkFlow/Images/Icon.png"
     },
     {
         "ID": "3b42afc0d17f45b98a55e324728252be",
@@ -843,15 +842,15 @@
         "Name": "Pokedex",
         "Description": "Search for Pokemon",
         "Author": "Galedrim",
-        "Version": "1.1.0",
+        "Version": "1.2.0",
         "Language": "python",
         "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main",
-        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/releases/download/v1.1.0/Flow.Launcher.Plugin.Pokedex.zip",
+        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/releases/download/v1.2.0/Flow.Launcher.Plugin.Pokedex.zip",
         "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Pokedex@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2024-03-08T10:42:47Z",
-        "LatestReleaseDate": "2024-08-01T19:21:22Z"
+        "LatestReleaseDate": "2024-08-13T17:23:22Z"
     },
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
