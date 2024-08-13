@@ -3,12 +3,12 @@
     "Name": "Shell",
     "Description": "Provide executing commands from Flow Launcher",
     "Author": "qianlifeng",
-    "Version": "3.2.1",
+    "Version": "3.2.2",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell/releases/download/v3.2.1/Flow.Launcher.Plugin.Shell.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell/releases/download/v3.2.2/Flow.Launcher.Plugin.Shell.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Shell",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Shell/Images/shell.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2024-04-18T10:29:10Z"
+    "LatestReleaseDate": "2024-08-13T11:31:27Z"
 }
