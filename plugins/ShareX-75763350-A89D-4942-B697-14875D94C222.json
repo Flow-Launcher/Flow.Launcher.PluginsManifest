@@ -6,7 +6,7 @@
   "Version": "1.0.0",
   "Language": "csharp",
   "Website": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX",
-  "UrlDownload":"https://github.com/dufguix/Flow.Launcher.Plugin.ShareX/releases/download/v1.0.0/ShareX_Flow_Plugin.zip",
+  "UrlDownload":"https://github.com/dufguix/Flow.Launcher.Plugin.ShareX/releases/download/v1.0.0/ShareX_Flow_Plugin-1.0.0.zip",
   "UrlSourceCode": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX/tree/main",
   "IcoPath": "https://cdn.jsdelivr.net/gh/dufguix/Flow.Launcher.Plugin.ShareX@main/icon.png"
 }
