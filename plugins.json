@@ -58,6 +58,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "75763350-A89D-4942-B697-14875D94C222",
+        "Name": "ShareX_Flow_Plugin",
+        "Description": "Run ShareX capture, OCR, ...",
+        "Author": "dufguix",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX",
+        "UrlDownload": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX/releases/download/v1.0.0/ShareX_Flow_Plugin-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/dufguix/Flow.Launcher.Plugin.ShareX@main/icon.png",
+        "LatestReleaseDate": "2024-07-16T10:23:13Z"
+    },
+    {
         "ID": "77435DA907472F189B759F9F4F3E3C23",
         "ActionKeyword": "when",
         "Name": "When to Expect",
