@@ -68,7 +68,8 @@
         "UrlDownload": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX/releases/download/v1.0.0/ShareX_Flow_Plugin-1.0.0.zip",
         "UrlSourceCode": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/dufguix/Flow.Launcher.Plugin.ShareX@main/icon.png",
-        "LatestReleaseDate": "2024-07-16T10:23:13Z"
+        "LatestReleaseDate": "2024-07-16T10:23:13Z",
+        "DateAdded": "2024-08-19T01:23:50Z"
     },
     {
         "ID": "77435DA907472F189B759F9F4F3E3C23",
