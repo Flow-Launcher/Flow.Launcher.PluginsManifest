@@ -1565,14 +1565,14 @@
         "Name": "Add2Path",
         "Description": "Manage your PATH environment variable",
         "Author": "HorridModz",
-        "Version": "2.0.0",
+        "Version": "2.0.1",
         "Language": "csharp",
         "Website": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
-        "UrlDownload": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path/releases/download/v2.0.0/Flow.Launcher.Plugin.Add2Path.zip",
+        "UrlDownload": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path/releases/download/v2.0.1/Add2Path-2.0.1.zip",
         "UrlSourceCode": "https://github.com/HorridModz/Flow.Launcher.Plugin.Add2Path",
         "IcoPath": "https://cdn.jsdelivr.net/gh/HorridModz/Flow.Launcher.Plugin.Add2Path@master/icon.png",
         "DateAdded": "2023-09-01T04:11:39Z",
-        "LatestReleaseDate": "2024-07-31T18:16:32Z"
+        "LatestReleaseDate": "2024-08-20T10:42:04Z"
     },
     {
         "ID": "F6B8C1BC8441496798D2CE2BADB0E95E",
