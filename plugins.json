@@ -2041,6 +2041,19 @@
         "LatestReleaseDate": "2024-05-24T03:13:31Z"
     },
     {
+        "ID": "ff9385ec-0e95-452f-bef2-62456f66fe0f",
+        "Name": "Clipboard+",
+        "Description": "Easily manage your clipboard history and customizing copy rules with support for text, images, and files",
+        "Author": "Jack251970",
+        "Version": "1.0.4",
+        "Language": "csharp",
+        "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v1.0.4/ClipboardPlus-v1.0.4.zip",
+        "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/src/Flow.Launcher.Plugin.ClipboardPlus/Images/clipboard.png",
+        "LatestReleaseDate": "2024-08-19T12:11:18Z"
+    },
+    {
         "ID": "3458F01618974683B339D53528A78573",
         "Name": "Azan",
         "Description": "A plugin to display prayer times.",
