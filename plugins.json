@@ -33,15 +33,15 @@
         "Name": "Gitmoji",
         "Description": "Search and copy the right Gitmoji.",
         "Author": "Galedrim",
-        "Version": "1.0.0",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Gitmoji@main/Images/app.png",
-        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji/releases/download/v1.0.0/Flow.Launcher.Plugin.Gitmoji.zip",
+        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji/releases/download/v2.0.0/Flow.Launcher.Plugin.Gitmoji.zip",
         "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji/tree/main",
         "Tested": true,
         "DateAdded": "2023-06-29T14:02:33Z",
-        "LatestReleaseDate": "2023-06-26T17:15:41Z"
+        "LatestReleaseDate": "2024-08-24T10:53:58Z"
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
