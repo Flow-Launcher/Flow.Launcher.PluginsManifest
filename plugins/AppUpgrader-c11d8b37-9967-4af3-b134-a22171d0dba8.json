@@ -3,7 +3,7 @@
   "Name": "AppUpgrader",
   "Description": "Allows you to keep your applications up using winget",
   "Author": "Exarilo",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Language": "csharp",
   "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader",
   "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader/releases/download/v1.0.1/Flow.Launcher.Plugin.AppUpgrader.zip",
