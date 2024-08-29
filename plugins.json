@@ -2023,7 +2023,8 @@
         "UrlDownload": "https://github.com/adielBm/Flow.Launcher.Plugin.Weather/releases/download/v1.0.0/Flow.Launcher.Plugin.Weather.zip",
         "UrlSourceCode": "https://github.com/adielBm/Flow.Launcher.Plugin.Weather",
         "IcoPath": "https://raw.githubusercontent.com/adielBm/Flow.Launcher.Plugin.Weather/main/Images/weather-icon.png",
-        "LatestReleaseDate": "2024-08-28T12:33:11Z"
+        "LatestReleaseDate": "2024-08-28T12:33:11Z",
+        "DateAdded": "2024-08-29T18:25:48Z"
     },
     {
         "ID": "7463e642-7ab5-4df5-b537-56eefcc53e74",
@@ -2515,7 +2516,8 @@
         "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator/releases/download/v1.2.1/TwoFactorAuthenticator.zip",
         "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator",
         "IcoPath": "https://raw.githubusercontent.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator/main/Flow.Launcher.Plugin.TwoFactorAuthenticator/Images/TwoFactorAuthenticatorIcon.png",
-        "LatestReleaseDate": "2024-08-25T04:22:40Z"
+        "LatestReleaseDate": "2024-08-25T04:22:40Z",
+        "DateAdded": "2024-08-29T18:25:48Z"
     },
     {
         "ID": "70CED0AC-3D9D-4255-AD0B-D9A37862E879",
