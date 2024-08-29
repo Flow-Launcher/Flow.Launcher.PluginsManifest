@@ -1,0 +1,12 @@
+{
+    "ID": "A9146CE1489147D29A46F32D2EB9FB5E",
+    "Name": "Weather",
+    "Description": "Get weather information for a location",
+    "Author": "adielBm",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/adielBm/Flow.Launcher.Plugin.Weather",
+    "UrlDownload": "https://github.com/adielBm/Flow.Launcher.Plugin.Weather/releases/download/v1.0.0/Flow.Launcher.Plugin.Weather.zip",
+    "UrlSourceCode": "https://github.com/adielBm/Flow.Launcher.Plugin.Weather",
+    "IcoPath": "https://raw.githubusercontent.com/adielBm/Flow.Launcher.Plugin.Weather/main/Images/weather-icon.png"
+}
