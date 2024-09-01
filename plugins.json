@@ -2055,6 +2055,19 @@
         "LatestReleaseDate": "2024-05-24T03:13:31Z"
     },
     {
+        "ID": "c11d8b37-9967-4af3-b134-a22171d0dba8",
+        "Name": "AppUpgrader",
+        "Description": "Allows you to keep your applications up using winget",
+        "Author": "Exarilo",
+        "Version": "1.0.3",
+        "Language": "csharp",
+        "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader/releases/download/v1.0.3/Flow.Launcher.Plugin.AppUpgrader.zip",
+        "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.AppUpgrader@main/Images/app.png",
+        "LatestReleaseDate": "2024-08-29T19:15:46Z"
+    },
+    {
         "ID": "ff9385ec-0e95-452f-bef2-62456f66fe0f",
         "Name": "Clipboard+",
         "Description": "Easily manage your clipboard history and customizing copy rules with support for text, images, and files",
