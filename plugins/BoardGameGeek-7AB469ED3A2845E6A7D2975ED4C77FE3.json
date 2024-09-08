@@ -1,0 +1,12 @@
+{
+    "ID": "7AB469ED3A2845E6A7D2975ED4C77FE3",
+    "Name": "BoardGameGeek",
+    "Description": "A BoardgameGeek explorer for Flow",
+    "Author": "macro21KGB",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/macro21KGB/Flow.Launcher.Plugin.BoardGameGeek",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/macro21KGB/Flow.Launcher.Plugin.BoardGameGeek/Images/icon.png",
+    "UrlDownload": "https://github.com/macro21KGB/Flow.Launcher.Plugin.BoardGameGeek/releases/download/v1.0.0/Flow.Launcher.Plugin.BoardGameGeek.zip",
+    "UrlSourceCode": "https://github.com/macro21KGB/Flow.Launcher.Plugin.BoardGameGeek"
+}
