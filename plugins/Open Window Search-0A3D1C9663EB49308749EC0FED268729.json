@@ -1,5 +1,5 @@
 {
-    "ID": "0A3D1C9663EB49308749EC0FED268729",  
+    "ID": "0A3D1C9663EB49308749EC0FED268729",
     "Name": "Open Window Search",
     "Description": "Quickly switch to an open window.",
     "Author": "jamsoftwaregmbh",
@@ -8,5 +8,6 @@
     "Website": "https://github.com/jamsoftwaregmbh/Flow.Launcher.Plugin.OpenWindowSearch",
     "UrlDownload": "https://github.com/jamsoftwaregmbh/Flow.Launcher.Plugin.OpenWindowSearch/releases/download/v1.0.0/Flow.Launcher.Plugin.OpenWindowSearch.zip",
     "UrlSourceCode": "https://github.com/jamsoftwaregmbh/Flow.Launcher.Plugin.OpenWindowSearch",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/jamsoftwaregmbh/Flow.Launcher.Plugin.OpenWindowSearch@v1.0.0/Images/app.png"
-  }
+    "IcoPath": "https://cdn.jsdelivr.net/gh/jamsoftwaregmbh/Flow.Launcher.Plugin.OpenWindowSearch@v1.0.0/Images/app.png",
+    "LatestReleaseDate": "2024-09-06T13:33:36Z"
+}
