@@ -157,6 +157,19 @@
         "LatestReleaseDate": "2024-06-14T01:31:12Z"
     },
     {
+        "ID": "0930723F-73EA-488A-BEE9-8B8D4845B2F1",
+        "Name": "PowerToys",
+        "Description": "Launches PowerToys tools",
+        "Author": "PederBirk",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys",
+        "UrlDownload": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys/releases/download/v1.0.0/Flow.Launcher.Plugin.PowerToys.zip",
+        "UrlSourceCode": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/PederBirk/Flow.Launcher.Plugin.PowerToys@master/images/PowerToys.png",
+        "LatestReleaseDate": "2024-09-11T08:33:59Z"
+    },
+    {
         "ID": "572be03c74c642baae319fc283e561a8",
         "Name": "Explorer",
         "Description": "Find and manage files and folders via Windows Search or Everything",
@@ -2543,6 +2556,20 @@
         "Tested": true,
         "DateAdded": "2024-01-12T14:23:37Z",
         "LatestReleaseDate": "2024-01-27T14:32:44Z"
+    },
+    {
+        "ID": "d50362aa29f04cd59032bb44a5d5f7e5",
+        "ActionKeyword": "e",
+        "Name": "Emoji Finder",
+        "Description": "Find emoji easily by typing keywords.",
+        "Author": "kalvn",
+        "Version": "0.0.3",
+        "Language": "javascript",
+        "Website": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder",
+        "UrlDownload": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder/releases/download/v0.0.3/Flow.Launcher.Plugin.EmojiFinder.zip",
+        "UrlSourceCode": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/kalvn/Flow.Launcher.Plugin.EmojiFinder@main/img/app.png",
+        "LatestReleaseDate": "2024-09-09T07:31:00Z"
     },
     {
         "ID": "B7CDDEA47E354243BEE0434DDBAE438A",
