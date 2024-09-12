@@ -167,7 +167,8 @@
         "UrlDownload": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys/releases/download/v1.0.0/Flow.Launcher.Plugin.PowerToys.zip",
         "UrlSourceCode": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/PederBirk/Flow.Launcher.Plugin.PowerToys@master/images/PowerToys.png",
-        "LatestReleaseDate": "2024-09-11T08:33:59Z"
+        "LatestReleaseDate": "2024-09-11T08:33:59Z",
+        "DateAdded": "2024-09-12T12:37:57Z"
     },
     {
         "ID": "572be03c74c642baae319fc283e561a8",
@@ -2533,13 +2534,13 @@
         "Name": "LinkOpener",
         "Description": "Allows you to open URLs using keywords set in the settings",
         "Author": "Exarilo",
-        "Version": "1.0.2",
+        "Version": "1.0.3",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.0.2/Flow.Launcher.Plugin.LinkOpener.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.0.3/Flow.Launcher.Plugin.LinkOpener.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-        "LatestReleaseDate": "2024-09-04T12:40:41Z",
+        "LatestReleaseDate": "2024-09-12T14:46:21Z",
         "DateAdded": "2024-08-08T09:19:45Z"
     },
     {
@@ -2569,7 +2570,8 @@
         "UrlDownload": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder/releases/download/v0.0.3/Flow.Launcher.Plugin.EmojiFinder.zip",
         "UrlSourceCode": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder",
         "IcoPath": "https://cdn.jsdelivr.net/gh/kalvn/Flow.Launcher.Plugin.EmojiFinder@main/img/app.png",
-        "LatestReleaseDate": "2024-09-09T07:31:00Z"
+        "LatestReleaseDate": "2024-09-09T07:31:00Z",
+        "DateAdded": "2024-09-12T12:37:57Z"
     },
     {
         "ID": "B7CDDEA47E354243BEE0434DDBAE438A",
