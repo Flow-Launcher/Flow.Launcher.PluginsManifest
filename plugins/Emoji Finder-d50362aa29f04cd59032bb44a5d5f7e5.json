@@ -1,0 +1,13 @@
+{
+  "ID": "d50362aa29f04cd59032bb44a5d5f7e5",
+  "ActionKeyword": "e",
+  "Name": "Emoji Finder",
+  "Description": "Find emoji easily by typing keywords.",
+  "Author": "kalvn",
+  "Version": "0.0.3",
+  "Language": "javascript",
+  "Website": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder",
+  "UrlDownload": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder/releases/download/v0.0.3/Flow.Launcher.Plugin.EmojiFinder.zip",
+  "UrlSourceCode": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/kalvn/Flow.Launcher.Plugin.EmojiFinder@main/img/app.png"
+}
