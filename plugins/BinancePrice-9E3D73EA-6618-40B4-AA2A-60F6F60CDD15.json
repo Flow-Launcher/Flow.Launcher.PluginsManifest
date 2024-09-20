@@ -1,6 +1,5 @@
 {
   "ID": "9E3D73EA-6618-40B4-AA2A-60F6F60CDD15",
-  "ActionKeyword": "bn",
   "Name": "BinancePrice",
   "Description": "Get the current value of cryptocurrency coin",
   "Author": "SUPEROLEJKAAA",
