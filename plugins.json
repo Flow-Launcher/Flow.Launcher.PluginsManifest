@@ -1015,15 +1015,15 @@
         "Name": "Bulk URL Opener",
         "Description": "Opens groups of tabs",
         "Author": "Tarik Jaber",
-        "Version": "1.1.1",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/tarikjaber/Bulk-URL-Opener",
-        "UrlDownload": "https://github.com/tarikjaber/Bulk-URL-Opener/releases/download/v1.1.1/Flow.Launcher.Plugin.BulkURLOpener.zip",
+        "UrlDownload": "https://github.com/tarikjaber/Bulk-URL-Opener/releases/download/v2.0.0/Flow.Launcher.Plugin.BulkURLOpener.zip",
         "UrlSourceCode": "https://github.com/tarikjaber/Bulk-URL-Opener/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/tarikjaber/Bulk-URL-Opener/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-09-07T09:51:13Z",
-        "LatestReleaseDate": "2024-09-14T18:04:47Z"
+        "LatestReleaseDate": "2024-09-22T17:23:42Z"
     },
     {
         "ID": "79BB35BC5B504F04B210D1C41DF14A02",
