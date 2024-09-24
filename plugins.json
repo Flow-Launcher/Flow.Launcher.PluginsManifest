@@ -968,6 +968,21 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "3AF7F9DD4367439AA4730641D99EDA21",
+        "ActionKeyword": "vol",
+        "Name": "FlowTrumpet",
+        "Description": "Set the volume of a specific application",
+        "Author": "Hary309",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Hary309/Flow.Launcher.Plugin.FlowTrumpet",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Hary309/Flow.Launcher.Plugin.FlowTrumpet@main/Flow.Launcher.Plugin.FlowTrumpet/Images/app.png",
+        "UrlDownload": "https://github.com/Hary309/Flow.Launcher.Plugin.FlowTrumpet/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowTrumpet-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/Hary309/Flow.Launcher.Plugin.FlowTrumpet",
+        "LatestReleaseDate": "2024-09-20T23:20:22Z",
+        "DateAdded": "2024-09-24T01:38:41Z"
+    },
+    {
         "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",
         "Name": "Astro",
         "Description": "Search Astro Docs",
@@ -1015,15 +1030,15 @@
         "Name": "Bulk URL Opener",
         "Description": "Opens groups of tabs",
         "Author": "Tarik Jaber",
-        "Version": "1.1.1",
+        "Version": "2.0.0",
         "Language": "python",
         "Website": "https://github.com/tarikjaber/Bulk-URL-Opener",
-        "UrlDownload": "https://github.com/tarikjaber/Bulk-URL-Opener/releases/download/v1.1.1/Flow.Launcher.Plugin.BulkURLOpener.zip",
+        "UrlDownload": "https://github.com/tarikjaber/Bulk-URL-Opener/releases/download/v2.0.0/Flow.Launcher.Plugin.BulkURLOpener.zip",
         "UrlSourceCode": "https://github.com/tarikjaber/Bulk-URL-Opener/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/tarikjaber/Bulk-URL-Opener/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-09-07T09:51:13Z",
-        "LatestReleaseDate": "2024-09-14T18:04:47Z"
+        "LatestReleaseDate": "2024-09-22T17:23:42Z"
     },
     {
         "ID": "79BB35BC5B504F04B210D1C41DF14A02",
@@ -1102,16 +1117,16 @@
     {
         "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
         "Name": "Todos",
-        "Description": "A simple todo app.",
-        "Author": "caoyue",
-        "Version": "2.0.1",
+        "Description": "A simple yet effective todo app.",
+        "Author": "Or1g3n (originally by caoyue)",
+        "Version": "3.0.4",
         "Language": "csharp",
-        "Website": "https://github.com/jjw24/Wox.Plugin.Todos",
-        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Todos/releases/download/v2.0.1/Wox.Plugin.Todos.zip",
-        "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Todos/tree/master",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Todos@master/ico/app.png",
-        "LatestReleaseDate": "2021-03-11T09:54:22Z",
-        "DateAdded": "2022-10-08T16:26:57Z"
+        "Website": "https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos",
+        "UrlDownload": "https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos/releases/download/v3.0.4/Flow.Launcher.Plugin.Todos.zip",
+        "UrlSourceCode": "https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Or1g3n/Flow.Launcher.Plugin.Todos@master/ico/app.png",
+        "LatestReleaseDate": "2024-09-23T17:00:46Z",
+        "DateAdded": "2024-09-24T01:38:41Z"
     },
     {
         "ID": "9a791986-e9d1-47f1-a342-5ec506135385",
@@ -1198,6 +1213,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.LibreTranslate@main/Flow.LibreTranslate/Images/translate.png",
         "LatestReleaseDate": "2021-10-08T02:22:31Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "9E3D73EA-6618-40B4-AA2A-60F6F60CDD14",
+        "Name": "HDRezka Finder",
+        "Description": "Search films/serials on HDRezka.me",
+        "Author": "SUPEROLEJKAAA",
+        "Version": "1.0.0",
+        "Language": "JavaScript",
+        "Website": "https://github.com/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka",
+        "UrlDownload": "https://github.com/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka/releases/download/v1.0.0/Flow.Launcher.Plugin.HDRezka.zip",
+        "UrlSourceCode": "https://github.com/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka@main/icons/app.png",
+        "LatestReleaseDate": "2024-09-20T15:53:27Z",
+        "DateAdded": "2024-09-24T01:38:41Z"
     },
     {
         "ID": "9E3D73EA-6618-40B4-AA2A-60F6F60CDD15",
