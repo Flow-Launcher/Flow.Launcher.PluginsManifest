@@ -1,0 +1,12 @@
+{
+    "ID": "7f805128-d4f3-4bfa-bd6e-b4ca0ff58ee9",
+    "Name": "RecentProjectsOpen",
+    "Description": "A plugin that allows users to quickly open recent projects with ease.",
+    "Author": "Attack825",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Attack825/RecentProjectsOpen",
+    "UrlDownload": "https://github.com/Attack825/RecentProjectsOpen/releases/download/v1.0.0/RecentProjectsOpen.zip",
+    "UrlSourceCode": "https://github.com/Attack825/RecentProjectsOpen",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Attack825/RecentProjectsOpen@1.0.0/icons/app.png"
+}
