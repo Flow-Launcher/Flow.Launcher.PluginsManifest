@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Linguee/releases/download/v1.0.0/Flow.Launcher.Plugin.Linguee.zip",
     "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Linguee/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Linguee@main/images/app.png",
-    "LatestReleaseDate": "2024-09-19T22:13:57Z"
+    "LatestReleaseDate": "2024-09-19T22:13:57Z",
+    "Tested": true,
+    "DateAdded": "2024-09-26T03:25:50Z"
 }
