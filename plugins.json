@@ -417,6 +417,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "20CA96840A77452B92D83FB3DD01927C",
+        "Name": "Http Status Codes",
+        "Description": "A plugin to search through http response status codes",
+        "Author": "tho-myr",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/tho-myr/Flow.Launcher.Plugin.Http_Status_Codes",
+        "UrlDownload": "https://github.com/tho-myr/Flow.Launcher.Plugin.Http_Status_Codes/releases/download/v1.0.0/Flow.Launcher.Plugin.Http_Status_Codes.zip",
+        "UrlSourceCode": "https://github.com/tho-myr/Flow.Launcher.Plugin.Http_Status_Codes/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/tho-myr/Flow.Launcher.Plugin.Http_Status_Codes@master/Flow.Launcher.Plugin.Http_Status_Codes/Images/icon.png",
+        "LatestReleaseDate": "2024-09-25T21:25:57Z"
+    },
+    {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
         "Name": "How Long To Beat",
         "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
@@ -937,6 +950,19 @@
         "Tested": true,
         "LatestReleaseDate": "2024-05-12T01:47:21Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "9316b88a-009d-498c-a980-1aefa44d2fd2",
+        "Name": "Linguee",
+        "Description": "Quickly translate text from one language to another.",
+        "Author": "Galedrim",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Linguee/tree/main",
+        "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Linguee/releases/download/v1.0.0/Flow.Launcher.Plugin.Linguee.zip",
+        "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Linguee/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Linguee@main/images/app.png",
+        "LatestReleaseDate": "2024-09-19T22:13:57Z"
     },
     {
         "ID": "F8775498-BD72-4ECA-893F-B33863D81CB5",
