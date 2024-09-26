@@ -427,7 +427,8 @@
         "UrlDownload": "https://github.com/tho-myr/Flow.Launcher.Plugin.Http_Status_Codes/releases/download/v1.0.0/Flow.Launcher.Plugin.Http_Status_Codes.zip",
         "UrlSourceCode": "https://github.com/tho-myr/Flow.Launcher.Plugin.Http_Status_Codes/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/tho-myr/Flow.Launcher.Plugin.Http_Status_Codes@master/Flow.Launcher.Plugin.Http_Status_Codes/Images/icon.png",
-        "LatestReleaseDate": "2024-09-25T21:25:57Z"
+        "LatestReleaseDate": "2024-09-25T21:25:57Z",
+        "DateAdded": "2024-09-26T03:25:50Z"
     },
     {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
@@ -962,7 +963,9 @@
         "UrlDownload": "https://github.com/Galedrim/Flow.Launcher.Plugin.Linguee/releases/download/v1.0.0/Flow.Launcher.Plugin.Linguee.zip",
         "UrlSourceCode": "https://github.com/Galedrim/Flow.Launcher.Plugin.Linguee/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Galedrim/Flow.Launcher.Plugin.Linguee@main/images/app.png",
-        "LatestReleaseDate": "2024-09-19T22:13:57Z"
+        "LatestReleaseDate": "2024-09-19T22:13:57Z",
+        "Tested": true,
+        "DateAdded": "2024-09-26T03:25:50Z"
     },
     {
         "ID": "F8775498-BD72-4ECA-893F-B33863D81CB5",
