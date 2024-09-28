@@ -3,12 +3,12 @@
     "Name": "LinkOpener",
     "Description": "Allows you to open URLs using keywords set in the settings",
     "Author": "Exarilo",
-    "Version": "1.0.4",
+    "Version": "1.0.5",
     "Language": "csharp",
     "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-    "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.0.4/Flow.Launcher.Plugin.LinkOpener.zip",
+    "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.0.5/Flow.Launcher.Plugin.LinkOpener.zip",
     "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-    "LatestReleaseDate": "2024-09-13T14:57:02Z",
+    "LatestReleaseDate": "2024-09-28T11:54:06Z",
     "DateAdded": "2024-08-08T09:19:45Z"
 }
