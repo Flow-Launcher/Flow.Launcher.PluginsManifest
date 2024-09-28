@@ -690,6 +690,19 @@
         "LatestReleaseDate": "2022-11-01T18:17:36Z"
     },
     {
+        "ID": "7f805128-d4f3-4bfa-bd6e-b4ca0ff58ee9",
+        "Name": "RecentProjectsOpen",
+        "Description": "A plugin that allows users to quickly open recent projects with ease.",
+        "Author": "Attack825",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Attack825/RecentProjectsOpen",
+        "UrlDownload": "https://github.com/Attack825/RecentProjectsOpen/releases/download/v1.0.0/Flow.Launcher.Plugin.RecentProjectsOpen.zip",
+        "UrlSourceCode": "https://github.com/Attack825/RecentProjectsOpen",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Attack825/RecentProjectsOpen@1.0.0/icons/app.png",
+        "LatestReleaseDate": "2024-09-26T09:26:41Z"
+    },
+    {
         "ID": "D58F8A08-0C0A-45C3-8690-F7C7877EE611",
         "Name": "Totp",
         "Description": "TOTP Generator (2FA keys)",
