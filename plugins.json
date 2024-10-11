@@ -1739,13 +1739,13 @@
         "Name": "Clipboard+",
         "Description": "Easily manage your clipboard history and customizing copy rules with support for text, images, and files",
         "Author": "Jack251970",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v1.1.0/Clipboard%2B-1.1.0.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v1.1.1/Clipboard%2B-1.1.1.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/src/Flow.Launcher.Plugin.ClipboardPlus/Images/clipboard.png",
-        "LatestReleaseDate": "2024-10-11T15:14:21Z",
+        "LatestReleaseDate": "2024-10-11T15:53:32Z",
         "DateAdded": "2024-08-21T01:22:18Z"
     },
     {
@@ -1856,15 +1856,15 @@
         "Name": "AnyVideo Downloader",
         "Description": "Plugin for downloading videos from YouTube, Facebook, Twitter, Instagram, and many other websites.",
         "Author": "z1nc0r3",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "python",
         "Website": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin",
-        "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v1.1.0/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
+        "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v1.1.1/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
         "UrlSourceCode": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/AnyVideo-Downloader-Flow-Plugin@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2024-07-30T07:46:00Z",
-        "LatestReleaseDate": "2024-08-07T22:02:18Z"
+        "LatestReleaseDate": "2024-10-11T18:05:49Z"
     },
     {
         "ID": "CF8389C7-61AC-4387-93DE-370B31BD07EB",
