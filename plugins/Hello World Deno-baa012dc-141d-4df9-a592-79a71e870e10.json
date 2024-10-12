@@ -6,7 +6,7 @@
   "Version": "0.0.1",
   "Language": "Executable",
   "Website": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno",
-  "urlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno/releases/download/v0.0.1/Flow.Launcher.Plugin.HelloWorldDeno.zip",
-  "urlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno",
-  "icoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno/Images/app.png"
+  "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno/releases/download/v0.0.1/Flow.Launcher.Plugin.HelloWorldDeno.zip",
+  "UrlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno/Images/app.png"
 }
