@@ -1,0 +1,12 @@
+{
+  "ID": "baa012dc-141d-4df9-a592-79a71e870e10",
+  "Name": "Hello World Deno",
+  "Description": "TypeScript plugin example using Deno",
+  "Author": "Andrew Bradley",
+  "Version": "0.0.1",
+  "Language": "Executable",
+  "Website": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno",
+  "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno/releases/download/v0.0.1/Flow.Launcher.Plugin.HelloWorldDeno.zip",
+  "UrlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.HelloWorldDeno/Images/app.png"
+}
