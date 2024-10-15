@@ -6,7 +6,7 @@
   "Version": "0.0.1",
   "Language": "Executable",
   "Website": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
-  "urlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces/releases/download/v0.0.1/Flow.Launcher.Plugin.EdgeWorkspaces.zip",
-  "urlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
-  "icoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces@main/Images/app.png"
+  "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces/releases/download/v0.0.1/Flow.Launcher.Plugin.EdgeWorkspaces.zip",
+  "UrlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces@main/Images/app.png"
 }
