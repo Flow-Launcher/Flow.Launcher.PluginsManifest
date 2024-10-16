@@ -675,7 +675,8 @@
         "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces/releases/download/v0.0.1/Flow.Launcher.Plugin.EdgeWorkspaces.zip",
         "UrlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces@main/Images/app.png",
-        "LatestReleaseDate": "2024-10-12T19:54:07Z"
+        "LatestReleaseDate": "2024-10-12T19:54:07Z",
+        "DateAdded": "2024-10-16T12:40:30Z"
     },
     {
         "ID": "78c1bfc7-044e-46cd-b920-9e0ae0e7f234",
@@ -1551,13 +1552,15 @@
         "Name": "Periodic table",
         "Description": "Get element properties by element symbol",
         "Author": "Lucas256-cmd",
-        "Version": "0.8.0",
+        "Version": "0.8.5",
         "Language": "python",
         "Website": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable",
-        "UrlDownload": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/releases/download/v0.8.0/Flow.Launcher.Plugin.PeriodicTable.zip",
+        "UrlDownload": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/releases/download/v0.8.5/Flow.Launcher.Plugin.PeriodicTable.zip",
         "UrlSourceCode": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/Images/app.png",
-        "LatestReleaseDate": "2024-10-16T08:04:54Z"
+        "LatestReleaseDate": "2024-10-16T14:42:44Z",
+        "Tested": true,
+        "DateAdded": "2024-10-16T12:40:30Z"
     },
     {
         "ID": "625A2812D5364D708582FDD9ACCD8C93",
