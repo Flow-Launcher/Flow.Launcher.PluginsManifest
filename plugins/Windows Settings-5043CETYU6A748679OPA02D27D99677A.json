@@ -3,12 +3,12 @@
     "Description": "Search settings inside Control Panel and Settings App",
     "Name": "Windows Settings",
     "Author": "TobiasSekan",
-    "Version": "4.0.9",
+    "Version": "4.0.10",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.9/Flow.Launcher.Plugin.WindowsSettings.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings/releases/download/v4.0.10/Flow.Launcher.Plugin.WindowsSettings.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WindowsSettings",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WindowsSettings/Images/WindowsSettings.light.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2024-09-05T15:55:21Z"
+    "LatestReleaseDate": "2024-10-16T07:12:55Z"
 }

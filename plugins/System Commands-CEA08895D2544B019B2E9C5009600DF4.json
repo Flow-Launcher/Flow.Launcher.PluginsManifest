@@ -3,12 +3,12 @@
     "Name": "System Commands",
     "Description": "Provide System related commands. e.g. shutdown,lock, setting etc.",
     "Author": "qianlifeng",
-    "Version": "3.1.4",
+    "Version": "3.1.5",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.4/Flow.Launcher.Plugin.Sys.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys/releases/download/v3.1.5/Flow.Launcher.Plugin.Sys.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Sys",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Sys/Images/lock.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2024-09-05T15:55:09Z"
+    "LatestReleaseDate": "2024-10-16T07:12:35Z"
 }
