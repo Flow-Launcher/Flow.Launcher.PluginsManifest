@@ -2,7 +2,7 @@ import glob
 import json
 
 if __name__ == "__main__":
-    plugins = glob.glob("plugins/*.json")
+    plugins = sorted(glob.glob("plugins/*.json"))
 
     manifests = []
 
