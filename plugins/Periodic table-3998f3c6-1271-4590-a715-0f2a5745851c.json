@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/releases/download/v0.8.0/Flow.Launcher.Plugin.PeriodicTable.zip",
     "UrlSourceCode": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/Images/app.png",
-    "LatestReleaseDate": "2024-10-16T08:04:54Z"
+    "LatestReleaseDate": "2024-10-16T08:04:54Z",
+    "Tested": true,
+    "DateAdded": "2024-10-16T12:40:30Z"
 }
