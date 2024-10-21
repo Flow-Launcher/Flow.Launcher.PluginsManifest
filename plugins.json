@@ -669,13 +669,13 @@
         "Name": "Edge Workspaces",
         "Description": "Open Edge Workspaces",
         "Author": "Andrew Bradley",
-        "Version": "0.0.2",
+        "Version": "0.0.3",
         "Language": "Executable",
         "Website": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
-        "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces/releases/download/v0.0.2/Flow.Launcher.Plugin.EdgeWorkspaces.zip",
+        "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces/releases/download/v0.0.3/Flow.Launcher.Plugin.EdgeWorkspaces.zip",
         "UrlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces@main/Images/app.png",
-        "LatestReleaseDate": "2024-10-16T20:12:29Z",
+        "LatestReleaseDate": "2024-10-21T14:52:12Z",
         "DateAdded": "2024-10-16T12:40:30Z"
     },
     {
