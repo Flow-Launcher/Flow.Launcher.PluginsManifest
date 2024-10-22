@@ -3,13 +3,13 @@
     "Name": "Periodic table",
     "Description": "Get element properties by element symbol",
     "Author": "Lucas256-cmd",
-    "Version": "0.9.9",
+    "Version": "0.9.10",
     "Language": "python",
     "Website": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable",
-    "UrlDownload": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/releases/download/v0.9.9/Flow.Launcher.Plugin.PeriodicTable.zip",
+    "UrlDownload": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/releases/download/v0.9.10/Flow.Launcher.Plugin.PeriodicTable.zip",
     "UrlSourceCode": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/Images/app.png",
-    "LatestReleaseDate": "2024-10-17T15:23:02Z",
+    "LatestReleaseDate": "2024-10-22T15:26:55Z",
     "Tested": true,
     "DateAdded": "2024-10-16T12:40:30Z"
 }
