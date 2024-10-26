@@ -105,13 +105,13 @@
         "Name": "AppUpgrader",
         "Description": "Allows you to keep your applications up using winget",
         "Author": "Exarilo",
-        "Version": "1.0.3",
+        "Version": "1.0.6",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader/releases/download/v1.0.3/Flow.Launcher.Plugin.AppUpgrader.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader/releases/download/v1.0.6/Flow.Launcher.Plugin.AppUpgrader.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.AppUpgrader@main/Images/app.png",
-        "LatestReleaseDate": "2024-08-29T19:15:46Z",
+        "LatestReleaseDate": "2024-10-26T15:51:52Z",
         "DateAdded": "2024-09-01T12:35:14Z"
     },
     {
@@ -1335,13 +1335,13 @@
         "Name": "LinkOpener",
         "Description": "Allows you to open URLs using keywords set in the settings",
         "Author": "Exarilo",
-        "Version": "1.1.2",
+        "Version": "1.1.4",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.1.2/Flow.Launcher.Plugin.LinkOpener.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.1.4/Flow.Launcher.Plugin.LinkOpener.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-        "LatestReleaseDate": "2024-10-22T19:38:33Z",
+        "LatestReleaseDate": "2024-10-23T20:34:03Z",
         "DateAdded": "2024-08-08T09:19:45Z"
     },
     {
