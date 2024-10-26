@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/releases/download/v1.0.0/Flow.Launcher.Plugin.WordNikDictionary.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/main",
     "IcoPath": "https://i.imgur.com/VTVaFuF.png",
-    "LatestReleaseDate": "2024-10-23T04:57:19Z"
+    "LatestReleaseDate": "2024-10-23T04:57:19Z",
+    "Tested": true,
+    "DateAdded": "2024-10-26T21:17:53Z"
 }
