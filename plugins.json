@@ -393,13 +393,13 @@
         "Name": "Clipboard+",
         "Description": "Easily manage your clipboard history and customizing copy rules with support for text, images, and files",
         "Author": "Jack251970",
-        "Version": "1.1.2",
+        "Version": "1.1.3",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v1.1.2/Clipboard%2B-1.1.2.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v1.1.3/Clipboard%2B-1.1.3.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/src/Flow.Launcher.Plugin.ClipboardPlus/Images/clipboard.png",
-        "LatestReleaseDate": "2024-10-12T02:35:01Z",
+        "LatestReleaseDate": "2024-10-27T06:53:38Z",
         "DateAdded": "2024-08-21T01:22:18Z"
     },
     {
@@ -1335,13 +1335,13 @@
         "Name": "LinkOpener",
         "Description": "Allows you to open URLs using keywords set in the settings",
         "Author": "Exarilo",
-        "Version": "1.1.4",
+        "Version": "1.1.5",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.1.4/Flow.Launcher.Plugin.LinkOpener.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.1.5/Flow.Launcher.Plugin.LinkOpener.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-        "LatestReleaseDate": "2024-10-23T20:34:03Z",
+        "LatestReleaseDate": "2024-10-28T23:19:16Z",
         "DateAdded": "2024-08-08T09:19:45Z"
     },
     {
@@ -2045,13 +2045,13 @@
         "Name": "SpotifyPremium",
         "Description": "Spotify Premium for Flow Launcher",
         "Author": "Frank W. (@fow5040)",
-        "Version": "1.1.6",
+        "Version": "1.1.7",
         "Language": "csharp",
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
-        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.6/SpotifyPremium-1.1.6.zip",
+        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.7/SpotifyPremium-1.1.7.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png",
-        "LatestReleaseDate": "2024-09-01T01:41:14Z",
+        "LatestReleaseDate": "2024-10-30T14:46:51Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -2761,6 +2761,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeoDupont/Flow.Launcher.Plugin.WordReference@main/images/favicon-32x32.png",
         "DateAdded": "2022-10-08T16:26:57Z",
         "LatestReleaseDate": "2022-04-26T20:21:39Z"
+    },
+    {
+        "ID": "7ed41d7e3d174379972e1cdacb647474",
+        "Name": "Wordnik Dictionary",
+        "Description": "Wordnik wrapper using python. Gives you the definition of words similiar to duckduckgo.",
+        "Author": "cibere",
+        "Version": "2.1.0",
+        "Language": "python",
+        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/releases/download/v2.1.0/Flow.Launcher.Plugin.WordNikDictionary.zip",
+        "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/main",
+        "IcoPath": "https://i.imgur.com/VTVaFuF.png",
+        "LatestReleaseDate": "2024-10-28T03:23:35Z",
+        "Tested": true,
+        "DateAdded": "2024-10-26T21:17:53Z"
     },
     {
         "ID": "3b42afc0d17f45b98a55e324728252be",
