@@ -7,7 +7,7 @@
     "Language": "python",
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
     "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.0.2/Flow.Launcher.Plugin.FirefoxKeywordBookmarks.zip",
-    "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks/tree/main",
+    "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
     "IcoPath": "https://i.imgur.com/1cGHQTp.png",
     "LatestReleaseDate": "2024-10-31T04:07:08Z",
     "Tested": true,
