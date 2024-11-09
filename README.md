@@ -40,7 +40,7 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
 7. Submit a pull request.
 8. The plugin will be available in Flow after the pull request is approved by the Flow Launcher Team.
 
-Flow downloads the plugins manifest file from various CDN providers, which means the availability of your new plugin depends on when these providers sync their updated files. This syncing process can take several days—sometimes up to a week—across all providers. During this period, you may see intermittent updates for your plugin in the manifest, as the provider chosen for retrieval is selected randomly based on the fastest fetch speed.
+Flow downloads the manifest (plugins.json) file from various CDN providers, which means the availability of your new plugin depends on when these providers sync their updated files. This syncing process can take several days and sometimes up to a week across all providers. During this period, you may see intermittent updates for your plugin in the manifest, as the provider chosen for retrieval is selected randomly based on the fastest fetch speed.
 
 Every three hours the *CI* in this repository will check for new updates from plugins and automatically update them to the latest version. 
 
