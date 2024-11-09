@@ -44,7 +44,16 @@ Flow downloads the plugins manifest file from various CDN providers, which means
 
 Every three hours the *CI* in this repository will check for new updates from plugins and automatically update them to the latest version. 
 
-Plugin submissions that could potentially harm the computer or contains malicious code will not be accepted.
+Plugin submissions that facilitate or contain any of the following will not be accepted:
+- Malicious code
+- Piracy
+- Deceptive use
+- Inappropriate content
+- Illegal activities
+- Impersonation
+- Abuse
+- Fraud
+- Spam
 
 ## Plugin Store
 
