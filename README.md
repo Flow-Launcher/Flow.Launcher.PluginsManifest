@@ -37,7 +37,7 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
    ```
 5. For `IcoPath`, use a CDN provider for global accessibility. [jsdelivr.com](https://www.jsdelivr.com/) for example as shown above, works well with GitHub repositories.
 6. It is a requirement to set up a GitHub Actions workflow for automated build and release. Follow the guide [here](https://www.flowlauncher.com/docs/#/py-setup-project?id=_1-add-github-workflow) and use [this](https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/blob/main/.github/workflows/Publish%20Release.yml) as an example.
-7. It is a requirement that your plugin conforms with the [submission policy](#submission-policy)
+7. It is a requirement that your plugin conforms with the [Plugin Store policy](#plugin-store-policy)
 8. Submit a pull request.
 9. The plugin will be available in Flow after the pull request is approved by the Flow Launcher Team.
 
@@ -49,9 +49,9 @@ While the plugin is yet to appear in the store, you and your users can use `pm i
 
 Every three hours the *CI* in this repository will check for new updates from plugins and automatically update them to the latest version.
 
-## Submission policy
+## Plugin Store policy
 
-Plugins that facilitate or contain any of the following will not be accepted:
+Plugins that facilitate or contain any of the following will not be allowed:
 - Malicious code
 - Piracy
 - Deceptive use
