@@ -43,7 +43,7 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
 
 Flow downloads the manifest (plugins.json) file from various CDN providers, which means the availability of your new plugin depends on when these providers sync their updated files. This syncing process can take several days and sometimes up to a week across all providers. During this period, you may see intermittent updates for your plugin in the manifest, as the provider chosen for retrieval is selected randomly based on the fastest fetch speed.
 
-While the plugin is yet to appear in the store, you and your users can use `pm install <url/local path>` to install it.
+While the plugin is yet to appear in the store, you and your users can use `pm install <url/local path>` to install it manually.
 
 ## Plugin updates
 
