@@ -44,6 +44,8 @@ Flow downloads the manifest (plugins.json) file from various CDN providers, whic
 
 Every three hours the *CI* in this repository will check for new updates from plugins and automatically update them to the latest version. 
 
+## Submission policy
+
 Plugin submissions that facilitate or contain any of the following will not be accepted:
 - Malicious code
 - Piracy
