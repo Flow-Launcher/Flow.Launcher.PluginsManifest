@@ -46,7 +46,7 @@ Every three hours the *CI* in this repository will check for new updates from pl
 
 ## Submission policy
 
-Plugin that facilitate or contain any of the following will not be accepted:
+Plugins that facilitate or contain any of the following will not be accepted:
 - Malicious code
 - Piracy
 - Deceptive use
