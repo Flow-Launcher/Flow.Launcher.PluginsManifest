@@ -1,0 +1,12 @@
+{
+  "ID": "0F7232DB70E54C9B91205480C0C56D1F",  
+  "Name": "AppsSnapshoter",
+  "Description": "Snapshot opened apps with help of plugin for Flow-Launcher for future open",
+  "Author": "spinozanilast",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter",
+  "UrlDownload": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter/releases/download/v1.0.0/SnapshotApps-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter/tree/master",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter@master/icon.png"
+}
