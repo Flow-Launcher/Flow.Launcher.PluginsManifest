@@ -1089,20 +1089,6 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
-        "ID": "9E3D73EA-6618-40B4-AA2A-60F6F60CDD14",
-        "Name": "HDRezka Finder",
-        "Description": "Search films/serials on HDRezka.me",
-        "Author": "SUPEROLEJKAAA",
-        "Version": "1.0.0",
-        "Language": "JavaScript",
-        "Website": "https://github.com/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka",
-        "UrlDownload": "https://github.com/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka/releases/download/v1.0.0/Flow.Launcher.Plugin.HDRezka.zip",
-        "UrlSourceCode": "https://github.com/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka@main/icons/app.png",
-        "LatestReleaseDate": "2024-09-20T15:53:27Z",
-        "DateAdded": "2024-09-24T01:38:41Z"
-    },
-    {
         "ID": "140f3da0-7d14-4b20-b897-b4cb155fec2d",
         "Name": "Hacker News",
         "Description": "Flow Launcher plugin for viewing the front page of Hacker News",
