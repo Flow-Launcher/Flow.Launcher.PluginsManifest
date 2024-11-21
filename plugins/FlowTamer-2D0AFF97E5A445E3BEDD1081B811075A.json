@@ -1,0 +1,12 @@
+{
+    "ID": "2D0AFF97E5A445E3BEDD1081B811075A",
+    "Name": "FlowTamer",
+    "Description": "Use Browser Tamer picker with Flow Launcher",
+    "Author": "NoPlagiarism",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/NoPlagiarism/FlowTamer",
+    "UrlDownload": "https://github.com/NoPlagiarism/FlowTamer/releases/download/v1.0.0/FlowTamer-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/NoPlagiarism/FlowTamer",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/NoPlagiarism/FlowTamer@v1.0.0/Flow.Launcher.Plugin.FlowTamer/Images/logo.png"
+}
