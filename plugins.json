@@ -2085,6 +2085,19 @@
         "LatestReleaseDate": "2023-09-08T09:26:46Z"
     },
     {
+        "ID": "5314722CF6AA4EBF86666C693412A276",
+        "Name": "Steam Account Switcher",
+        "Description": "Switch your steam account using TcNo Account Switcher",
+        "Author": "cibere",
+        "Version": "1.0.3",
+        "Language": "python",
+        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher/releases/download/v1.0.3/Flow.Launcher.Plugin.SteamAccountSwitcher.zip",
+        "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
+        "IcoPath": "https://i.imgur.com/7kxy2JP.png",
+        "LatestReleaseDate": "2024-11-18T00:02:20Z"
+    },
+    {
         "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
