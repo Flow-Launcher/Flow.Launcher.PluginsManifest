@@ -899,6 +899,19 @@
         "LatestReleaseDate": "2024-02-16T08:39:36Z"
     },
     {
+        "ID": "2D0AFF97E5A445E3BEDD1081B811075A",
+        "Name": "FlowTamer",
+        "Description": "Use Browser Tamer picker with Flow Launcher",
+        "Author": "NoPlagiarism",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/NoPlagiarism/FlowTamer",
+        "UrlDownload": "https://github.com/NoPlagiarism/FlowTamer/releases/download/v1.0.0/FlowTamer-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/NoPlagiarism/FlowTamer",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/NoPlagiarism/FlowTamer@v1.0.0/Flow.Launcher.Plugin.FlowTamer/Images/logo.png",
+        "LatestReleaseDate": "2024-11-21T07:12:23Z"
+    },
+    {
         "ID": "3AF7F9DD4367439AA4730641D99EDA21",
         "ActionKeyword": "vol",
         "Name": "FlowTrumpet",
