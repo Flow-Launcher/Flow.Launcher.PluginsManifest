@@ -62,14 +62,14 @@
         "Name": "Anilist",
         "Description": "an anilist plugin for Flow-Launcher",
         "Author": "DiekoMA",
-        "Version": "1.0.3",
+        "Version": "1.0.4",
         "Language": "csharp",
         "Website": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Anilist@master/Assets/AniListlogo.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
-        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.3/Anilist-1.0.3.zip",
+        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.4/Anilist-1.0.4.zip",
         "DateAdded": "2023-04-16T23:07:57Z",
-        "LatestReleaseDate": "2024-05-15T09:39:22Z"
+        "LatestReleaseDate": "2024-11-27T19:03:38Z"
     },
     {
         "ID": "467A8D7E-0DC6-F0C8-347C-BC4B315C397F",
