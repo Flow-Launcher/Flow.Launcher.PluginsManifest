@@ -1535,6 +1535,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "028C97F910684231AB09B5DD5997D424",
+        "Name": "Obsidian",
+        "Description": "Search all Obsidian files",
+        "Author": "alexandre-v1",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian",
+        "UrlDownload": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/releases/download/v1.0.0/Flow.Launcher.Plugin.Obsidian.zip",
+        "UrlSourceCode": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/alexandre-v1/Flow.Launcher.Plugin.Obsidian@main/Flow.Launcher.Plugin.Obsidian/Icons/obsidian-logo.png",
+        "LatestReleaseDate": "2024-11-28T16:52:38Z"
+    },
+    {
         "ID": "129ae526-b5c7-4ba5-9f94-d60dffd68b98",
         "Name": "Ollama",
         "Description": "Plugin to use Ollama for local LLMs in Flow Launcher",
@@ -2530,6 +2543,18 @@
         "Tested": true,
         "DateAdded": "2024-02-04T06:02:40Z",
         "LatestReleaseDate": "2024-01-12T11:15:56Z"
+    },
+    {
+        "ID": "57696D7108C9401A9EC016BF63A86CCB",
+        "Name": "UrbanDictionary",
+        "Description": "Get the definition of any word using Urban Dictionary",
+        "Author": "jewdev",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
+        "UrlDownload": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary/releases/download/1.0.0/UrbanDictionary.zip",
+        "UrlSourceCode": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jewdev/Flow.Launcher.Plugin.UrbanDictionary/Flow.Launcher.Plugin.UrbanDictionary/icon.png"
     },
     {
         "ID": "525995402BEF4A8CA860D92F6D108092",

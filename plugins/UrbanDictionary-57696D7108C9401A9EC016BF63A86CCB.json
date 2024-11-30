@@ -1,12 +1,12 @@
 {
-	"ID": "57696D7108C9401A9EC016BF63A86CCB",  
-	"Name": "UrbanDictionary",
-	"Description": "Get the definition of any word using Urban Dictionary",
-	"Author": "jewdev",
-	"Version": "1.0.0",
-	"Language": "csharp",
-	"Website": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
-	"UrlDownload": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary/releases/download/1.0.0/UrbanDictionary.zip",
-	"UrlSourceCode": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
-	"IcoPath": "https://cdn.jsdelivr.net/gh/jewdev/Flow.Launcher.Plugin.UrbanDictionary/Flow.Launcher.Plugin.UrbanDictionary/icon.png"
-  }
+    "ID": "57696D7108C9401A9EC016BF63A86CCB",
+    "Name": "UrbanDictionary",
+    "Description": "Get the definition of any word using Urban Dictionary",
+    "Author": "jewdev",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
+    "UrlDownload": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary/releases/download/1.0.0/UrbanDictionary.zip",
+    "UrlSourceCode": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/jewdev/Flow.Launcher.Plugin.UrbanDictionary/Flow.Launcher.Plugin.UrbanDictionary/icon.png"
+}

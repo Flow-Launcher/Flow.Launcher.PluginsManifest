@@ -1,12 +1,13 @@
 {
-  "ID": "028C97F910684231AB09B5DD5997D424",
-  "Name": "Obsidian",
-  "Description": "Search all Obsidian files",
-  "Author": "alexandre-v1",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian",
-  "UrlDownload": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/releases/download/v1.0.0/Flow.Launcher.Plugin.Obsidian.zip",
-  "UrlSourceCode": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/tree/main",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/alexandre-v1/Flow.Launcher.Plugin.Obsidian@main/Flow.Launcher.Plugin.Obsidian/Icons/obsidian-logo.png"
+    "ID": "028C97F910684231AB09B5DD5997D424",
+    "Name": "Obsidian",
+    "Description": "Search all Obsidian files",
+    "Author": "alexandre-v1",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian",
+    "UrlDownload": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/releases/download/v1.0.0/Flow.Launcher.Plugin.Obsidian.zip",
+    "UrlSourceCode": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/alexandre-v1/Flow.Launcher.Plugin.Obsidian@main/Flow.Launcher.Plugin.Obsidian/Icons/obsidian-logo.png",
+    "LatestReleaseDate": "2024-11-28T16:52:38Z"
 }
