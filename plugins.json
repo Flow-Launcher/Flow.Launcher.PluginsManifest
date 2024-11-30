@@ -1545,7 +1545,8 @@
         "UrlDownload": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/releases/download/v1.0.0/Flow.Launcher.Plugin.Obsidian.zip",
         "UrlSourceCode": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/alexandre-v1/Flow.Launcher.Plugin.Obsidian@main/Flow.Launcher.Plugin.Obsidian/Icons/obsidian-logo.png",
-        "LatestReleaseDate": "2024-11-28T16:52:38Z"
+        "LatestReleaseDate": "2024-11-28T16:52:38Z",
+        "DateAdded": "2024-11-30T06:28:20Z"
     },
     {
         "ID": "129ae526-b5c7-4ba5-9f94-d60dffd68b98",
@@ -2554,7 +2555,9 @@
         "Website": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
         "UrlDownload": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary/releases/download/1.0.0/UrbanDictionary.zip",
         "UrlSourceCode": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/jewdev/Flow.Launcher.Plugin.UrbanDictionary/Flow.Launcher.Plugin.UrbanDictionary/icon.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jewdev/Flow.Launcher.Plugin.UrbanDictionary/Flow.Launcher.Plugin.UrbanDictionary/icon.png",
+        "DateAdded": "2024-11-30T06:28:20Z",
+        "LatestReleaseDate": "2024-11-27T21:29:07Z"
     },
     {
         "ID": "525995402BEF4A8CA860D92F6D108092",
