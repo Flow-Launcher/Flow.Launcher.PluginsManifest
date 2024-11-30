@@ -3,12 +3,12 @@
     "Name": "UrbanDictionary",
     "Description": "Get the definition of any word using Urban Dictionary",
     "Author": "jewdev",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "csharp",
     "Website": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
-    "UrlDownload": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary/releases/download/1.0.0/UrbanDictionary.zip",
+    "UrlDownload": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary/releases/download/1.0.1/UrbanDictionary.zip",
     "UrlSourceCode": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
     "IcoPath": "https://cdn.jsdelivr.net/gh/jewdev/Flow.Launcher.Plugin.UrbanDictionary/Flow.Launcher.Plugin.UrbanDictionary/icon.png",
     "DateAdded": "2024-11-30T06:28:20Z",
-    "LatestReleaseDate": "2024-11-27T21:29:07Z"
+    "LatestReleaseDate": "2024-11-30T20:17:53Z"
 }
