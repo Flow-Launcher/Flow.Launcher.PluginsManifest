@@ -1,5 +1,5 @@
 {
-    "ID": "32dcd763-f8ad-4f14-b000-fcf0884f0093",  
+    "ID": "32dcd763-f8ad-4f14-b000-fcf0884f0093",
     "Name": "Wordle",
     "Description": "An implimentation of the popular nytimes game called wordle for flow launcher",
     "Author": "cibere",
@@ -8,5 +8,6 @@
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.0.1/Flow.Launcher.Plugin.Wordle.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
-    "IcoPath": "https://i.imgur.com/5OWWgvq.png"
-  }
+    "IcoPath": "https://i.imgur.com/5OWWgvq.png",
+    "LatestReleaseDate": "2024-11-30T20:36:49Z"
+}
