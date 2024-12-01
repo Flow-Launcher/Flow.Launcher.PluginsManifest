@@ -6,7 +6,7 @@
     "Version": "0.0.1",
     "Language": "python_v2",
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
-    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/archive/refs/tags/v0.0.1.zip",
+    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.0.1/Flow.Launcher.Plugin.Wordle.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
     "IcoPath": "https://i.imgur.com/5OWWgvq.png"
   }
