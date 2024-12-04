@@ -1,0 +1,12 @@
+{
+    "ID": "flow.launcher.plugin.shortcut",  
+    "Name": "Shortcut",
+    "Description": "Search and create stories in Shortcut (formerly Clubhouse)",
+    "Author": "Mike Gyi",
+    "Version": "1.0.0",
+    "Language": "TypeScript",
+    "Website": "https://github.com/mikegyi/flow-launcher-shortcut",
+    "UrlDownload": "https://github.com/mikegyi/flow-launcher-shortcut/releases/latest/download/Flow.Launcher.Plugin.Shortcut.zip",
+    "UrlSourceCode": "https://github.com/mikegyi/flow-launcher-shortcut",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/mikegyi/flow-launcher-shortcut/Images/app.png"
+  }
