@@ -6,7 +6,7 @@
     "Version": "1.0.0",
     "Language": "TypeScript",
     "Website": "https://github.com/mikegyi/flow-launcher-shortcut",
-    "UrlDownload": "https://github.com/mikegyi/flow-launcher-shortcut/releases/latest/download/Flow.Launcher.Plugin.Shortcut.zip",
+    "UrlDownload": "https://github.com/mikegyi/flow-launcher-shortcut/releases/download/v1.0.0/Flow.Launcher.Plugin.Shortcut.zip",
     "UrlSourceCode": "https://github.com/mikegyi/flow-launcher-shortcut",
     "IcoPath": "https://cdn.jsdelivr.net/gh/mikegyi/flow-launcher-shortcut/Images/app.png"
   }
