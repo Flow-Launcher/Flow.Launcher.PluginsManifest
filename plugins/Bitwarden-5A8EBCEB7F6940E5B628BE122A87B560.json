@@ -3,12 +3,12 @@
     "Name": "Bitwarden",
     "Description": "Quick access to your Bitwarden vault via Flow Launcher.",
     "Author": "RedMageKnight",
-    "Version": "1.3.2",
+    "Version": "2.0.0",
     "Language": "csharp",
     "Website": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch",
-    "UrlDownload": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/releases/download/v1.3.2/Flow.Launcher.Plugin.Bitwarden.zip",
+    "UrlDownload": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/releases/download/v2.0.0/Flow.Launcher.Plugin.Bitwarden.zip",
     "UrlSourceCode": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/Images/bitwarden.png",
     "DateAdded": "2024-07-22T16:13:00Z",
-    "LatestReleaseDate": "2024-12-03T19:02:25Z"
+    "LatestReleaseDate": "2024-12-04T23:54:44Z"
 }
