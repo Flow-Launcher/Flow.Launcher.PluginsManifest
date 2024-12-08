@@ -1,0 +1,12 @@
+{
+    "ID": "22a114b1-aa5f-4bca-8763-03d58bc4029b",
+    "Name": "Tenor",
+    "Description": "Searches Tenor for GIFs",
+	"Author": "Josh Friedman",
+	"Version": "1.0.0",
+	"Language": "TypeScript",
+	"Website": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin",
+    "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin/releases/download/v1.0.0/Teonr-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Tenor-Plugin@main/assets/icon.png"
+}
