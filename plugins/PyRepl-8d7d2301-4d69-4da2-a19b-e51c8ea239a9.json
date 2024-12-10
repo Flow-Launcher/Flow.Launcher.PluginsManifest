@@ -3,12 +3,12 @@
     "Name": "PyRepl",
     "Description": "A python repl implimentation in flow",
     "Author": "cibere",
-    "Version": "0.0.3",
+    "Version": "0.0.4",
     "Language": "executable_v2",
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl",
-    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl/releases/download/v0.0.3/Flow.Launcher.Plugin.PyRepl.zip",
+    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl/releases/download/v0.0.4/Flow.Launcher.Plugin.PyRepl.zip",
     "IcoPath": "https://i.imgur.com/A7VSboi.png",
-    "LatestReleaseDate": "2024-12-09T02:24:30Z",
+    "LatestReleaseDate": "2024-12-10T00:29:13Z",
     "DateAdded": "2024-12-08T06:29:32Z"
 }
