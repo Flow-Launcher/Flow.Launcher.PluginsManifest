@@ -5,7 +5,6 @@
   "Author": "Jonathan Glanz",
   "Version": "1.1.2",
   "Language": "TypeScript",
-  "ExecuteFileName": "./dist/main.js",
   "Website": "https://github.com/jglanz/flow-launcher-plugin-nightlight",
   "IcoPath": "https://cdn.jsdelivr.net/gh/jglanz/flow-launcher-plugin-nightlight/assets/bulb.png",
   "UrlDownload": "https://github.com/jglanz/flow-launcher-plugin-nightlight/releases/download/v1.1.2/Nightlight-1.1.2.zip",
