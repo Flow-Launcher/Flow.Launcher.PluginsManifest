@@ -1498,7 +1498,8 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/jglanz/flow-launcher-plugin-nightlight/assets/bulb.png",
         "UrlDownload": "https://github.com/jglanz/flow-launcher-plugin-nightlight/releases/download/v1.1.3/Nightlight-1.1.3.zip",
         "UrlSourceCode": "https://github.com/jglanz/flow-launcher-plugin-nightlight/tree/master",
-        "LatestReleaseDate": "2024-12-11T21:45:33Z"
+        "LatestReleaseDate": "2024-12-11T21:45:33Z",
+        "DateAdded": "2024-12-12T12:45:18Z"
     },
     {
         "ID": "2bf97885-af0d-11ee-94b6-00e04c239987",
