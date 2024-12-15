@@ -1,5 +1,5 @@
 # -*-coding: utf-8 -*-
-from _utils import clean, id_name, language_list, language_name, plugin_reader, check_url, icon_path, get_plugin_files
+from _utils import clean, id_name, language_list, language_name, plugin_reader, check_url, icon_path, get_plugin_files, get_plugin_filenames
 
 plugin_infos = plugin_reader()
 
@@ -28,3 +28,10 @@ def test_file_type_json():
     incorrect_ext_files = [file for file in get_plugin_files() if not file.endswith(".json")]
 
     assert len(incorrect_ext_files) == 0, f"Expected the following file to be of .json extension: {incorrect_ext_files}"
+
+def test_file_name_construct():
+    filenames = get_plugin_filenames()
+    for info in plugin_infos:
+        assert (
+            f"{info['Name']}-{info['ID']}.json" in filenames
+        ), f"Plugin {info['Name']} with ID {info['ID']} does not have the correct filename. Make sure it's name + ID, i.e. {info['Name']}-{info['ID']}.json"
