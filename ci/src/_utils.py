@@ -53,7 +53,10 @@ def plugin_reader() -> P:
     return manifests
 
 def get_plugin_files() -> list[str]:
-    return [os.path.join(plugin_dir, file) for file in os.listdir(plugin_dir)]
+    return [os.path.join(plugin_dir, filename) for filename in get_plugin_filenames()]
+
+def get_plugin_filenames() -> list[str]:
+    return [file for file in os.listdir(plugin_dir)]
 
 def etag_reader() -> ETagsType:
     with open(etag_file, "r", encoding="utf-8") as f:
