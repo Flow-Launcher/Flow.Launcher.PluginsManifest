@@ -6,7 +6,7 @@
     "Version": "1.0",
     "Language": "csharp",
     "Website": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
-    "UrlDownload": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin/releases/download/1.0/Release.zip",
+    "UrlDownload": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.UnityLauncherPlugin.zip",
     "UrlSourceCode": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Ghost-Miner/Unity-project-launcher-plugin@refs/heads/main/Images/logo.png"
 }
