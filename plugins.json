@@ -2559,6 +2559,19 @@
         "LatestReleaseDate": "2022-10-22T08:36:17Z"
     },
     {
+        "ID": "8de584c0-f855-4825-8886-65e670ebe441",
+        "Name": "Unity Projects Launcher",
+        "Description": "Open Unity projects from Flow Launcher",
+        "Author": "Ghost-Miner",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
+        "UrlDownload": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.UnityLauncherPlugin.zip",
+        "UrlSourceCode": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Ghost-Miner/Unity-project-launcher-plugin@refs/heads/main/Images/logo.png",
+        "LatestReleaseDate": "2024-12-16T16:14:28Z"
+    },
+    {
         "ID": "cb7d1472-7da9-459e-b987-57f92cb3cea2",
         "Name": "UpsetGalgame",
         "Description": "Search galgame on shinnku.com",
