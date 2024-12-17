@@ -39,3 +39,19 @@ def test_file_name_construct():
         assert (
             f"{info['Name']}-{info['ID']}.json" in filenames
         ), f"Plugin {info['Name']} with ID {info['ID']} does not have the correct filename. Make sure it's name + ID, i.e. {info['Name']}-{info['ID']}.json"
+
+def test_submitted_plugin_id_is_valid_uuid():
+    plugins_json_ids = [item["ID"] for item in get_file_plugins_json_info("ID")]
+    existing_plugin_file_ids = [info["ID"] for info in plugin_infos]
+
+    for id in existing_plugin_file_ids:
+        if id in plugins_json_ids:
+            continue
+
+        try:
+            uuid.UUID(id, version=4)
+            outcome = True
+        except ValueError:
+            outcome = False
+
+        assert outcome is True, f"The submission plugin ID {id} is not a valid v4 UUID"

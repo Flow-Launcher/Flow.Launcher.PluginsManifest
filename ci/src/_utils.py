@@ -91,3 +91,13 @@ def check_url(url: str) -> bool:
         re.IGNORECASE,
     )
     return re.match(regex, url) is not None
+
+
+def get_file_plugins_json_info(required_key: str = "") -> list[dict[str, str]]:
+    with open("plugins.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    if not required_key:
+        return data
+
+    return [{required_key: plugin[required_key]} for plugin in data]
