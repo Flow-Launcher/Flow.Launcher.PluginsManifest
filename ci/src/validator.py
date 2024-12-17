@@ -1,5 +1,9 @@
 # -*-coding: utf-8 -*-
-from _utils import clean, id_name, language_list, language_name, plugin_reader, check_url, icon_path, get_plugin_files, get_plugin_filenames
+import re
+import uuid
+
+from _utils import (check_url, clean, get_file_plugins_json_info, get_plugin_file_paths, get_plugin_filenames,
+                    icon_path, id_name, language_list, language_name, plugin_reader)
 
 plugin_infos = plugin_reader()
 
@@ -25,7 +29,7 @@ def test_valid_icon_url():
         assert check_url(plugin[icon_path]), msg
 
 def test_file_type_json():
-    incorrect_ext_files = [file for file in get_plugin_files() if not file.endswith(".json")]
+    incorrect_ext_files = [file_path for file_path in get_plugin_file_paths() if not file_path.endswith(".json")]
 
     assert len(incorrect_ext_files) == 0, f"Expected the following file to be of .json extension: {incorrect_ext_files}"
 

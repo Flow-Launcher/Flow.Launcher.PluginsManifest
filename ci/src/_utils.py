@@ -41,7 +41,7 @@ ETagsType = Dict[str, str]
 
 
 def plugin_reader() -> P:
-    plugin_files = get_plugin_files()
+    plugin_files = get_plugin_file_paths()
 
     manifests = []
 
@@ -52,11 +52,11 @@ def plugin_reader() -> P:
 
     return manifests
 
-def get_plugin_files() -> list[str]:
+def get_plugin_file_paths() -> list[str]:
     return [os.path.join(plugin_dir, filename) for filename in get_plugin_filenames()]
 
 def get_plugin_filenames() -> list[str]:
-    return [file for file in os.listdir(plugin_dir)]
+    return os.listdir(plugin_dir)
 
 def etag_reader() -> ETagsType:
     with open(etag_file, "r", encoding="utf-8") as f:
