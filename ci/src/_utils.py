@@ -41,14 +41,13 @@ ETagsType = Dict[str, str]
 
 
 def plugin_reader() -> P:
-    plugin_files = get_plugin_file_paths()
+    plugin_file_paths = get_plugin_file_paths()
 
     manifests = []
 
-    for plugin in plugin_files:
-        with open(plugin, "r", encoding="utf-8") as f:
-            manifest = json.load(f)
-            manifests.append(manifest)
+    for plugin_path in plugin_file_paths:
+        with open(plugin_path, "r", encoding="utf-8") as f:
+            manifests.append(json.load(f))
 
     return manifests
 
