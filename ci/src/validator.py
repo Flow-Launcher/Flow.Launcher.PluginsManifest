@@ -1,5 +1,4 @@
 # -*-coding: utf-8 -*-
-import re
 import uuid
 
 from _utils import (check_url, clean, get_file_plugins_json_info, get_plugin_file_paths, get_plugin_filenames,
