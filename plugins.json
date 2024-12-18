@@ -62,14 +62,14 @@
         "Name": "Anilist",
         "Description": "an anilist plugin for Flow-Launcher",
         "Author": "DiekoMA",
-        "Version": "1.0.4",
+        "Version": "1.0.6",
         "Language": "csharp",
         "Website": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Anilist@master/Assets/AniListlogo.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist",
-        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.4/Anilist-1.0.4.zip",
+        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Anilist/releases/download/v1.0.6/Anilist-1.0.6.zip",
         "DateAdded": "2023-04-16T23:07:57Z",
-        "LatestReleaseDate": "2024-11-27T19:03:38Z"
+        "LatestReleaseDate": "2024-12-12T15:44:41Z"
     },
     {
         "ID": "467A8D7E-0DC6-F0C8-347C-BC4B315C397F",
@@ -235,14 +235,14 @@
         "Name": "Bitwarden",
         "Description": "Quick access to your Bitwarden vault via Flow Launcher.",
         "Author": "RedMageKnight",
-        "Version": "1.3.2",
+        "Version": "2.1.0",
         "Language": "csharp",
         "Website": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch",
-        "UrlDownload": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/releases/download/v1.3.2/Flow.Launcher.Plugin.Bitwarden.zip",
+        "UrlDownload": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/releases/download/v2.1.0/Flow.Launcher.Plugin.Bitwarden.zip",
         "UrlSourceCode": "https://github.com/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/RedMageKnight/Flow.Launcher.Plugin.BitwardenSearch/Images/bitwarden.png",
         "DateAdded": "2024-07-22T16:13:00Z",
-        "LatestReleaseDate": "2024-12-03T19:02:25Z"
+        "LatestReleaseDate": "2024-12-06T09:58:21Z"
     },
     {
         "ID": "7AB469ED3A2845E6A7D2975ED4C77FE3",
@@ -584,13 +584,13 @@
         "Name": "DirQuickJump",
         "Description": "When opening or saving files, quickly jump to the directory you already opened in File Explorer. Inspired by Listary Quick Switch.",
         "Author": "idkana",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "csharp",
         "Website": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
-        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.0.1/Flow.Launcher.Plugin.DirQuickJump.zip",
+        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.0.2/Flow.Launcher.Plugin.DirQuickJump.zip",
         "UrlSourceCode": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
         "IcoPath": "https://cdn.jsdelivr.net/gh/idkidknow/Flow.Launcher.Plugin.DirQuickJump@main/Flow.Launcher.Plugin.DirQuickJump/icon.png",
-        "LatestReleaseDate": "2024-09-21T12:53:23Z",
+        "LatestReleaseDate": "2024-12-13T20:42:36Z",
         "DateAdded": "2024-09-17T12:38:53Z"
     },
     {
@@ -859,13 +859,13 @@
         "Name": "Firefox Keyword Bookmarks",
         "Description": "A plugin that lets you open firefox bookmarks from their keyword",
         "Author": "cibere",
-        "Version": "0.2.0",
+        "Version": "0.2.1",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
-        "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.2.0/Flow.Launcher.Plugin.FirefoxKeywordBookmarks.zip",
+        "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.2.1/Flow.Launcher.Plugin.FirefoxKeywordBookmarks.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
         "IcoPath": "https://i.imgur.com/1cGHQTp.png",
-        "LatestReleaseDate": "2024-11-28T01:26:12Z",
+        "LatestReleaseDate": "2024-12-13T23:08:56Z",
         "Tested": true,
         "DateAdded": "2024-10-31T12:40:23Z"
     },
@@ -874,13 +874,13 @@
         "Name": "Flow Load Notification",
         "Description": "A plugin that only sends a notification when the plugin gets loaded after a restart or on first start.",
         "Author": "cibere",
-        "Version": "0.0.2",
+        "Version": "0.0.3",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.2/Flow.Launcher.Plugin.FlowLoadNotification.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.3/Flow.Launcher.Plugin.FlowLoadNotification.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
         "IcoPath": "https://i.imgur.com/G0lVumf.png",
-        "LatestReleaseDate": "2024-11-28T00:03:52Z",
+        "LatestReleaseDate": "2024-12-12T01:06:17Z",
         "DateAdded": "2024-11-24T12:38:14Z"
     },
     {
@@ -917,13 +917,13 @@
         "Name": "FlowTamer",
         "Description": "Use Browser Tamer picker with Flow Launcher",
         "Author": "NoPlagiarism",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "csharp",
         "Website": "https://github.com/NoPlagiarism/FlowTamer",
-        "UrlDownload": "https://github.com/NoPlagiarism/FlowTamer/releases/download/v1.0.0/FlowTamer-1.0.0.zip",
+        "UrlDownload": "https://github.com/NoPlagiarism/FlowTamer/releases/download/v1.0.1/FlowTamer-1.0.1.zip",
         "UrlSourceCode": "https://github.com/NoPlagiarism/FlowTamer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/NoPlagiarism/FlowTamer@v1.0.0/Flow.Launcher.Plugin.FlowTamer/Images/logo.png",
-        "LatestReleaseDate": "2024-11-21T07:12:23Z",
+        "LatestReleaseDate": "2024-12-09T18:03:51Z",
         "DateAdded": "2024-11-23T09:20:45Z"
     },
     {
@@ -932,13 +932,13 @@
         "Name": "FlowTrumpet",
         "Description": "Set the volume of a specific application",
         "Author": "Hary309",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/Hary309/Flow.Launcher.Plugin.FlowTrumpet",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Hary309/Flow.Launcher.Plugin.FlowTrumpet@main/Flow.Launcher.Plugin.FlowTrumpet/Images/app.png",
-        "UrlDownload": "https://github.com/Hary309/Flow.Launcher.Plugin.FlowTrumpet/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowTrumpet-1.0.0.zip",
+        "UrlDownload": "https://github.com/Hary309/Flow.Launcher.Plugin.FlowTrumpet/releases/download/v1.1.0/Flow.Launcher.Plugin.FlowTrumpet-1.1.0.zip",
         "UrlSourceCode": "https://github.com/Hary309/Flow.Launcher.Plugin.FlowTrumpet",
-        "LatestReleaseDate": "2024-09-20T23:20:22Z",
+        "LatestReleaseDate": "2024-12-10T22:42:46Z",
         "DateAdded": "2024-09-24T01:38:41Z"
     },
     {
@@ -1306,14 +1306,14 @@
         "Name": "KeePass2Flow",
         "Description": "Hook up Flow to KeePass 2",
         "Author": "geisterfurz007",
-        "Version": "1.1.2",
+        "Version": "1.1.3",
         "Language": "csharp",
         "Website": "https://github.com/geisterfurz007/KeePass2Flow",
-        "UrlDownload": "https://github.com/mvarendorff/KeePass2Flow/releases/download/v1.1.2/KeePass2Flow.zip",
+        "UrlDownload": "https://github.com/mvarendorff/KeePass2Flow/releases/download/v1.1.3/KeePass2Flow.zip",
         "UrlSourceCode": "https://github.com/geisterfurz007/KeePass2Flow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png",
         "DateAdded": "2024-05-09T13:25:18Z",
-        "LatestReleaseDate": "2024-07-08T19:49:14Z"
+        "LatestReleaseDate": "2024-12-15T08:44:57Z"
     },
     {
         "ID": "9A30A1AFC6719927B20DFEFFA9DCD50D",
@@ -1474,6 +1474,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/FlowLauncherPluginMyIPs@main/Flow.Launcher.Plugin.FlowLauncherPluginMyIPs/icon.png",
         "DateAdded": "2022-10-08T16:26:57Z",
         "LatestReleaseDate": "2022-08-17T15:00:00Z"
+    },
+    {
+        "ID": "ef3a6ece-ca05-4d4f-92ba-2ff8a67e017b",
+        "Name": "Nightlight",
+        "Description": "Nightlight Controls",
+        "Author": "Jonathan Glanz",
+        "Version": "1.1.4",
+        "Language": "TypeScript",
+        "Website": "https://github.com/jglanz/flow-launcher-plugin-nightlight",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jglanz/flow-launcher-plugin-nightlight/assets/bulb.png",
+        "UrlDownload": "https://github.com/jglanz/flow-launcher-plugin-nightlight/releases/download/v1.1.4/Nightlight-1.1.4.zip",
+        "UrlSourceCode": "https://github.com/jglanz/flow-launcher-plugin-nightlight/tree/master",
+        "LatestReleaseDate": "2024-12-12T16:17:38Z",
+        "DateAdded": "2024-12-12T12:45:18Z"
     },
     {
         "ID": "2bf97885-af0d-11ee-94b6-00e04c239987",
@@ -1776,6 +1790,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Flow.Launcher.Plugin.Putty@master/Flow.Launcher.Plugin.Putty/icon.png",
         "LatestReleaseDate": "2022-11-03T11:19:49Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "8d7d2301-4d69-4da2-a19b-e51c8ea239a9",
+        "Name": "PyRepl",
+        "Description": "A python repl implimentation in flow",
+        "Author": "cibere",
+        "Version": "0.0.4",
+        "Language": "executable_v2",
+        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl",
+        "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl/releases/download/v0.0.4/Flow.Launcher.Plugin.PyRepl.zip",
+        "IcoPath": "https://i.imgur.com/A7VSboi.png",
+        "LatestReleaseDate": "2024-12-10T00:29:13Z",
+        "DateAdded": "2024-12-08T06:29:32Z"
     },
     {
         "ID": "725660A1CB3D4FFE978A8B477EB376B4",
@@ -2290,14 +2318,14 @@
         "Name": "Timezone Conversion",
         "Description": "Converts a time from one timezone to another",
         "Author": "Josh Friedman",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "TypeScript",
         "Website": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin",
-        "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin/releases/download/v1.1.0/TimezoneConversion-1.1.0.zip",
+        "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin/releases/download/v1.1.1/TimezoneConversion-1.1.1.zip",
         "UrlSourceCode": "https://github.com/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Timezone-Conversion-Plugin@main/assets/icon.png",
         "DateAdded": "2024-05-17T06:12:12Z",
-        "LatestReleaseDate": "2024-05-24T03:13:31Z"
+        "LatestReleaseDate": "2024-12-06T23:59:03Z"
     },
     {
         "ID": "589CA535BD5041E78179C4F2D2F2D8FD",
@@ -2529,6 +2557,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.UnityEngine@master/Images/unity.png",
         "DateAdded": "2022-10-08T16:26:57Z",
         "LatestReleaseDate": "2022-10-22T08:36:17Z"
+    },
+    {
+        "ID": "8de584c0-f855-4825-8886-65e670ebe441",
+        "Name": "Unity Projects Launcher",
+        "Description": "Open Unity projects from Flow Launcher",
+        "Author": "Ghost-Miner",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
+        "UrlDownload": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.UnityLauncherPlugin.zip",
+        "UrlSourceCode": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Ghost-Miner/Unity-project-launcher-plugin@refs/heads/main/plugin-icon.png",
+        "LatestReleaseDate": "2024-12-16T16:14:28Z",
+        "DateAdded": "2024-12-17T12:44:56Z"
     },
     {
         "ID": "cb7d1472-7da9-459e-b987-57f92cb3cea2",
@@ -2854,13 +2896,13 @@
         "Name": "Wordle",
         "Description": "An implimentation of the popular nytimes game called wordle for flow launcher",
         "Author": "cibere",
-        "Version": "0.0.1",
+        "Version": "0.0.2",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.0.1/Flow.Launcher.Plugin.Wordle.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.0.2/Flow.Launcher.Plugin.Wordle.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
         "IcoPath": "https://i.imgur.com/5OWWgvq.png",
-        "LatestReleaseDate": "2024-11-30T20:36:49Z",
+        "LatestReleaseDate": "2024-12-13T23:15:03Z",
         "DateAdded": "2024-12-01T12:40:10Z"
     },
     {
