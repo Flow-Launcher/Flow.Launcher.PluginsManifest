@@ -44,6 +44,7 @@ def test_submitted_plugin_id_is_valid_uuid():
     existing_plugin_file_ids = [info["ID"] for info in plugin_infos]
 
     for id in existing_plugin_file_ids:
+        # plugins.json would not contain new submission's ID.
         if id in plugins_json_ids:
             continue
 
