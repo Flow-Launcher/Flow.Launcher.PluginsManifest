@@ -41,22 +41,21 @@ ETagsType = Dict[str, str]
 
 
 def plugin_reader() -> P:
-    plugin_files = get_plugin_files()
+    plugin_file_paths = get_plugin_file_paths()
 
     manifests = []
 
-    for plugin in plugin_files:
-        with open(plugin, "r", encoding="utf-8") as f:
-            manifest = json.load(f)
-            manifests.append(manifest)
+    for plugin_path in plugin_file_paths:
+        with open(plugin_path, "r", encoding="utf-8") as f:
+            manifests.append(json.load(f))
 
     return manifests
 
-def get_plugin_files() -> list[str]:
+def get_plugin_file_paths() -> list[str]:
     return [os.path.join(plugin_dir, filename) for filename in get_plugin_filenames()]
 
 def get_plugin_filenames() -> list[str]:
-    return [file for file in os.listdir(plugin_dir)]
+    return os.listdir(plugin_dir)
 
 def etag_reader() -> ETagsType:
     with open(etag_file, "r", encoding="utf-8") as f:
@@ -91,3 +90,13 @@ def check_url(url: str) -> bool:
         re.IGNORECASE,
     )
     return re.match(regex, url) is not None
+
+
+def get_file_plugins_json_info(required_key: str = "") -> list[dict[str, str]]:
+    with open("plugins.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    if not required_key:
+        return data
+
+    return [{required_key: plugin[required_key]} for plugin in data]

@@ -1306,14 +1306,14 @@
         "Name": "KeePass2Flow",
         "Description": "Hook up Flow to KeePass 2",
         "Author": "geisterfurz007",
-        "Version": "1.1.3",
+        "Version": "1.1.4",
         "Language": "csharp",
         "Website": "https://github.com/geisterfurz007/KeePass2Flow",
-        "UrlDownload": "https://github.com/mvarendorff/KeePass2Flow/releases/download/v1.1.3/KeePass2Flow.zip",
+        "UrlDownload": "https://github.com/mvarendorff/KeePass2Flow/releases/download/v1.1.4/KeePass2Flow.zip",
         "UrlSourceCode": "https://github.com/geisterfurz007/KeePass2Flow",
         "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png",
         "DateAdded": "2024-05-09T13:25:18Z",
-        "LatestReleaseDate": "2024-12-15T08:44:57Z"
+        "LatestReleaseDate": "2024-12-18T14:05:17Z"
     },
     {
         "ID": "9A30A1AFC6719927B20DFEFFA9DCD50D",
@@ -2557,6 +2557,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.UnityEngine@master/Images/unity.png",
         "DateAdded": "2022-10-08T16:26:57Z",
         "LatestReleaseDate": "2022-10-22T08:36:17Z"
+    },
+    {
+        "ID": "8de584c0-f855-4825-8886-65e670ebe441",
+        "Name": "Unity Projects Launcher",
+        "Description": "Open Unity projects from Flow Launcher",
+        "Author": "Ghost-Miner",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
+        "UrlDownload": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin/releases/download/v1.1.0/Flow.Launcher.Plugin.UnityLauncherPlugin.zip",
+        "UrlSourceCode": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Ghost-Miner/Unity-project-launcher-plugin@refs/heads/main/plugin-icon.png",
+        "LatestReleaseDate": "2024-12-19T19:00:10Z",
+        "DateAdded": "2024-12-17T12:44:56Z"
     },
     {
         "ID": "cb7d1472-7da9-459e-b987-57f92cb3cea2",
