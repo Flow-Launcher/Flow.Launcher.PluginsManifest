@@ -3009,6 +3009,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "bd4aff8b-108f-4ce9-affb-57c736648fe7",
+        "Name": "rtfm",
+        "Description": "a rtfm lookup plugin",
+        "Author": "ciibere",
+        "Version": "0.0.1",
+        "Language": "python_v2",
+        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v0.0.1/Flow.Launcher.Plugin.rtfm.zip",
+        "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
+        "IcoPath": "https://i.imgur.com/cvI93QW.png",
+        "LatestReleaseDate": "2024-12-17T05:59:18Z"
+    },
+    {
         "ID": "BC4E22D7C0CD4FBA9108C26B8B8DBA8D",
         "Name": "ryot",
         "Description": "Search your ryot tracker",
