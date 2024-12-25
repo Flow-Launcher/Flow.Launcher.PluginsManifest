@@ -1,0 +1,12 @@
+{
+    "ID": "09CA50948EAC4077AACE55D8EA2E9283",
+    "Name": "Cider2",
+    "Description": "A Plugin that uses Cider 2 API to control Cider2",
+    "Author": "js0ny",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2",
+    "UrlSourceCode": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2",
+    "UrlDownload": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2/releases/download/v1.0.0/Flow.Launcher.Plugin.Cider2.zip",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/js0ny/Flow.Launcher.Plugin.Cider2/Images/icon.png"
+}
