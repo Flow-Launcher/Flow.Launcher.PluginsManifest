@@ -370,7 +370,8 @@
         "UrlSourceCode": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2",
         "UrlDownload": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2/releases/download/1.0.0/Flow.Launcher.Plugin.Cider2-1.0.0.zip",
         "IcoPath": "https://cdn.jsdelivr.net/gh/js0ny/Flow.Launcher.Plugin.Cider2/Images/icon.png",
-        "LatestReleaseDate": "2024-12-25T10:57:39Z"
+        "LatestReleaseDate": "2024-12-25T10:57:39Z",
+        "DateAdded": "2025-01-01T09:20:50Z"
     },
     {
         "ID": "75894EA334FA4C10AC16E28BC4616C4A",
@@ -2667,7 +2668,9 @@
         "UrlDownload": "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/releases/download/v0.0.1/Flow.Launcher.Plugin.VimCheatSheet.zip",
         "UrlSourceCode": "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet",
         "IcoPath": "https://cdn.jsdelivr.net/gh/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/src/icon.png",
-        "LatestReleaseDate": "2024-12-31T05:41:17Z"
+        "LatestReleaseDate": "2024-12-31T05:41:17Z",
+        "Tested": true,
+        "DateAdded": "2025-01-01T09:20:50Z"
     },
     {
         "ID": "CBDFA9CF044842B4A79939112240FD38",
