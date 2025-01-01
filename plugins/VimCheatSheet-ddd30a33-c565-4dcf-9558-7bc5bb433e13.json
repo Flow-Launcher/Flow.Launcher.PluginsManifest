@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/releases/download/v0.0.1/Flow.Launcher.Plugin.VimCheatSheet.zip",
     "UrlSourceCode": "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet",
     "IcoPath": "https://cdn.jsdelivr.net/gh/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/src/icon.png",
-    "LatestReleaseDate": "2024-12-31T05:41:17Z"
+    "LatestReleaseDate": "2024-12-31T05:41:17Z",
+    "Tested": true,
+    "DateAdded": "2025-01-01T09:20:50Z"
 }
