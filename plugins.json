@@ -360,6 +360,19 @@
         "LatestReleaseDate": "2023-02-28T10:34:28Z"
     },
     {
+        "ID": "09CA50948EAC4077AACE55D8EA2E9283",
+        "Name": "Cider2",
+        "Description": "A Plugin that uses Cider 2 API to control Cider2",
+        "Author": "js0ny",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2",
+        "UrlSourceCode": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2",
+        "UrlDownload": "https://github.com/js0ny/Flow.Launcher.Plugin.Cider2/releases/download/1.0.0/Flow.Launcher.Plugin.Cider2-1.0.0.zip",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/js0ny/Flow.Launcher.Plugin.Cider2/Images/icon.png",
+        "LatestReleaseDate": "2024-12-25T10:57:39Z"
+    },
+    {
         "ID": "75894EA334FA4C10AC16E28BC4616C4A",
         "Name": "CkFlow",
         "Description": "Plugin to check internet access and get the speed of download and upload",
@@ -2642,6 +2655,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
         "LatestReleaseDate": "2024-08-19T16:31:50Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "ddd30a33-c565-4dcf-9558-7bc5bb433e13",
+        "Name": "VimCheatSheet",
+        "Description": "Instant access to Vim commands and shortcuts via an interactive cheat sheet.",
+        "Author": "MoAlSeifi",
+        "Version": "0.0.1",
+        "Language": "python",
+        "Website": "https://github.com/MoAlSeifi",
+        "UrlDownload": "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/releases/download/v0.0.1/Flow.Launcher.Plugin.VimCheatSheet.zip",
+        "UrlSourceCode": "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/src/icon.png",
+        "LatestReleaseDate": "2024-12-31T05:41:17Z"
     },
     {
         "ID": "CBDFA9CF044842B4A79939112240FD38",
