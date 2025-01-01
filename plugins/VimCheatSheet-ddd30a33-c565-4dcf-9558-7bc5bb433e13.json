@@ -1,0 +1,12 @@
+{
+    "ID": "ddd30a33-c565-4dcf-9558-7bc5bb433e13",
+    "Name": "VimCheatSheet",
+    "Description": "Instant access to Vim commands and shortcuts via an interactive cheat sheet.",
+    "Author": "MoAlSeifi",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/MoAlSeifi",
+    "UrlDownload" : "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/releases/download/v0.0.1/Flow.Launcher.Plugin.VimCheatSheet.zip",
+    "UrlSourceCode" : "https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet/src/icon.png"
+}
