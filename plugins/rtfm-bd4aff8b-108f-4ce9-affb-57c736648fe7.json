@@ -2,7 +2,7 @@
     "ID": "bd4aff8b-108f-4ce9-affb-57c736648fe7",
     "Name": "rtfm",
     "Description": "a rtfm lookup plugin",
-    "Author": "ciibere",
+    "Author": "cibere",
     "Version": "0.1.2",
     "Language": "python_v2",
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
