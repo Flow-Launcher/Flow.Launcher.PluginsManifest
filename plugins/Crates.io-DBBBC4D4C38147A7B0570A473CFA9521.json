@@ -1,0 +1,12 @@
+{
+    "ID": "DBBBC4D4C38147A7B0570A473CFA9521",
+    "Name": "Crates.io",
+    "Description": "Search and explore Rust crates directly from Flow Launcher",
+    "Author": "ahmetoozcan",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/ahmetoozcan/Flow.Launcher.Plugin.Crates",
+    "UrlDownload": "https://github.com/ahmetoozcan/Flow.Launcher.Plugin.Crates/releases/download/v1.0.0/Flow.Launcher.Plugin.Crates.zip",
+    "UrlSourceCode": "https://github.com/ahmetoozcan/Flow.Launcher.Plugin.Crates/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/ahmetoozcan/Flow.Launcher.Plugin.Crates/Assets/crates.png"
+}
