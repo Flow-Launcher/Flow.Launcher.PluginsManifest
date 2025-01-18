@@ -4,11 +4,11 @@
     "Name": "Search Unicode – Emoji",
     "Description": "Search Emoji in the Unicode character set",
     "Author": "Eana Hufwe",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "csharp",
     "Website": "https://github.com/blueset/flow-search-unicode",
     "ExecuteFileName": "Flow.Launcher.Plugin.SearchUnicode.Emoji.dll",
     "IcoPath": "https://cdn.jsdelivr.net/gh/blueset/flow-search-unicode@master/Flow.Launcher.Plugin.SearchUnicode.Emoji/icon.png?raw=true",
     "UrlSourceCode": "https://github.com/blueset/flow-search-unicode",
-    "UrlDownload": "https://github.com/blueset/flow-search-unicode/releases/download/v1.0.0/SearchUnicode.Emoji.zip"
+    "UrlDownload": "https://github.com/blueset/flow-search-unicode/releases/download/v1.0.1/SearchUnicode.Emoji.zip"
 }
