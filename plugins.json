@@ -445,6 +445,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "DBBBC4D4C38147A7B0570A473CFA9521",
+        "Name": "Crates.io",
+        "Description": "Search and explore Rust crates directly from Flow Launcher",
+        "Author": "ahmetoozcan",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/ahmetoozcan/Flow.Launcher.Plugin.Crates",
+        "UrlDownload": "https://github.com/ahmetoozcan/Flow.Launcher.Plugin.Crates/releases/download/v1.0.0/Flow.Launcher.Plugin.Crates.zip",
+        "UrlSourceCode": "https://github.com/ahmetoozcan/Flow.Launcher.Plugin.Crates/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ahmetoozcan/Flow.Launcher.Plugin.Crates/Assets/crates.png",
+        "LatestReleaseDate": "2025-01-17T00:19:08Z"
+    },
+    {
         "ID": "18892B7863AC43ABA27859A5A2866DD8",
         "Name": "Currency Converter",
         "Description": "Currency converter using the euro and rates at https://www.ecb.europa.eu/",
@@ -1834,6 +1847,20 @@
         "DateAdded": "2024-12-08T06:29:32Z"
     },
     {
+        "ID": "340E73A8A8C148A28082C90207E097B3",
+        "ActionKeyword": "qr",
+        "Name": "QrCodeGenerator",
+        "Description": "Qr Code Generator or Parser Qr Code file Plugin",
+        "Author": "yu-xiaoyao",
+        "Version": "1.0.6",
+        "Language": "csharp",
+        "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.QrCodeGenerator",
+        "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.QrCodeGenerator",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yu-xiaoyao/Flow.Launcher.Plugin.QrCodeGenerator/Flow.Launcher.Plugin.QrCodeGenerator/Images/QrCodeGenerator-icon.png",
+        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.QrCodeGenerator/releases/download/v1.0.6/QrCodeGenerator.zip",
+        "LatestReleaseDate": "2024-08-25T07:48:52Z"
+    },
+    {
         "ID": "725660A1CB3D4FFE978A8B477EB376B4",
         "Name": "QrFlow",
         "Description": "Plugin to generate QR code",
@@ -1933,6 +1960,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.RegJump@main/src/icon.png",
         "DateAdded": "2023-06-03T09:54:28Z",
         "LatestReleaseDate": "2023-05-30T22:07:24Z"
+    },
+    {
+        "ID": "522FAF05-36F4-4504-BFF6-5D8F8F4396D5",
+        "Name": "Remind Me",
+        "Description": "A plugin for setting reminders",
+        "Author": "Yusyuriv",
+        "Version": "1.2.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Yusyuriv/Flow.Launcher.Plugin.RemindMe@main/icon.png",
+        "UrlSourceCode": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe",
+        "UrlDownload": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe/releases/download/v1.2.0/Flow.Launcher.Plugin.RemindMe.zip",
+        "LatestReleaseDate": "2024-07-09T11:05:14Z"
     },
     {
         "ID": "D2B1550D-7F24-4A9C-9952-2CF0A253A555",
