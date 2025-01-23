@@ -3,12 +3,12 @@
     "Name": "Yu-Gi-Oh! card search",
     "Description": "Searches for Yu-Gi-Oh! cards on ygoprodeck.com",
     "Author": "pivotiiii",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Language": "JavaScript",
     "Website": "https://github.com/pivotiiii/flow_launcher_ygo",
-    "UrlDownload": "https://github.com/pivotiiii/flow_launcher_ygo/releases/download/v1.1.1/pivotiiii.Flow-Plugin.Yu-Gi-Oh-Search.zip",
+    "UrlDownload": "https://github.com/pivotiiii/flow_launcher_ygo/releases/download/v1.1.2/pivotiiii.Flow-Plugin.Yu-Gi-Oh-Search.zip",
     "UrlSourceCode": "https://github.com/pivotiiii/flow_launcher_ygo/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/pivotiiii/flow_launcher_ygo@main/img/app.png",
-    "LatestReleaseDate": "2024-07-09T22:52:45Z",
+    "LatestReleaseDate": "2025-01-23T02:02:08Z",
     "DateAdded": "2024-07-07T17:12:01Z"
 }
