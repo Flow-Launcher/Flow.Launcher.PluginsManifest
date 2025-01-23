@@ -3,12 +3,12 @@
     "Name": "Timer",
     "Description": "Set timers and alarms.",
     "Author": "pivotiiii",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Language": "JavaScript",
     "Website": "https://github.com/pivotiiii/flow_launcher_timer",
-    "UrlDownload": "https://github.com/pivotiiii/flow_launcher_timer/releases/download/v1.1.0/pivotiiii.Flow-Plugin.Timer.zip",
+    "UrlDownload": "https://github.com/pivotiiii/flow_launcher_timer/releases/download/v1.1.1/pivotiiii.Flow-Plugin.Timer.zip",
     "UrlSourceCode": "https://github.com/pivotiiii/flow_launcher_timer",
     "IcoPath": "https://cdn.jsdelivr.net/gh/pivotiiii/flow_launcher_timer@main/img/app.png",
-    "LatestReleaseDate": "2024-07-03T23:30:09Z",
+    "LatestReleaseDate": "2025-01-23T00:32:42Z",
     "DateAdded": "2024-07-07T09:19:19Z"
 }
