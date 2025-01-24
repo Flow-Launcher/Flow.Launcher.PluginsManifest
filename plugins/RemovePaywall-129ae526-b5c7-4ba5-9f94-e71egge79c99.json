@@ -1,0 +1,12 @@
+{
+    "ID": "129ae526-b5c7-4ba5-9f94-e71egge79c99",
+    "Name": "RemovePaywall",
+    "Description": "Plugin to remove the Paywall from a specific URL in Flow Launcher",
+    "Author": "Gh0stExp10it",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.RemovePaywall",
+    "UrlDownload": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.RemovePaywall/releases/download/v1.0.0/Flow.Launcher.Plugin.RemovePaywall.zip",
+    "UrlSourceCode": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.RemovePaywall",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Gh0stExp10it/Flow.Launcher.Plugin.RemovePaywall@main/Images/app.png"
+}
