@@ -6,7 +6,7 @@
   "Version": "1.2.1",
   "Language": "csharp",
   "Website": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter",
-  "UrlDownload": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter/releases/download/v1.0.0/SnapshotApps-1.2.1.zip",
+  "UrlDownload": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter/releases/download/v1.2.1/AppsSnapshoter-1.2.1.zip",
   "UrlSourceCode": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter/tree/master",
   "IcoPath": "https://cdn.jsdelivr.net/gh/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter@master/icon.png"
 }
