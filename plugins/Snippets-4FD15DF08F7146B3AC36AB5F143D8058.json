@@ -1,0 +1,13 @@
+{
+  "ID": "4FD15DF08F7146B3AC36AB5F143D8058",
+  "ActionKeyword": "sp",
+  "Name": "Snippets",
+  "Description": "Manage name/value snippets and copy to clipboard",
+  "Author": "yu-xiaoyao",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
+  "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
+  "IcoPath": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/raw/main/Flow.Launcher.Plugin.Snippets/Images/Snippets.png",
+  "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v1.0.0/Snippets.zip"
+}
