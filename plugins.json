@@ -2041,13 +2041,13 @@
         "Name": "ScreenBrightness",
         "Description": "Control the brightness of your monitors within flow",
         "Author": "cibere",
-        "Version": "0.0.6",
+        "Version": "0.0.7",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.6/Flow.Launcher.Plugin.ScreenBrightness.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.7/Flow.Launcher.Plugin.ScreenBrightness.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
         "IcoPath": "https://i.imgur.com/AvRgwSl.png",
-        "LatestReleaseDate": "2025-01-16T01:17:54Z",
+        "LatestReleaseDate": "2025-01-26T16:32:26Z",
         "DateAdded": "2024-12-22T01:45:40Z"
     },
     {
