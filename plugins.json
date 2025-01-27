@@ -1159,6 +1159,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "cdd437bf-10e4-4ef1-b22d-0af20780df63",
+        "Name": "HLTB",
+        "Description": "Look up game info from HowLongToBeat.com",
+        "Author": "Nuhddy",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python",
+        "UrlDownload": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python/releases/download/v1.1.0/Flow.Launcher.HLTB.Python.zip",
+        "UrlSourceCode": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Nuhddy/Flow.Launcher.HLTB.Python/images/app.png",
+        "LatestReleaseDate": "2025-01-19T00:26:37Z"
+    },
+    {
         "ID": "140f3da0-7d14-4b20-b897-b4cb155fec2d",
         "Name": "Hacker News",
         "Description": "Flow Launcher plugin for viewing the front page of Hacker News",
@@ -2224,6 +2237,19 @@
         "LatestReleaseDate": "2024-03-28T01:12:16Z"
     },
     {
+        "ID": "4FD15DF08F7146B3AC36AB5F143D8058",
+        "Name": "Snippets",
+        "Description": "Manage name/value snippets and copy to clipboard",
+        "Author": "yu-xiaoyao",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
+        "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
+        "IcoPath": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/raw/main/Flow.Launcher.Plugin.Snippets/Images/Snippets.png",
+        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v1.0.0/Snippets.zip",
+        "LatestReleaseDate": "2025-01-15T08:16:31Z"
+    },
+    {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
         "Name": "Snippets",
         "Description": "Simple plugin to save key/value snippets and copy to clipboard",
@@ -2381,6 +2407,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.TempCleaner@main/Flow.Launcher.Plugin.TempCleaner/Images/icon.png",
         "DateAdded": "2024-02-01T22:14:40Z",
         "LatestReleaseDate": "2024-02-01T17:11:53Z"
+    },
+    {
+        "ID": "22a114b1-aa5f-4bca-8763-03d58bc4029b",
+        "Name": "Tenor",
+        "Description": "Searches Tenor for GIFs",
+        "Author": "Josh Friedman",
+        "Version": "1.0.0",
+        "Language": "TypeScript",
+        "Website": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin",
+        "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin/releases/download/v1.0.0/Tenor-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Tenor-Plugin@main/assets/icon.png",
+        "LatestReleaseDate": "2024-12-08T22:46:20Z"
     },
     {
         "ID": "A4A92BC0C742463187E5CCBA9B849B86",
