@@ -1,0 +1,12 @@
+{
+  "ID": "cdd437bf-10e4-4ef1-b22d-0af20780df63",  
+  "Name": "HLTB",
+  "Description": "Look up game info from HowLongToBeat.com",
+  "Author": "Nuhddy",
+  "Version": "1.1.0",
+  "Language": "python",
+  "Website": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python",
+  "UrlDownload": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python/releases/download/v1.1.0/Flow.Launcher.HLTB.Python.zip",
+  "UrlSourceCode": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Nuhddy/Flow.Launcher.HLTB.Python/images/app.png"
+}
