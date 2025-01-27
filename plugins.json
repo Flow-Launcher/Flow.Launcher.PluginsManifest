@@ -1169,7 +1169,9 @@
         "UrlDownload": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python/releases/download/v1.1.0/Flow.Launcher.HLTB.Python.zip",
         "UrlSourceCode": "https://github.com/Nuhddy/Flow.Launcher.HLTB.Python",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Nuhddy/Flow.Launcher.HLTB.Python/images/app.png",
-        "LatestReleaseDate": "2025-01-19T00:26:37Z"
+        "LatestReleaseDate": "2025-01-19T00:26:37Z",
+        "Tested": true,
+        "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
         "ID": "140f3da0-7d14-4b20-b897-b4cb155fec2d",
@@ -2247,7 +2249,8 @@
         "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
         "IcoPath": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/raw/main/Flow.Launcher.Plugin.Snippets/Images/Snippets.png",
         "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v1.0.0/Snippets.zip",
-        "LatestReleaseDate": "2025-01-15T08:16:31Z"
+        "LatestReleaseDate": "2025-01-15T08:16:31Z",
+        "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
@@ -2419,7 +2422,8 @@
         "UrlDownload": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin/releases/download/v1.0.0/Tenor-1.0.0.zip",
         "UrlSourceCode": "https://github.com/Jwiggiff/Flow-Launcher-Tenor-Plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Tenor-Plugin@main/assets/icon.png",
-        "LatestReleaseDate": "2024-12-08T22:46:20Z"
+        "LatestReleaseDate": "2024-12-08T22:46:20Z",
+        "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
         "ID": "A4A92BC0C742463187E5CCBA9B849B86",
