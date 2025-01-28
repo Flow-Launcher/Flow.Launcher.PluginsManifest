@@ -2056,13 +2056,13 @@
         "Name": "ScreenBrightness",
         "Description": "Control the brightness of your monitors within flow",
         "Author": "cibere",
-        "Version": "0.0.7",
+        "Version": "0.0.8",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.7/Flow.Launcher.Plugin.ScreenBrightness.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.8/Flow.Launcher.Plugin.ScreenBrightness.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
         "IcoPath": "https://i.imgur.com/AvRgwSl.png",
-        "LatestReleaseDate": "2025-01-26T16:32:26Z",
+        "LatestReleaseDate": "2025-01-28T03:41:59Z",
         "DateAdded": "2024-12-22T01:45:40Z"
     },
     {
@@ -3198,13 +3198,13 @@
         "Name": "rtfm",
         "Description": "a rtfm lookup plugin",
         "Author": "cibere",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.0.0/Flow.Launcher.Plugin.rtfm.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.1.0/Flow.Launcher.Plugin.rtfm.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
         "IcoPath": "https://i.imgur.com/cvI93QW.png",
-        "LatestReleaseDate": "2025-01-27T03:59:10Z",
+        "LatestReleaseDate": "2025-01-28T03:25:02Z",
         "DateAdded": "2024-12-20T12:39:36Z"
     },
     {
