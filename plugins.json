@@ -125,7 +125,8 @@
         "UrlDownload": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter/releases/download/v1.2.1/AppsSnapshoter-1.2.1.zip",
         "UrlSourceCode": "https://github.com/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Spinozanilast/Flow.Launcher.Plugin.AppsSnapshoter@master/icon.png",
-        "LatestReleaseDate": "2025-01-27T14:45:42Z"
+        "LatestReleaseDate": "2025-01-27T14:45:42Z",
+        "DateAdded": "2025-01-29T12:38:36Z"
     },
     {
         "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",
@@ -2031,7 +2032,9 @@
         "UrlDownload": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.RemovePaywall/releases/download/v1.0.0/Flow.Launcher.Plugin.RemovePaywall.zip",
         "UrlSourceCode": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.RemovePaywall",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Gh0stExp10it/Flow.Launcher.Plugin.RemovePaywall@main/Images/app.png",
-        "LatestReleaseDate": "2025-01-24T19:13:38Z"
+        "LatestReleaseDate": "2025-01-24T19:13:38Z",
+        "Tested": true,
+        "DateAdded": "2025-01-29T12:38:36Z"
     },
     {
         "ID": "5DBA462B9AB77AC5DC158EB5047367F0",
