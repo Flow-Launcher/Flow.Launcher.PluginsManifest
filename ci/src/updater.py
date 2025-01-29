@@ -10,11 +10,10 @@ import traceback
 from tqdm.asyncio import tqdm
 
 from _utils import *
-from discord import update_hook
-
+from discord import send_notification
 
 async def batch_github_plugin_info(
-    info: P, tags: ETagsType, github_token=None, webhook_url: str = None
+    info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None, is_release_noti: bool = False
 ) -> P:
     try:
         headers = {"authorization": f"token {github_token}"}
@@ -47,9 +46,10 @@ async def batch_github_plugin_info(
                 info[release_date] = latest_rel.get("published_at")
             if assets:
                 info[url_download] = assets[0]["browser_download_url"]
-                await send_notification(
-                    info, clean(latest_rel["tag_name"], "v"), latest_rel, webhook_url
-                )
+                if webhook_url:
+                    await send_notification(
+                        info, clean(latest_rel["tag_name"], "v"), latest_rel, webhook_url, is_release_noti
+                    )
                 info[version] = clean(latest_rel["tag_name"], "v")
 
             tags[info[id_name]] = res.headers.get(etag, "")
@@ -62,7 +62,7 @@ async def batch_github_plugin_info(
 
 
 async def batch_plugin_infos(
-    plugin_infos: Ps, tags: ETagsType, github_token, webhook_url: str = None
+    plugin_infos: Ps, tags: ETagsType, github_token, webhook_url: str | None = None
 ) -> Ps:
     return await tqdm.gather(
         *[
@@ -72,7 +72,7 @@ async def batch_plugin_infos(
     )
 
 
-def remove_unused_etags(plugin_infos: Ps, etags: ETagsType) -> ETagsType:
+def remove_unused_etags(plugin_infos: PluginsType, etags: ETagsType) -> ETagsType:
     etags_updated = {}
     plugin_ids = [info.get("ID") for info in plugin_infos]
 
@@ -87,18 +87,6 @@ def remove_unused_etags(plugin_infos: Ps, etags: ETagsType) -> ETagsType:
         etags_updated[id] = tag
 
     return etags_updated
-
-
-async def send_notification(
-    info: P, latest_ver, release, webhook_url: str = None
-) -> None:
-    if version_tuple(info[version]) != version_tuple(latest_ver):
-        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
-        try:
-            await update_hook(webhook_url, info, latest_ver, release)
-        except Exception as e:
-            tqdm.write(str(e))
-
 
 async def main():
     webhook_url = None

@@ -1,11 +1,11 @@
 import aiohttp
-
+from tqdm.asyncio import tqdm
 from _utils import *
 
 MAX_BODY_LEN = 1024
 
 
-async def update_hook(webhook_url: str, info: dict, latest_ver: str, release: dict) -> None:
+async def update_hook(webhook_url: str, info: PluginType, latest_ver: str, release: dict) -> None:
     embed = {
         "content": None,
         "embeds": [
@@ -14,6 +14,45 @@ async def update_hook(webhook_url: str, info: dict, latest_ver: str, release: di
             "description": f"Updated to v{latest_ver}!",
             "url": release['html_url'],
             "color": None,
+            "fields": [
+                {
+                "name": "Plugin Description",
+                "value": info[description]
+                },
+                {
+                "name": "Plugin Language",
+                "value": info[language_name]
+                }
+            ],
+            "author": {
+                "name": info[author]
+            },
+            "thumbnail": {
+                "url": info[icon_path]
+            }
+            }
+        ]
+        }
+    if 'github.com' in info[url_sourcecode].lower():
+        github_username = info[url_sourcecode].split('/')[3]
+        embed['embeds'][0]['author']['name'] = github_username
+        embed['embeds'][0]['author']['url'] = f"{github_url}/{github_username}"
+        embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
+    release_notes = release.get('body')
+    if release_notes and release_notes.strip():
+        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release['html_url'], release.get('body', ""))})
+    async with aiohttp.ClientSession() as session:
+        await session.post(webhook_url, json=embed)
+
+async def release_hook(webhook_url: str, info: PluginType, latest_ver: str, release: dict) -> None:
+    embed = {
+        "content": None,
+        "embeds": [
+            {
+            "title": info[plugin_name],
+            "description": f"New Plugin!\nReleased at v{latest_ver}.",
+            "url": release['html_url'],
+            "color": 5763719,
             "fields": [
                 {
                 "name": "Plugin Description",
@@ -59,3 +98,17 @@ def truncate_release_notes(url: str, release_notes: str, length: int = MAX_BODY_
     graceful_truncation_index = last_included_newline if last_included_newline != -1 else rough_truncation_index
     
     return release_notes[:graceful_truncation_index] + TRUNCATION_MESSAGE
+
+async def send_notification(
+    info: PluginType, latest_ver, release, webhook_url: str | None = None, is_release: bool = False
+) -> None:
+    if not webhook_url:
+        return
+    
+    if is_release or version_tuple(info[version]) != version_tuple(latest_ver):
+        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
+        hook = release_hook if is_release else update_hook
+        try:
+            await hook(webhook_url, info, latest_ver, release)
+        except Exception as e:
+            tqdm.write(str(e))
