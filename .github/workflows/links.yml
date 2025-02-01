@@ -21,5 +21,3 @@ jobs:
           args: --verbose --no-progress plugins.json
           fail: true
           token: ${{ secrets.LINKCHECKER }}
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
