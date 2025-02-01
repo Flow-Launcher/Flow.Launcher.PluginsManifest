@@ -2,14 +2,11 @@ name: Check Links
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'plugins.json'
   pull_request:
     paths:
-      - 'plugins.json'
+      - plugins/**
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 1 * * *"
 
 jobs:
   linkChecker:
@@ -23,5 +20,6 @@ jobs:
         with:
           args: --verbose --no-progress plugins.json
           fail: true
+          token: ${{ secrets.LINKCHECKER }}
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
