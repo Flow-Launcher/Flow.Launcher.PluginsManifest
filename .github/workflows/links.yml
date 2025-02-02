@@ -17,6 +17,10 @@ jobs:
       - name: Merge Manifest
         run: |
           python ./ci/src/merge-manifest.py new-only
+      
+      - name: Test
+        run: |
+          cat plugins.json
 
       - name: Link Checker
         id: lychee
