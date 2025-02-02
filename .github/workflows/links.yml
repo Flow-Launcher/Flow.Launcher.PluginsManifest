@@ -14,14 +14,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Merge Manifest
+      - name: Create plugins.json For All Plugins
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          python ./ci/src/merge-manifest.py
+      
+      - name: Create plugins.json For New Plugins Only
+        if: ${{ github.event_name == 'pull_request' }}
         run: |
           python ./ci/src/merge-manifest.py new-only
-          cat plugins.json
-      
-      - name: Test
-        run: |
-          cat plugins.json
 
       - name: Link Checker
         id: lychee
