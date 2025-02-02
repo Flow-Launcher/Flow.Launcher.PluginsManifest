@@ -1,8 +1,11 @@
 import sys
+
 from _utils import get_new_plugin_submission_ids, plugin_reader, save_plugins_json_file
+
 
 def get_all_plugins() -> list[dict[str]]:
     return plugin_reader()
+
 
 def get_new_plugins() -> list[dict[str]]:
     ids = get_new_plugin_submission_ids()
