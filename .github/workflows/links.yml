@@ -17,6 +17,7 @@ jobs:
       - name: Merge Manifest
         run: |
           python ./ci/src/merge-manifest.py new-only
+          cat plugins.json
       
       - name: Test
         run: |
