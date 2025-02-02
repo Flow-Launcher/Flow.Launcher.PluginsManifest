@@ -20,7 +20,6 @@ def get_new_plugins() -> list[dict[str]]:
 
 
 if __name__ == "__main__":
-    save_plugins_json_file(get_new_plugins())
 
     if len(sys.argv) > 1 and str(sys.argv[1]) == "new-only":
         save_plugins_json_file(get_new_plugins())
