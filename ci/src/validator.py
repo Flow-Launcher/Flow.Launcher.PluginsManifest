@@ -1,8 +1,8 @@
 # -*-coding: utf-8 -*-
 import uuid
 
-from _utils import (check_url, clean, get_file_plugins_json_info, get_plugin_file_paths, get_plugin_filenames,
-                    icon_path, id_name, language_list, language_name, plugin_reader)
+from _utils import (check_url, clean, get_plugin_file_paths, get_plugin_filenames,
+                    icon_path, id_name, language_list, language_name, plugin_reader, get_new_plugin_submission_ids)
 
 plugin_infos = plugin_reader()
 
@@ -40,14 +40,7 @@ def test_file_name_construct():
         ), f"Plugin {info['Name']} with ID {info['ID']} does not have the correct filename. Make sure it's name + ID, i.e. {info['Name']}-{info['ID']}.json"
 
 def test_submitted_plugin_id_is_valid_uuid():
-    plugins_json_ids = [item["ID"] for item in get_file_plugins_json_info("ID")]
-    existing_plugin_file_ids = [info["ID"] for info in plugin_infos]
-
-    for id in existing_plugin_file_ids:
-        # plugins.json would not contain new submission's ID.
-        if id in plugins_json_ids:
-            continue
-
+    for id in get_new_plugin_submission_ids():
         try:
             uuid.UUID(id, version=4)
             outcome = True
