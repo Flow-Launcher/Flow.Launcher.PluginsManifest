@@ -2,7 +2,7 @@ import sys
 import json
 import os
 import zipfile
-import io, asyncio, aiohttp
+import io, asyncio
 from datetime import datetime, UTC
 from sys import argv
 from os import getenv
@@ -10,7 +10,7 @@ from _utils import clean, id_name, language_list, version, plugin_reader, plugin
 from updater import batch_github_plugin_info
 from discord import release_hook
 
-def update_tested():
+async def update_tested():
     webhook_url = None
     if len(argv) > 1:
         webhook_url = argv[1]
@@ -25,15 +25,12 @@ def update_tested():
         # Add date added if field is not present
         if plugin.get(date_added) is None:
             plugin_infos[idx][date_added] = datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
-            yield batch_github_plugin_info(plugin, etags, github_token, webhook_url, True)
+            await batch_github_plugin_info(plugin, etags, github_token, webhook_url, True)
     
     plugin_writer(plugin_infos)
 
-async def main():
-    await asyncio.gather(*update_tested())
-
 if __name__ == '__main__':
-    asyncio.run(main())
+    asyncio.run(update_tested())
 
 
 
