@@ -44,15 +44,15 @@ async def update_hook(webhook_url: str, info: PluginType, latest_ver: str, relea
     async with aiohttp.ClientSession() as session:
         await session.post(webhook_url, json=embed)
 
-async def release_hook(webhook_url: str, info: PluginType, latest_ver: str, release: dict) -> None:
+async def release_hook(webhook_url: str, info: PluginType) -> None:
     embed = {
         "content": None,
         "embeds": [
             {
             "title": info[plugin_name],
-            "description": f"New Plugin!\nReleased at v{latest_ver}.",
-            "url": release['html_url'],
-            "color": 5763719,
+            "description": f"New Plugin!\nReleased at v{info[version]}.",
+            "url": info[website],
+            "color": 5763719, # green
             "fields": [
                 {
                 "name": "Plugin Description",
@@ -77,9 +77,7 @@ async def release_hook(webhook_url: str, info: PluginType, latest_ver: str, rele
         embed['embeds'][0]['author']['name'] = github_username
         embed['embeds'][0]['author']['url'] = f"{github_url}/{github_username}"
         embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
-    release_notes = release.get('body')
-    if release_notes and release_notes.strip():
-        embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release['html_url'], release.get('body', ""))})
+    
     async with aiohttp.ClientSession() as session:
         await session.post(webhook_url, json=embed)
     
@@ -100,15 +98,14 @@ def truncate_release_notes(url: str, release_notes: str, length: int = MAX_BODY_
     return release_notes[:graceful_truncation_index] + TRUNCATION_MESSAGE
 
 async def send_notification(
-    info: PluginType, latest_ver, release, webhook_url: str | None = None, is_release: bool = False
+    info: PluginType, latest_ver, release, webhook_url: str | None = None
 ) -> None:
     if not webhook_url:
         return
     
-    if is_release or version_tuple(info[version]) != version_tuple(latest_ver):
-        tqdm.write(f"Sending Discord notification for {"new plugin" if is_release else "new plugin update"} : {info[plugin_name]} {latest_ver}")
-        hook = release_hook if is_release else update_hook
+    if version_tuple(info[version]) != version_tuple(latest_ver):
+        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
         try:
-            await hook(webhook_url, info, latest_ver, release)
+            await update_hook(webhook_url, info, latest_ver, release)
         except Exception as e:
             tqdm.write(str(e))

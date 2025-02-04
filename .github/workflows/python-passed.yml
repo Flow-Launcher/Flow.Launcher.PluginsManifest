@@ -24,8 +24,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r ./ci/envs/requirements-update-tested.txt
       - name: Run script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python ./ci/src/update-tested.py ${{ secrets.DISCORD_WEBHOOK }}
       - name: Update plugin manifest
         if: success()
