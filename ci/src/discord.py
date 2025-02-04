@@ -106,7 +106,7 @@ async def send_notification(
         return
     
     if is_release or version_tuple(info[version]) != version_tuple(latest_ver):
-        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
+        tqdm.write(f"Sending Discord notification for {"new plugin" if is_release else "new plugin update"} : {info[plugin_name]} {latest_ver}")
         hook = release_hook if is_release else update_hook
         try:
             await hook(webhook_url, info, latest_ver, release)
