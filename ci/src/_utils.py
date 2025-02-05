@@ -44,6 +44,7 @@ plugin_name = "Name"
 github_url = "https://github.com"
 release_date = "LatestReleaseDate"
 date_added = "DateAdded"
+website = "Website"
 
 # typing
 PluginType = Dict[str, str]
