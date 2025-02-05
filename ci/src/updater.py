@@ -13,7 +13,7 @@ from _utils import *
 from discord import send_notification
 
 async def batch_github_plugin_info(
-    info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None, is_release_noti: bool = False
+    info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None
 ) -> P:
     try:
         headers = {"authorization": f"token {github_token}"}
@@ -48,7 +48,7 @@ async def batch_github_plugin_info(
                 info[url_download] = assets[0]["browser_download_url"]
                 if webhook_url:
                     await send_notification(
-                        info, clean(latest_rel["tag_name"], "v"), latest_rel, webhook_url, is_release_noti
+                        info, clean(latest_rel["tag_name"], "v"), latest_rel, webhook_url
                     )
                 info[version] = clean(latest_rel["tag_name"], "v")
 
