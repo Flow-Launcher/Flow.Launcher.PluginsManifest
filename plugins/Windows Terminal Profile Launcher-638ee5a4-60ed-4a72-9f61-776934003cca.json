@@ -1,12 +1,13 @@
 {
-  "ID": "638ee5a4-60ed-4a72-9f61-776934003cca",
-  "Name": "Windows Terminal Profile Launcher",
-  "Description": "Launch Windows Terminal with predefined configurations",
-  "Author": "Samuel Janas",
-  "Version": "0.1.0",
-  "Language": "python",
-  "Website": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL",
-  "UrlDownload": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL/releases/download/v0.1.0/Flow.Launcher.Plugin.WTPL.zip",
-  "UrlSourceCode": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/SamuelJanas/Flow.Launcher.Plugin.WTPL@main/images/app.png"
+    "ID": "638ee5a4-60ed-4a72-9f61-776934003cca",
+    "Name": "Windows Terminal Profile Launcher",
+    "Description": "Launch Windows Terminal with predefined configurations",
+    "Author": "Samuel Janas",
+    "Version": "0.1.0",
+    "Language": "python",
+    "Website": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL",
+    "UrlDownload": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL/releases/download/v0.1.0/Flow.Launcher.Plugin.WTPL.zip",
+    "UrlSourceCode": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/SamuelJanas/Flow.Launcher.Plugin.WTPL@main/images/app.png",
+    "LatestReleaseDate": "2025-02-03T19:46:14Z"
 }
