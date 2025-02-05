@@ -10,7 +10,7 @@ import traceback
 from tqdm.asyncio import tqdm
 
 from _utils import *
-from discord import send_notification
+from discord import update_hook
 
 async def batch_github_plugin_info(
     info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None
@@ -87,6 +87,20 @@ def remove_unused_etags(plugin_infos: PluginsType, etags: ETagsType) -> ETagsTyp
         etags_updated[id] = tag
 
     return etags_updated
+
+
+async def send_notification(
+    info: PluginType, latest_ver, release, webhook_url: str | None = None
+) -> None:
+    if not webhook_url:
+        return
+    
+    if version_tuple(info[version]) != version_tuple(latest_ver):
+        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
+        try:
+            await update_hook(webhook_url, info, latest_ver, release)
+        except Exception as e:
+            tqdm.write(str(e))
 
 async def main():
     webhook_url = None

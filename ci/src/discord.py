@@ -96,16 +96,3 @@ def truncate_release_notes(url: str, release_notes: str, length: int = MAX_BODY_
     graceful_truncation_index = last_included_newline if last_included_newline != -1 else rough_truncation_index
     
     return release_notes[:graceful_truncation_index] + TRUNCATION_MESSAGE
-
-async def send_notification(
-    info: PluginType, latest_ver, release, webhook_url: str | None = None
-) -> None:
-    if not webhook_url:
-        return
-    
-    if version_tuple(info[version]) != version_tuple(latest_ver):
-        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
-        try:
-            await update_hook(webhook_url, info, latest_ver, release)
-        except Exception as e:
-            tqdm.write(str(e))
