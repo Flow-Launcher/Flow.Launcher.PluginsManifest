@@ -3,13 +3,13 @@
     "Name": "Windows Terminal Profile Launcher",
     "Description": "Launch Windows Terminal with predefined configurations",
     "Author": "Samuel Janas",
-    "Version": "0.1.0",
+    "Version": "0.1.1",
     "Language": "python",
     "Website": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL",
-    "UrlDownload": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL/releases/download/v0.1.0/Flow.Launcher.Plugin.WTPL.zip",
+    "UrlDownload": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL/releases/download/v0.1.1/Flow.Launcher.Plugin.WTPL.zip",
     "UrlSourceCode": "https://github.com/SamuelJanas/Flow.Launcher.Plugin.WTPL",
     "IcoPath": "https://cdn.jsdelivr.net/gh/SamuelJanas/Flow.Launcher.Plugin.WTPL@main/images/app.png",
-    "LatestReleaseDate": "2025-02-03T19:46:14Z",
+    "LatestReleaseDate": "2025-02-06T12:47:50Z",
     "Tested": true,
     "DateAdded": "2025-02-05T12:40:12Z"
 }
