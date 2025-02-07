@@ -24,7 +24,11 @@ jobs:
 
       - name: VirusTotal Scan
         uses: crazy-max/ghaction-virustotal@v4
+        id: vt
         with:
           vt_api_key: ${{ secrets.VT_API_KEY }}
           files: |
             ./VirusTotal_Tests/*
+
+      - name: 'Echo Analysis Links'
+        run: echo ${{ steps.vt.outputs.analysis }}
