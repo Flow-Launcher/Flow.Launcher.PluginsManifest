@@ -3,8 +3,8 @@ name: VirusTotal Scan
 on:
   workflow_dispatch:
   pull_request:
-    paths:
-      - plugins/**
+    # paths:
+    #   - plugins/**
 
 jobs:
   build:
