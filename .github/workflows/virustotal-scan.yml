@@ -1,0 +1,29 @@
+name: VirusTotal Scan
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - plugins/**
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # - name: Set up Go
+      #   uses: actions/setup-go@v4
+
+      - name: Download All Plugins
+        run: |
+          pip install -r ci/envs/requirements-virustotal-setup.txt
+          python ./ci/src/ci/src/virustotal_setup.py
+
+      - name: VirusTotal Scan
+        uses: crazy-max/ghaction-virustotal@v4
+        with:
+          # vt_api_key: ${{ secrets.VT_API_KEY }}
+          files: |
+            ./VirusTotal_Tests/

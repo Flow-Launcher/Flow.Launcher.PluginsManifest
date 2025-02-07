@@ -16,4 +16,6 @@ def setup_virustotal_scan_items(github_token: str = "") -> None:
 
 if __name__ == "__main__":
     github_token = str(sys.argv[1]) if len(sys.argv) > 1 else ""
+    if not github_token:
+        print("Not using token")
     setup_virustotal_scan_items(github_token)
