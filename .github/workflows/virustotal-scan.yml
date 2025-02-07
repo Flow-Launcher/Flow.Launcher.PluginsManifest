@@ -5,7 +5,6 @@ on:
   pull_request:
     paths:
       - plugins/**
-  push:
 
 jobs:
   build:
@@ -20,7 +19,7 @@ jobs:
       - name: Download All Plugins
         run: |
           pip install -r ci/envs/requirements-virustotal-setup.txt
-          python ./ci/src/ci/src/virustotal_setup.py
+          python ./ci/src/virustotal_setup.py
 
       - name: VirusTotal Scan
         uses: crazy-max/ghaction-virustotal@v4
