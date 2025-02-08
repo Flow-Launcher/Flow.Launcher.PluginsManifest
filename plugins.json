@@ -3271,10 +3271,10 @@
       "Name": "CdList",
       "Description": "Like cd in terminal, but for Flow Launcher",
       "Author": "seanmars",
-      "Version": "1.0.0",
+      "Version": "1.1.0",
       "Language": "csharp",
       "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
-      "UrlDownload": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList/releases/download/1.0.0/CdList.zip",
+      "UrlDownload": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList/releases/download/v1.1.0/Flow.Launcher.Plugin.CdList.zip",
       "UrlSourceCode": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
       "IcoPath": "https://cdn.jsdelivr.net/gh/seanmars/Flow.Launcher.Plugin.CdList@main/Flow.Launcher.Plugin.CdList/icon.png",
       "ExecuteFileName": "Flow.Launcher.Plugin.CdList.dll"
