@@ -2867,13 +2867,13 @@
         "Name": "TwoFactorAuthenticator",
         "Description": "Two Factor Authenticator HTOP Code Generate Plugin",
         "Author": "yu-xiaoyao",
-        "Version": "1.2.1",
+        "Version": "1.2.2",
         "Language": "csharp",
         "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator",
-        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator/releases/download/v1.2.1/TwoFactorAuthenticator.zip",
+        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator/releases/download/v1.2.2/TwoFactorAuthenticator.zip",
         "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator",
         "IcoPath": "https://raw.githubusercontent.com/yu-xiaoyao/Flow.Launcher.Plugin.TwoFactorAuthenticator/main/Flow.Launcher.Plugin.TwoFactorAuthenticator/Images/TwoFactorAuthenticatorIcon.png",
-        "LatestReleaseDate": "2024-08-25T04:22:40Z",
+        "LatestReleaseDate": "2025-02-08T14:44:08Z",
         "DateAdded": "2024-08-29T18:25:48Z"
     },
     {
