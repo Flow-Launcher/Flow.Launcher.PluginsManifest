@@ -5,8 +5,8 @@
     "Author": "cibere",
     "Version": "0.0.1",
     "Language": "python_v2",
-    "Website": "https://github.com/author/Flow.Launcher.Plugin.uvxpy",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Laucher.Plugin.uvxpy@master/assets/app.png",
-    "UrlDownload": "https://github.com/cibere/Flow.Laucher.Plugin.uvxpy/releases/download/v0.0.1/Flow.Laucher.Plugin.uvxpy.zip",
-    "UrlSourceCode": "https://github.com/author/Flow.Launcher.Plugin.uvxpy"
+    "Website": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.uvxpy@master/assets/app.png",
+    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy/releases/download/v0.0.1/Flow.Launcher.Plugin.uvxpy.zip",
+    "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy"
 }
