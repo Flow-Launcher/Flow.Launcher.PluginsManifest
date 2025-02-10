@@ -1276,6 +1276,20 @@
         "LatestReleaseDate": "2024-12-12T15:44:41Z"
     },
     {
+        "ID": "A3EA904783E14335894354F09DC4B054",
+        "Name": "CdList",
+        "Description": "Like cd in terminal, but for Flow Launcher",
+        "Author": "seanmars",
+        "Version": "1.2.2",
+        "Language": "csharp",
+        "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
+        "UrlDownload": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList/releases/download/v1.2.2/Flow.Launcher.Plugin.CdList.zip",
+        "UrlSourceCode": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/seanmars/Flow.Launcher.Plugin.CdList@main/Flow.Launcher.Plugin.CdList/icon.png",
+        "DateAdded": "2025-02-10T04:16:30Z",
+        "LatestReleaseDate": "2025-02-10T04:11:50Z"
+    },
+    {
         "ID": "df432fe0-9ff7-4ba1-b0fd-5ffd26efbf86",
         "Name": "ChatGPT",
         "Description": "Plugin to use OpenAI's ChatGPT in Flow Launcher",
