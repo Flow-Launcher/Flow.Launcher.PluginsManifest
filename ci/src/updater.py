@@ -1,8 +1,8 @@
 # -*-coding: utf-8 -*-
 import asyncio
 import aiohttp
+import re
 from typing import List
-from unicodedata import name
 from os import getenv
 from sys import argv
 import traceback
@@ -11,6 +11,11 @@ from tqdm.asyncio import tqdm
 
 from _utils import *
 from discord import update_hook
+
+github_download_url_regex = re.compile(
+    r"https://github\.com/(?P<author>[a-zA-Z0-9-]+)/(?P<repo>[a-zA-Z0-9\.\-\_]*)/releases/download/(?P<version>[a-zA-Z\.0-9]+)/(?P<filename>.*)\.zip"
+)
+
 
 async def batch_github_plugin_info(
     info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None
@@ -44,11 +49,31 @@ async def batch_github_plugin_info(
 
             if info.get(release_date, "") != latest_rel.get("published_at"):
                 info[release_date] = latest_rel.get("published_at")
+
             if assets:
-                info[url_download] = assets[0]["browser_download_url"]
+                browser_download_url = None
+
+                if len(assets) > 1:
+                    match = github_download_url_regex.match(info[url_download])
+                    if not match:
+                        raise ValueError(
+                            f"Download URL did not mach regex: {info[url_download]!r}"
+                        )
+                    filename = f"{match['filename']}.zip"
+                    for asset in assets:
+                        if asset["browser_download_url"].endswith(filename):
+                            browser_download_url = asset["browser_download_url"]
+
+                info[url_download] = (
+                    browser_download_url or assets[0]["browser_download_url"]
+                )
+
                 if webhook_url:
                     await send_notification(
-                        info, clean(latest_rel["tag_name"], "v"), latest_rel, webhook_url
+                        info,
+                        clean(latest_rel["tag_name"], "v"),
+                        latest_rel,
+                        webhook_url,
                     )
                 info[version] = clean(latest_rel["tag_name"], "v")
 
@@ -77,7 +102,6 @@ def remove_unused_etags(plugin_infos: PluginsType, etags: ETagsType) -> ETagsTyp
     plugin_ids = [info.get("ID") for info in plugin_infos]
 
     for id, tag in etags.items():
-
         if id not in plugin_ids:
             print(
                 f"Plugin with ID {id} has been removed. The associated ETag will be also removed now."
@@ -94,13 +118,14 @@ async def send_notification(
 ) -> None:
     if not webhook_url:
         return
-    
+
     if version_tuple(info[version]) != version_tuple(latest_ver):
         tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
         try:
             await update_hook(webhook_url, info, latest_ver, release)
         except Exception as e:
             tqdm.write(str(e))
+
 
 async def main():
     webhook_url = None
