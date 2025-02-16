@@ -3,12 +3,12 @@
     "Name": "Clipboard+",
     "Description": "Easily manage your clipboard history and customizing copy rules with support for text, images, and files",
     "Author": "Jack251970",
-    "Version": "1.1.9",
+    "Version": "2.0.0",
     "Language": "csharp",
     "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus",
-    "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v1.1.9/Clipboard%2B-1.1.9.zip",
+    "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v2.0.0/Clipboard%2B-2.0.0.zip",
     "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/tree/master",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/src/Flow.Launcher.Plugin.ClipboardPlus/Images/clipboard.png",
-    "LatestReleaseDate": "2024-12-22T02:28:55Z",
+    "LatestReleaseDate": "2025-02-16T11:13:54Z",
     "DateAdded": "2024-08-21T01:22:18Z"
 }
