@@ -407,6 +407,19 @@
         "LatestReleaseDate": "2025-01-22T17:03:38Z"
     },
     {
+        "ID": "a3c36e85-793c-4881-90bf-6d791a978a9f",
+        "Name": "DevDocs",
+        "Description": "Quick access to documentations for various programming languages, frameworks and tools.",
+        "Author": "Apostolos Antoniou",
+        "Version": "1.0.0",
+        "Language": "javascript",
+        "Website": "https://github.com/apostolosantoniou/Flow.Launcher.Plugin.DevDocs",
+        "UrlDownload": "https://github.com/apostolosantoniou/Flow.Launcher.Plugin.DevDocs/releases/download/v1.0.0/Flow.Launcher.Plugin.DevDocs.zip",
+        "UrlSourceCode": "https://github.com/apostolosantoniou/Flow.Launcher.Plugin.DevDocs/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/apostolosantoniou/Flow.Launcher.Plugin.DevDocs@1.0.0/icons/app.png",
+        "LatestReleaseDate": "2025-02-18T21:19:21Z"
+    },
+    {
         "ID": "b34023f6440d11ef94540242ac120002",
         "Name": "ShikiFlow",
         "Description": "Search anime/manga on Shikimori with Flow (Launcher)",
