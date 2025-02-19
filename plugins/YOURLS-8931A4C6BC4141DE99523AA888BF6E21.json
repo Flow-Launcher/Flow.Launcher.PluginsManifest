@@ -1,0 +1,13 @@
+{
+  "ID": "8931A4C6BC4141DE99523AA888BF6E21",
+  "ActionKeyword": "short",
+  "Name": "YOURLS",
+  "Description": "This plugin allows you to quickly shorten URLs using your own YOURLS instance.",
+  "Author": "bennett-sh",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/bennett-sh/Flow.Launcher.Plugin.YOURLS",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/bennett-sh/Flow.Launcher.YOURLS/Flow.Launcher.Plugin.YOURLS/icon.png",
+  "UrlSourceCode": "https://github.com/bennett-sh/Flow.Launcher.Plugin.YOURLS",
+  "UrlDownload": "https://github.com/bennett-sh/Flow.Launcher.YOURLS/releases/latest/download/flow-yourls-release.zip"
+}
