@@ -7,7 +7,7 @@
   "Version": "1.0.0",
   "Language": "csharp",
   "Website": "https://github.com/bennett-sh/Flow.Launcher.Plugin.YOURLS",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/bennett-sh/Flow.Launcher.YOURLS/Flow.Launcher.Plugin.YOURLS/icon.png",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/bennett-sh/Flow.Launcher.Plugin.YOURLS/Flow.Launcher.Plugin.YOURLS/icon.png",
   "UrlSourceCode": "https://github.com/bennett-sh/Flow.Launcher.Plugin.YOURLS",
-  "UrlDownload": "https://github.com/bennett-sh/Flow.Launcher.YOURLS/releases/latest/download/flow-yourls-release.zip"
+  "UrlDownload": "https://github.com/bennett-sh/Flow.Launcher.Plugin.YOURLS/releases/download/v1.0.0/flow-yourls-release.zip"
 }
