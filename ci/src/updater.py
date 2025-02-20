@@ -57,7 +57,7 @@ async def batch_github_plugin_info(
                     match = github_download_url_regex.match(info[url_download])
                     if not match:
                         raise ValueError(
-                            f"Download URL did not mach regex: {info[url_download]!r}"
+                            f"Download URL did not match regex: {info[url_download]!r}"
                         )
                     filename = f"{match['filename']}.zip"
                     for asset in assets:
