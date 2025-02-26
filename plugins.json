@@ -120,13 +120,13 @@
         "Name": "DirQuickJump",
         "Description": "When opening or saving files, quickly jump to the directory you already opened in File Explorer. Inspired by Listary Quick Switch.",
         "Author": "idkana",
-        "Version": "1.0.2",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
-        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.0.2/Flow.Launcher.Plugin.DirQuickJump.zip",
+        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.1.0/Flow.Launcher.Plugin.DirQuickJump.zip",
         "UrlSourceCode": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
         "IcoPath": "https://cdn.jsdelivr.net/gh/idkidknow/Flow.Launcher.Plugin.DirQuickJump@main/Flow.Launcher.Plugin.DirQuickJump/icon.png",
-        "LatestReleaseDate": "2024-12-13T20:42:36Z",
+        "LatestReleaseDate": "2025-02-24T18:44:29Z",
         "DateAdded": "2024-09-17T12:38:53Z"
     },
     {
@@ -1351,14 +1351,14 @@
         "Name": "Github Notifications",
         "Description": "View your github notifications",
         "Author": "Garulf",
-        "Version": "4.0.10",
+        "Version": "4.0.11",
         "Language": "python",
         "Website": "https://github.com/Garulf/github-notifications",
-        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v4.0.10/Github-Notifications.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Notifications/releases/download/v4.0.11/Github-Notifications.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-notifications/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-notifications@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2025-02-17T02:01:07Z",
+        "LatestReleaseDate": "2025-02-24T01:16:45Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -1706,6 +1706,20 @@
         "Tested": true,
         "DateAdded": "2024-02-04T06:02:40Z",
         "LatestReleaseDate": "2024-01-12T11:15:56Z"
+    },
+    {
+        "ID": "218DAC752A2E468AB3781AFAEB481CBF",
+        "Name": "Gitmoji Plus",
+        "Description": "Search and copy the right gitmoji 😜 Based on the original gitmoji plugin by galedrim",
+        "Author": "tho-myr",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/tho-myr/Flow.Launcher.Plugin.Gitmoji_Plus",
+        "UrlDownload": "https://github.com/tho-myr/Flow.Launcher.Plugin.Gitmoji_Plus/releases/download/v1.0.0/Flow.Launcher.Plugin.Gitmoji_Plus.zip",
+        "UrlSourceCode": "https://github.com/tho-myr/Flow.Launcher.Plugin.Gitmoji_Plus/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/tho-myr/Flow.Launcher.Plugin.Gitmoji_Plus@master/Flow.Launcher.Plugin.Gitmoji_Plus/Images/icon.png",
+        "DateAdded": "2025-02-26T01:41:23Z",
+        "LatestReleaseDate": "2025-02-25T21:52:10Z"
     },
     {
         "ID": "B348C4F7608746DAA8B519F223CFC8FB",
@@ -3170,13 +3184,13 @@
         "Name": "Snippets",
         "Description": "Manage name/value snippets and copy to clipboard",
         "Author": "yu-xiaoyao",
-        "Version": "2.0.1",
+        "Version": "2.0.2",
         "Language": "csharp",
         "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
         "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
         "IcoPath": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/raw/main/Flow.Launcher.Plugin.Snippets/Images/Snippets.png",
-        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v2.0.1/Snippets.zip",
-        "LatestReleaseDate": "2025-02-12T01:30:24Z",
+        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v2.0.2/Snippets.zip",
+        "LatestReleaseDate": "2025-02-25T11:52:06Z",
         "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
