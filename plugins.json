@@ -710,13 +710,13 @@
         "Name": "rtfm",
         "Description": "a rtfm lookup plugin",
         "Author": "cibere",
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.2.0/Flow.Launcher.Plugin.rtfm.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.3.0/Flow.Launcher.Plugin.rtfm.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
         "IcoPath": "https://i.imgur.com/cvI93QW.png",
-        "LatestReleaseDate": "2025-02-05T02:44:15Z",
+        "LatestReleaseDate": "2025-02-26T23:04:06Z",
         "DateAdded": "2024-12-20T12:39:36Z"
     },
     {
@@ -2437,6 +2437,19 @@
         "Tested": true,
         "LatestReleaseDate": "2022-01-12T08:10:51Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "251B44B4162E470B9167A2954DAEBC6E",
+        "Name": "Mock",
+        "Description": "Generate mocking case and memes (⬭ω⬭)",
+        "Author": "tho-myr",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock",
+        "UrlDownload": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock/releases/download/v1.0.0/Flow.Launcher.Plugin.Mock.zip",
+        "UrlSourceCode": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/tho-myr/Flow.Launcher.Plugin.Mock@master/Flow.Launcher.Plugin.Mock/Images/icon.png",
+        "LatestReleaseDate": "2025-02-26T22:36:27Z"
     },
     {
         "ID": "bb3ca236-f416-46d5-b88b-597748c33dce",
