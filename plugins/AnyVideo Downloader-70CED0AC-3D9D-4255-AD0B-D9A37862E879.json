@@ -3,13 +3,13 @@
     "Name": "AnyVideo Downloader",
     "Description": "Plugin for downloading videos from YouTube, Facebook, Twitter, Instagram, and many other websites.",
     "Author": "z1nc0r3",
-    "Version": "2.1.1",
+    "Version": "2.1.2",
     "Language": "python",
     "Website": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin",
-    "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v2.1.1/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
+    "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v2.1.2/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
     "UrlSourceCode": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/AnyVideo-Downloader-Flow-Plugin@main/Images/app.png",
     "Tested": true,
     "DateAdded": "2024-07-30T07:46:00Z",
-    "LatestReleaseDate": "2024-11-14T23:10:06Z"
+    "LatestReleaseDate": "2025-03-02T06:47:38Z"
 }
