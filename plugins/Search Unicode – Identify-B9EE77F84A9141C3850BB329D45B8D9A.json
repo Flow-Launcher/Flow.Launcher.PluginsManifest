@@ -1,0 +1,14 @@
+{
+    "ID": "B9EE77F84A9141C3850BB329D45B8D9A",
+    "Name": "Search Unicode \u2013 Identify",
+    "Description": "Identify Unicode properties of any text",
+    "Author": "Eana Hufwe",
+    "Version": "1.0.4",
+    "Language": "csharp",
+    "Website": "https://github.com/blueset/flow-search-unicode",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/blueset/flow-search-unicode@master/Flow.Launcher.Plugin.SearchUnicode.Identify/icon.png?raw=true",
+    "UrlSourceCode": "https://github.com/blueset/flow-search-unicode",
+    "UrlDownload": "https://github.com/blueset/flow-search-unicode/releases/download/v1.0.4/SearchUnicode.Identify.zip",
+    "LatestReleaseDate": "2025-02-06T03:49:37Z",
+    "DateAdded": "2025-01-19T01:42:28Z"
+}

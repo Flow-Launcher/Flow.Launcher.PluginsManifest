@@ -1,0 +1,14 @@
+{
+    "ID": "A3EA904783E14335894354F09DC4B054",
+    "Name": "CdList",
+    "Description": "Like cd in terminal, but for Flow Launcher",
+    "Author": "seanmars",
+    "Version": "1.3.0",
+    "Language": "csharp",
+    "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
+    "UrlDownload": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList/releases/download/v1.3.0/Flow.Launcher.Plugin.CdList.zip",
+    "UrlSourceCode": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/seanmars/Flow.Launcher.Plugin.CdList@main/Flow.Launcher.Plugin.CdList/icon.png",
+    "DateAdded": "2025-02-10T04:16:30Z",
+    "LatestReleaseDate": "2025-02-12T08:32:13Z"
+}

@@ -19,8 +19,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: 3.x
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./ci/envs/requirements-update-tested.txt
       - name: Run script
-        run: python ./ci/src/update-tested.py
+        run: python ./ci/src/update-tested.py ${{ secrets.DISCORD_WEBHOOK }}
       - name: Update plugin manifest
         if: success()
         uses: stefanzweifel/git-auto-commit-action@v4

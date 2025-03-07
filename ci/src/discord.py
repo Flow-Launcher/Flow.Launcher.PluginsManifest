@@ -1,11 +1,11 @@
 import aiohttp
-
+from tqdm.asyncio import tqdm
 from _utils import *
 
 MAX_BODY_LEN = 1024
 
 
-async def update_hook(webhook_url: str, info: dict, latest_ver: str, release: dict) -> None:
+async def update_hook(webhook_url: str, info: PluginType, latest_ver: str, release: dict) -> None:
     embed = {
         "content": None,
         "embeds": [
@@ -41,6 +41,43 @@ async def update_hook(webhook_url: str, info: dict, latest_ver: str, release: di
     release_notes = release.get('body')
     if release_notes and release_notes.strip():
         embed['embeds'][0]['fields'].append({"name": "Release Notes", "value": truncate_release_notes(release['html_url'], release.get('body', ""))})
+    async with aiohttp.ClientSession() as session:
+        await session.post(webhook_url, json=embed)
+
+async def release_hook(webhook_url: str, info: PluginType) -> None:
+    embed = {
+        "content": None,
+        "embeds": [
+            {
+            "title": info[plugin_name],
+            "description": f"New Plugin!\nReleased at v{info[version]}.",
+            "url": info[website],
+            "color": 5763719, # green
+            "fields": [
+                {
+                "name": "Plugin Description",
+                "value": info[description]
+                },
+                {
+                "name": "Plugin Language",
+                "value": info[language_name]
+                }
+            ],
+            "author": {
+                "name": info[author]
+            },
+            "thumbnail": {
+                "url": info[icon_path]
+            }
+            }
+        ]
+        }
+    if 'github.com' in info[url_sourcecode].lower():
+        github_username = info[url_sourcecode].split('/')[3]
+        embed['embeds'][0]['author']['name'] = github_username
+        embed['embeds'][0]['author']['url'] = f"{github_url}/{github_username}"
+        embed['embeds'][0]["author"]["icon_url"] = f"{github_url}/{github_username}.png?size=40"
+    
     async with aiohttp.ClientSession() as session:
         await session.post(webhook_url, json=embed)
     

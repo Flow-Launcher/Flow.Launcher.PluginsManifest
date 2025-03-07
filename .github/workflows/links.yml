@@ -2,14 +2,11 @@ name: Check Links
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'plugins.json'
   pull_request:
     paths:
-      - 'plugins.json'
+      - plugins/**
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 1 * * *"
 
 jobs:
   linkChecker:
@@ -17,11 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create plugins.json For All Plugins
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          python ./ci/src/merge-manifest.py
+      
+      - name: Create plugins.json For New Plugins Only
+        if: ${{ github.event_name == 'pull_request' }}
+        run: |
+          python ./ci/src/merge-manifest.py new-only
+
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2
         with:
           args: --verbose --no-progress plugins.json
           fail: true
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          failIfEmpty: false
+          token: ${{ secrets.LINKCHECKER }}
