@@ -3207,7 +3207,7 @@
     {
         "ID": "ff9385ec-0e95-452f-bef2-62456f66fe0f",
         "Name": "Clipboard+",
-        "Description": "Easily manage your clipboard history and customizing copy rules with support for text, images, and files",
+        "Description": "Easily manage your clipboard history and Windows Clipboard History with support for text, images, and files",
         "Author": "Jack251970",
         "Version": "2.2.2",
         "Language": "csharp",
