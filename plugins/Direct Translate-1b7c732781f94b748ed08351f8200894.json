@@ -1,11 +1,11 @@
 {
     "ID": "1b7c732781f94b748ed08351f8200894",
     "Name": "Direct Translate",
-    "Description": "Translate between any languages supported by textblob.",
+    "Description": "Translate between any languages supported by Googletrans",
     "Author": "Drimix20",
     "Version": "2.1.0",
     "Language": "python",
-    "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate",
+    "Website": "https://github.com/Drimix20/Flow.Launcher.Plugin.DirectTranslate",
     "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/releases/download/2.1.0/Flow.Launcher.Plugin.DirectTranslate-2.1.0.zip",
     "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/tree/master",
     "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.DirectTranslate@master/assets/favicon.ico",

@@ -1,7 +1,7 @@
 {
     "ID": "2972879D-1702-48A7-BA50-CA8352A6AA74",
     "Name": "StringUtils",
-    "Description": "A multi-purpose plugin that supports UUID/GUID/random string generation, base64/URL encoding and decoding",
+    "Description": "a multi-purpose Flow Launcher plugin that supports UUID/GUID/random string generation, base64/URL encoding and decoding",
     "Author": "t-tan",
     "Version": "1.0.0",
     "Language": "csharp",
