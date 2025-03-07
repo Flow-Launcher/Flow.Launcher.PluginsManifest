@@ -82,7 +82,6 @@ async def batch_github_plugin_info(
                         author,
                         language_name,
                         website,
-                        url_sourcecode,
                     ):
                         info[key] = metadata[key]
 
