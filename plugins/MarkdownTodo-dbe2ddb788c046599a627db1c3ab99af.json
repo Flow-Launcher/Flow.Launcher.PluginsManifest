@@ -5,8 +5,8 @@
     "Author": "YukiGasai",
     "Version": "0.0.1",
     "Language": "javascript",
-    "Website": "https://github.com/YukiGasai/MarkdownTodo",
-    "UrlDownload": "https://github.com/YukiGasai/MarkdownTodo/releases/download/v0.0.1/markdowntodo.zip",
-    "UrlSourceCode": "https://github.com/YukiGasai/MarkdownTodo",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/YukiGasai/MarkdownTodo@main/img/app.png"
-}
+    "Website": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo",
+    "UrlDownload": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo/releases/download/v0.0.1/markdowntodo.zip",
+    "UrlSourceCode": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo@main/img/app.png"
+  }
