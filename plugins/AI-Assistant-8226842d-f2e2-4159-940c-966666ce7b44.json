@@ -1,0 +1,14 @@
+{
+    "ID": "8226842d-f2e2-4159-940c-966666ce7b44",
+    "Name": "AI Assistant",
+    "Description": "Query OpenRouter AI models directly from Flow Launcher",
+    "Author": "Lucas Shamanic",
+    "Version": "0.0.2",
+    "Language": "python",
+    "Website": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant",
+    "UrlDownload": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant/releases/download/v0.0.2/Flow.Launcher.Plugin.ai.zip",
+    "UrlSourceCode": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant@main/images/app.png"
+
+
+  }
