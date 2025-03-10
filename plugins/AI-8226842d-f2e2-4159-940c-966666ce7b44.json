@@ -7,7 +7,9 @@
     "Version": "0.0.2",
     "Language": "python",
     "Website": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.ai",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/shamanicvocalarts/Flow.Launcher.Plugin.ai@main/images/app.png",
-    "ExecuteFileName": "main.py"
+    "UrlDownload": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.ai/releases/download/v0.0.2/Flow.Launcher.Plugin.ai.zip"
+    "UrlSourceCode": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.ai/tree/main"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/shamanicvocalarts/Flow.Launcher.Plugin.ai@main/images/app.png"
+
 
   }
