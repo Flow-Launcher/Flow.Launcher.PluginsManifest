@@ -3038,13 +3038,13 @@
         "Name": "Obsidian",
         "Description": "Search all Obsidian files",
         "Author": "alexandre-v1",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "Language": "csharp",
         "Website": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian",
-        "UrlDownload": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/releases/download/v1.1.0/Flow.Launcher.Plugin.Obsidian.zip",
+        "UrlDownload": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/releases/download/v1.1.1/Flow.Launcher.Plugin.Obsidian.zip",
         "UrlSourceCode": "https://github.com/alexandre-v1/Flow.Launcher.Plugin.Obsidian/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/alexandre-v1/Flow.Launcher.Plugin.Obsidian@main/Flow.Launcher.Plugin.Obsidian/Icons/obsidian-logo.png",
-        "LatestReleaseDate": "2025-03-09T13:48:35Z",
+        "LatestReleaseDate": "2025-03-10T14:59:44Z",
         "DateAdded": "2024-11-30T06:28:20Z"
     },
     {
