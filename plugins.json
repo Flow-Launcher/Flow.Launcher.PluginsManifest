@@ -216,6 +216,19 @@
         "DateAdded": "2025-03-03T21:20:49Z"
     },
     {
+        "ID": "2DCC5AE74387484D8F8353AB158A4380",
+        "Name": "Free Dictionary",
+        "Description": "Lookup words' definition and pronunciation with playable audio using Free Dictionary",
+        "Author": "tenmo2003",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/tenmo2003/Flow.Launcher.Plugin.FreeDictionary",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/tenmo2003/Flow.Launcher.Plugin.FreeDictionary/icon.png",
+        "UrlDownload": "https://github.com/tenmo2003/Flow.Launcher.Plugin.FreeDictionary/releases/download/v1.0.0/Release.zip",
+        "UrlSourceCode": "https://github.com/tenmo2003/Flow.Launcher.Plugin.FreeDictionary",
+        "LatestReleaseDate": "2025-03-06T11:02:10Z"
+    },
+    {
         "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
         "Name": "Todos",
         "Description": "A simple yet effective todo app.",
