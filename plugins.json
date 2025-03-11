@@ -3037,15 +3037,15 @@
         "Name": "Date Calculator",
         "Description": "Date Calculator using Flow's embedded python",
         "Author": "jasonz3157",
-        "Version": "0.1.7",
+        "Version": "0.2.0",
         "Language": "python",
         "Website": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator",
-        "UrlDownload": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/releases/download/v0.1.7/Flow.Launcher.Plugin.DateCalculator.zip",
+        "UrlDownload": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/releases/download/v0.2.0/Flow.Launcher.Plugin.DateCalculator.zip",
         "UrlSourceCode": "https://github.com/jasonz3157/Flow.Plugin.DateCalculator/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jasonz3157/Flow.Plugin.DateCalculator@master/Images/app.png",
         "Tested": true,
         "DateAdded": "2024-03-08T11:08:46Z",
-        "LatestReleaseDate": "2025-03-10T05:27:46Z"
+        "LatestReleaseDate": "2025-03-11T08:35:15Z"
     },
     {
         "ID": "028C97F910684231AB09B5DD5997D424",
