@@ -3,12 +3,12 @@
     "Name": "UvxPy",
     "Description": "a thin wrapper over uv's tooling management",
     "Author": "cibere",
-    "Version": "0.0.2",
+    "Version": "0.0.3",
     "Language": "python_v2",
     "Website": "https://github.com/author/Flow.Launcher.Plugin.uvxpy",
     "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.uvxpy@master/assets/app.png",
-    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.UvxPy/releases/download/v0.0.2/Flow.Launcher.Plugin.UvxPy.zip",
+    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.UvxPy/releases/download/v0.0.3/Flow.Launcher.Plugin.UvxPy.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy",
-    "LatestReleaseDate": "2025-02-09T05:34:03Z",
+    "LatestReleaseDate": "2025-03-10T04:37:15Z",
     "DateAdded": "2025-02-18T12:39:08Z"
 }
