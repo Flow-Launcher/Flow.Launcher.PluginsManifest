@@ -70,7 +70,7 @@ async def batch_github_plugin_info(
                     browser_download_url or assets[0]["browser_download_url"]
                 )
 
-                info[version] = latest_ver = clean(latest_rel["tag_name"], "v")
+                latest_ver = clean(latest_rel["tag_name"], "v")
                 if version_tuple(info[version]) != version_tuple(latest_ver):
                     tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
 
@@ -92,6 +92,7 @@ async def batch_github_plugin_info(
                             latest_rel,
                             webhook_url,
                         )
+                info[version] = latest_ver
 
             tags[info[id_name]] = res.headers.get(etag, "")
 
