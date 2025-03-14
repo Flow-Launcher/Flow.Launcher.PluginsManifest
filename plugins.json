@@ -1098,6 +1098,19 @@
         "LatestReleaseDate": "2024-12-06T09:58:21Z"
     },
     {
+        "ID": "71faf57f-53e5-4637-b01c-b39d3ea3b2bf",
+        "Name": "Discord Webhook",
+        "Description": "send messages through discord webhooks",
+        "Author": "cibere",
+        "Version": "0.0.1",
+        "Language": "python_v2",
+        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook/releases/download/v0.0.1/Flow.Launcher.Plugin.DiscordWebhook.zip",
+        "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.DiscordWebhook@master/assets/app.png",
+        "LatestReleaseDate": "2025-03-10T18:46:13Z"
+    },
+    {
         "ID": "589CA535BD5041E78179C4F2D2F2D8FD",
         "Name": "TinyUrlPlugin",
         "Description": "a plugin that use tinyurl api, it's very basic but powerful",
