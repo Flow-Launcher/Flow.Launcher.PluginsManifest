@@ -1108,7 +1108,8 @@
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook/releases/download/v0.0.1/Flow.Launcher.Plugin.DiscordWebhook.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.DiscordWebhook@master/assets/app.png",
-        "LatestReleaseDate": "2025-03-10T18:46:13Z"
+        "LatestReleaseDate": "2025-03-10T18:46:13Z",
+        "DateAdded": "2025-03-14T03:31:04Z"
     },
     {
         "ID": "589CA535BD5041E78179C4F2D2F2D8FD",
