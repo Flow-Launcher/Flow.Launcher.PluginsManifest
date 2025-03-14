@@ -1,7 +1,7 @@
 {
     "ID": "b6a9192c-6646-4c77-bc6b-be4f8195ffda",
     "Name": "Date Calculator",
-    "Description": "Date Calculator using Flow's embedded python",
+    "Description": "Date Calculator",
     "Author": "jasonz3157",
     "Version": "0.2.1",
     "Language": "python",

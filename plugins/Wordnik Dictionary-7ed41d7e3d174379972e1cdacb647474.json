@@ -1,11 +1,11 @@
 {
     "ID": "7ed41d7e3d174379972e1cdacb647474",
     "Name": "Wordnik Dictionary",
-    "Description": "Wordnik wrapper using python. Gives you the definition of words similiar to duckduckgo.",
+    "Description": "A feature-packed that lets you see stuff like definitions for words using wordnik.",
     "Author": "cibere",
     "Version": "2.1.0",
     "Language": "python",
-    "Website": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary",
+    "Website": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/v2.1.0",
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/releases/download/v2.1.0/Flow.Launcher.Plugin.WordNikDictionary.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/main",
     "IcoPath": "https://i.imgur.com/VTVaFuF.png",

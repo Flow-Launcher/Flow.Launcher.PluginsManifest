@@ -1,7 +1,7 @@
 {
     "ID": "735A3608B5D240E5A44357CCF852E329",
     "Name": "DdFlow",
-    "Description": "Plugin for Get the day from the date",
+    "Description": "all-in-one date plugin",
     "Author": "Ahmed ElSaeed",
     "Version": "2.0.0",
     "Language": "python",

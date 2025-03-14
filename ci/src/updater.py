@@ -1,7 +1,9 @@
 # -*-coding: utf-8 -*-
 import asyncio
 import aiohttp
+from zipfile import ZipFile
 import re
+from io import BytesIO
 from typing import List
 from os import getenv
 from sys import argv
@@ -68,14 +70,29 @@ async def batch_github_plugin_info(
                     browser_download_url or assets[0]["browser_download_url"]
                 )
 
-                if webhook_url:
-                    await send_notification(
-                        info,
-                        clean(latest_rel["tag_name"], "v"),
-                        latest_rel,
-                        webhook_url,
+                latest_ver = clean(latest_rel["tag_name"], "v")
+                if version_tuple(info[version]) != version_tuple(latest_ver):
+                    tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
+
+                    metadata = await get_plugin_dot_json(
+                        info[url_download], session=session
                     )
-                info[version] = clean(latest_rel["tag_name"], "v")
+                    for key in (
+                        description,
+                        author,
+                        language_name,
+                        website,
+                    ):
+                        info[key] = metadata[key]
+
+                    if webhook_url:
+                        await send_notification(
+                            info,
+                            latest_ver,
+                            latest_rel,
+                            webhook_url,
+                        )
+                info[version] = latest_ver
 
             tags[info[id_name]] = res.headers.get(etag, "")
 
@@ -84,6 +101,21 @@ async def batch_github_plugin_info(
         tb = traceback.format_exc()
         print(f"Error when processing plugin {info[plugin_name]}:\n{e} {tb}")
         return info
+
+
+async def get_plugin_dot_json(download_url: str, *, session: aiohttp.ClientSession):
+    async with session.get(download_url) as res:
+        data = await res.read()
+
+    with ZipFile(BytesIO(data)) as zip:
+        for fileinfo in zip.filelist:
+            if not fileinfo.filename.endswith("plugin.json"):
+                continue
+
+            with zip.open(fileinfo, "r") as file:
+                return json.loads(file.read())
+
+    raise ValueError(f"plugin.json file not found. Download Url: {download_url}")
 
 
 async def batch_plugin_infos(
@@ -114,17 +146,15 @@ def remove_unused_etags(plugin_infos: PluginsType, etags: ETagsType) -> ETagsTyp
 
 
 async def send_notification(
-    info: PluginType, latest_ver, release, webhook_url: str | None = None
+    info: PluginType, latest_ver: str, release, webhook_url: str | None = None
 ) -> None:
     if not webhook_url:
         return
 
-    if version_tuple(info[version]) != version_tuple(latest_ver):
-        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
-        try:
-            await update_hook(webhook_url, info, latest_ver, release)
-        except Exception as e:
-            tqdm.write(str(e))
+    try:
+        await update_hook(webhook_url, info, latest_ver, release)
+    except Exception as e:
+        tqdm.write(str(e))
 
 
 async def main():

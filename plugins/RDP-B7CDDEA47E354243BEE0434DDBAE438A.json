@@ -1,7 +1,7 @@
 {
     "ID": "B7CDDEA47E354243BEE0434DDBAE438A",
     "Name": "RDP",
-    "Description": "RDP plugin for Flow Launcher",
+    "Description": "RDP plugin for Flow",
     "Author": "MBeggiato",
     "Version": "1.0.15",
     "Language": "csharp",
