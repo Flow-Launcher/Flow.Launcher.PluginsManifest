@@ -1,7 +1,7 @@
 {
     "ID": "54545DC7B3A542DBB6C7DA50DEAD455B",
     "Name": "GamesLauncher",
-    "Description": "Search and launch games from multiple platforms like Steam, Epic Games etc.",
+    "Description": "Search and launch games from multiple platforms like Steam, Epic Games, Xbox etc.",
     "Author": "KrystianLesniak",
     "Version": "1.9.2",
     "Language": "csharp",

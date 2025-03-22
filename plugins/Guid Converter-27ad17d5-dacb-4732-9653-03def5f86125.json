@@ -5,7 +5,7 @@
     "Author": "N.Duong",
     "Version": "1.1.1",
     "Language": "csharp",
-    "Website": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter/tree/main",
+    "Website": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter.git",
     "UrlDownload": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter/releases/download/v1.1.1/Flow.Launcher.Plugin.GuidConverter.zip",
     "UrlSourceCode": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.GuidConverter@main/Flow.Launcher.Plugin.GuidConverter/Images/icon.png",

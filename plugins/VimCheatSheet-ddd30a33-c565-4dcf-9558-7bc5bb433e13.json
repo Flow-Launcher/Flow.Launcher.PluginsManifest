@@ -1,7 +1,7 @@
 {
     "ID": "ddd30a33-c565-4dcf-9558-7bc5bb433e13",
     "Name": "VimCheatSheet",
-    "Description": "Instant access to Vim commands and shortcuts via an interactive cheat sheet.",
+    "Description": "Search Vim commands with Flow Launcher.",
     "Author": "MoAlSeifi",
     "Version": "0.0.2",
     "Language": "python",
