@@ -1,6 +1,5 @@
 {
   "ID": "8931A4C6BC4141DE99523AA888BF6E21",
-  "ActionKeyword": "short",
   "Name": "YOURLS",
   "Description": "This plugin allows you to quickly shorten URLs using your own YOURLS instance.",
   "Author": "bennett-sh",
