@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant/releases/download/v0.0.2/Flow.Launcher.Plugin.ai.zip",
     "UrlSourceCode": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant@main/images/app.png",
-    "LatestReleaseDate": "2025-03-10T16:35:24Z"
+    "LatestReleaseDate": "2025-03-10T16:35:24Z",
+    "Tested": true,
+    "DateAdded": "2025-03-30T06:29:21Z"
 }
