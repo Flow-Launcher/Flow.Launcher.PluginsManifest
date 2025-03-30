@@ -1,6 +1,8 @@
 name: Deploy Website
 
 on:
+  push:
+    branches: [ add_deploy_trigger ]
   workflow_dispatch:
 
 jobs:
