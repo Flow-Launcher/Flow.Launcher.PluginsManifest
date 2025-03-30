@@ -1,0 +1,12 @@
+{
+  "ID": "5C310C539BFF4F47BA15D01AF0173032",  
+  "Name": "Lively Wallpaper Controller",
+  "Description": "Quickly change your wallpapers in Lively Wallpaper",
+  "Author": "Odotocodot",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Odotocodot/Lively4Flow",
+  "UrlDownload": "https://github.com/Odotocodot/Lively4Flow/releases/download/v1.0.0/Flow.Launcher.Plugin.Lively.zip",
+  "UrlSourceCode": "https://github.com/Odotocodot/Lively4Flow",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Lively4Flow/Flow.Launcher.Plugin.Lively/Images/icon.png"
+}
