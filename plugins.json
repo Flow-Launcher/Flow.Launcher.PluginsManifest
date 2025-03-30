@@ -707,6 +707,19 @@
         "LatestReleaseDate": "2024-08-20T10:42:04Z"
     },
     {
+        "ID": "8226842d-f2e2-4159-940c-966666ce7b44",
+        "Name": "AI Assistant",
+        "Description": "Query OpenRouter AI models directly from Flow Launcher",
+        "Author": "Lucas Shamanic",
+        "Version": "0.0.2",
+        "Language": "python",
+        "Website": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant",
+        "UrlDownload": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant/releases/download/v0.0.2/Flow.Launcher.Plugin.ai.zip",
+        "UrlSourceCode": "https://github.com/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/shamanicvocalarts/Flow.Launcher.Plugin.AI-Assistant@main/images/app.png",
+        "LatestReleaseDate": "2025-03-10T16:35:24Z"
+    },
+    {
         "ID": "D738C474-9262-4B94-B58D-0413ED8EB9C6",
         "Name": "Poi Poi Clipboard",
         "Description": "Clear clipboard quickly to prevent password leakage",
