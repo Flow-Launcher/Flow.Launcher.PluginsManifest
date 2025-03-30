@@ -2,9 +2,9 @@ name: Deploy Website
 
 on:
   push:
-    branches: [ plugin_api_v2 ]
-    paths:
-      - 'plugins.json'
+    branches: [ plugin_api_v2, add_deploy_trigger ]
+    # paths:
+      # - 'plugins.json'
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,10 @@ jobs:
     steps:
       - name: Dispatch event
         run: |
-          curl -L \
+          http_status=$(curl -L -f -s -o /dev/null -w "%{http_code}" \
             -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.DEPLOY_WEBSITE }}" \
             https://api.github.com/repos/Flow-Launcher/flow-launcher.github.io/dispatches \
-            -d '{"event_type":"deploy"}'
+            -d '{"event_type":"deploy"}')
+          if [ "$http_status" -ne 200 ]; then echo "Error: Deploy trigger failed, HTTP status code is $http_status"; exit 1; fi
