@@ -1,12 +1,13 @@
 {
-  "ID": "D8A705AD7AB849ACB581FF46D3B59816",  
-  "Name": "Scoop",
-  "Description": "Scoop plugin for Flow. Search and Manage for apps with Scoop",
-  "Author": "xavialyra",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
-  "UrlDownload": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop/releases/download/v1.0.0/Flow.Launcher.Plugin.Scoop.zip",
-  "UrlSourceCode": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/xavialyra/Flow.Launcher.Plugin.Scoop@master/Images/scoop-icon.png"
+    "ID": "D8A705AD7AB849ACB581FF46D3B59816",
+    "Name": "Scoop",
+    "Description": "Scoop plugin for Flow. Search and Manage for apps with Scoop",
+    "Author": "xavialyra",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
+    "UrlDownload": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop/releases/download/v1.0.0/Flow.Launcher.Plugin.Scoop.zip",
+    "UrlSourceCode": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/xavialyra/Flow.Launcher.Plugin.Scoop@master/Images/scoop-icon.png",
+    "LatestReleaseDate": "2025-03-23T08:17:16Z"
 }
