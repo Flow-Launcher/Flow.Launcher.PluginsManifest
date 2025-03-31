@@ -9,5 +9,6 @@
     "UrlDownload": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop/releases/download/v1.0.0/Flow.Launcher.Plugin.Scoop.zip",
     "UrlSourceCode": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
     "IcoPath": "https://cdn.jsdelivr.net/gh/xavialyra/Flow.Launcher.Plugin.Scoop@master/Images/scoop-icon.png",
-    "LatestReleaseDate": "2025-03-23T08:17:16Z"
+    "LatestReleaseDate": "2025-03-23T08:17:16Z",
+    "DateAdded": "2025-03-31T21:20:56Z"
 }
