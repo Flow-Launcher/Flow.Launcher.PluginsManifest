@@ -1,0 +1,14 @@
+{
+    "ID": "0055A981-5039-0D25-6B7D-1312A7CB0F26",
+    "Name": "Volcano Translation",
+    "Description": "A translation plugin using VolcEngine Translation API",
+    "Author": "wangzmg",
+    "Version": "1.0.0",
+    "Language": "JavaScript",
+    "Website": "https://github.com/wangzmg/Flow.Launcher.VolcanoTranslation",
+    "UrlDownload": "https://github.com/wangzmg/Flow.Launcher.VolcanoTranslation/archive/refs/tags/v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/wangzmg/Flow.Launcher.VolcanoTranslation/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/wangzmg/Flow.Launcher.VolcanoTranslation@main/src/assets/images/app.png",
+    "LatestReleaseDate": "2025-03-31T12:09:06Z",
+    "DateAdded": "2025-03-31T12:09:06Z"
+}
