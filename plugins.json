@@ -505,15 +505,15 @@
     {
         "ID": "525995402BEF4A8CA860D92F6D108092",
         "Name": "VS Code Workspaces",
-        "Description": "Search and open the previously used VS Code workspaces",
-        "Author": "ricardosantos9521, taooceros",
-        "Version": "1.3.2",
+        "Description": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in VS Code.",
+        "Author": "ricardosantos9521, MaskedRPGFan",
+        "Version": "1.4.0",
         "Language": "csharp",
         "Website": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
-        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.3.2/Flow.Plugin.VSCodeWorkspaces-1.3.2.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.4.0/Flow.Plugin.VSCodeWorkspaces-1.4.0.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
-        "LatestReleaseDate": "2024-08-19T16:31:50Z",
+        "LatestReleaseDate": "2025-03-30T22:16:06Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3380,13 +3380,13 @@
         "Name": "MarkdownTodo",
         "Description": "Update your markdown todo list with Flow Launcher",
         "Author": "YukiGasai",
-        "Version": "0.0.2",
+        "Version": "0.0.3",
         "Language": "javascript",
         "Website": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo",
-        "UrlDownload": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo/releases/download/v0.0.2/Flow.Launcher.Plugin.MarkdownTodo.zip",
+        "UrlDownload": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo/releases/download/v0.0.3/Flow.Launcher.Plugin.MarkdownTodo.zip",
         "UrlSourceCode": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo",
         "IcoPath": "https://cdn.jsdelivr.net/gh/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo@main/img/app.png",
-        "LatestReleaseDate": "2025-03-30T21:15:49Z",
+        "LatestReleaseDate": "2025-03-31T00:49:07Z",
         "DateAdded": "2025-03-30T01:53:44Z"
     },
     {
