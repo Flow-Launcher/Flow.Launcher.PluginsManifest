@@ -355,7 +355,8 @@
         "UrlDownload": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop/releases/download/v1.0.0/Flow.Launcher.Plugin.Scoop.zip",
         "UrlSourceCode": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
         "IcoPath": "https://cdn.jsdelivr.net/gh/xavialyra/Flow.Launcher.Plugin.Scoop@master/Images/scoop-icon.png",
-        "LatestReleaseDate": "2025-03-23T08:17:16Z"
+        "LatestReleaseDate": "2025-03-23T08:17:16Z",
+        "DateAdded": "2025-03-31T21:20:56Z"
     },
     {
         "ID": "F229B92B-C4D1-4A87-B05B-A96ACC486263",
@@ -1019,7 +1020,8 @@
         "UrlDownload": "https://github.com/O1Anas/Noor_Flow.FLP/releases/download/v1.0.0/Flow.Launcher.Plugin.Noor_Flow.zip",
         "UrlSourceCode": "https://github.com/O1Anas/Noor_Flow.FLP",
         "IcoPath": "https://cdn.jsdelivr.net/gh/O1Anas/Noor_Flow.FLP/Flow.Launcher.Plugin.Noor_Flow/Images/app.png",
-        "LatestReleaseDate": "2025-03-25T03:28:23Z"
+        "LatestReleaseDate": "2025-03-25T03:28:23Z",
+        "DateAdded": "2025-03-31T21:20:56Z"
     },
     {
         "ID": "75763350-A89D-4942-B697-14875D94C222",
