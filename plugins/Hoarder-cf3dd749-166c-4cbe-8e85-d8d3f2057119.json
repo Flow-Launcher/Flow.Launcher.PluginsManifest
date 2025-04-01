@@ -10,5 +10,6 @@
     "UrlSourceCode": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/rverdam/Flow.Launcher.Plugin.Hoarder@main/Images/app.png",
     "LatestReleaseDate": "2025-04-01T17:16:33Z",
-    "DateAdded": "2025-03-30T01:53:43Z"
+    "DateAdded": "2025-03-30T01:53:43Z",
+    "Tested": true
 }
