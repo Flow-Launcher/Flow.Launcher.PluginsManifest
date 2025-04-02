@@ -232,16 +232,17 @@
     {
         "ID": "cf3dd749-166c-4cbe-8e85-d8d3f2057119",
         "Name": "Hoarder",
-        "Description": "Access Hoader bookmarks with Flow Launcher",
+        "Description": "Hoarder Plugin",
         "Author": "Robert Verdam",
-        "Version": "1.0.0",
-        "Language": "Python",
+        "Version": "1.0.1",
+        "Language": "python",
         "Website": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder",
-        "UrlDownload": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder/releases/download/v1.0.0/Flow.Launcher.Plugin.Hoarder.zip",
+        "UrlDownload": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder/releases/download/v1.0.1/Flow.Launcher.Plugin.Hoarder.zip",
         "UrlSourceCode": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/rverdam/Flow.Launcher.Plugin.Hoarder@main/Images/app.png",
-        "LatestReleaseDate": "2025-03-02T15:42:47Z",
-        "DateAdded": "2025-03-30T01:53:43Z"
+        "LatestReleaseDate": "2025-04-01T17:16:33Z",
+        "DateAdded": "2025-03-30T01:53:43Z",
+        "Tested": true
     },
     {
         "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
@@ -343,6 +344,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/js0ny/Flow.Launcher.Plugin.Cider2/Images/icon.png",
         "LatestReleaseDate": "2024-12-25T10:57:39Z",
         "DateAdded": "2025-01-01T09:20:50Z"
+    },
+    {
+        "ID": "D8A705AD7AB849ACB581FF46D3B59816",
+        "Name": "Scoop",
+        "Description": "Scoop plugin for Flow. Search and Manage for apps with Scoop",
+        "Author": "xavialyra",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
+        "UrlDownload": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop/releases/download/v1.0.0/Flow.Launcher.Plugin.Scoop.zip",
+        "UrlSourceCode": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/xavialyra/Flow.Launcher.Plugin.Scoop@master/Images/scoop-icon.png",
+        "LatestReleaseDate": "2025-03-23T08:17:16Z",
+        "DateAdded": "2025-03-31T21:20:56Z"
     },
     {
         "ID": "F229B92B-C4D1-4A87-B05B-A96ACC486263",
@@ -768,13 +783,13 @@
         "Name": "AppUpgrader",
         "Description": "Allows you to keep your applications up using winget",
         "Author": "Exarilo",
-        "Version": "1.1.3",
+        "Version": "1.1.4",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader/releases/download/v1.1.3/Flow.Launcher.Plugin.AppUpgrader.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader/releases/download/v1.1.4/Flow.Launcher.Plugin.AppUpgrader.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.AppUpgrader@main/Images/app.png",
-        "LatestReleaseDate": "2025-01-20T16:00:30Z",
+        "LatestReleaseDate": "2025-04-01T20:20:25Z",
         "DateAdded": "2024-09-01T12:35:14Z"
     },
     {
@@ -994,6 +1009,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/peterschussheim/CPPreference-flow-plugin@master/Flow.Launcher.Plugin.CPPreference/icon.png",
         "LatestReleaseDate": "2024-01-12T19:04:08Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "42f4fb22-c254-49b3-81d2-6c5b591c2152",
+        "Name": "Noor Flow",
+        "Description": "Quickly & easily search for & extract islamic revelation while offline",
+        "Author": "O1Anas",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/O1Anas/Noor_Flow.FLP",
+        "UrlDownload": "https://github.com/O1Anas/Noor_Flow.FLP/releases/download/v1.0.0/Flow.Launcher.Plugin.Noor_Flow.zip",
+        "UrlSourceCode": "https://github.com/O1Anas/Noor_Flow.FLP",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/O1Anas/Noor_Flow.FLP/Flow.Launcher.Plugin.Noor_Flow/Images/app.png",
+        "LatestReleaseDate": "2025-03-25T03:28:23Z",
+        "DateAdded": "2025-03-31T21:20:56Z"
     },
     {
         "ID": "75763350-A89D-4942-B697-14875D94C222",
@@ -3409,13 +3438,13 @@
         "Name": "DirQuickJump",
         "Description": "When opening or saving files, quickly jump to the directory you already opened in File Explorer. Inspired by Listary Quick Switch.",
         "Author": "idkana",
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "Language": "csharp",
         "Website": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
-        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.2.0/Flow.Launcher.Plugin.DirQuickJump.zip",
+        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.3.0/Flow.Launcher.Plugin.DirQuickJump.zip",
         "UrlSourceCode": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
         "IcoPath": "https://cdn.jsdelivr.net/gh/idkidknow/Flow.Launcher.Plugin.DirQuickJump@main/Flow.Launcher.Plugin.DirQuickJump/icon.png",
-        "LatestReleaseDate": "2025-03-08T02:12:21Z",
+        "LatestReleaseDate": "2025-04-01T21:51:17Z",
         "DateAdded": "2024-09-17T12:38:53Z"
     },
     {
