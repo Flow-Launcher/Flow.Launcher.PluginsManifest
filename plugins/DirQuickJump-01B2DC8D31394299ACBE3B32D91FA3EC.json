@@ -3,12 +3,12 @@
     "Name": "DirQuickJump",
     "Description": "When opening or saving files, quickly jump to the directory you already opened in File Explorer. Inspired by Listary Quick Switch.",
     "Author": "idkana",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "Language": "csharp",
     "Website": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
-    "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.2.0/Flow.Launcher.Plugin.DirQuickJump.zip",
+    "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.3.0/Flow.Launcher.Plugin.DirQuickJump.zip",
     "UrlSourceCode": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
     "IcoPath": "https://cdn.jsdelivr.net/gh/idkidknow/Flow.Launcher.Plugin.DirQuickJump@main/Flow.Launcher.Plugin.DirQuickJump/icon.png",
-    "LatestReleaseDate": "2025-03-08T02:12:21Z",
+    "LatestReleaseDate": "2025-04-01T21:51:17Z",
     "DateAdded": "2024-09-17T12:38:53Z"
 }
