@@ -2,9 +2,9 @@ name: Deploy Website
 
 on:
   push:
-    branches: [ plugin_api_v2, add_deploy_trigger ] # <======
-    # paths:
-      # - 'plugins.json'
+    branches: [ plugin_api_v2 ]
+    paths:
+      - 'plugins.json'
   workflow_dispatch:
 
 jobs:
