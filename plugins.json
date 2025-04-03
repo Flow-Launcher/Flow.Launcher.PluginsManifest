@@ -3501,7 +3501,9 @@
         "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
-        "IcoPath": "Images/app.png",
+        "UrlDownload": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator/releases/download/1.0.0/Flow.Launcher.Plugin.GoogleMeetCreator.zip",
+        "UrlSourceCode": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator@1.0.0/Images/app.png",
         "ExecuteFileName": "main.py",
         "DateAdded": "2025-03-26T00:00:00Z"
     }
