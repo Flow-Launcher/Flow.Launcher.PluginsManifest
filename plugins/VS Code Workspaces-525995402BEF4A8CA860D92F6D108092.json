@@ -3,12 +3,12 @@
     "Name": "VS Code Workspaces",
     "Description": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in VS Code.",
     "Author": "ricardosantos9521, MaskedRPGFan",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Language": "csharp",
     "Website": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
-    "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.4.0/Flow.Plugin.VSCodeWorkspaces-1.4.0.zip",
+    "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.4.1/Flow.Plugin.VSCodeWorkspaces-1.4.1.zip",
     "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
     "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
-    "LatestReleaseDate": "2025-03-30T22:16:06Z",
+    "LatestReleaseDate": "2025-04-03T12:44:48Z",
     "DateAdded": "2022-10-08T16:26:57Z"
 }
