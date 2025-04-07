@@ -797,13 +797,13 @@
         "Name": "rtfm",
         "Description": "a rtfm lookup plugin",
         "Author": "cibere",
-        "Version": "1.4.2",
+        "Version": "1.4.3",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.2/Flow.Launcher.Plugin.rtfm.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.3/Flow.Launcher.Plugin.rtfm.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
         "IcoPath": "https://i.imgur.com/cvI93QW.png",
-        "LatestReleaseDate": "2025-03-24T20:15:46Z",
+        "LatestReleaseDate": "2025-04-07T17:28:56Z",
         "DateAdded": "2024-12-20T12:39:36Z"
     },
     {
