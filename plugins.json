@@ -3462,21 +3462,6 @@
         "DateAdded": "2024-09-17T12:38:53Z"
     },
     {
-        "ID": "3998f3c6-1271-4590-a715-0f2a5745851c",
-        "Name": "Periodic table",
-        "Description": "Get element properties by element symbol",
-        "Author": "Lucas256-cmd",
-        "Version": "0.9.11",
-        "Language": "python",
-        "Website": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable",
-        "UrlDownload": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/releases/download/v0.9.11/Flow.Launcher.Plugin.PeriodicTable.zip",
-        "UrlSourceCode": "https://github.com/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Lucas256-cmd/Flow.Launcher.Plugin.PeriodicTable/Images/app.png",
-        "LatestReleaseDate": "2025-02-11T16:18:45Z",
-        "Tested": true,
-        "DateAdded": "2024-10-16T12:40:30Z"
-    },
-    {
         "ID": "ddd30a33-c565-4dcf-9558-7bc5bb433e13",
         "Name": "VimCheatSheet",
         "Description": "Search Vim commands with Flow Launcher.",
