@@ -606,6 +606,21 @@
         "LatestReleaseDate": "2023-05-12T02:49:23Z"
     },
     {
+        "ID": "9B1E4E14-15DB-48E5-9156-3C1A9AB3FF31",
+        "Name": "Google Meet Creator",
+        "Description": "Quickly create Google Meet meetings from Flow Launcher",
+        "Author": "Renzo Castillo",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
+        "UrlDownload": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator/releases/download/v1.0.0/Flow.Launcher.Plugin.GoogleMeetCreator.zip",
+        "UrlSourceCode": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator@1.0.0/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2025-04-21T22:36:43Z",
+        "LatestReleaseDate": "2025-04-10T14:16:46Z"
+    },
+    {
         "ID": "27ad17d5-dacb-4732-9653-03def5f86125",
         "Name": "Guid Converter",
         "Description": "a Guid Converter for FlowLauncher",
@@ -3414,7 +3429,8 @@
         "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/0.0.1/flow.launcher.plugin.change-case_0.0.1.zip",
         "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
         "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.change-case@0.0.1/icon.png",
-        "LatestReleaseDate": "2025-04-13T03:14:50Z"
+        "LatestReleaseDate": "2025-04-13T03:14:50Z",
+        "DateAdded": "2025-04-21T21:21:05Z"
     },
     {
         "ID": "dae80b9d-368b-4851-9e64-c24ae1d9a5a1",
@@ -3503,20 +3519,5 @@
         "Tested": true,
         "DateAdded": "2022-11-06T05:01:49Z",
         "LatestReleaseDate": "2025-02-08T20:06:49Z"
-    },
-    {
-        "ID": "9B1E4E14-15DB-48E5-9156-3C1A9AB3FF31",
-        "Name": "Google Meet Creator",
-        "Description": "Quickly create Google Meet meetings from Flow Launcher",
-        "Author": "Renzo Castillo",
-        "Version": "1.0.0",
-        "Language": "python",
-        "Website": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
-        "UrlDownload": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator/releases/download/v1.0.0/Flow.Launcher.Plugin.GoogleMeetCreator.zip",
-        "UrlSourceCode": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator@1.0.0/Images/app.png",
-        "Tested": true,
-        "DateAdded": "2025-03-26T00:00:00Z",
-        "LatestReleaseDate": "2025-03-26T00:00:00Z"
     }
 ]
