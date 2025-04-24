@@ -1,6 +1,6 @@
 {
   "ID": "d2389086abe1495a8b476f39aa5c7b6f",
-  "Name": "JWT Decoder",
+  "Name": "JWTDecoder",
   "Description": "Plugin that decodes JWT tokens into readable payloads.",
   "Author": "Crakzzy",
   "Version": "1.0.0",
