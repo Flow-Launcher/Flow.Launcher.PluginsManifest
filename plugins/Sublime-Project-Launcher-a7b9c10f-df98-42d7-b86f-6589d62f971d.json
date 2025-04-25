@@ -1,0 +1,14 @@
+{
+  "ID": "a7b9c10f-df98-42d7-b86f-6589d62f971d",  
+  "Name": "Sublime Project Launcher",
+  "Description": "Search and open project folders in Sublime Text",
+  "Author": "Rahul Gupta",
+  "Version": "1.0",
+  "Language": "python",
+  "ExecuteFileName": "main.py",
+  "Keyword": "sp",
+  "Website": "https://github.com/Rahulrgd/SublimeProjectLauncher",
+  "UrlDownload": "https://github.com/Rahulrgd/SublimeProjectLauncher/releases/latest",
+  "UrlSourceCode": "https://github.com/Rahulrgd/SublimeProjectLauncher",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Rahulrgd/SublimeProjectLauncher/icon.png"
+}
