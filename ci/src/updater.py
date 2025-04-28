@@ -14,11 +14,6 @@ from tqdm.asyncio import tqdm
 from _utils import *
 from discord import update_hook
 
-github_download_url_regex = re.compile(
-    r"https://github\.com/(?P<author>[a-zA-Z0-9-]+)/(?P<repo>[a-zA-Z0-9\.\-\_]*)/releases/download/(?P<version>[a-zA-Z\.0-9]+)/(?P<filename>.*)\.zip"
-)
-
-
 async def batch_github_plugin_info(
     info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None
 ) -> P:
