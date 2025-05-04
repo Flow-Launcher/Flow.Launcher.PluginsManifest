@@ -1,0 +1,14 @@
+{
+    "ID": "6fecfdb880294aae93bfe530cc96cca0",
+    "Name": "AmnesiaWG",
+    "Description": "Connect to VPN via AmnesiaWG interfaces",
+    "Author": "manveldavid",
+    "Version": "1.0.2",
+    "Language": "csharp",
+    "Website": "https://github.com/manveldavid/Flow.Lancher.Plugin.AmnesiaWG",
+    "UrlDownload": "https://github.com/manveldavid/Flow.Lancher.Plugin.AmnesiaWG/releases/download/v1.0.2/Flow.Launcher.Plugin.WireGuard.zip",
+    "UrlSourceCode": "https://github.com/manveldavid/Flow.Lancher.Plugin.AmnesiaWG/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/manveldavid/Flow.Lancher.Plugin.AmnesiaWG@master/Flow.Launcher.Plugin.AmnesiaWG/Images/amnesiawg.png",
+    "DateAdded": "2025-05-04T06:04:53Z",
+    "LatestReleaseDate": "2025-05-04T06:04:53Z"
+  }
