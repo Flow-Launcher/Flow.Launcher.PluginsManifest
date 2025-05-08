@@ -1,0 +1,12 @@
+{
+    "ID": "eb5b1b45-217a-4cd6-b65e-defc1f820f8e",
+    "Name": "Open Chat",
+    "Description": "Open AI chat apps with prefilled prompts. Type 'chat' followed by your message to start conversations instantly.",
+    "Author": "Jesper Svensson",
+    "Version": "1.1.0",
+    "Language": "typescript",
+    "Website": "https://github.com/JesperSvensson00/Flow.Launcher.Plugin.OpenChat",
+    "UrlDownload": "https://github.com/JesperSvensson00/Flow.Launcher.Plugin.OpenChat/releases/download/v1.1.1/Flow.Launcher.Plugin.OpenChat.zip",
+    "UrlSourceCode": "https://github.com/JesperSvensson00/Flow.Launcher.Plugin.OpenChat",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/JesperSvensson00/Flow.Launcher.Plugin.OpenChat@main/Images/app.png"
+}
