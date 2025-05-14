@@ -1837,6 +1837,19 @@
         "LatestReleaseDate": "2024-06-26T00:33:11Z"
     },
     {
+        "ID": "3cd1d9a8e92e4210a0fd30d1d65bb664",
+        "Name": "Text Formatter",
+        "Description": "Retrieve text from the clipboard and edit it using several custom scripts",
+        "Author": "Koalhack",
+        "Version": "0.0.1",
+        "Language": "javascript",
+        "Website": "https://github.com/Koalhack/Flow.Launcher.Plugin.Formatter",
+        "UrlDownload": "https://github.com/Koalhack/Flow.Launcher.Plugin.Formatter/releases/download/v0.0.1/Flow.Launcher.Plugin.Formatter.zip",
+        "UrlSourceCode": "https://github.com/Koalhack/Flow.Launcher.Plugin.Formatter",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Koalhack/Flow.Launcher.Plugin.Formatter@main/icon/app.png",
+        "LatestReleaseDate": "2025-05-12T19:12:30Z"
+    },
+    {
         "ID": "09CA50948EAC4077AACE55D8EA2E9283",
         "Name": "Cider2",
         "Description": "A Plugin that uses Cider 2 API to control Cider2",
