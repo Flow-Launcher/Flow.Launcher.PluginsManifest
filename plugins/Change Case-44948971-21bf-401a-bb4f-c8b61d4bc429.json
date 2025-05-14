@@ -3,12 +3,12 @@
     "Name": "Change Case",
     "Description": "Change the case of a string",
     "Author": "isnandar1471",
-    "Version": "0.0.1",
+    "Version": "0.0.2",
     "Language": "javascript",
     "Website": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
-    "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/0.0.1/flow.launcher.plugin.change-case_0.0.1.zip",
+    "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/v0.0.2/flow.launcher.plugin.change-case.zip",
     "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
     "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.change-case@0.0.1/icon.png",
-    "LatestReleaseDate": "2025-04-13T03:14:50Z",
+    "LatestReleaseDate": "2025-05-14T16:42:19Z",
     "DateAdded": "2025-04-21T21:21:05Z"
 }
