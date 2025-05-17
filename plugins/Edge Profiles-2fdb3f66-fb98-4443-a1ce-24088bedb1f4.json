@@ -1,0 +1,12 @@
+{
+    "ID": "2fdb3f66-fb98-4443-a1ce-24088bedb1f4",
+    "Name": "Edge Profiles",
+    "Description": "Lists and launches Microsoft Edge profiles",
+    "Author": "Till Knollmann",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.EdgeProfiles",
+    "UrlDownload": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.EdgeProfiles/releases/download/v1.0.0/Flow.Launcher.Plugin.EdgeProfiles.zip",
+    "UrlSourceCode": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.EdgeProfiles",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/TillKnollmann/Flow.Launcher.Plugin.EdgeProfiles@main/Images/app.png"
+}
