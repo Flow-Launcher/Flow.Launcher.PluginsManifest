@@ -1,0 +1,15 @@
+{
+    "ID": "23148784-4fc3-4693-bef2-d143bccd4934",
+    "Name": "Movie Search",
+    "Description": "Search movies using TMDB API. Type 'tmdb' followed by a movie name to search. Shows movie details, ratings, and opens IMDB page on selection.",
+    "Author": "Jayesh Vegda",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/jayeshvegda/tmdb-flow-plugin",
+    "UrlDownload": "https://github.com/JayeshVegda/tmdb-flow-plugin/releases/download/v1.0.0/TMDB-Movie-Search-v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/JayeshVegda/tmdb-flow-plugin/tree/main/",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/JayeshVegda/tmdb-flow-plugin@1.0.0/icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2025-05-25T14:30:00Z",
+    "DateAdded": "2025-05-25T14:30:00Z"
+}
