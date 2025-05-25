@@ -6,7 +6,7 @@
     "Version": "1.0.0",
     "Language": "python",
     "Website": "https://github.com/jayeshvegda/tmdb-flow-plugin",
-    "UrlDownload": "https://github.com/JayeshVegda/tmdb-flow-plugin/releases/download/v1.0.0/TMDB-Movie-Search-v1.0.0.zip",
+    "UrlDownload": "https://github.com/JayeshVegda/tmdb-flow-plugin/releases/download/v1.0.0/tmdb-flow-plugin.zip",
     "UrlSourceCode": "https://github.com/JayeshVegda/tmdb-flow-plugin/tree/main/",
     "IcoPath": "https://cdn.jsdelivr.net/gh/JayeshVegda/tmdb-flow-plugin@1.0.0/icon.png",
     "Tested": true,
