@@ -1,7 +1,7 @@
 {
     "ID": "D8AF059F555C48A380AAD5D57B4A5D61",
     "Name": "Godot",
-    "Description": "Quickly launch your Godot projects from flow launcher",
+    "Description": "Quickly launch your godot projects from flow launcher",
     "Author": "DiekoMA",
     "Version": "1.0.3",
     "Language": "csharp",

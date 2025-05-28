@@ -1,7 +1,7 @@
 {
     "ID": "76148ECE-AA72-4C68-AFD5-54BA8A3C1F61",
     "Name": "Heidi",
-    "Description": "Launch HeidiSQL Sessions.",
+    "Description": "Launch Heidi Sessions",
     "Author": "LostPing",
     "Version": "1.0.0",
     "Language": "csharp",

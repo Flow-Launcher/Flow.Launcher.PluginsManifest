@@ -5,7 +5,7 @@
     "Author": "N.Duong",
     "Version": "1.1.0",
     "Language": "csharp",
-    "Website": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner/tree/main",
+    "Website": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner",
     "UrlDownload": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner/releases/download/v1.1.0/Flow.Launcher.Plugin.TempCleaner.zip",
     "UrlSourceCode": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.TempCleaner@main/Flow.Launcher.Plugin.TempCleaner/Images/icon.png",

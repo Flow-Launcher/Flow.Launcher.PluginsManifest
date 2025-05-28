@@ -1,7 +1,7 @@
 {
     "ID": "51F9B93359B24716BF9D7FCD1CB075B6",
     "Name": "Reddit Browser",
-    "Description": "Search and browse Reddit",
+    "Description": "Search and browse Reddit.",
     "Author": "Garulf",
     "Version": "1.0.2",
     "Language": "python",

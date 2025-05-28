@@ -1,0 +1,15 @@
+{
+    "ID": "cf3dd749-166c-4cbe-8e85-d8d3f2057119",
+    "Name": "Hoarder",
+    "Description": "Hoarder Plugin",
+    "Author": "Robert Verdam",
+    "Version": "1.0.3",
+    "Language": "python",
+    "Website": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder",
+    "UrlDownload": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder/releases/download/v1.0.3/Flow.Launcher.Plugin.Hoarder.zip",
+    "UrlSourceCode": "https://github.com/rverdam/Flow.Launcher.Plugin.Hoarder/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/rverdam/Flow.Launcher.Plugin.Hoarder@main/Images/app.png",
+    "LatestReleaseDate": "2025-04-05T08:21:41Z",
+    "DateAdded": "2025-03-30T01:53:43Z",
+    "Tested": true
+}

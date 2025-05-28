@@ -1,0 +1,14 @@
+{
+    "ID": "dbe2ddb788c046599a627db1c3ab99af",
+    "Name": "MarkdownTodo",
+    "Description": "Update your markdown todo list with Flow Launcher",
+    "Author": "YukiGasai",
+    "Version": "0.0.3",
+    "Language": "javascript",
+    "Website": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo",
+    "UrlDownload": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo/releases/download/v0.0.3/Flow.Launcher.Plugin.MarkdownTodo.zip",
+    "UrlSourceCode": "https://github.com/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo@main/img/app.png",
+    "LatestReleaseDate": "2025-03-31T00:49:07Z",
+    "DateAdded": "2025-03-30T01:53:44Z"
+}

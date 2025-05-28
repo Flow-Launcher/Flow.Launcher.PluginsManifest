@@ -1,7 +1,7 @@
 {
     "ID": "2d5036e2-eccc-4254-b88e-de78580e2195",
     "Name": "Bulk URL Opener",
-    "Description": "Opens groups of tabs",
+    "Description": "Opens groups of tabs. To edit the tab groups, edit the tab_groups.yaml file in the plugin directory.",
     "Author": "Tarik Jaber",
     "Version": "2.0.0",
     "Language": "python",

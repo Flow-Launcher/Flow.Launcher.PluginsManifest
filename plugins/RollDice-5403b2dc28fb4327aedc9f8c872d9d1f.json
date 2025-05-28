@@ -1,7 +1,7 @@
 {
     "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
     "Name": "RollDice",
-    "Description": "Rolls the given dices and evaluates the expression",
+    "Description": "Rolls the given dice and evaluates the expression",
     "Author": "lvonkacsoh",
     "Version": "2.0.1",
     "Language": "python",

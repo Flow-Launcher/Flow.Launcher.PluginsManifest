@@ -1,7 +1,7 @@
 {
     "ID": "506B2EE8-4117-4BDF-8F00-DF58498DF922",
     "Name": "OneNote",
-    "Description": "Search your OneNote notes",
+    "Description": "Search and create your OneNote notes",
     "Author": "Odotocodot",
     "Version": "2.1.1",
     "Language": "csharp",
