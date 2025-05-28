@@ -400,6 +400,21 @@
         "DateAdded": "2025-04-21T21:21:05Z"
     },
     {
+        "ID": "e6162bbf-ac7c-4b43-a7f9-e71f44693f6f",
+        "Name": "DayNight Toggle",
+        "Description": "Switch between Light and Dark mode",
+        "Author": "Jatinderjit Singh",
+        "Version": "1.0.4",
+        "Language": "python",
+        "Website": "https://github.com/jatinderjit/Flow.Launcher.Plugin.DayNightToggle",
+        "UrlDownload": "https://github.com/jatinderjit/Flow.Launcher.Plugin.DayNightToggle/releases/download/v1.0.4/Flow.Launcher.Plugin.DayNightToggle.zip",
+        "UrlSourceCode": "https://github.com/jatinderjit/Flow.Launcher.Plugin.DayNightToggle",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/jatinderjit/Flow.Launcher.Plugin.DayNightToggle@1.0.4/images/app.png",
+        "LatestReleaseDate": "2025-05-17T03:10:48Z",
+        "Tested": true,
+        "DateAdded": "2025-05-28T01:55:39Z"
+    },
+    {
         "ID": "EAE9772F43F949CAB65F826300C5AD3C",
         "Name": "One-time Password",
         "Description": "Manage and generate time-based one-time passwords",
