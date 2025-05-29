@@ -1,7 +1,7 @@
 {
     "ID": "cf00c3b8-0fbe-45c1-abbc-25dfdbf7cd92",
     "Name": "Movie Search",
-    "Description": "Search movies using TMDB API. Type 'tmdb' followed by a movie name to search. Shows movie details, ratings.",
+    "Description": "Find movies using the TMDB API. Just enter a movie name to view its details, ratings, and more.",
     "Author": "Jayesh Vegda",
     "Version": "1.0.0",
     "Language": "python",
