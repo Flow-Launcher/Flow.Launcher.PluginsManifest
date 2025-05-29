@@ -6,12 +6,12 @@ This repository contains the information for community-made plugins used in [Flo
 
 ## Plugin list
 
-Looking for a list of currently available plugins in Flow? Visit [here](https://flow-launcher.github.io/docs/#/plugins)
+Looking for a list of currently available plugins in Flow? Visit [here](https://www.flowlauncher.com/plugins)
 
 ## How to submit your plugin
 
-1. Create a file named `${name}-${uuid}.json` in the _plugins_ directory.
-2. Copy these items from your plugin project's plugin.json file:
+1. Create a file named `${name}-${uuid}.json` in the [plugins](https://github.com/Jack251970/Flow.Launcher.PluginsManifest/tree/plugin_api_v2/plugins) directory.
+2. Copy these items from your plugin project's `plugin.json` file:
    - `ID`
    - `Name`
    - `Description`
