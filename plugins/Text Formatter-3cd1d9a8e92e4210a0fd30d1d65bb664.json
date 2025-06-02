@@ -3,12 +3,12 @@
     "Name": "Text Formatter",
     "Description": "Retrieve text from the clipboard and edit it using several custom scripts",
     "Author": "Koalhack",
-    "Version": "0.0.1",
+    "Version": "0.1.0",
     "Language": "javascript",
     "Website": "https://github.com/Koalhack/Flow.Launcher.Plugin.Formatter",
-    "UrlDownload": "https://github.com/Koalhack/Flow.Launcher.Plugin.Formatter/releases/download/v0.0.1/Flow.Launcher.Plugin.Formatter.zip",
+    "UrlDownload": "https://github.com/Koalhack/Flow.Launcher.Plugin.Formatter/releases/download/v0.1.0/Flow.Launcher.Plugin.Formatter.zip",
     "UrlSourceCode": "https://github.com/Koalhack/Flow.Launcher.Plugin.Formatter",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Koalhack/Flow.Launcher.Plugin.Formatter@main/icon/app.png",
-    "LatestReleaseDate": "2025-05-12T19:12:30Z",
+    "LatestReleaseDate": "2025-06-02T17:00:35Z",
     "DateAdded": "2025-05-14T21:18:22Z"
 }
