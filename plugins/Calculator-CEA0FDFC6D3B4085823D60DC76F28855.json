@@ -3,12 +3,12 @@
     "Name": "Calculator",
     "Description": "Provide mathematical calculations.(Try 5*3-2 in Flow Launcher)",
     "Author": "cxfksword",
-    "Version": "3.1.5",
+    "Version": "1.0.0",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v3.1.5/Flow.Launcher.Plugin.Calculator.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v1.0.0/Flow.Launcher.Plugin.Calculator.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Calculator/Images/calculator.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2025-01-27T06:05:35Z"
+    "LatestReleaseDate": "2025-06-03T14:09:52Z"
 }
