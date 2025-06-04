@@ -7,6 +7,6 @@
   "Language": "csharp",
   "Website": "https://github.com/AtaraxyState/Sonarr-Explorer",
   "UrlDownload": "https://github.com/AtaraxyState/Sonarr-Explorer/releases/download/v1.0.5/Sonarr.Explorer-1.0.5.zip",
-  "UrlSourceCode": "https://github.com/AtaraxyState/Sonarr-Explorer",
+  "UrlSourceCode": "https://github.com/AtaraxyState/Sonarr-Explorer/tree/main",
   "IcoPath": "https://cdn.jsdelivr.net/gh/AtaraxyState/Sonarr-Explorer@main/SonarrFlowLauncherPlugin/Images/icon.png"
 } 
