@@ -493,6 +493,19 @@
         "LatestReleaseDate": "2024-05-23T07:53:40Z"
     },
     {
+        "ID": "d13e69b5-048a-4dce-a950-cbdd5f61f3be",
+        "Name": "Window Manager",
+        "Description": "Easily move and resize application windows",
+        "Author": "Jack251970",
+        "Version": "1.2.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/releases/download/v1.2.0/Window.Manager-1.2.0.zip",
+        "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.WindowManager/src/Flow.Launcher.Plugin.WindowManager/Images/icon.png",
+        "LatestReleaseDate": "2025-06-04T03:22:55Z"
+    },
+    {
         "ID": "A4A92BC0C742463187E5CCBA9B849B86",
         "Name": "TenorGIF",
         "Description": "Search Tenor for amazing GIFs!",
@@ -823,6 +836,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/javaro3/Flow.Launcher.Plugin.RiderWorkFlow/Images/Icon.png",
         "DateAdded": "2024-08-10T15:15:00Z",
         "LatestReleaseDate": "2024-08-09T07:25:58Z"
+    },
+    {
+        "ID": "dd2fd217-e332-4fbd-9012-4940e08d41a7",
+        "Name": "Uninstaller+",
+        "Description": "Easily uninstall desktop and Microsoft store programs based on Bulk-Crap-Uninstaller",
+        "Author": "Jack251970",
+        "Version": "1.2.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v1.2.0/Uninstaller%2B-1.2.0.zip",
+        "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/src/Flow.Launcher.Plugin.UninstallerPlus/Images/icon.png",
+        "LatestReleaseDate": "2025-06-04T04:03:22Z"
     },
     {
         "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
@@ -3566,6 +3592,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.PluginIndicator/Images/work.png",
         "DateAdded": "2023-09-27T02:43:06Z",
         "LatestReleaseDate": "2025-06-03T14:10:07Z"
+    },
+    {
+        "ID": "D29D1AA0-3F6A-4F2E-8D0A-A5B7C9A5EFCF",
+        "Name": "Sonarr Explorer",
+        "Description": "Control Sonarr from Flow Launcher. Features: View calendar, activity, and search library.",
+        "Author": "Rain",
+        "Version": "1.0.5",
+        "Language": "csharp",
+        "Website": "https://github.com/AtaraxyState/Sonarr-Explorer",
+        "UrlDownload": "https://github.com/AtaraxyState/Sonarr-Explorer/releases/download/v1.0.5/Sonarr.Explorer-1.0.5.zip",
+        "UrlSourceCode": "https://github.com/AtaraxyState/Sonarr-Explorer/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AtaraxyState/Sonarr-Explorer@main/SonarrFlowLauncherPlugin/Images/icon.png",
+        "LatestReleaseDate": "2025-06-02T18:13:37Z"
     },
     {
         "ID": "baa012dc-141d-4df9-a592-79a71e870e10",
