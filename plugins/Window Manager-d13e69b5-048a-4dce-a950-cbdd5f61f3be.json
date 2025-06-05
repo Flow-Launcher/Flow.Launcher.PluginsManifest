@@ -1,0 +1,12 @@
+{
+    "ID": "d13e69b5-048a-4dce-a950-cbdd5f61f3be",
+    "Name": "Window Manager",
+    "Description": "Easily move and resize application windows",
+    "Author": "Jack251970",
+    "Version": "1.2.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager",
+    "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/releases/download/v1.2.0/Window.Manager-1.2.0.zip",
+    "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.WindowManager/src/Flow.Launcher.Plugin.WindowManager/Images/icon.png"
+}
