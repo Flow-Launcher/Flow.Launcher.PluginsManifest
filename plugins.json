@@ -2578,6 +2578,20 @@
         "LatestReleaseDate": "2025-06-05T10:41:40Z"
     },
     {
+        "ID": "968c2551-5b24-4bab-9a6c-5f8cff6ca0ef",
+        "Name": "Roblox Docs",
+        "Description": "Search Roblox API documentation using Flow Launcher.",
+        "Author": "Censor",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/Cens-r/flow-roblox-docs",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Cens-r/flow-roblox-docs/Flow.Launcher.Plugin.RobloxDocs/plugin-icon.png",
+        "UrlDownload": "https://github.com/Cens-r/flow-roblox-docs/releases/download/v1.0.1/Flow.Launcher.Plugin.RobloxDocs-1.0.1.zip",
+        "UrlSourceCode": "https://github.com/Cens-r/flow-roblox-docs/tree/master",
+        "LatestReleaseDate": "2025-06-04T09:25:34Z",
+        "DateAdded": "2025-06-06T01:55:32Z"
+    },
+    {
         "ID": "2D0AFF97E5A445E3BEDD1081B811075A",
         "Name": "FlowTamer",
         "Description": "Use Browser Tamer picker with Flow Launcher",
@@ -3600,13 +3614,13 @@
         "Name": "Sonarr Explorer",
         "Description": "Control Sonarr from Flow Launcher. Features: View calendar, activity, and search library.",
         "Author": "Rain",
-        "Version": "1.0.5",
+        "Version": "1.0.6",
         "Language": "csharp",
         "Website": "https://github.com/AtaraxyState/Sonarr-Explorer",
-        "UrlDownload": "https://github.com/AtaraxyState/Sonarr-Explorer/releases/download/v1.0.5/Sonarr.Explorer-1.0.5.zip",
+        "UrlDownload": "https://github.com/AtaraxyState/Sonarr-Explorer/releases/download/v1.0.6/Sonarr.Explorer-1.0.6.zip",
         "UrlSourceCode": "https://github.com/AtaraxyState/Sonarr-Explorer/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AtaraxyState/Sonarr-Explorer@main/SonarrFlowLauncherPlugin/Images/icon.png",
-        "LatestReleaseDate": "2025-06-02T18:13:37Z",
+        "LatestReleaseDate": "2025-06-06T00:54:56Z",
         "DateAdded": "2025-06-05T03:49:33Z"
     },
     {
