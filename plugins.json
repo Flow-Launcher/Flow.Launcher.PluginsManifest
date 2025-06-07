@@ -379,13 +379,13 @@
         "Name": "Change Case",
         "Description": "Change the case of a string",
         "Author": "isnandar1471",
-        "Version": "0.0.2",
+        "Version": "0.0.3",
         "Language": "javascript",
         "Website": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
-        "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/v0.0.2/flow.launcher.plugin.change-case.zip",
+        "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/v0.0.3/flow.launcher.plugin.change-case.zip",
         "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
         "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.change-case@0.0.1/icon.png",
-        "LatestReleaseDate": "2025-05-14T16:42:19Z",
+        "LatestReleaseDate": "2025-06-07T07:31:15Z",
         "DateAdded": "2025-04-21T21:21:05Z"
     },
     {
@@ -1800,13 +1800,13 @@
         "Name": "DirQuickJump",
         "Description": "When opening or saving files, quickly jump to the directory you already opened in File Explorer. Inspired by Listary Quick Switch.",
         "Author": "idkana",
-        "Version": "1.4.0",
+        "Version": "1.5.0",
         "Language": "csharp",
         "Website": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
-        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.4.0/Flow.Launcher.Plugin.DirQuickJump.zip",
+        "UrlDownload": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump/releases/download/v1.5.0/Flow.Launcher.Plugin.DirQuickJump.zip",
         "UrlSourceCode": "https://github.com/idkidknow/Flow.Launcher.Plugin.DirQuickJump",
         "IcoPath": "https://cdn.jsdelivr.net/gh/idkidknow/Flow.Launcher.Plugin.DirQuickJump@main/Flow.Launcher.Plugin.DirQuickJump/icon.png",
-        "LatestReleaseDate": "2025-04-03T23:19:54Z",
+        "LatestReleaseDate": "2025-06-07T15:32:32Z",
         "DateAdded": "2024-09-17T12:38:53Z"
     },
     {
