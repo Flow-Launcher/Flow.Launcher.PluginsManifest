@@ -32,7 +32,7 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
      "Website": "Plugin website, e.g. https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
      "UrlDownload": "URL to download, e.g. https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldPython.zip",
      "UrlSourceCode": "URL to source code, e.g. https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/tree/main", 
-     "IcoPath": "Plugin icon image's CDN URL, e.g. https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png"
+     "IcoPath": "Plugin icon image's CDN URL, e.g. https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython@main/Images/app.png"
    }
    ```
 5. For `IcoPath`, use a CDN provider for global accessibility. [jsdelivr.com](https://www.jsdelivr.com/) for example as shown above, works well with GitHub repositories.
