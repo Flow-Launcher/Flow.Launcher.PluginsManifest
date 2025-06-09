@@ -23,16 +23,16 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
 4. It should look like this:
    ```json
    {
-     "ID": "Unique GUID from your plugin.json",  
-     "Name": "Plugin name",
-     "Description": "Short description",
-     "Author": "Author",
-     "Version": "Version from your plugin.json",
-     "Language": "Programming language",
-     "Website": "Plugin website",
-     "UrlDownload": "URL to download",
-     "UrlSourceCode": "URL to source code",
-     "IcoPath": "Plugin icon image's CDN URL, e.g. https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png"
+     "ID": "Unique GUID from your plugin.json, e.g. 2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+     "Name": "Plugin name, e.g. Hello World Python",
+     "Description": "Short description, e.g. Python Hello World example plugin",
+     "Author": "Author, e.g. Flow Launcher",
+     "Version": "Version from your plugin.json, e.g. 1.0.0",
+     "Language": "Programming language, e.g. python",
+     "Website": "Plugin website, e.g. https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
+     "UrlDownload": "URL to download, e.g. https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/releases/download/v1.0.0/Flow.Launcher.Plugin.HelloWorldPython.zip",
+     "UrlSourceCode": "URL to source code, e.g. https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/tree/main", 
+     "IcoPath": "Plugin icon image's CDN URL, e.g. https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython@main/Images/app.png"
    }
    ```
 5. For `IcoPath`, use a CDN provider for global accessibility. [jsdelivr.com](https://www.jsdelivr.com/) for example as shown above, works well with GitHub repositories.
@@ -48,6 +48,8 @@ While the plugin has not yet appeared in the store, you and your users can manua
 ## Plugin updates
 
 Every three hours the *CI* in this repository will check for new updates from plugins and automatically update them to the latest version.
+
+So you do not need to manually submit a pull request after you make a new release.
 
 ## Plugin Store policy
 
