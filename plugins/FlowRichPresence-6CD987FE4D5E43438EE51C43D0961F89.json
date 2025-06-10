@@ -3,12 +3,12 @@
     "Name": "FlowRichPresence",
     "Description": "A plugin for creating and running custom discord rich presences from flow launcher",
     "Author": "DiekoMA",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "csharp",
     "Website": "https://github.com/DiekoMA/Flow.Launcher.Plugin.FlowRichPresence",
-    "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.FlowRichPresence/releases/download/v1.0.0/FlowRichPresence-1.0.0.zip",
+    "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.FlowRichPresence/releases/download/v1.0.1/FlowRichPresence-1.0.1.zip",
     "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.FlowRichPresence",
     "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.FlowRichPresence@main/Assets/PluginIcon.png",
-    "LatestReleaseDate": "2025-02-02T23:06:22Z",
+    "LatestReleaseDate": "2025-06-09T22:10:24Z",
     "DateAdded": "2025-02-10T18:28:45Z"
 }
