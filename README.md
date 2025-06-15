@@ -67,7 +67,7 @@ Plugins that facilitate or contain any of the following will not be allowed:
 ## Plugin Store
 
 Users will be able to install your plugin via the store or type `pm install <your-plugin-name>`:
-<p align="center"><img src="https://user-images.githubusercontent.com/6903107/207155616-d559f0d2-ee95-4072-a7bc-3ffcc2faec27.png" width="800"></p>
+<p align="center"><img src="assets/plugin_store.png" width="800"></p>
 
 ## Have a plugin enhancement request or issue?
 
