@@ -1272,12 +1272,12 @@
         "Description": "Change the case of a string",
         "Author": "isnandar1471",
         "Language": "typescript",
-        "Version": "0.0.3",
+        "Version": "0.0.4",
         "Website": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
-        "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/v0.0.3/flow.launcher.plugin.change-case.zip",
+        "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/v0.0.4/flow.launcher.plugin.change-case.zip",
         "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
         "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.change-case/assets/icon.png",
-        "LatestReleaseDate": "2025-06-07T07:31:15Z",
+        "LatestReleaseDate": "2025-06-17T14:22:00Z",
         "DateAdded": "2025-04-21T21:21:05Z"
     },
     {
