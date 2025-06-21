@@ -1,0 +1,12 @@
+{
+    "ID": "B4A91730C08342818D31D57EC31CBFD8",
+    "Name": "Daily Folder",
+    "Description": "Create, open and manage daily folders.",
+    "Author": "Yuki Tomoda",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder",
+    "UrlDownload": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/releases/download/v1.0.0/DailyFolder.zip",
+    "UrlSourceCode": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/yukitomoda/Flow.Launcher.Plugin.DailyFolder@main/DailyFolder/Flow.Launcher.Plugin.DailyFolder/assets/icon.png"
+}
