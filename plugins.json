@@ -1821,13 +1821,13 @@
         "Name": "Clipboard+",
         "Description": "Easily manage your clipboard history and Windows Clipboard History with support for text, images, and files",
         "Author": "Jack251970",
-        "Version": "2.4.1",
+        "Version": "2.4.2",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v2.4.1/Clipboard%2B-2.4.1.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v2.4.2/Clipboard%2B-2.4.2.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/src/Flow.Launcher.Plugin.ClipboardPlus/Images/clipboard.png",
-        "LatestReleaseDate": "2025-06-05T07:44:06Z",
+        "LatestReleaseDate": "2025-06-26T11:12:14Z",
         "DateAdded": "2024-08-21T01:22:18Z"
     },
     {
