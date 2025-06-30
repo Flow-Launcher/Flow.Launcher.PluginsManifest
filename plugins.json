@@ -503,7 +503,8 @@
         "UrlDownload": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/releases/download/v1.0.2/DailyFolder.zip",
         "UrlSourceCode": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/yukitomoda/Flow.Launcher.Plugin.DailyFolder@main/DailyFolder/Flow.Launcher.Plugin.DailyFolder/assets/icon.png",
-        "LatestReleaseDate": "2025-06-23T03:48:25Z"
+        "LatestReleaseDate": "2025-06-23T03:48:25Z",
+        "DateAdded": "2025-06-30T12:50:59Z"
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
@@ -1933,14 +1934,14 @@
         "Name": "Git Easy",
         "Description": "Provide easy access to repositories. Allows quickly cloning repository and open in vscode/file explorer.",
         "Author": "zkwokleung",
-        "Version": "0.4.0",
+        "Version": "0.5.0",
         "Language": "csharp",
         "Website": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
-        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.4.0/Flow.Launcher.Plugin.GitEasy.zip",
+        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.5.0/Flow.Launcher.Plugin.GitEasy.zip",
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.GitEasy@main/Flow.Launcher.Plugin.GitEasy/Images/icon.png",
         "DateAdded": "2024-07-19T22:34:00Z",
-        "LatestReleaseDate": "2024-10-19T10:40:33Z"
+        "LatestReleaseDate": "2025-06-30T13:17:19Z"
     },
     {
         "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
@@ -2689,7 +2690,8 @@
         "UrlDownload": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine/releases/download/v1.0.2/Caffeine-1.0.2.zip",
         "UrlSourceCode": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
         "IcoPath": "https://cdn.jsdelivr.net/gh/o850cHQk/Flow.Launcher.Plugin.Caffeine@main/Images/icon.png",
-        "LatestReleaseDate": "2025-06-30T02:10:09Z"
+        "LatestReleaseDate": "2025-06-30T02:10:09Z",
+        "DateAdded": "2025-06-30T12:50:59Z"
     },
     {
         "ID": "6A122269676E40EB86EB543B945932B9",
@@ -3358,7 +3360,9 @@
         "UrlDownload": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/releases/download/v1.0.0/Flow.Launcher.Plugin.LaunchNow.zip",
         "UrlSourceCode": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/JayeshVegda/Flow.Launcher.Plugin.LaunchNow@1.0.0/Images/app.png",
-        "LatestReleaseDate": "2025-06-24T14:07:27Z"
+        "LatestReleaseDate": "2025-06-24T14:07:27Z",
+        "Tested": true,
+        "DateAdded": "2025-06-30T12:50:59Z"
     },
     {
         "ID": "5A8EBCEB7F6940E5B628BE122A87B560",
