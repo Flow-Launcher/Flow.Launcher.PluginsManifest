@@ -4,7 +4,7 @@
   "Description": "Keep your computer awake",
   "Author": "o850cHQk",
   "Version": "1.0.2",
-  "Language": "C#",
+  "Language": "csharp",
   "Website": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
   "UrlDownload": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine/releases/download/v1.0.2/Caffeine-1.0.2.zip",
   "UrlSourceCode": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine", 
