@@ -493,6 +493,19 @@
         "LatestReleaseDate": "2023-02-28T10:34:28Z"
     },
     {
+        "ID": "B4A91730C08342818D31D57EC31CBFD8",
+        "Name": "Daily Folder",
+        "Description": "Create, open and manage daily folders.",
+        "Author": "Yuki Tomoda",
+        "Version": "1.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder",
+        "UrlDownload": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/releases/download/v1.0.2/DailyFolder.zip",
+        "UrlSourceCode": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yukitomoda/Flow.Launcher.Plugin.DailyFolder@main/DailyFolder/Flow.Launcher.Plugin.DailyFolder/assets/icon.png",
+        "LatestReleaseDate": "2025-06-23T03:48:25Z"
+    },
+    {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
         "Name": "Window Services",
         "Description": "Start and stop Windows services.",
@@ -2666,6 +2679,19 @@
         "LatestReleaseDate": "2023-05-20T21:26:54Z"
     },
     {
+        "ID": "212D62DEB5FF4835AB5AF4638E1B360B",
+        "Name": "Caffeine",
+        "Description": "Keep your computer awake",
+        "Author": "o850cHQk",
+        "Version": "1.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
+        "UrlDownload": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine/releases/download/v1.0.2/Caffeine-1.0.2.zip",
+        "UrlSourceCode": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/o850cHQk/Flow.Launcher.Plugin.Caffeine@main/Images/icon.png",
+        "LatestReleaseDate": "2025-06-30T02:10:09Z"
+    },
+    {
         "ID": "6A122269676E40EB86EB543B945932B9",
         "Name": "Plugin Indicator",
         "Description": "Provides plugin action keyword suggestions",
@@ -3320,6 +3346,19 @@
         "IcoPath": "https://raw.githubusercontent.com/stax76/Flow.Launcher.Plugin.Favorites/master/Icons/Web.ico",
         "LatestReleaseDate": "2022-07-30T06:56:32Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "cb95613a-626f-4153-9c21-b1f7ea3bcf37",
+        "Name": "LaunchNow",
+        "Description": "Lightning-fast multi-search plugin that lets you search across dozens of websites with a single command!",
+        "Author": "Jayesh Vegda",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow",
+        "UrlDownload": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/releases/download/v1.0.0/Flow.Launcher.Plugin.LaunchNow.zip",
+        "UrlSourceCode": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/JayeshVegda/Flow.Launcher.Plugin.LaunchNow@1.0.0/Images/app.png",
+        "LatestReleaseDate": "2025-06-24T14:07:27Z"
     },
     {
         "ID": "5A8EBCEB7F6940E5B628BE122A87B560",
