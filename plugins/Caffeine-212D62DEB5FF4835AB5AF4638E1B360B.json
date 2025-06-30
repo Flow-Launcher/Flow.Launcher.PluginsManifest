@@ -1,0 +1,12 @@
+{
+  "ID": "212D62DEB5FF4835AB5AF4638E1B360B",
+  "Name": "Caffeine",
+  "Description": "Keep your computer awake",
+  "Author": "o850cHQk",
+  "Version": "1.0.2",
+  "Language": "C#",
+  "Website": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
+  "UrlDownload": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine/releases/download/v1.0.2/Caffeine-1.0.2.zip",
+  "UrlSourceCode": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine", 
+  "IcoPath": "https://cdn.jsdelivr.net/gh/o850cHQk/Flow.Launcher.Plugin.Caffeine@main/Images/icon.png"
+}
