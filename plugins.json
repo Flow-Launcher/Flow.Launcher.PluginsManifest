@@ -2892,7 +2892,9 @@
         "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v1.0.2/Flow.Launcher.Plugin.SteamFlow.zip",
         "UrlSourceCode": "https://github.com/keekyslusus/SteamFlow/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/SteamFlow@main/steam.png",
-        "LatestReleaseDate": "2025-06-30T14:33:33Z"
+        "LatestReleaseDate": "2025-06-30T14:33:33Z",
+        "Tested": true,
+        "DateAdded": "2025-07-01T02:10:27Z"
     },
     {
         "ID": "42f4fb22-c254-49b3-81d2-6c5b591c2152",
