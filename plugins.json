@@ -493,6 +493,20 @@
         "LatestReleaseDate": "2023-02-28T10:34:28Z"
     },
     {
+        "ID": "B4A91730C08342818D31D57EC31CBFD8",
+        "Name": "Daily Folder",
+        "Description": "Create, open and manage daily folders.",
+        "Author": "Yuki Tomoda",
+        "Version": "1.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder",
+        "UrlDownload": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/releases/download/v1.0.2/DailyFolder.zip",
+        "UrlSourceCode": "https://github.com/yukitomoda/Flow.Launcher.Plugin.DailyFolder/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yukitomoda/Flow.Launcher.Plugin.DailyFolder@main/DailyFolder/Flow.Launcher.Plugin.DailyFolder/assets/icon.png",
+        "LatestReleaseDate": "2025-06-23T03:48:25Z",
+        "DateAdded": "2025-06-30T12:50:59Z"
+    },
+    {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
         "Name": "Window Services",
         "Description": "Start and stop Windows services.",
@@ -996,6 +1010,20 @@
         "LatestReleaseDate": "2025-06-16T22:35:06Z"
     },
     {
+        "ID": "82df0b26-6ed3-1c0d-460f-99789fd5d0c4",
+        "Name": "MultiTranslate",
+        "Description": "A Flow-Launcher plugin that translates text using multiple translation services.",
+        "Author": "Lu-Jiejie",
+        "Version": "0.1.3",
+        "Language": "typescript",
+        "Website": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate",
+        "UrlDownload": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.1.3/MultiTranslate-0.1.3.zip",
+        "UrlSourceCode": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/lu-jiejie/flow-launcher-multi-translate@main/assets/icon.png",
+        "LatestReleaseDate": "2025-06-17T03:38:40Z",
+        "DateAdded": "2025-06-26T06:35:56Z"
+    },
+    {
         "ID": "c11d8b37-9967-4af3-b134-a22171d0dba8",
         "Name": "AppUpgrader",
         "Description": "Allows you to keep your applications up using winget",
@@ -1272,12 +1300,12 @@
         "Description": "Change the case of a string",
         "Author": "isnandar1471",
         "Language": "typescript",
-        "Version": "0.0.4",
+        "Version": "0.0.5",
         "Website": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
-        "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/v0.0.4/flow.launcher.plugin.change-case.zip",
+        "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.change-case/releases/download/v0.0.5/flow.launcher.plugin.change-case.zip",
         "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.change-case",
         "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.change-case/assets/icon.png",
-        "LatestReleaseDate": "2025-06-17T14:22:00Z",
+        "LatestReleaseDate": "2025-06-30T15:34:51Z",
         "DateAdded": "2025-04-21T21:21:05Z"
     },
     {
@@ -1807,13 +1835,13 @@
         "Name": "Clipboard+",
         "Description": "Easily manage your clipboard history and Windows Clipboard History with support for text, images, and files",
         "Author": "Jack251970",
-        "Version": "2.4.1",
+        "Version": "2.4.3",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v2.4.1/Clipboard%2B-2.4.1.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v2.4.3/Clipboard%2B-2.4.3.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/src/Flow.Launcher.Plugin.ClipboardPlus/Images/clipboard.png",
-        "LatestReleaseDate": "2025-06-05T07:44:06Z",
+        "LatestReleaseDate": "2025-07-01T12:15:01Z",
         "DateAdded": "2024-08-21T01:22:18Z"
     },
     {
@@ -1850,13 +1878,13 @@
         "Name": "Emoji Finder",
         "Description": "Find emoji easily by typing keywords.",
         "Author": "kalvn",
-        "Version": "0.0.3",
+        "Version": "1.0.0",
         "Language": "javascript",
         "Website": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder",
-        "UrlDownload": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder/releases/download/v0.0.3/Flow.Launcher.Plugin.EmojiFinder.zip",
+        "UrlDownload": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder/releases/download/v1.0.0/Flow.Launcher.Plugin.EmojiFinder.zip",
         "UrlSourceCode": "https://github.com/kalvn/Flow.Launcher.Plugin.EmojiFinder",
         "IcoPath": "https://cdn.jsdelivr.net/gh/kalvn/Flow.Launcher.Plugin.EmojiFinder@main/img/app.png",
-        "LatestReleaseDate": "2024-09-09T07:31:00Z",
+        "LatestReleaseDate": "2025-06-29T20:34:04Z",
         "DateAdded": "2024-09-12T12:37:57Z"
     },
     {
@@ -1906,14 +1934,14 @@
         "Name": "Git Easy",
         "Description": "Provide easy access to repositories. Allows quickly cloning repository and open in vscode/file explorer.",
         "Author": "zkwokleung",
-        "Version": "0.4.0",
+        "Version": "0.5.0",
         "Language": "csharp",
         "Website": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
-        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.4.0/Flow.Launcher.Plugin.GitEasy.zip",
+        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.5.0/Flow.Launcher.Plugin.GitEasy.zip",
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.GitEasy@main/Flow.Launcher.Plugin.GitEasy/Images/icon.png",
         "DateAdded": "2024-07-19T22:34:00Z",
-        "LatestReleaseDate": "2024-10-19T10:40:33Z"
+        "LatestReleaseDate": "2025-06-30T13:17:19Z"
     },
     {
         "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
@@ -2627,13 +2655,13 @@
         "Name": "UvxPy",
         "Description": "a thin wrapper over uv's tooling management",
         "Author": "cibere",
-        "Version": "0.0.3",
+        "Version": "0.0.4",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.uvxpy@master/assets/app.png",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.UvxPy/releases/download/v0.0.3/Flow.Launcher.Plugin.UvxPy.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.UvxPy/releases/download/v0.0.4/Flow.Launcher.Plugin.UvxPy.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy",
-        "LatestReleaseDate": "2025-03-10T04:37:15Z",
+        "LatestReleaseDate": "2025-07-03T22:50:42Z",
         "DateAdded": "2025-02-18T12:39:08Z"
     },
     {
@@ -2650,6 +2678,20 @@
         "Tested": true,
         "DateAdded": "2023-05-21T00:50:52Z",
         "LatestReleaseDate": "2023-05-20T21:26:54Z"
+    },
+    {
+        "ID": "212D62DEB5FF4835AB5AF4638E1B360B",
+        "Name": "Caffeine",
+        "Description": "Keep your computer awake",
+        "Author": "o850cHQk",
+        "Version": "1.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
+        "UrlDownload": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine/releases/download/v1.0.2/Caffeine-1.0.2.zip",
+        "UrlSourceCode": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/o850cHQk/Flow.Launcher.Plugin.Caffeine@main/Images/icon.png",
+        "LatestReleaseDate": "2025-06-30T02:10:09Z",
+        "DateAdded": "2025-06-30T12:50:59Z"
     },
     {
         "ID": "6A122269676E40EB86EB543B945932B9",
@@ -2838,6 +2880,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/seanmars/Flow.Launcher.Plugin.CdList@main/Flow.Launcher.Plugin.CdList/icon.png",
         "DateAdded": "2025-02-10T04:16:30Z",
         "LatestReleaseDate": "2025-02-12T08:32:13Z"
+    },
+    {
+        "ID": "A7F3C4E16B8D4B5AB2D7139EEC8FA0B4",
+        "Name": "SteamFlow",
+        "Description": "Launch Steam games and search Steam store",
+        "Author": "keekys",
+        "Version": "1.0.2",
+        "Language": "python",
+        "Website": "https://github.com/keekyslusus/SteamFlow",
+        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v1.0.2/Flow.Launcher.Plugin.SteamFlow.zip",
+        "UrlSourceCode": "https://github.com/keekyslusus/SteamFlow/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/SteamFlow@main/steam.png",
+        "LatestReleaseDate": "2025-06-30T14:33:33Z",
+        "Tested": true,
+        "DateAdded": "2025-07-01T02:10:27Z"
     },
     {
         "ID": "42f4fb22-c254-49b3-81d2-6c5b591c2152",
@@ -3308,6 +3365,21 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "cb95613a-626f-4153-9c21-b1f7ea3bcf37",
+        "Name": "LaunchNow",
+        "Description": "Lightning-fast multi-search plugin that lets you search across dozens of websites with a single command!",
+        "Author": "Jayesh Vegda",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow",
+        "UrlDownload": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/releases/download/v1.0.0/Flow.Launcher.Plugin.LaunchNow.zip",
+        "UrlSourceCode": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/JayeshVegda/Flow.Launcher.Plugin.LaunchNow@1.0.0/Images/app.png",
+        "LatestReleaseDate": "2025-06-24T14:07:27Z",
+        "Tested": true,
+        "DateAdded": "2025-06-30T12:50:59Z"
+    },
+    {
         "ID": "5A8EBCEB7F6940E5B628BE122A87B560",
         "Name": "Bitwarden",
         "Description": "Quick access to your Bitwarden vault via Flow Launcher.",
@@ -3440,13 +3512,13 @@
         "Name": "ScreenBrightness",
         "Description": "Control the brightness of your monitors within flow",
         "Author": "cibere",
-        "Version": "0.0.8",
+        "Version": "0.0.9",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.8/Flow.Launcher.Plugin.ScreenBrightness.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.9/Flow.Launcher.Plugin.ScreenBrightness.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
         "IcoPath": "https://i.imgur.com/AvRgwSl.png",
-        "LatestReleaseDate": "2025-01-28T03:41:59Z",
+        "LatestReleaseDate": "2025-07-03T22:39:24Z",
         "DateAdded": "2024-12-22T01:45:40Z"
     },
     {
