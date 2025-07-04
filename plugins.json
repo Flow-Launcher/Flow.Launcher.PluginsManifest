@@ -2655,13 +2655,13 @@
         "Name": "UvxPy",
         "Description": "a thin wrapper over uv's tooling management",
         "Author": "cibere",
-        "Version": "0.0.3",
+        "Version": "0.0.4",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.uvxpy@master/assets/app.png",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.UvxPy/releases/download/v0.0.3/Flow.Launcher.Plugin.UvxPy.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.UvxPy/releases/download/v0.0.4/Flow.Launcher.Plugin.UvxPy.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.uvxpy",
-        "LatestReleaseDate": "2025-03-10T04:37:15Z",
+        "LatestReleaseDate": "2025-07-03T22:50:42Z",
         "DateAdded": "2025-02-18T12:39:08Z"
     },
     {
@@ -3512,13 +3512,13 @@
         "Name": "ScreenBrightness",
         "Description": "Control the brightness of your monitors within flow",
         "Author": "cibere",
-        "Version": "0.0.8",
+        "Version": "0.0.9",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.8/Flow.Launcher.Plugin.ScreenBrightness.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.9/Flow.Launcher.Plugin.ScreenBrightness.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
         "IcoPath": "https://i.imgur.com/AvRgwSl.png",
-        "LatestReleaseDate": "2025-01-28T03:41:59Z",
+        "LatestReleaseDate": "2025-07-03T22:39:24Z",
         "DateAdded": "2024-12-22T01:45:40Z"
     },
     {
