@@ -1,9 +1,9 @@
 {
     "ID": "922d88e9-eee4-4d7e-89c7-eb916bbf65fd",
-    "Name": "有道翻译",
-    "Description": "有道翻译",
+    "Name": "Youdao Translate",
+    "Description": "使用rust编写的有道翻译插件",
     "Author": "launcher-rs",
-    "Version": "0.2.0",
+    "Version": "0.3.0",
     "Language": "executable",
     "Website": "https://github.com/launcher-rs/youdao-translate",
     "UrlSourceCode": "https://github.com/launcher-rs/youdao-translate",
