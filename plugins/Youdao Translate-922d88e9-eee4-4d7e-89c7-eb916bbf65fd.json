@@ -7,6 +7,6 @@
     "Language": "executable",
     "Website": "https://github.com/launcher-rs/youdao-translate",
     "UrlSourceCode": "https://github.com/launcher-rs/youdao-translate",
-    "UrlDownload": "https://github.com/launcher-rs/youdao-translate/releases/download/v0.2.0/youdao-translate-v0.2.0.zip",
+    "UrlDownload": "https://github.com/launcher-rs/youdao-translate/releases/download/v0.3.0/youdao-translate-v0.2.0.zip",
     "IcoPath": "https://cdn.jsdelivr.net/gh/launcher-rs/youdao-translate@main/Images/icon.png"
 }
