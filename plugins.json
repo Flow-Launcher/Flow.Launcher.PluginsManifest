@@ -1831,6 +1831,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "0F43C966617C4817B1BEC29DCC8E5A69",
+        "Name": "Env",
+        "Description": "Control Environment Variables from Flow Launcher",
+        "Author": "lurebat",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/lurebat/Flow.Launcher.Plugin.Env",
+        "UrlDownload": "https://github.com/lurebat/Flow.Launcher.Plugin.Env/releases/download/v1.1.0/Flow.Launcher.Plugin.Env.zip",
+        "UrlSourceCode": "https://github.com/lurebat/Flow.Launcher.Plugin.Env",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/lurebat/Flow.Launcher.Plugin.Env@master/icon.png",
+        "LatestReleaseDate": "2025-06-26T07:05:37Z"
+    },
+    {
         "ID": "ff9385ec-0e95-452f-bef2-62456f66fe0f",
         "Name": "Clipboard+",
         "Description": "Easily manage your clipboard history and Windows Clipboard History with support for text, images, and files",
@@ -2606,6 +2619,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/AminSallah/Flow.Launcher.Plugin.WinHotkey@main/app.png",
         "DateAdded": "2024-02-22T06:54:14Z",
         "LatestReleaseDate": "2024-05-01T16:15:54Z"
+    },
+    {
+        "ID": "ba3e8f71-e464-497d-9fa9-515bee26b1d0",
+        "Name": "MDict",
+        "Description": "Search in MDict dictionaries",
+        "Author": "Jack251970",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v1.0.1/MDict-1.0.1.zip",
+        "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.MDict/src/Flow.Launcher.Plugin.MDict/Images/icon.png",
+        "LatestReleaseDate": "2025-07-07T08:20:06Z"
     },
     {
         "ID": "0930723F-73EA-488A-BEE9-8B8D4845B2F1",
