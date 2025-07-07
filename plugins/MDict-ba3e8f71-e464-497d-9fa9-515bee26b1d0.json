@@ -1,0 +1,12 @@
+{
+  "ID": "ba3e8f71-e464-497d-9fa9-515bee26b1d0",
+  "Name": "MDict",
+  "Description": "Search in MDict dictionaries",
+  "Author": "Jack251970",
+  "Version": "1.0.1",
+  "Language": "csharp",
+  "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict",
+  "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v1.0.1/MDict-1.0.1.zip",
+  "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/tree/master",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.MDict/src/Flow.Launcher.Plugin.MDict/Images/icon.png"
+}
