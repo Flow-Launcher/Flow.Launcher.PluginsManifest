@@ -1841,7 +1841,8 @@
         "UrlDownload": "https://github.com/lurebat/Flow.Launcher.Plugin.Env/releases/download/v1.1.0/Flow.Launcher.Plugin.Env.zip",
         "UrlSourceCode": "https://github.com/lurebat/Flow.Launcher.Plugin.Env",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lurebat/Flow.Launcher.Plugin.Env@master/icon.png",
-        "LatestReleaseDate": "2025-06-26T07:05:37Z"
+        "LatestReleaseDate": "2025-06-26T07:05:37Z",
+        "DateAdded": "2025-07-07T18:34:25Z"
     },
     {
         "ID": "ff9385ec-0e95-452f-bef2-62456f66fe0f",
@@ -2631,7 +2632,8 @@
         "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v1.0.1/MDict-1.0.1.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.MDict/src/Flow.Launcher.Plugin.MDict/Images/icon.png",
-        "LatestReleaseDate": "2025-07-07T08:20:06Z"
+        "LatestReleaseDate": "2025-07-07T08:20:06Z",
+        "DateAdded": "2025-07-07T18:34:26Z"
     },
     {
         "ID": "0930723F-73EA-488A-BEE9-8B8D4845B2F1",
