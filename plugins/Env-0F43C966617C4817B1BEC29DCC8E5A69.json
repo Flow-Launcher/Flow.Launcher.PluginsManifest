@@ -1,0 +1,12 @@
+{
+    "ID": "0F43C966617C4817B1BEC29DCC8E5A69",
+    "Name": "Env",
+    "Description": "Control Environment Variables from Flow Launcher",
+    "Author": "lurebat",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/lurebat/Flow.Launcher.Plugin.Env",
+    "UrlDownload": "https://github.com/lurebat/Flow.Launcher.Plugin.Env/releases/download/v1.0.0/Flow.Launcher.Plugin.Env.zip",
+    "UrlSourceCode": "https://github.com/lurebat/Flow.Launcher.Plugin.Env", 
+    "IcoPath": "https://cdn.jsdelivr.net/gh/lurebat/Flow.Launcher.Plugin.Env@master/icon.png"
+}
