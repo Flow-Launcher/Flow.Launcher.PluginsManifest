@@ -10,7 +10,7 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
 
 ## How to submit your plugin
 
-1. Create a file named `${name}-${uuid}.json` in the [plugins](https://github.com/Jack251970/Flow.Launcher.PluginsManifest/tree/plugin_api_v2/plugins) directory.
+1. Create a file named `${name}-${uuid}.json` in the [plugins](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/tree/plugin_api_v2/plugins) directory.
 2. Copy these items from your plugin project's `plugin.json` file:
    - `ID`
    - `Name`
