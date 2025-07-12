@@ -2298,13 +2298,13 @@
         "Name": "MultiTranslate",
         "Description": "A Flow-Launcher plugin that translates text using multiple translation services.",
         "Author": "Lu-Jiejie",
-        "Version": "0.1.4",
+        "Version": "0.2.0",
         "Language": "typescript",
         "Website": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate",
-        "UrlDownload": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.1.4/MultiTranslate-0.1.4.zip",
+        "UrlDownload": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.2.0/MultiTranslate-0.2.0.zip",
         "UrlSourceCode": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lu-jiejie/flow-launcher-multi-translate@main/assets/icon.png",
-        "LatestReleaseDate": "2025-07-08T19:06:54Z",
+        "LatestReleaseDate": "2025-07-12T18:48:43Z",
         "DateAdded": "2025-06-26T06:35:56Z"
     },
     {
