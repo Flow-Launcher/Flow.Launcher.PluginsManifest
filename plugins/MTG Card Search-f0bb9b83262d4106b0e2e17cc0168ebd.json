@@ -1,12 +1,13 @@
 {
-	"ID": "f0bb9b83262d4106b0e2e17cc0168ebd",
-	"Name": "MTG Card Search",
-	"Description": "Search for Magic: The Gathering cards using the Scryfall API",
-	"Author": "cwelsys",
-	"Version": "0.1.6",
-	"Language": "JavaScript",
-	"Website": "https://github.com/cwelsys/flow-mtg-card-search",
-  "UrlDownload": "https://github.com/cwelsys/flow-mtg-card-search/releases/download/v0.1.6/MTG-Card-Search-0.1.6.zip",
-  "UrlSourceCode": "https://github.com/cwelsys/flow-mtg-card-search/tree/main", 
-	"IcoPath": "https://cdn.jsdelivr.net/gh/cwelsys/flow-mtg-card-search@main/img/app.png"
+    "ID": "f0bb9b83262d4106b0e2e17cc0168ebd",
+    "Name": "MTG Card Search",
+    "Description": "Search for Magic: The Gathering cards using the Scryfall API",
+    "Author": "cwelsys",
+    "Version": "0.1.6",
+    "Language": "JavaScript",
+    "Website": "https://github.com/cwelsys/flow-mtg-card-search",
+    "UrlDownload": "https://github.com/cwelsys/flow-mtg-card-search/releases/download/v0.1.6/MTG-Card-Search-0.1.6.zip",
+    "UrlSourceCode": "https://github.com/cwelsys/flow-mtg-card-search/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cwelsys/flow-mtg-card-search@main/img/app.png",
+    "LatestReleaseDate": "2025-07-11T05:36:29Z"
 }
