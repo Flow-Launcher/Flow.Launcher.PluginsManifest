@@ -1973,7 +1973,8 @@
         "UrlDownload": "https://github.com/cwelsys/flow-mtg-card-search/releases/download/v0.1.6/MTG-Card-Search-0.1.6.zip",
         "UrlSourceCode": "https://github.com/cwelsys/flow-mtg-card-search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cwelsys/flow-mtg-card-search@main/img/app.png",
-        "LatestReleaseDate": "2025-07-11T05:36:29Z"
+        "LatestReleaseDate": "2025-07-11T05:36:29Z",
+        "DateAdded": "2025-07-15T12:53:02Z"
     },
     {
         "ID": "5DBA462B9AB77AC5DC158EB5047367F0",
