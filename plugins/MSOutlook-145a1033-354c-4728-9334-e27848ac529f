@@ -1,0 +1,15 @@
+{
+    "ID": "145a1033-354c-4728-9334-e27848ac529f",
+    "Name": "Microsoft Outlook",
+    "Description": "Microsoft Outlook Integration",
+    "Author": "Avinash Lahel",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/avinashlahel/Flow.Launcher.Plugin.MSOutlook",
+    "UrlDownload": "https://github.com/avinashlahel/Flow.Launcher.Plugin.MSOutlook/releases/download/v1.0.0/Flow.Launcher.Plugin.MSOutlook.zip",
+    "UrlSourceCode": "https://github.com/avinashlahel/Flow.Launcher.Plugin.MSOutlook",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/avinashlahel/Flow.Launcher.Plugin.MSOutlook@main/Images/ol.png",
+    "Tested": true,
+    "LatestReleaseDate": "2025‑07‑31T07:47:57Z",
+    "DateAdded": "2025‑07‑31T07:47:57Z"
+}
