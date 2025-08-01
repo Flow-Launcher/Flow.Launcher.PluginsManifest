@@ -1115,6 +1115,20 @@
         "LatestReleaseDate": "2024-03-05T17:48:48Z"
     },
     {
+        "ID": "2F2C2193E9A54437AA69B846121976D8",
+        "Name": "rip",
+        "Description": "a plugin for ripping videos like CDs",
+        "Author": "iivinn",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/iivinn/rip",
+        "UrlDownload": "https://github.com/iivinn/rip/releases/download/v1.0.0/Flow.Launcher.Plugin.Rip.zip",
+        "UrlSourceCode": "https://github.com/iivinn/rip/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/iivinn/rip@main/Flow.Launcher.Plugin.Rip/assets/icon.png",
+        "LatestReleaseDate": "2025-07-27T05:46:01Z",
+        "DateAdded": "2025-08-01T02:25:46Z"
+    },
+    {
         "ID": "5314722CF6AA4EBF86666C693412A276",
         "Name": "Steam Account Switcher",
         "Description": "Switch your steam account using TcNo Account Switcher",
