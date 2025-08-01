@@ -1125,7 +1125,8 @@
         "UrlDownload": "https://github.com/iivinn/rip/releases/download/v1.0.0/Flow.Launcher.Plugin.Rip.zip",
         "UrlSourceCode": "https://github.com/iivinn/rip/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/iivinn/rip@main/Flow.Launcher.Plugin.Rip/assets/icon.png",
-        "LatestReleaseDate": "2025-07-27T05:46:01Z"
+        "LatestReleaseDate": "2025-07-27T05:46:01Z",
+        "DateAdded": "2025-08-01T02:25:46Z"
     },
     {
         "ID": "5314722CF6AA4EBF86666C693412A276",
