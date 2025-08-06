@@ -3,10 +3,10 @@
     "Name": "ZoxidePy",
     "Description": "Zoxide integration for Flow Launcher, written in Python.",
     "Author": "WantChane",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "Language": "python",
     "Website": "https://github.com/WantChane/Flow.Launcher.Plugin.ZoxidePy",
-    "UrlDownload": "https://github.com/WantChane/Flow.Launcher.Plugin.ZoxidePy/releases/download/v1.1.0/Flow.Launcher.Plugin.ZoxidePy.zip",
+    "UrlDownload": "https://github.com/WantChane/Flow.Launcher.Plugin.ZoxidePy/releases/download/v1.2.0/Flow.Launcher.Plugin.ZoxidePy.zip",
     "UrlSourceCode": "https://github.com/WantChane/Flow.Launcher.Plugin.ZoxidePy/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/WantChane/Flow.Launcher.Plugin.ZoxidePy@main/app.png"
 }
