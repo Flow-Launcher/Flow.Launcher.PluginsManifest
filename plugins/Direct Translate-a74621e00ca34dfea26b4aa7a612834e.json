@@ -1,0 +1,13 @@
+{
+    "ID": "a74621e00ca34dfea26b4aa7a612834e",
+    "Name": "Direct Translate (Enhanced)",
+    "Description": "Translate between any languages supported by googletrans",
+    "Author": "SweedXD",
+    "Version": "3.0.0",
+    "Language": "python",
+    "Website": "https://github.com/SweedXD/Direct-Translate",
+    "ExecuteFileName": "main.py",
+    "UrlDownload": "https://github.com/SweedXD/Direct-Translate/releases/download/v3.0.0/Direct-Translate-3.0.0.zip",
+    "UrlSourceCode": "https://github.com/SweedXD/Direct-Translate"
+    "IcoPath": "https://raw.githubusercontent.com/SweedXD/Direct-Translate/refs/heads/master/assets/favicon.ico",
+}
