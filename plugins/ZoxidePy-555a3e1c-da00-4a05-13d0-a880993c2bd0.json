@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/WantChane/Flow.Launcher.Plugin.ZoxidePy/releases/download/v1.2.0/Flow.Launcher.Plugin.ZoxidePy.zip",
     "UrlSourceCode": "https://github.com/WantChane/Flow.Launcher.Plugin.ZoxidePy/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/WantChane/Flow.Launcher.Plugin.ZoxidePy@main/app.png",
-    "LatestReleaseDate": "2025-08-06T15:56:53Z"
+    "LatestReleaseDate": "2025-08-06T15:56:53Z",
+    "Tested": true,
+    "DateAdded": "2025-08-06T18:36:59Z"
 }
