@@ -828,13 +828,13 @@
         "Name": "LinkOpener",
         "Description": "Allows you to open URLs using keywords set in the settings",
         "Author": "Exarilo",
-        "Version": "1.3.0",
+        "Version": "1.3.1",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.0/Flow.Launcher.Plugin.LinkOpener.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.1/Flow.Launcher.Plugin.LinkOpener.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-        "LatestReleaseDate": "2025-06-08T19:37:21Z",
+        "LatestReleaseDate": "2025-07-23T19:43:06Z",
         "DateAdded": "2024-08-08T09:19:45Z"
     },
     {
@@ -1113,6 +1113,20 @@
         "Tested": true,
         "DateAdded": "2023-05-12T12:05:40Z",
         "LatestReleaseDate": "2024-03-05T17:48:48Z"
+    },
+    {
+        "ID": "2F2C2193E9A54437AA69B846121976D8",
+        "Name": "rip",
+        "Description": "a plugin for ripping videos like CDs",
+        "Author": "iivinn",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/iivinn/rip",
+        "UrlDownload": "https://github.com/iivinn/rip/releases/download/v1.0.1/Flow.Launcher.Plugin.Rip.zip",
+        "UrlSourceCode": "https://github.com/iivinn/rip/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/iivinn/rip@main/Flow.Launcher.Plugin.Rip/assets/icon.png",
+        "LatestReleaseDate": "2025-08-01T21:46:28Z",
+        "DateAdded": "2025-08-01T02:25:46Z"
     },
     {
         "ID": "5314722CF6AA4EBF86666C693412A276",
@@ -2064,6 +2078,20 @@
         "LatestReleaseDate": "2025-05-21T19:02:15Z"
     },
     {
+        "ID": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "Name": "Kubernetes Context Switcher",
+        "Description": "Switch between Kubernetes contexts quickly using Flow Launcher. View current context, list all available contexts, and switch between them with ease.",
+        "Author": "Robin Hermann",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/r-studio/Flow.Launcher.Plugin.KubernetesContextSwitcher",
+        "UrlDownload": "https://github.com/R-Studio/Flow.Launcher.Plugin.KubernetesContextSwitcher/releases/download/v1.0.1/Flow.Launcher.Plugin.KubernetesContextSwitcher.zip",
+        "UrlSourceCode": "https://github.com/R-Studio/Flow.Launcher.Plugin.KubernetesContextSwitcher/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/R-Studio/Flow.Launcher.Plugin.KubernetesContextSwitcher@main/images/k8s.png",
+        "DateAdded": "2025-07-16T12:53:34Z",
+        "LatestReleaseDate": "2025-07-09T20:54:16Z"
+    },
+    {
         "ID": "d13e69b5-048a-4dce-a950-cbdd5f61f3be",
         "Name": "Window Manager",
         "Description": "Easily move and resize application windows",
@@ -2312,13 +2340,13 @@
         "Name": "MultiTranslate",
         "Description": "A Flow-Launcher plugin that translates text using multiple translation services.",
         "Author": "Lu-Jiejie",
-        "Version": "0.2.0",
+        "Version": "0.2.1",
         "Language": "typescript",
         "Website": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate",
-        "UrlDownload": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.2.0/MultiTranslate-0.2.0.zip",
+        "UrlDownload": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.2.1/MultiTranslate-0.2.1.zip",
         "UrlSourceCode": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lu-jiejie/flow-launcher-multi-translate@main/assets/icon.png",
-        "LatestReleaseDate": "2025-07-12T18:48:43Z",
+        "LatestReleaseDate": "2025-07-25T17:23:18Z",
         "DateAdded": "2025-06-26T06:35:56Z"
     },
     {
@@ -3151,13 +3179,13 @@
         "Name": "Uninstaller+",
         "Description": "Easily uninstall desktop and Microsoft store programs based on Bulk-Crap-Uninstaller",
         "Author": "Jack251970",
-        "Version": "1.2.1",
+        "Version": "1.2.2",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v1.2.1/Uninstaller%2B-1.2.1.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v1.2.2/Uninstaller%2B-1.2.2.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/src/Flow.Launcher.Plugin.UninstallerPlus/Images/icon.png",
-        "LatestReleaseDate": "2025-06-10T10:05:46Z",
+        "LatestReleaseDate": "2025-07-28T07:18:20Z",
         "DateAdded": "2025-06-05T03:49:32Z"
     },
     {
@@ -3366,13 +3394,13 @@
         "Name": "Roblox Docs",
         "Description": "Search Roblox API documentation using Flow Launcher.",
         "Author": "Censor",
-        "Version": "1.0.1",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/Cens-r/flow-roblox-docs",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Cens-r/flow-roblox-docs/Flow.Launcher.Plugin.RobloxDocs/plugin-icon.png",
-        "UrlDownload": "https://github.com/Cens-r/flow-roblox-docs/releases/download/v1.0.1/Flow.Launcher.Plugin.RobloxDocs-1.0.1.zip",
+        "UrlDownload": "https://github.com/Cens-r/flow-roblox-docs/releases/download/v1.1.0/Flow.Launcher.Plugin.RobloxDocs-1.1.0.zip",
         "UrlSourceCode": "https://github.com/Cens-r/flow-roblox-docs/tree/master",
-        "LatestReleaseDate": "2025-06-04T09:25:34Z",
+        "LatestReleaseDate": "2025-07-16T03:53:05Z",
         "DateAdded": "2025-06-06T01:55:32Z"
     },
     {
