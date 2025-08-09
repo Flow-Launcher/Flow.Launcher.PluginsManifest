@@ -81,15 +81,36 @@ def get_all_python_plugins(manifest: dict) -> list:
     return [plugin for plugin in manifest if plugin["Language"].lower() == "python"]
 
 def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> bool:
-    """Run plugin and check output. Returns true if test successfull else false"""
+    """Run plugin and check output. Returns true if test successful else false"""
     os.chdir(plugin_path)
     default_settings = init_settings(plugin_name, plugin_path)
     args = json.dumps(
         {"method": "query", "parameters": [""], "Settings": default_settings}
     )
-    full_args = ["python", "-S", Path(plugin_path, execute_path), args]
+
     # Older Flox used environmental variable to locate Images directory
     os.environ["PYTHONPATH"] = str(USER_PATH.joinpath("PythonEmbeddable"))
+
+    # Compose the sys.path setup and runpy logic as Flow Launcher does in
+    # https://github.com/Flow-Launcher/Flow.Launcher/blob/dfe96160ed44684810bcdf853f86fda4305122d6/Flow.Launcher.Core/Plugin/PythonPlugin.cs#L69-L81
+    sys_path_setup = (
+        f"import sys; "
+        f"sys.path.append(r'{plugin_path}'); "
+        f"sys.path.append(r'{plugin_path}\\lib'); "
+        f"sys.path.append(r'{plugin_path}\\lib\\win32\\lib'); "
+        f"sys.path.append(r'{plugin_path}\\lib\\win32'); "
+        f"sys.path.append(r'{plugin_path}\\plugin'); "
+        f"import runpy; "
+        f"runpy.run_path(r'{Path(plugin_path, execute_path)}', None, '__main__')"
+    )
+    
+    full_args = [
+        "python",
+        "-S",
+        "-c",
+        sys_path_setup,
+        args
+    ]
     print_section("Input", full_args)
     p = Popen(full_args, text=True, stdout=PIPE, stderr=PIPE)
     stdout, stderr = p.communicate()
@@ -104,7 +125,7 @@ def run_plugin(plugin_name: str, plugin_path: str, execute_path: str) -> bool:
         return True
     else:
         print_section(f"{plugin['Name']} test FAILED!", "")
-        print(f'Plugin returned a non-zero exit code: {max(exit_code, 1)}')
+        print(f'Plugin has returned a non-zero exit code: {max(exit_code, 1)}')
         if stderr != "":
             print_section('Trace', stderr)
         if json_msg:
