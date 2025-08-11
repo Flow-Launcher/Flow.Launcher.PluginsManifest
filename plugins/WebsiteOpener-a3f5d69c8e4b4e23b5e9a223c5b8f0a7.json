@@ -1,12 +1,14 @@
 {
-  "ID": "a3f5d69c8e4b4e23b5e9a223c5b8f0a7",
-  "Name": "WebsiteOpener",
-  "Description": "Quickly open and manage frequently visited websites.",
-  "Author": "zephyr",
-  "Version": "1.0.0",
-  "Language": "python",
-  "Website": "https://github.com/Zephyr-Wach/WebsiteOpener",
-  "UrlDownload": "https://github.com/Zephyr-Wach/WebsiteOpener/releases/download/v1.0.0/WebsiteOpener.zip",
-  "UrlSourceCode": "https://github.com/Zephyr-Wach/WebsiteOpener",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/Zephyr-Wach/WebsiteOpener@v1.0.0/Images/web.png"
+    "ID": "a3f5d69c8e4b4e23b5e9a223c5b8f0a7",
+    "Name": "WebsiteOpener",
+    "Description": "Quickly open and manage frequently visited websites.",
+    "Author": "zephyr",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Zephyr-Wach/WebsiteOpener",
+    "UrlDownload": "https://github.com/Zephyr-Wach/WebsiteOpener/releases/download/v1.0.0/WebsiteOpener.zip",
+    "UrlSourceCode": "https://github.com/Zephyr-Wach/WebsiteOpener",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Zephyr-Wach/WebsiteOpener@v1.0.0/Images/web.png",
+    "Tested": true,
+    "DateAdded": "2025-08-11T00:48:27Z"
 }
