@@ -169,7 +169,9 @@
         "Website": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK",
         "UrlDownload": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/releases/download/v1.1.2/Flow.Launcher.Plugin.CHZZK.zip",
         "UrlSourceCode": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/kim0chan/Flow.Launcher.Plugin.CHZZK@v1.1.2/packages/plugin/images/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/kim0chan/Flow.Launcher.Plugin.CHZZK@v1.1.2/packages/plugin/images/app.png",
+        "DateAdded": "2025-08-11T02:09:48Z",
+        "LatestReleaseDate": "2025-08-10T08:21:19Z"
     },
     {
         "ID": "62A7E77D5AC84177AF902C4A5FF10603",
@@ -2671,7 +2673,8 @@
         "UrlSourceCode": "https://github.com/Zephyr-Wach/WebsiteOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Zephyr-Wach/WebsiteOpener@v1.0.0/Images/web.png",
         "Tested": true,
-        "DateAdded": "2025-08-11T00:48:27Z"
+        "DateAdded": "2025-08-11T00:48:27Z",
+        "LatestReleaseDate": "2025-08-01T10:01:03Z"
     },
     {
         "ID": "8G5CDC9A78EF4A7E667E138F1FC04015",
@@ -3090,7 +3093,8 @@
         "UrlDownload": "https://github.com/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho/releases/download/v1.0.0/Flow.Launcher.Plugin.Jisho.zip",
         "UrlSourceCode": "https://github.com/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho@main/assets/favicon.png",
-        "LatestReleaseDate": "2025-08-02T23:57:31Z"
+        "LatestReleaseDate": "2025-08-02T23:57:31Z",
+        "DateAdded": "2025-08-11T02:09:48Z"
     },
     {
         "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
