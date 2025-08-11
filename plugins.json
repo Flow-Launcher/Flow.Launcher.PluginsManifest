@@ -160,6 +160,20 @@
         "DateAdded": "2024-12-30T01:41:48Z"
     },
     {
+        "ID": "517b8920fe5647e284c29089749ab69b",
+        "Name": "CHZZK",
+        "Description": "Watch CHZZK conveniently.",
+        "Author": "yckim",
+        "Version": "1.1.2",
+        "Language": "typescript",
+        "Website": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK",
+        "UrlDownload": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/releases/download/v1.1.2/Flow.Launcher.Plugin.CHZZK.zip",
+        "UrlSourceCode": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/kim0chan/Flow.Launcher.Plugin.CHZZK@v1.1.2/packages/plugin/images/app.png",
+        "DateAdded": "2025-08-11T02:09:48Z",
+        "LatestReleaseDate": "2025-08-10T08:21:19Z"
+    },
+    {
         "ID": "62A7E77D5AC84177AF902C4A5FF10603",
         "Name": "BetterTTV Twitch Emotes",
         "Description": "Search Twitch.tv emotes via BetterTTV",
@@ -2648,6 +2662,21 @@
         "DateAdded": "2025-07-01T02:10:27Z"
     },
     {
+        "ID": "a3f5d69c8e4b4e23b5e9a223c5b8f0a7",
+        "Name": "WebsiteOpener",
+        "Description": "Quickly open and manage frequently visited websites.",
+        "Author": "zephyr",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Zephyr-Wach/WebsiteOpener",
+        "UrlDownload": "https://github.com/Zephyr-Wach/WebsiteOpener/releases/download/v1.0.0/WebsiteOpener.zip",
+        "UrlSourceCode": "https://github.com/Zephyr-Wach/WebsiteOpener",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Zephyr-Wach/WebsiteOpener@v1.0.0/Images/web.png",
+        "Tested": true,
+        "DateAdded": "2025-08-11T00:48:27Z",
+        "LatestReleaseDate": "2025-08-01T10:01:03Z"
+    },
+    {
         "ID": "8G5CDC9A78EF4A7E667E138F1FC04015",
         "ActionKeyword": "mdi",
         "Name": "Search-MDI",
@@ -3052,6 +3081,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/qjcXu/Flow.Launcher.Translation/src/assets/images/app.png",
         "DateAdded": "2022-10-08T16:26:57Z",
         "LatestReleaseDate": "2023-05-19T13:55:58Z"
+    },
+    {
+        "ID": "c698ffd8-030c-4f48-b5ab-df69cdfae23e",
+        "Name": "Jisho",
+        "Description": "Lookup any words within Jisho (a Japanese-English Dictionary).",
+        "Author": "PlainOlSoapBar",
+        "Version": "1.0.0",
+        "Language": "typescript",
+        "Website": "https://github.com/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho",
+        "UrlDownload": "https://github.com/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho/releases/download/v1.0.0/Flow.Launcher.Plugin.Jisho.zip",
+        "UrlSourceCode": "https://github.com/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho@main/assets/favicon.png",
+        "LatestReleaseDate": "2025-08-02T23:57:31Z",
+        "DateAdded": "2025-08-11T02:09:48Z"
     },
     {
         "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
@@ -3505,13 +3548,13 @@
         "Name": "rtfm",
         "Description": "a rtfm lookup plugin",
         "Author": "cibere",
-        "Version": "1.4.3",
+        "Version": "1.4.4",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.3/Flow.Launcher.Plugin.rtfm.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.4/Flow.Launcher.Plugin.rtfm.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
         "IcoPath": "https://i.imgur.com/cvI93QW.png",
-        "LatestReleaseDate": "2025-04-07T17:28:56Z",
+        "LatestReleaseDate": "2025-08-11T00:41:16Z",
         "DateAdded": "2024-12-20T12:39:36Z"
     },
     {
