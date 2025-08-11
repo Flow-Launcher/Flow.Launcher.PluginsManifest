@@ -1,12 +1,12 @@
 {
-  "ID": "517b8920fe5647e284c29089749ab69b",
-  "Name": "CHZZK",
-  "Description": "Watch CHZZK conveniently.",
-  "Author": "yckim",
-  "Version": "1.1.2",
-  "Language": "typescript",
-  "Website": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK",
-  "UrlDownload": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/releases/download/v1.1.2/Flow.Launcher.Plugin.CHZZK.zip",
-  "UrlSourceCode": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/tree/main",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/kim0chan/Flow.Launcher.Plugin.CHZZK@v1.1.2/packages/plugin/images/app.png"
+    "ID": "517b8920fe5647e284c29089749ab69b",
+    "Name": "CHZZK",
+    "Description": "Watch CHZZK conveniently.",
+    "Author": "yckim",
+    "Version": "1.1.2",
+    "Language": "typescript",
+    "Website": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK",
+    "UrlDownload": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/releases/download/v1.1.2/Flow.Launcher.Plugin.CHZZK.zip",
+    "UrlSourceCode": "https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/kim0chan/Flow.Launcher.Plugin.CHZZK@v1.1.2/packages/plugin/images/app.png"
 }
