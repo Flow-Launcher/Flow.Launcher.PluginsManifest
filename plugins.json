@@ -1326,6 +1326,20 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "3f648301-8764-4790-841b-0431fc0eb072",
+        "ActionKeyword": "*",
+        "Name": "CurrencyPP",
+        "Description": "A Better Currency Converter",
+        "Author": "SweedXD",
+        "Version": "4.0.0",
+        "Language": "python",
+        "Website": "https://github.com/SweedXD/CurrencyPP",
+        "UrlDownload": "https://github.com/SweedXD/CurrencyPP/releases/download/v4.0.0/Flow.Launcher.Plugin.CurrencyPP.zip",
+        "UrlSourceCode": "https://github.com/SweedXD/CurrencyPP",
+        "IcoPath": "https://raw.githubusercontent.com/SweedXD/CurrencyPP/refs/heads/master/src/CurrencyPP.png",
+        "LatestReleaseDate": "2025-08-12T19:39:42Z"
+    },
+    {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
         "Name": "Window Services",
         "Description": "Start and stop Windows services.",
