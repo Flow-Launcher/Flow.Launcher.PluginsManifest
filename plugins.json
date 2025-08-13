@@ -1337,7 +1337,9 @@
         "UrlDownload": "https://github.com/SweedXD/CurrencyPP/releases/download/v4.0.0/Flow.Launcher.Plugin.CurrencyPP.zip",
         "UrlSourceCode": "https://github.com/SweedXD/CurrencyPP",
         "IcoPath": "https://raw.githubusercontent.com/SweedXD/CurrencyPP/refs/heads/master/src/CurrencyPP.png",
-        "LatestReleaseDate": "2025-08-12T19:39:42Z"
+        "LatestReleaseDate": "2025-08-12T19:39:42Z",
+        "Tested": true,
+        "DateAdded": "2025-08-12T21:23:19Z"
     },
     {
         "ID": "C7E78C47FA5942E4B7972EAD844F5007",
@@ -1676,13 +1678,13 @@
         "Name": "LinkOpener",
         "Description": "Allows you to open URLs using keywords set in the settings",
         "Author": "Exarilo",
-        "Version": "1.3.2",
+        "Version": "1.3.3",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.2/Flow.Launcher.Plugin.LinkOpener.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.3/Flow.Launcher.Plugin.LinkOpener.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-        "LatestReleaseDate": "2025-08-09T02:06:54Z",
+        "LatestReleaseDate": "2025-08-12T23:54:33Z",
         "DateAdded": "2024-08-08T09:19:45Z"
     },
     {
