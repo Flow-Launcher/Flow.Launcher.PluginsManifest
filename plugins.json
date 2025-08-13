@@ -3502,21 +3502,6 @@
         "Tested": true
     },
     {
-        "ID": "84d9d550-80cb-4e5f-a090-e1ccf3237a40",
-        "Name": "CurrencyPP",
-        "Description": "A better currency converter",
-        "Author": "Le Loc Tai",
-        "Version": "3.0.1",
-        "Language": "python",
-        "Website": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/LeLocTai/Flow.Launcher.Plugin.CurrencyPP@master/src/CurrencyPP.png",
-        "UrlDownload": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP/releases/download/v3.0.1/Flow.Launcher.Plugin.CurrencyPP.zip",
-        "UrlSourceCode": "https://github.com/LeLocTai/Flow.Launcher.Plugin.CurrencyPP",
-        "Tested": true,
-        "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2022-09-09T09:26:17Z"
-    },
-    {
         "ID": "2d5036e2-eccc-4254-b88e-de78580e2195",
         "Name": "Bulk URL Opener",
         "Description": "Opens groups of tabs. To edit the tab groups, edit the tab_groups.yaml file in the plugin directory.",
