@@ -487,7 +487,8 @@
         "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserTabs/releases/download/v1.0.0/BrowserTabs-1.0.0.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserTabs",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.BrowserTabs@main/Images/icon.png",
-        "LatestReleaseDate": "2025-08-24T13:36:19Z"
+        "LatestReleaseDate": "2025-08-24T13:36:19Z",
+        "DateAdded": "2025-08-24T15:21:19Z"
     },
     {
         "ID": "8931A4C6BC4141DE99523AA888BF6E21",
