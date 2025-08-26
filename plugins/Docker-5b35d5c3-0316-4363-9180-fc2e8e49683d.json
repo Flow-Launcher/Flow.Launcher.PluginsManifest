@@ -1,7 +1,7 @@
 {
   "ID": "5b35d5c3-0316-4363-9180-fc2e8e49683d",
   "Name": "Docker",
-  "Description": "Manage Docker. List containers, images...",
+  "Description": "Manage Docker. List containers, images from Flow Launcher",
   "Author": "Leo Carvalho",
   "Version": "0.0.1",
   "Language": "javascript",
