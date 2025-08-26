@@ -8,5 +8,5 @@
   "Website": "https://github.com/thisisleobro/docker-flow-launcher-plugin",
   "UrlDownload": "https://github.com/thisisleobro/docker-flow-launcher-plugin/releases/download/v0.0.1/Flow.Launcher.Plugin.Docker.zip",
   "UrlSourceCode": "https://github.com/thisisleobro/docker-flow-launcher-plugin/",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/thisisleobro/docker-flow-launcher-plugin/assets/docker.png",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/thisisleobro/docker-flow-launcher-plugin/assets/docker.png"
 }
