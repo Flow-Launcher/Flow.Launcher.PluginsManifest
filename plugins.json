@@ -1872,6 +1872,19 @@
         "DateAdded": "2024-10-15T12:40:49Z"
     },
     {
+        "ID": "5b35d5c3-0316-4363-9180-fc2e8e49683d",
+        "Name": "Docker",
+        "Description": "Manage Docker. List containers, images from Flow Launcher",
+        "Author": "Leo Carvalho",
+        "Version": "0.0.1",
+        "Language": "javascript",
+        "Website": "https://github.com/thisisleobro/docker-flow-launcher-plugin",
+        "UrlDownload": "https://github.com/thisisleobro/docker-flow-launcher-plugin/releases/download/v0.0.1/Flow.Launcher.Plugin.Docker.zip",
+        "UrlSourceCode": "https://github.com/thisisleobro/docker-flow-launcher-plugin/",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/thisisleobro/docker-flow-launcher-plugin/assets/docker.png",
+        "LatestReleaseDate": "2025-08-25T16:46:33Z"
+    },
+    {
         "ID": "D2D2C23B084D411DB66EE0C79D6C2A7C",
         "Name": "Flow.Plugin.UrlEncode",
         "Description": "urlencode or urldecode a string",
