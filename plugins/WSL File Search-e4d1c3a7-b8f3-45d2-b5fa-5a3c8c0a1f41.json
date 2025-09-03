@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/sajxx/WSL-File-Search/releases/download/v1.2.2/WSL.File.Search.zip",
     "UrlSourceCode": "https://github.com/sajxx/WSL-File-Search",
     "IcoPath": "https://cdn.jsdelivr.net/gh/sajxx/WSL-File-Search@main/icon.png",
-    "LatestReleaseDate": "2025-09-03T05:56:09Z"
+    "LatestReleaseDate": "2025-09-03T05:56:09Z",
+    "Tested": true,
+    "DateAdded": "2025-09-03T12:46:01Z"
 }
