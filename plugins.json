@@ -1950,6 +1950,19 @@
         "DateAdded": "2025-03-10T21:19:47Z"
     },
     {
+        "ID": "e4d1c3a7-b8f3-45d2-b5fa-5a3c8c0a1f41",
+        "Name": "WSL File Search",
+        "Description": "Search files inside WSL using fd with seamless Windows integration",
+        "Author": "Sajxx",
+        "Version": "1.2.2",
+        "Language": "python",
+        "Website": "https://github.com/sajxx/WSL-File-Search",
+        "UrlDownload": "https://github.com/sajxx/WSL-File-Search/releases/download/v1.2.2/WSL.File.Search.zip",
+        "UrlSourceCode": "https://github.com/sajxx/WSL-File-Search",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/sajxx/WSL-File-Search@main/icon.png",
+        "LatestReleaseDate": "2025-09-03T05:56:09Z"
+    },
+    {
         "ID": "56A92C3AB5714EA9841098CE7D105E11",
         "Name": "IpMacAddress",
         "Description": "Get ip and mac address of current machine",
