@@ -1,7 +1,7 @@
 {
     "ID": "898FC7F0-4F38-401B-82E0-A852798C2D59",
     "Name": "Kitty",
-    "Description": "Launch Kitty Sessions.",
+    "Description": "Launch Kitty Sessions",
     "Author": "LostPing",
     "Version": "1.0.6",
     "Language": "csharp",

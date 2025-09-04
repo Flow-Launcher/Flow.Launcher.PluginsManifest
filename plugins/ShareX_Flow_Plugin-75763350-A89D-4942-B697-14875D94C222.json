@@ -2,7 +2,7 @@
     "ID": "75763350-A89D-4942-B697-14875D94C222",
     "Name": "ShareX_Flow_Plugin",
     "Description": "Run ShareX capture, OCR, ...",
-    "Author": "dufguix",
+    "Author": "Dufguix",
     "Version": "1.0.0",
     "Language": "csharp",
     "Website": "https://github.com/dufguix/Flow.Launcher.Plugin.ShareX",

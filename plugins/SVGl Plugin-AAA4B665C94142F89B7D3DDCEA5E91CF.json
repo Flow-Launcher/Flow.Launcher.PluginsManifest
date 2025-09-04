@@ -1,0 +1,16 @@
+{
+    "ID": "AAA4B665C94142F89B7D3DDCEA5E91CF",
+    "ActionKeyword": "svg",
+    "Name": "SVGl Plugin",
+    "Description": "Get SVGs Copied to your clipboard from svgl",
+    "Author": "AF_Askar",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/abo3skr2019/SVGl-plugin",
+    "UrlDownload": "https://github.com/abo3skr2019/SVGl-plugin/releases/download/v1.0.0/Svgl-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/abo3skr2019/SVGl-plugin",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/abo3skr2019/SVGl-plugin@refs/heads/main/Flow.Launcher.Plugin.svgl/icon.svg",
+    "ExecuteFileName": "Flow.Launcher.Plugin.svgl.dll",
+    "LatestReleaseDate": "2025-04-27T18:41:08Z",
+    "DateAdded": "2025-05-01T03:47:07Z"
+}

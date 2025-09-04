@@ -1,7 +1,7 @@
 {
     "ID": "7D530704C68E4838896BBA5C4C1DE7DF",
     "Name": "Win Hotkey",
-    "Description": "Trigger Flow Launcher by Win Key.",
+    "Description": "Trigger Flow Launcher by Win Key",
     "Author": "Amin Salah",
     "Version": "4.0.0",
     "Language": "csharp",

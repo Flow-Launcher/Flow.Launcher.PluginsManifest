@@ -1,7 +1,7 @@
 {
     "ID": "3C62514E3C8644D583E3F12202F11161",
     "Name": "nexusmods-search",
-    "Description": "Search Nexusmods.com",
+    "Description": "Search nexusmods.com",
     "Author": "Garulf",
     "Version": "0.2.3",
     "Language": "python",

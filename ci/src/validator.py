@@ -2,7 +2,7 @@
 import uuid
 
 from _utils import (check_url, clean, get_new_plugin_submission_ids, get_plugin_file_paths, get_plugin_filenames,
-                    icon_path, id_name, language_list, language_name, plugin_reader)
+                    icon_path, id_name, language_list, language_name, plugin_reader, github_download_url_regex, url_download)
 
 plugin_infos = plugin_reader()
 
@@ -52,3 +52,7 @@ def test_submitted_plugin_id_is_valid_uuid():
             outcome = False
 
         assert outcome is True, f"The submission plugin ID {id} is not a valid v4 UUID"
+
+def test_valid_download_url():
+    for info in plugin_infos:
+        assert github_download_url_regex.fullmatch(info[url_download]), f" The plugin {info['Name']}-{info['ID']} does not have a valid download url: {info[url_download]}"

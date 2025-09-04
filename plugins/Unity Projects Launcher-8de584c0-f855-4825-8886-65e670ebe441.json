@@ -1,7 +1,7 @@
 {
     "ID": "8de584c0-f855-4825-8886-65e670ebe441",
     "Name": "Unity Projects Launcher",
-    "Description": "Open Unity projects from Flow Launcher",
+    "Description": "adds an option to launch Unity projects from Flow Launcher",
     "Author": "Ghost-Miner",
     "Version": "1.1.0",
     "Language": "csharp",

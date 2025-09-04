@@ -1,7 +1,7 @@
 {
     "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
     "Name": "Plexy",
-    "Description": "Search and cast your Plex Media Server Library",
+    "Description": "Search and cast your Plex Media Library",
     "Author": "Garulf",
     "Version": "2.0.0",
     "Language": "python",

@@ -1,7 +1,7 @@
 {
     "ID": "d58fbe34-bce7-11ed-afa1-0242ac120002",
     "Name": "Youtube Downloader",
-    "Description": "A youtube downloader",
+    "Description": "Download videos on youtube! usage: {-yt} {youtube link}",
     "Author": "LordOfTheEel; Eyal.Br",
     "Version": "0.1.2",
     "Language": "python",

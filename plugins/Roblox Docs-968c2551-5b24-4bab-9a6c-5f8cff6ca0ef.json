@@ -1,0 +1,14 @@
+{
+    "ID": "968c2551-5b24-4bab-9a6c-5f8cff6ca0ef",
+    "Name": "Roblox Docs",
+    "Description": "Search Roblox API documentation using Flow Launcher.",
+    "Author": "Censor",
+    "Version": "1.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Cens-r/flow-roblox-docs",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Cens-r/flow-roblox-docs/Flow.Launcher.Plugin.RobloxDocs/plugin-icon.png",
+    "UrlDownload": "https://github.com/Cens-r/flow-roblox-docs/releases/download/v1.1.0/Flow.Launcher.Plugin.RobloxDocs-1.1.0.zip",
+    "UrlSourceCode": "https://github.com/Cens-r/flow-roblox-docs/tree/master",
+    "LatestReleaseDate": "2025-07-16T03:53:05Z",
+    "DateAdded": "2025-06-06T01:55:32Z"
+}

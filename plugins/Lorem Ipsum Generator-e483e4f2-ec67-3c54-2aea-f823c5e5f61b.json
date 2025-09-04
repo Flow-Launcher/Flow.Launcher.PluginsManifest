@@ -4,7 +4,7 @@
     "Description": "Generates Lorem Ipsum and copies it to your clipboard.",
     "Author": "Tom Kliner",
     "Version": "3.0.0",
-    "Language": "python",
+    "Language": "csharp",
     "Website": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
     "UrlDownload": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator/releases/download/v3.0.0/Flow.Launcher.Plugin.LoremIpsumGenerator.zip",
     "UrlSourceCode": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
