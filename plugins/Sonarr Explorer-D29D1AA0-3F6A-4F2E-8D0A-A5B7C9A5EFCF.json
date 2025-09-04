@@ -1,0 +1,14 @@
+{
+    "ID": "D29D1AA0-3F6A-4F2E-8D0A-A5B7C9A5EFCF",
+    "Name": "Sonarr Explorer",
+    "Description": "Control Sonarr from Flow Launcher. Features: View calendar, activity, and search library.",
+    "Author": "Rain",
+    "Version": "1.0.6",
+    "Language": "csharp",
+    "Website": "https://github.com/AtaraxyState/Sonarr-Explorer",
+    "UrlDownload": "https://github.com/AtaraxyState/Sonarr-Explorer/releases/download/v1.0.6/Sonarr.Explorer-1.0.6.zip",
+    "UrlSourceCode": "https://github.com/AtaraxyState/Sonarr-Explorer/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/AtaraxyState/Sonarr-Explorer@main/SonarrFlowLauncherPlugin/Images/icon.png",
+    "LatestReleaseDate": "2025-06-06T00:54:56Z",
+    "DateAdded": "2025-06-05T03:49:33Z"
+}
