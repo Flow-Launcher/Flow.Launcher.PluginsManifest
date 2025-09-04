@@ -3,12 +3,12 @@
     "Name": "Todos",
     "Description": "A simple yet effective todo app.",
     "Author": "Or1g3n (originally by caoyue)",
-    "Version": "3.0.7",
+    "Version": "3.0.8",
     "Language": "csharp",
     "Website": "https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos",
-    "UrlDownload": "https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos/releases/download/v3.0.7/Flow.Launcher.Plugin.Todos.zip",
+    "UrlDownload": "https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos/releases/download/v3.0.8/Flow.Launcher.Plugin.Todos.zip",
     "UrlSourceCode": "https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos/tree/master",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Or1g3n/Flow.Launcher.Plugin.Todos@master/ico/app.png",
-    "LatestReleaseDate": "2024-12-22T14:45:49Z",
+    "LatestReleaseDate": "2025-08-31T02:03:12Z",
     "DateAdded": "2024-09-24T01:38:41Z"
 }

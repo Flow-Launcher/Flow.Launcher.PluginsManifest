@@ -3,13 +3,13 @@
     "Name": "Ollama",
     "Description": "Plugin to use Ollama for local LLMs in Flow Launcher",
     "Author": "Gh0stExp10it",
-    "Version": "1.1.2",
+    "Version": "1.1.3",
     "Language": "python",
     "Website": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.Ollama",
-    "UrlDownload": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.Ollama/releases/download/v1.1.2/Flow.Launcher.Plugin.Ollama.zip",
+    "UrlDownload": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.Ollama/releases/download/v1.1.3/Flow.Launcher.Plugin.Ollama.zip",
     "UrlSourceCode": "https://github.com/Gh0stExp10it/Flow.Launcher.Plugin.Ollama",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Gh0stExp10it/Flow.Launcher.Plugin.Ollama@main/Images/app.png",
-    "LatestReleaseDate": "2025-04-04T14:24:00Z",
+    "LatestReleaseDate": "2025-08-22T11:05:39Z",
     "Tested": true,
     "DateAdded": "2024-07-13T09:17:31Z"
 }
