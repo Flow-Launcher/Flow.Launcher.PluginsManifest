@@ -2,7 +2,7 @@
     "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",
     "Name": "Astro",
     "Description": "Search Astro Docs",
-    "Author": "palmiak",
+    "Author": "Maciek Palmowski",
     "Version": "0.0.2",
     "Language": "javascript",
     "Website": "https://github.com/palmiak/astro-flow-launcher-plugin",

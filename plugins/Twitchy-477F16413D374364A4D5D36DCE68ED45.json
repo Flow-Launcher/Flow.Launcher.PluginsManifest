@@ -1,7 +1,7 @@
 {
     "ID": "477F16413D374364A4D5D36DCE68ED45",
     "Name": "Twitchy",
-    "Description": "Search and stream twitch.tv",
+    "Description": "Search and stream Twitch.tv",
     "Author": "Garulf",
     "Version": "7.0.0",
     "Language": "python",

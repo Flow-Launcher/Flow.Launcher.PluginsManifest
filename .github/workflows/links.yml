@@ -30,4 +30,5 @@ jobs:
         with:
           args: --verbose --no-progress plugins.json
           fail: true
+          failIfEmpty: false
           token: ${{ secrets.LINKCHECKER }}

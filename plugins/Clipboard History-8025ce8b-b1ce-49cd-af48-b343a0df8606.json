@@ -2,7 +2,7 @@
     "ID": "8025ce8b-b1ce-49cd-af48-b343a0df8606",
     "Name": "Clipboard History",
     "Description": "a Clipboard History Plugin for FlowLauncher",
-    "Author": "liberize,Xenolphthalein",
+    "Author": "liberize",
     "Version": "1.1.1",
     "Language": "csharp",
     "Website": "https://github.com/liberize/Flow.Launcher.Plugin.ClipboardHistory",

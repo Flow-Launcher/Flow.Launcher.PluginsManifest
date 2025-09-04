@@ -1,0 +1,14 @@
+{
+    "ID": "d2389086abe1495a8b476f39aa5c7b6f",
+    "Name": "JWT Decoder",
+    "Description": "Plugin that decodes JWT tokens into readable payloads.",
+    "Author": "Crakzzy",
+    "Version": "1.0.0",
+    "Language": "javascript",
+    "UrlDownload": "https://github.com/Crakzzy/flow-launcher-jwt-decoder/releases/download/v1.0.0/JWTDecoder.zip",
+    "UrlSourceCode": "https://github.com/Crakzzy/flow-launcher-jwt-decoder",
+    "Website": "https://github.com/Crakzzy/flow-launcher-jwt-decoder",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Crakzzy/flow-launcher-jwt-decoder@master/icon.png",
+    "LatestReleaseDate": "2025-04-23T09:43:02Z",
+    "DateAdded": "2025-04-24T18:31:07Z"
+}

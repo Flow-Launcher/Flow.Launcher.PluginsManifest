@@ -8,6 +8,10 @@ from typing import Dict, List, TypeVar
 # If adding a third-party library here, check CI workflows Python files
 # that are dependant on this and require pip install.
 
+github_download_url_regex = re.compile(
+    r"https://github\.com/(?P<author>[a-zA-Z0-9-]+)/(?P<repo>[a-zA-Z0-9\.\-\_]*)/releases/download/(?P<version>[a-zA-Z\.0-9]+)/(?P<filename>.*)\.zip"
+)
+
 # path
 utils_path = Path(__file__).resolve()
 
@@ -44,6 +48,7 @@ plugin_name = "Name"
 github_url = "https://github.com"
 release_date = "LatestReleaseDate"
 date_added = "DateAdded"
+website = "Website"
 
 # typing
 PluginType = Dict[str, str]

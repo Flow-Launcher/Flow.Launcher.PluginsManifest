@@ -1,8 +1,10 @@
 # -*-coding: utf-8 -*-
 import asyncio
 import aiohttp
+from zipfile import ZipFile
+import re
+from io import BytesIO
 from typing import List
-from unicodedata import name
 from os import getenv
 from sys import argv
 import traceback
@@ -12,9 +14,8 @@ from tqdm.asyncio import tqdm
 from _utils import *
 from discord import update_hook
 
-
 async def batch_github_plugin_info(
-    info: P, tags: ETagsType, github_token=None, webhook_url: str = None
+    info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None
 ) -> P:
     try:
         headers = {"authorization": f"token {github_token}"}
@@ -45,12 +46,48 @@ async def batch_github_plugin_info(
 
             if info.get(release_date, "") != latest_rel.get("published_at"):
                 info[release_date] = latest_rel.get("published_at")
+
             if assets:
-                info[url_download] = assets[0]["browser_download_url"]
-                await send_notification(
-                    info, clean(latest_rel["tag_name"], "v"), latest_rel, webhook_url
+                browser_download_url = None
+
+                if len(assets) > 1:
+                    match = github_download_url_regex.match(info[url_download])
+                    if not match:
+                        raise ValueError(
+                            f"Download URL did not match regex: {info[url_download]!r}"
+                        )
+                    filename = f"{match['filename']}.zip"
+                    for asset in assets:
+                        if asset["browser_download_url"].endswith(filename):
+                            browser_download_url = asset["browser_download_url"]
+
+                info[url_download] = (
+                    browser_download_url or assets[0]["browser_download_url"]
                 )
-                info[version] = clean(latest_rel["tag_name"], "v")
+
+                latest_ver = clean(latest_rel["tag_name"], "v")
+                if version_tuple(info[version]) != version_tuple(latest_ver):
+                    tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
+
+                    metadata = await get_plugin_dot_json(
+                        info[url_download], session=session
+                    )
+                    for key in (
+                        description,
+                        author,
+                        language_name,
+                        website,
+                    ):
+                        info[key] = metadata[key]
+
+                    if webhook_url:
+                        await send_notification(
+                            info,
+                            latest_ver,
+                            latest_rel,
+                            webhook_url,
+                        )
+                info[version] = latest_ver
 
             tags[info[id_name]] = res.headers.get(etag, "")
 
@@ -61,8 +98,23 @@ async def batch_github_plugin_info(
         return info
 
 
+async def get_plugin_dot_json(download_url: str, *, session: aiohttp.ClientSession):
+    async with session.get(download_url) as res:
+        data = await res.read()
+
+    with ZipFile(BytesIO(data)) as zip:
+        for fileinfo in zip.filelist:
+            if not fileinfo.filename.endswith("plugin.json"):
+                continue
+
+            with zip.open(fileinfo, "r") as file:
+                return json.loads(file.read())
+
+    raise ValueError(f"plugin.json file not found. Download Url: {download_url}")
+
+
 async def batch_plugin_infos(
-    plugin_infos: Ps, tags: ETagsType, github_token, webhook_url: str = None
+    plugin_infos: Ps, tags: ETagsType, github_token, webhook_url: str | None = None
 ) -> Ps:
     return await tqdm.gather(
         *[
@@ -72,12 +124,11 @@ async def batch_plugin_infos(
     )
 
 
-def remove_unused_etags(plugin_infos: Ps, etags: ETagsType) -> ETagsType:
+def remove_unused_etags(plugin_infos: PluginsType, etags: ETagsType) -> ETagsType:
     etags_updated = {}
     plugin_ids = [info.get("ID") for info in plugin_infos]
 
     for id, tag in etags.items():
-
         if id not in plugin_ids:
             print(
                 f"Plugin with ID {id} has been removed. The associated ETag will be also removed now."
@@ -90,14 +141,15 @@ def remove_unused_etags(plugin_infos: Ps, etags: ETagsType) -> ETagsType:
 
 
 async def send_notification(
-    info: P, latest_ver, release, webhook_url: str = None
+    info: PluginType, latest_ver: str, release, webhook_url: str | None = None
 ) -> None:
-    if version_tuple(info[version]) != version_tuple(latest_ver):
-        tqdm.write(f"Update detected: {info[plugin_name]} {latest_ver}")
-        try:
-            await update_hook(webhook_url, info, latest_ver, release)
-        except Exception as e:
-            tqdm.write(str(e))
+    if not webhook_url:
+        return
+
+    try:
+        await update_hook(webhook_url, info, latest_ver, release)
+    except Exception as e:
+        tqdm.write(str(e))
 
 
 async def main():

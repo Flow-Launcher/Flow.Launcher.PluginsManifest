@@ -1,0 +1,14 @@
+{
+    "ID": "251B44B4162E470B9167A2954DAEBC6E",
+    "Name": "Mock",
+    "Description": "Generate mocking case and memes (\u2b2d\u03c9\u2b2d)",
+    "Author": "tho-myr",
+    "Version": "1.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock",
+    "UrlDownload": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock/releases/download/v1.1.0/Flow.Launcher.Plugin.Mock.zip",
+    "UrlSourceCode": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/tho-myr/Flow.Launcher.Plugin.Mock@master/Flow.Launcher.Plugin.Mock/Images/icon.png",
+    "LatestReleaseDate": "2025-03-02T18:32:45Z",
+    "DateAdded": "2025-02-27T01:41:54Z"
+}

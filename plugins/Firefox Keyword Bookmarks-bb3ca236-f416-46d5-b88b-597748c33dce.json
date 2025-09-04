@@ -3,13 +3,13 @@
     "Name": "Firefox Keyword Bookmarks",
     "Description": "A plugin that lets you open firefox bookmarks from their keyword",
     "Author": "cibere",
-    "Version": "0.2.2",
+    "Version": "0.2.3",
     "Language": "python_v2",
-    "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
-    "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.2.2/Flow.Launcher.Plugin.FirefoxKeywordBookmarks.zip",
+    "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks/tree/v0.2.2",
+    "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.2.3/FirefoxKeywordBookmarks.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
     "IcoPath": "https://i.imgur.com/1cGHQTp.png",
-    "LatestReleaseDate": "2024-12-28T06:34:17Z",
+    "LatestReleaseDate": "2025-02-09T22:12:13Z",
     "Tested": true,
     "DateAdded": "2024-10-31T12:40:23Z"
 }

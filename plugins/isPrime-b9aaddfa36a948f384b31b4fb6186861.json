@@ -5,11 +5,11 @@
     "Author": "lvonkacsoh",
     "Version": "1.4.0",
     "Language": "python",
-    "Website": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime",
+    "Website": "https://github.com/lvonkacsoh/flow-plugin-isPrime",
     "UrlDownload": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/releases/download/v1.4.0/Flow.Launcher.Plugin.IsPrime.zip",
     "UrlSourceCode": "https://github.com/lvonkacsoh/Flow.Launcher.Plugin.IsPrime/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/lvonkacsoh/Flow.Launcher.Plugin.IsPrime@main/assets/icon.png",
     "Tested": true,
-    "LatestReleaseDate": "2022-07-21T07:20:53Z",
+    "LatestReleaseDate": "2025-03-13T19:40:06Z",
     "DateAdded": "2022-10-08T16:26:57Z"
 }
