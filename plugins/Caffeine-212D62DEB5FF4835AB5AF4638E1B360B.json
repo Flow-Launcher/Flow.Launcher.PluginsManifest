@@ -1,14 +1,14 @@
 {
     "ID": "212D62DEB5FF4835AB5AF4638E1B360B",
     "Name": "Caffeine",
-    "Description": "Keep your computer awake",
+    "Description": "Keep your computer awake and screen on without having to change your power settings.",
     "Author": "o850cHQk",
-    "Version": "1.0.2",
+    "Version": "1.1.0",
     "Language": "csharp",
     "Website": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
-    "UrlDownload": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine/releases/download/v1.0.2/Caffeine-1.0.2.zip",
+    "UrlDownload": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine/releases/download/v1.1.0/Caffeine-1.1.0.zip",
     "UrlSourceCode": "https://github.com/o850cHQk/Flow.Launcher.Plugin.Caffeine",
     "IcoPath": "https://cdn.jsdelivr.net/gh/o850cHQk/Flow.Launcher.Plugin.Caffeine@main/Images/icon.png",
-    "LatestReleaseDate": "2025-06-30T02:10:09Z",
+    "LatestReleaseDate": "2025-09-06T06:06:12Z",
     "DateAdded": "2025-06-30T12:50:59Z"
 }
