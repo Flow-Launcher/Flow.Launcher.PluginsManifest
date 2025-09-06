@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.used-by/releases/download/v0.0.5/flow.launcher.plugin.used-by.zip",
     "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.used-by",
     "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.used-by@main/assets/logo.png",
-    "LatestReleaseDate": "2025-09-06T02:18:28Z"
+    "LatestReleaseDate": "2025-09-06T02:18:28Z",
+    "Tested": true,
+    "DateAdded": "2025-09-06T09:19:15Z"
 }
