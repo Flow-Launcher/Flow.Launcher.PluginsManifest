@@ -1,0 +1,12 @@
+{
+    "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
+    "Name": "Used-By",
+    "Description": "Find which applications are currently using a path",
+    "Author": "isnandar1471",
+    "Version": "0.0.2",
+    "Language": "python",
+    "Website": "https://github.com/isnandar1471/flow.launcher.plugin.used-by",
+    "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.used-by/releases/download/v0.0.2/flow.launcher.plugin.used-by.zip",
+    "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.used-by",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.used-by@main/assets/logo.png"
+}
