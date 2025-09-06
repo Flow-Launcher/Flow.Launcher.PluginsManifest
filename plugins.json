@@ -132,13 +132,13 @@
         "Name": "MultiTranslate",
         "Description": "A Flow-Launcher plugin that translates text using multiple translation services.",
         "Author": "Lu-Jiejie",
-        "Version": "0.2.4",
+        "Version": "0.2.5",
         "Language": "typescript",
         "Website": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate",
-        "UrlDownload": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.2.4/MultiTranslate-0.2.4.zip",
+        "UrlDownload": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.2.5/MultiTranslate-0.2.5.zip",
         "UrlSourceCode": "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lu-jiejie/flow-launcher-multi-translate@main/assets/icon.png",
-        "LatestReleaseDate": "2025-09-05T15:17:37Z",
+        "LatestReleaseDate": "2025-09-06T09:23:57Z",
         "DateAdded": "2025-06-26T06:35:56Z"
     },
     {
@@ -3832,7 +3832,9 @@
         "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.used-by/releases/download/v0.0.5/flow.launcher.plugin.used-by.zip",
         "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.used-by",
         "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.used-by@main/assets/logo.png",
-        "LatestReleaseDate": "2025-09-06T02:18:28Z"
+        "LatestReleaseDate": "2025-09-06T02:18:28Z",
+        "Tested": true,
+        "DateAdded": "2025-09-06T09:19:15Z"
     },
     {
         "ID": "bb3ca236-f416-46d5-b88b-597748c33dce",
