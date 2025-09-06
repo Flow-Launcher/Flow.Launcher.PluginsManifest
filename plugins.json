@@ -302,16 +302,16 @@
     {
         "ID": "CEA0FDFC6D3B4085823D60DC76F28855",
         "Name": "Calculator",
-        "Description": "Provide mathematical calculations.(Try 5*3-2 in Flow Launcher)",
-        "Author": "cxfksword",
-        "Version": "1.20.2",
+        "Description": "Perform mathematical calculations (including hexadecimal values). Use ',' or '.' as thousand separator or decimal place.",
+        "Author": "cxfksword, dcog989",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v1.20.2/Flow.Launcher.Plugin.Calculator.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator/releases/download/v2.0.0/Flow.Launcher.Plugin.Calculator.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Calculator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Calculator/Images/calculator.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2025-07-13T14:20:12Z"
+        "LatestReleaseDate": "2025-09-06T04:11:06Z"
     },
     {
         "ID": "91B97FA34859445782AEF1893DE4E350",
@@ -957,13 +957,13 @@
         "Name": "MDict",
         "Description": "Search in MDict dictionaries",
         "Author": "Jack251970",
-        "Version": "1.0.1",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v1.0.1/MDict-1.0.1.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v2.0.0/MDict-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.MDict/src/Flow.Launcher.Plugin.MDict/Images/icon.png",
-        "LatestReleaseDate": "2025-07-07T08:20:06Z",
+        "LatestReleaseDate": "2025-09-06T06:31:37Z",
         "DateAdded": "2025-07-07T18:34:26Z"
     },
     {
@@ -1475,14 +1475,14 @@
         "Name": "Browser Bookmarks",
         "Description": "Search your browser bookmarks",
         "Author": "qianlifeng, Ioannis G.",
-        "Version": "1.20.2",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.BrowserBookmark/Images/bookmark.png",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark/releases/download/v1.20.2/Flow.Launcher.Plugin.BrowserBookmark.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark/releases/download/v2.0.0/Flow.Launcher.Plugin.BrowserBookmark.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.BrowserBookmark",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2025-07-13T14:19:59Z"
+        "LatestReleaseDate": "2025-09-06T04:10:59Z"
     },
     {
         "ID": "27ad17d5-dacb-4732-9653-03def5f86125",
@@ -1810,13 +1810,13 @@
         "Name": "Window Manager",
         "Description": "Easily move and resize application windows",
         "Author": "Jack251970",
-        "Version": "1.2.1",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/releases/download/v1.2.1/Window.Manager-1.2.1.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/releases/download/v2.0.0/Window.Manager-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.WindowManager/src/Flow.Launcher.Plugin.WindowManager/Images/icon.png",
-        "LatestReleaseDate": "2025-06-08T15:37:53Z",
+        "LatestReleaseDate": "2025-09-06T07:31:38Z",
         "DateAdded": "2025-06-05T03:49:32Z"
     },
     {
@@ -1838,13 +1838,13 @@
         "Name": "Clipboard+",
         "Description": "Easily manage your clipboard history and Windows Clipboard History with support for text, images, and files",
         "Author": "Jack251970",
-        "Version": "2.4.6",
+        "Version": "3.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v2.4.6/Clipboard%2B-2.4.6.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/releases/download/v3.0.0/Clipboard%2B-3.0.0.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.ClipboardPlus/src/Flow.Launcher.Plugin.ClipboardPlus/Images/clipboard.png",
-        "LatestReleaseDate": "2025-08-28T09:21:34Z",
+        "LatestReleaseDate": "2025-09-06T07:15:18Z",
         "DateAdded": "2024-08-21T01:22:18Z"
     },
     {
@@ -1866,13 +1866,13 @@
         "Name": "Uninstaller+",
         "Description": "Easily uninstall desktop and Microsoft store programs based on Bulk-Crap-Uninstaller",
         "Author": "Jack251970",
-        "Version": "1.2.2",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v1.2.2/Uninstaller%2B-1.2.2.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v2.0.0/Uninstaller%2B-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/src/Flow.Launcher.Plugin.UninstallerPlus/Images/icon.png",
-        "LatestReleaseDate": "2025-07-28T07:18:20Z",
+        "LatestReleaseDate": "2025-09-06T07:41:01Z",
         "DateAdded": "2025-06-05T03:49:32Z"
     },
     {
@@ -2557,14 +2557,14 @@
         "Name": "Explorer",
         "Description": "Find and manage files and folders via Windows Search or Everything",
         "Author": "Jeremy Wu",
-        "Version": "1.20.2",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v1.20.2/Flow.Launcher.Plugin.Explorer.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer/releases/download/v2.0.0/Flow.Launcher.Plugin.Explorer.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2025-07-13T14:20:21Z"
+        "LatestReleaseDate": "2025-09-06T04:11:14Z"
     },
     {
         "ID": "4FD15DF08F7146B3AC36AB5F143D8058",
@@ -3820,6 +3820,19 @@
         "UrlSourceCode": "https://github.com/Cens-r/flow-roblox-docs/tree/master",
         "LatestReleaseDate": "2025-07-16T03:53:05Z",
         "DateAdded": "2025-06-06T01:55:32Z"
+    },
+    {
+        "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
+        "Name": "Used-By",
+        "Description": "Find which applications are currently using a path",
+        "Author": "isnandar1471",
+        "Version": "0.0.5",
+        "Language": "python",
+        "Website": "https://github.com/isnandar1471/flow.launcher.plugin.used-by",
+        "UrlDownload": "https://github.com/isnandar1471/flow.launcher.plugin.used-by/releases/download/v0.0.5/flow.launcher.plugin.used-by.zip",
+        "UrlSourceCode": "https://github.com/isnandar1471/flow.launcher.plugin.used-by",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/isnandar1471/flow.launcher.plugin.used-by@main/assets/logo.png",
+        "LatestReleaseDate": "2025-09-06T02:18:28Z"
     },
     {
         "ID": "bb3ca236-f416-46d5-b88b-597748c33dce",
