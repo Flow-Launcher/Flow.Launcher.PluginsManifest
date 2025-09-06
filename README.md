@@ -35,11 +35,12 @@ Looking for a list of currently available plugins in Flow? Visit [here](https://
      "IcoPath": "Plugin icon image's CDN URL, e.g. https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython@main/Images/app.png"
    }
    ```
-5. For `IcoPath`, use a CDN provider for global accessibility. [jsdelivr.com](https://www.jsdelivr.com/) for example as shown above, works well with GitHub repositories.
-6. It is a requirement to set up a GitHub Actions workflow for automated build and release. Follow the guide [here](https://www.flowlauncher.com/docs/#/py-setup-project?id=_1-add-github-workflow) and use [this](https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/blob/main/.github/workflows/Publish%20Release.yml) as an example.
-7. It is a requirement that your plugin conforms with the [Plugin Store policy](#plugin-store-policy).
-8. Submit a pull request.
-9. The plugin will be available in Flow after the pull request is approved by the Flow Launcher Team.
+5. Optionally, a plugin can also have the "MinimumAppVersion" property set, restricting it to only appear and be installable on versions of Flow Launcher that meet or exceed the specified version number. For example, setting `"MinimumAppVersion": "2.0.0"` ensures the plugin will not show up or be installable on any Flow Launcher version older than 2.0.0.
+6. For `IcoPath`, use a CDN provider for global accessibility. [jsdelivr.com](https://www.jsdelivr.com/) for example as shown above, works well with GitHub repositories.
+7. It is a requirement to set up a GitHub Actions workflow for automated build and release. Follow the guide [here](https://www.flowlauncher.com/docs/#/py-setup-project?id=_1-add-github-workflow) and use [this](https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython/blob/main/.github/workflows/Publish%20Release.yml) as an example.
+8. It is a requirement that your plugin conforms with the [Plugin Store policy](#plugin-store-policy).
+9. Submit a pull request.
+10. The plugin will be available in Flow after the pull request is approved by the Flow Launcher Team.
 
 Flow downloads the manifest (plugins.json) file from various CDN providers, which means the availability of your new plugin depends on when these providers sync their updated files. This syncing process can take several days and sometimes up to a week across all providers. During this period, you may see intermittent updates for your plugin in the manifest, as the provider chosen for retrieval is selected randomly based on the fastest fetch speed.
 
