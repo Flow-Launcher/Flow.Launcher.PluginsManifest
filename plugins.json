@@ -754,13 +754,13 @@
         "Name": "Discord Webhook",
         "Description": "send messages through discord webhooks",
         "Author": "cibere",
-        "Version": "0.0.1",
+        "Version": "0.0.2",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook/releases/download/v0.0.1/Flow.Launcher.Plugin.DiscordWebhook.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook/releases/download/v0.0.2/Flow.Launcher.Plugin.DiscordWebhook.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.DiscordWebhook",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.DiscordWebhook@master/assets/app.png",
-        "LatestReleaseDate": "2025-03-10T18:46:13Z",
+        "LatestReleaseDate": "2025-09-07T18:53:03Z",
         "DateAdded": "2025-03-14T03:31:04Z"
     },
     {
@@ -1278,7 +1278,7 @@
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.0.3/Flow.Launcher.Plugin.Wordle.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
         "IcoPath": "https://i.imgur.com/5OWWgvq.png",
-        "LatestReleaseDate": "2024-12-28T06:48:58Z",
+        "LatestReleaseDate": "2025-09-07T19:19:26Z",
         "DateAdded": "2024-12-01T12:40:10Z"
     },
     {
@@ -2673,13 +2673,13 @@
         "Name": "Flow Load Notification",
         "Description": "A plugin that only sends a notification when the plugin gets loaded after a restart or on first start.",
         "Author": "cibere",
-        "Version": "0.0.4",
+        "Version": "0.0.5",
         "Language": "python_v2",
-        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/tree/v0.0.4",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.4/Flow.Launcher.Plugin.FlowLoadNotification.zip",
+        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.5/Flow.Launcher.Plugin.FlowLoadNotification.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
         "IcoPath": "https://i.imgur.com/G0lVumf.png",
-        "LatestReleaseDate": "2024-12-28T06:37:43Z",
+        "LatestReleaseDate": "2025-09-07T19:12:35Z",
         "DateAdded": "2024-11-24T12:38:14Z"
     },
     {
