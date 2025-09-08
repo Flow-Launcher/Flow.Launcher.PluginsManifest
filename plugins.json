@@ -1601,6 +1601,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "09f22573-52b9-433b-832e-450e2f91093b",
+        "Name": "Dialog Jump Files",
+        "Description": "Use Files as third-party explorer for dialog jump feature in Flow Launcher",
+        "Author": "Jack251970",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.DialogJump.Files",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.DialogJump.Files/releases/download/v1.0.0/Dialog.Jump.Files-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.DialogJump.Files/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.Plugin.DialogJump.Files@master/src/Images/icon.png",
+        "LatestReleaseDate": "2025-09-08T03:10:07Z"
+    },
+    {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
         "Name": "How Long To Beat",
         "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
@@ -2673,13 +2686,13 @@
         "Name": "Flow Load Notification",
         "Description": "A plugin that only sends a notification when the plugin gets loaded after a restart or on first start.",
         "Author": "cibere",
-        "Version": "0.0.5",
+        "Version": "0.0.6",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.5/Flow.Launcher.Plugin.FlowLoadNotification.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.6/Flow.Launcher.Plugin.FlowLoadNotification.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
         "IcoPath": "https://i.imgur.com/G0lVumf.png",
-        "LatestReleaseDate": "2025-09-07T19:12:35Z",
+        "LatestReleaseDate": "2025-09-08T04:02:06Z",
         "DateAdded": "2024-11-24T12:38:14Z"
     },
     {
@@ -2941,20 +2954,6 @@
         "Tested": true,
         "DateAdded": "2024-03-08T10:42:47Z",
         "LatestReleaseDate": "2024-09-03T16:12:39Z"
-    },
-    {
-        "ID": "8d7d2301-4d69-4da2-a19b-e51c8ea239a9",
-        "Name": "PyRepl",
-        "Description": "A python repl implimentation in flow",
-        "Author": "cibere",
-        "Version": "0.0.4",
-        "Language": "executable_v2",
-        "Website": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl/tree/v0.0.4",
-        "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.PyRepl/releases/download/v0.0.4/Flow.Launcher.Plugin.PyRepl.zip",
-        "IcoPath": "https://i.imgur.com/A7VSboi.png",
-        "LatestReleaseDate": "2024-12-10T00:29:13Z",
-        "DateAdded": "2024-12-08T06:29:32Z"
     },
     {
         "ID": "B9EE77F84A9141C3850BB329D45B8D9A",
@@ -3667,13 +3666,13 @@
         "Name": "rtfm",
         "Description": "a rtfm lookup plugin",
         "Author": "cibere",
-        "Version": "1.4.4",
+        "Version": "1.4.5",
         "Language": "python_v2",
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
-        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.4/Flow.Launcher.Plugin.rtfm.zip",
+        "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.5/Flow.Launcher.Plugin.rtfm.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
         "IcoPath": "https://i.imgur.com/cvI93QW.png",
-        "LatestReleaseDate": "2025-08-11T00:41:16Z",
+        "LatestReleaseDate": "2025-09-08T04:03:49Z",
         "DateAdded": "2024-12-20T12:39:36Z"
     },
     {
