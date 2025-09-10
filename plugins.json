@@ -81,7 +81,7 @@
         "UrlDownload": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin/releases/download/v1.1.1/Flow.Launcher.Plugin.UnityLauncherPlugin.zip",
         "UrlSourceCode": "https://github.com/Ghost-Miner/Unity-project-launcher-plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Ghost-Miner/Unity-project-launcher-plugin@refs/heads/main/plugin-icon.png",
-        "LatestReleaseDate": "2025-09-09T15:40:55Z",
+        "LatestReleaseDate": "2025-09-10T16:39:58Z",
         "DateAdded": "2024-12-17T12:44:56Z"
     },
     {
@@ -3362,14 +3362,14 @@
         "Name": "Visual Studio Launcher",
         "Description": "Open your recent solutions, projects and files in Visual Studio",
         "Author": "Odotocodot",
-        "Version": "1.0.3",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/VisualStudio4Flow",
-        "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.0.3/Flow.Launcher.Plugin.VisualStudioLauncher.zip",
+        "UrlDownload": "https://github.com/Odotocodot/VisualStudio4Flow/releases/download/v1.1.0/Flow.Launcher.Plugin.VisualStudio.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/VisualStudio4Flow/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/VisualStudio4Flow@master/Images/icon.png",
         "DateAdded": "2023-08-31T22:46:40Z",
-        "LatestReleaseDate": "2025-05-21T19:02:15Z"
+        "LatestReleaseDate": "2025-09-10T17:12:28Z"
     },
     {
         "ID": "2F2C2193E9A54437AA69B846121976D8",
