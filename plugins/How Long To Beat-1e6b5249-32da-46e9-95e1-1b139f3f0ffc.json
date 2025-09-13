@@ -1,0 +1,12 @@
+{
+  "ID": "1e6b5249-32da-46e9-95e1-1b139f3f0ffc",
+  "Name": "How Long To Beat",
+  "Description": "Search a game's playtime on How Long To Beat",
+  "Author": "Psi",
+  "Version": "1.0.1",
+  "Language": "python",
+  "Website": "https://github.com/git-psi/FlowLauncher-HowLongToBeat-Plugin",
+  "UrlDownload": "https://github.com/git-psi/FlowLauncher-HowLongToBeat-Plugin/releases/download/1.0.1/HowLongToBeat-1.0.1.zip",
+  "UrlSourceCode": "https://github.com/git-psi/FlowLauncher-HowLongToBeat-Plugin",
+  "IcoPath": "https://raw.githubusercontent.com/git-psi/FlowLauncher-HowLongToBeat-Plugin/main/icon.png"
+}
