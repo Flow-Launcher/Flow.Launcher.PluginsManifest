@@ -3,13 +3,13 @@
     "Name": "ShikiFlow",
     "Description": "Search anime/manga on Shikimori with Flow (Launcher)",
     "Author": "NoPlagiarism",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Language": "python",
     "IcoPath": "https://cdn.jsdelivr.net/gh/NoPlagiarism/ShikiFlow@main/Artworks/logo128.png",
     "Website": "https://github.com/NoPlagiarism/ShikiFlow",
-    "UrlDownload": "https://github.com/NoPlagiarism/ShikiFlow/releases/download/v1.1.0/Flow.Launcher.Plugin.ShikiFlow.zip",
+    "UrlDownload": "https://github.com/NoPlagiarism/ShikiFlow/releases/download/v1.1.1/Flow.Launcher.Plugin.ShikiFlow.zip",
     "UrlSourceCode": "https://github.com/NoPlagiarism/ShikiFlow/tree/main",
     "Tested": true,
     "DateAdded": "2024-08-03T22:34:00Z",
-    "LatestReleaseDate": "2024-11-20T19:10:57Z"
+    "LatestReleaseDate": "2025-09-13T11:17:48Z"
 }
