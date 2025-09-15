@@ -4,7 +4,7 @@
   "Description": "a plugin that help you insert words into formatted strings",
   "Author": "llxee",
   "Version": "1.0.0",
-  "Language": "C#",
+  "Language": "csharp",
   "Website": "https://github.com/llxee/Flow.Launcher.Plugin.Insert",
   "UrlDownload": "https://github.com/llxee/Flow.Launcher.Plugin.Insert/releases/download/v1.0.0/Flow.Launcher.Plugin.Insert.zip",
   "UrlSourceCode": "https://github.com/llxee/Flow.Launcher.Plugin.Insert/tree/main",
