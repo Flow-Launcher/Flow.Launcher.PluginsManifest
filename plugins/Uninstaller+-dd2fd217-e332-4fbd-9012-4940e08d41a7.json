@@ -3,12 +3,12 @@
     "Name": "Uninstaller+",
     "Description": "Easily uninstall desktop and Microsoft store programs based on Bulk-Crap-Uninstaller",
     "Author": "Jack251970",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Language": "csharp",
     "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus",
-    "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v2.0.0/Uninstaller%2B-2.0.0.zip",
+    "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v2.0.1/Uninstaller%2B-2.0.1.zip",
     "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/tree/master",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/src/Flow.Launcher.Plugin.UninstallerPlus/Images/icon.png",
-    "LatestReleaseDate": "2025-09-06T07:41:01Z",
+    "LatestReleaseDate": "2025-09-19T07:41:27Z",
     "DateAdded": "2025-06-05T03:49:32Z"
 }
