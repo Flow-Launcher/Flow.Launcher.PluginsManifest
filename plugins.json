@@ -680,14 +680,14 @@
         "Name": "StringUtils",
         "Description": "a multi-purpose plugin that supports UUID/GUID/random string generation, base64/URL encoding and decoding",
         "Author": "t-tan",
-        "Version": "1.0.2",
+        "Version": "1.0.3",
         "Language": "csharp",
         "Website": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils",
-        "UrlDownload": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils/releases/download/v1.0.2/Flow.Launcher.Plugin.StringUtils.zip",
+        "UrlDownload": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils/releases/download/v1.0.3/Flow.Launcher.Plugin.StringUtils.zip",
         "UrlSourceCode": "https://github.com/t-tan/Flow.Launcher.Plugin.StringUtils",
         "IcoPath": "https://cdn.jsdelivr.net/gh/t-tan/Flow.Launcher.Plugin.StringUtils@main/Flow.Launcher.Plugin.StringUtils/Images/icon.png",
         "DateAdded": "2023-04-16T22:43:23Z",
-        "LatestReleaseDate": "2025-09-17T05:40:27Z"
+        "LatestReleaseDate": "2025-09-24T16:29:26Z"
     },
     {
         "ID": "b6a9192c-6646-4c77-bc6b-be4f8195ffda",
