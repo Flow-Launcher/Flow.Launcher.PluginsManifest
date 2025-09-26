@@ -1,0 +1,18 @@
+{
+  "ID": "ecf33422-2cb1-4f7b-872f-888e1c24c5a2",
+  "ActionKeyword": "sb",
+  "Name": "SublimeProjectLauncher",
+  "Description": "Search and launch project folders in Sublime Text",
+  "Author": "Rahul Gupta",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/Rahulrgd/SublimeProjectLauncher",
+  "UrlDownload": "https://github.com/Rahulrgd/SublimeProjectLauncher/releases/download/v1.0.0/SublimeProjectLauncher-v1.0.0.zip",
+  "UrlSourceCode": "https://github.com/Rahulrgd/SublimeProjectLauncher",
+  "IcoPath": "https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000",
+  "ExecuteFileName": "main.py",
+  "LatestReleaseDate": "2025-05-05T00:00:00Z",
+  "DateAdded": "2025-05-05T00:00:00Z",
+  "Tested": true,
+  "Settings": []
+}
