@@ -1,0 +1,12 @@
+{
+  "ID": "00C225A00D464F8486938E8D61A760A7",
+  "Name": "Nbnhhsh",
+  "Description": "「能不能好好说话？」 拼音首字母缩写翻译工具",
+  "Author": "dragonish",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh",
+  "UrlDownload": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh/releases/download/v1.0.0/Flow.Launcher.Plugin.Nbnhhsh.zip",
+  "UrlSourceCode": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/dragonish/Flow.Launcher.Plugin.Nbnhhsh@main/Images/icon.png"
+}
