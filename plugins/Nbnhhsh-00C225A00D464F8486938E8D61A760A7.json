@@ -1,12 +1,13 @@
 {
-  "ID": "00C225A00D464F8486938E8D61A760A7",
-  "Name": "Nbnhhsh",
-  "Description": "「能不能好好说话？」 拼音首字母缩写翻译工具",
-  "Author": "dragonish",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh",
-  "UrlDownload": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh/releases/download/v1.0.0/Flow.Launcher.Plugin.Nbnhhsh.zip",
-  "UrlSourceCode": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/dragonish/Flow.Launcher.Plugin.Nbnhhsh@main/Images/icon.png"
+    "ID": "00C225A00D464F8486938E8D61A760A7",
+    "Name": "Nbnhhsh",
+    "Description": "\u300c\u80fd\u4e0d\u80fd\u597d\u597d\u8bf4\u8bdd\uff1f\u300d \u62fc\u97f3\u9996\u5b57\u6bcd\u7f29\u5199\u7ffb\u8bd1\u5de5\u5177",
+    "Author": "dragonish",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh",
+    "UrlDownload": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh/releases/download/v1.0.0/Flow.Launcher.Plugin.Nbnhhsh.zip",
+    "UrlSourceCode": "https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/dragonish/Flow.Launcher.Plugin.Nbnhhsh@main/Images/icon.png",
+    "LatestReleaseDate": "2025-10-13T15:39:15Z"
 }
