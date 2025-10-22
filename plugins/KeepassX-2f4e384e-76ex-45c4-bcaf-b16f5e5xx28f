@@ -7,6 +7,8 @@
     "Version": "0.9.3",
     "Language": "python",
     "Website": "https://github.com/iQuick/Flow.Launcher.KeepassX",
+    "https://github.com/iQuick/Flow.Launcher.KeepassX/archive/refs/tags/0.9.3.zip",
+    "UrlSourceCode": "https://github.com/iQuick/Flow.Launcher.KeepassX",
     "IcoPath": "assets/app.ico",
     "ExecuteFileName": "main.py"
 }
