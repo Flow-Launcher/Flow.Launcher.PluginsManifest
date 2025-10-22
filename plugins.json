@@ -2707,7 +2707,8 @@
         "UrlDownload": "https://github.com/haugjan/Flow.JiraSearch/releases/download/v1.1.0/JiraSearch-1.1.0.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.JiraSearch.git",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.JiraSearch@main/Flow.JiraSearch/Images/icon.png",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": null,
+        "DateAdded": "2025-10-22T01:53:34Z"
     },
     {
         "ID": "d13e69b5-048a-4dce-a950-cbdd5f61f3be",
