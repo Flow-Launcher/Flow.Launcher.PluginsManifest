@@ -1,6 +1,6 @@
 {
     "ID": "ced64af5-db04-44dc-b287-0d35d28943c9",
-    "Name": "ByteStash",
+    "Name": "Byte Stash",
     "Description": "A FlowLauncher plugin to manage and access Code Snippets in ByteStash",
     "Author": "TillKnollmann",
     "Version": "1.0.0",
