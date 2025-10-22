@@ -1,0 +1,12 @@
+{
+    "ID": "2f4e384e-76ex-45c4-bcaf-b16f5e5xx28f",
+    "ActionKeyword": "kp",
+    "Name": "KeepassX",
+    "Description": "Get KeepassX Password",
+    "Author": "xiaobu",
+    "Version": "0.9.3",
+    "Language": "python",
+    "Website": "https://github.com/iQuick/Flow.Launcher.KeepassX",
+    "IcoPath": "assets/app.ico",
+    "ExecuteFileName": "main.py"
+}
