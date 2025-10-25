@@ -1,12 +1,13 @@
 {
-  "ID": "DE7F9362E1104345987F60C19543EF06",
-  "Name": "MIME",
-  "Description": "Query MIME types",
-  "Author": "dragonish",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME",
-  "UrlDownload": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME/releases/download/v1.0.0/Flow.Launcher.Plugin.MIME.zip",
-  "UrlSourceCode": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/dragonish/Flow.Launcher.Plugin.MIME@main/Images/icon.png"
+    "ID": "DE7F9362E1104345987F60C19543EF06",
+    "Name": "MIME",
+    "Description": "Query MIME types",
+    "Author": "dragonish",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME",
+    "UrlDownload": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME/releases/download/v1.0.0/Flow.Launcher.Plugin.MIME.zip",
+    "UrlSourceCode": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/dragonish/Flow.Launcher.Plugin.MIME@main/Images/icon.png",
+    "LatestReleaseDate": "2025-10-25T09:32:02Z"
 }
