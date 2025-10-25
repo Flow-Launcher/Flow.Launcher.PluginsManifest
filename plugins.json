@@ -2439,7 +2439,8 @@
         "UrlDownload": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME/releases/download/v1.0.0/Flow.Launcher.Plugin.MIME.zip",
         "UrlSourceCode": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME",
         "IcoPath": "https://cdn.jsdelivr.net/gh/dragonish/Flow.Launcher.Plugin.MIME@main/Images/icon.png",
-        "LatestReleaseDate": "2025-10-25T09:32:02Z"
+        "LatestReleaseDate": "2025-10-25T09:32:02Z",
+        "DateAdded": "2025-10-25T18:30:23Z"
     },
     {
         "ID": "22a114b1-aa5f-4bca-8763-03d58bc4029b",
