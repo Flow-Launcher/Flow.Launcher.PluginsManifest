@@ -1,7 +1,7 @@
 {
     "ID": "435b5226a00840cebfbdb54dacd26e9d",
     "Name": "Cursor Workspaces",
-    "Decription": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in Cursor.",
+    "Description": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in Cursor.",
     "Author": "cou723",
     "Version": "1.0.0",
     "Language": "csharp",
