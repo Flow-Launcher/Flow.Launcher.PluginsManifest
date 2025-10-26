@@ -8,7 +8,7 @@
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.6/Flow.Launcher.Plugin.FlowLoadNotification.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
-    "IcoPath": "https://i.imgur.com/G0lVumf.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.FlowLoadNotification/assets/app.png",
     "LatestReleaseDate": "2025-09-08T04:02:06Z",
     "DateAdded": "2024-11-24T12:38:14Z"
 }

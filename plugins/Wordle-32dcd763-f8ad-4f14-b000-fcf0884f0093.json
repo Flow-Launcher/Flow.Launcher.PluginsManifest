@@ -8,7 +8,7 @@
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.1.1/Flow.Launcher.Plugin.Wordle.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
-    "IcoPath": "https://i.imgur.com/5OWWgvq.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.Wordle/assets/app.png",
     "LatestReleaseDate": "2025-10-06T20:18:28Z",
     "DateAdded": "2024-12-01T12:40:10Z"
 }
