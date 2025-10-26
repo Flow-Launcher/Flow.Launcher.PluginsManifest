@@ -81,7 +81,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher/releases/download/v1.0.3/Flow.Launcher.Plugin.SteamAccountSwitcher.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
-        "IcoPath": "https://i.imgur.com/7kxy2JP.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher/Images/app.png",
         "LatestReleaseDate": "2024-11-18T00:02:20Z",
         "Tested": true,
         "DateAdded": "2024-11-21T09:23:24Z"
@@ -125,7 +125,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/v2.1.0",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/releases/download/v2.1.0/Flow.Launcher.Plugin.WordNikDictionary.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/main",
-        "IcoPath": "https://i.imgur.com/VTVaFuF.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.WordNikDictionary/Images/app.png",
         "LatestReleaseDate": "2024-10-28T03:23:35Z",
         "Tested": true,
         "DateAdded": "2024-10-26T21:17:53Z"
@@ -400,7 +400,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.10/Flow.Launcher.Plugin.ScreenBrightness.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
-        "IcoPath": "https://i.imgur.com/AvRgwSl.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.ScreenBrightness/assets/app.png",
         "LatestReleaseDate": "2025-07-08T12:36:25Z",
         "DateAdded": "2024-12-22T01:45:40Z"
     },
@@ -859,7 +859,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.6/Flow.Launcher.Plugin.FlowLoadNotification.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
-        "IcoPath": "https://i.imgur.com/G0lVumf.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.FlowLoadNotification/assets/app.png",
         "LatestReleaseDate": "2025-09-08T04:02:06Z",
         "DateAdded": "2024-11-24T12:38:14Z"
     },
@@ -1007,7 +1007,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.5/Flow.Launcher.Plugin.rtfm.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
-        "IcoPath": "https://i.imgur.com/cvI93QW.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.rtfm/assets/app.png",
         "LatestReleaseDate": "2025-09-08T04:03:49Z",
         "DateAdded": "2024-12-20T12:39:36Z"
     },
@@ -1291,7 +1291,7 @@
     {
         "ID": "435b5226a00840cebfbdb54dacd26e9d",
         "Name": "Cursor Workspaces",
-        "Decription": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in Cursor.",
+        "Description": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in Cursor.",
         "Author": "cou723",
         "Version": "1.0.0",
         "Language": "csharp",
@@ -3025,7 +3025,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.1.1/Flow.Launcher.Plugin.Wordle.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
-        "IcoPath": "https://i.imgur.com/5OWWgvq.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.Wordle/assets/app.png",
         "LatestReleaseDate": "2025-10-06T20:18:28Z",
         "DateAdded": "2024-12-01T12:40:10Z"
     },
@@ -3633,7 +3633,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks/tree/v0.2.2",
         "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.2.3/FirefoxKeywordBookmarks.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
-        "IcoPath": "https://i.imgur.com/1cGHQTp.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/FirefoxKeywordBookmarks/assets/app.png",
         "LatestReleaseDate": "2025-02-09T22:12:13Z",
         "Tested": true,
         "DateAdded": "2024-10-31T12:40:23Z"
