@@ -3,12 +3,12 @@
     "Name": "Byte Stash",
     "Description": "Search and manage code snippets in ByteStash",
     "Author": "TillKnollmann",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Language": "csharp",
     "Website": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.ByteStash",
-    "UrlDownload": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.ByteStash/releases/download/v1.1.0/Flow.Launcher.Plugin.ByteStash-1.1.0.zip",
+    "UrlDownload": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.ByteStash/releases/download/v1.1.1/Flow.Launcher.Plugin.ByteStash-1.1.1.zip",
     "UrlSourceCode": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.ByteStash",
     "IcoPath": "https://cdn.jsdelivr.net/gh/TillKnollmann/Flow.Launcher.Plugin.ByteStash@main/Images/app.png",
-    "LatestReleaseDate": "2025-10-28T23:59:03Z",
+    "LatestReleaseDate": "2025-10-29T08:54:28Z",
     "DateAdded": "2025-10-24T01:45:15Z"
 }
