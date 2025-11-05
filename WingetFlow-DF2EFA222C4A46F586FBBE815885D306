@@ -1,0 +1,14 @@
+{
+  "ID": "DF2EFA222C4A46F586FBBE815885D306",
+  "Name": "WingetFlow",
+  "Description": "A plugin to install and update packages with Winget",
+  "Author": "gdemazeux",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "https://github.com/gdemazeux/WingetFlow",
+  "UrlDownload": "https://github.com/gdemazeux/WingetFlow/releases/download/v0.1.0/Flow.Launcher.Plugin.WingetFlow.zip",
+  "UrlSourceCode": "https://github.com/gdemazeux/WingetFlow/tree/master",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/gdemazeux/WingetFlow@master/Flow.Launcher.Plugin.WingetFlow/Images/app.png",
+  "DateAdded": "2025-11-05T10:56:00Z",
+  "LatestReleaseDate": "2025-11-05T10:56:00Z"
+}
