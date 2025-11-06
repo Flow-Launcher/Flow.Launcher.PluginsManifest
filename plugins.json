@@ -81,7 +81,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher/releases/download/v1.0.3/Flow.Launcher.Plugin.SteamAccountSwitcher.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
-        "IcoPath": "https://i.imgur.com/7kxy2JP.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher/Images/app.png",
         "LatestReleaseDate": "2024-11-18T00:02:20Z",
         "Tested": true,
         "DateAdded": "2024-11-21T09:23:24Z"
@@ -125,7 +125,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/v2.1.0",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/releases/download/v2.1.0/Flow.Launcher.Plugin.WordNikDictionary.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/main",
-        "IcoPath": "https://i.imgur.com/VTVaFuF.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.WordNikDictionary/Images/app.png",
         "LatestReleaseDate": "2024-10-28T03:23:35Z",
         "Tested": true,
         "DateAdded": "2024-10-26T21:17:53Z"
@@ -400,7 +400,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.10/Flow.Launcher.Plugin.ScreenBrightness.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
-        "IcoPath": "https://i.imgur.com/AvRgwSl.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.ScreenBrightness/assets/app.png",
         "LatestReleaseDate": "2025-07-08T12:36:25Z",
         "DateAdded": "2024-12-22T01:45:40Z"
     },
@@ -859,7 +859,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.6/Flow.Launcher.Plugin.FlowLoadNotification.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
-        "IcoPath": "https://i.imgur.com/G0lVumf.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.FlowLoadNotification/assets/app.png",
         "LatestReleaseDate": "2025-09-08T04:02:06Z",
         "DateAdded": "2024-11-24T12:38:14Z"
     },
@@ -1007,7 +1007,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm/releases/download/v1.4.5/Flow.Launcher.Plugin.rtfm.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.rtfm",
-        "IcoPath": "https://i.imgur.com/cvI93QW.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.rtfm/assets/app.png",
         "LatestReleaseDate": "2025-09-08T04:03:49Z",
         "DateAdded": "2024-12-20T12:39:36Z"
     },
@@ -1291,7 +1291,7 @@
     {
         "ID": "435b5226a00840cebfbdb54dacd26e9d",
         "Name": "Cursor Workspaces",
-        "Decription": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in Cursor.",
+        "Description": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in Cursor.",
         "Author": "cou723",
         "Version": "1.0.0",
         "Language": "csharp",
@@ -1818,7 +1818,7 @@
         "Website": "https://github.com/rrFlowLauncher/amazing_marvin/",
         "UrlDownload": "https://github.com/rrFlowLauncher/amazing_marvin/releases/download/v0.2.0/amazing_marvin.zip",
         "UrlSourceCode": "https://github.com/rrFlowLauncher/amazing_marvin",
-        "IcoPath": "https://github.com/rrFlowLauncher/amazing_marvin/blob/main/Images/Amazing_Marvin.09233c09.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/rrFlowLauncher/amazing_marvin@main/Images/Amazing_Marvin.09233c09.png",
         "Tested": true,
         "DateAdded": "2023-12-16T06:48:43Z",
         "LatestReleaseDate": "2023-11-23T19:45:12Z"
@@ -2429,6 +2429,20 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "DE7F9362E1104345987F60C19543EF06",
+        "Name": "MIME",
+        "Description": "Query MIME types",
+        "Author": "dragonish",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME",
+        "UrlDownload": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME/releases/download/v1.0.0/Flow.Launcher.Plugin.MIME.zip",
+        "UrlSourceCode": "https://github.com/dragonish/Flow.Launcher.Plugin.MIME",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/dragonish/Flow.Launcher.Plugin.MIME@main/Images/icon.png",
+        "LatestReleaseDate": "2025-10-25T09:32:02Z",
+        "DateAdded": "2025-10-25T18:30:23Z"
+    },
+    {
         "ID": "22a114b1-aa5f-4bca-8763-03d58bc4029b",
         "Name": "Tenor",
         "Description": "Searches Tenor for GIFs",
@@ -2695,6 +2709,20 @@
         "LatestReleaseDate": "2025-01-24T19:13:38Z",
         "Tested": true,
         "DateAdded": "2025-01-29T12:38:36Z"
+    },
+    {
+        "ID": "BD32A62C-6F98-4541-AE8E-17B46458595F",
+        "Name": "Jira Search",
+        "Description": "Search for and open Jira issues directly from Flow Launcher.",
+        "Author": "Jan Haug",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/haugjan/Flow.JiraSearch",
+        "UrlDownload": "https://github.com/haugjan/Flow.JiraSearch/releases/download/v1.1.0/JiraSearch-1.1.0.zip",
+        "UrlSourceCode": "https://github.com/haugjan/Flow.JiraSearch.git",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.JiraSearch@main/Flow.JiraSearch/Images/icon.png",
+        "LatestReleaseDate": null,
+        "DateAdded": "2025-10-22T01:53:34Z"
     },
     {
         "ID": "d13e69b5-048a-4dce-a950-cbdd5f61f3be",
@@ -2997,7 +3025,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
         "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle/releases/download/v0.1.1/Flow.Launcher.Plugin.Wordle.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.Wordle",
-        "IcoPath": "https://i.imgur.com/5OWWgvq.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.Wordle/assets/app.png",
         "LatestReleaseDate": "2025-10-06T20:18:28Z",
         "DateAdded": "2024-12-01T12:40:10Z"
     },
@@ -3094,13 +3122,13 @@
         "Name": "Power Plans",
         "Description": "Lists and activates power plans",
         "Author": "Till Knollmann",
-        "Version": "1.0.0",
+        "Version": "1.2.1",
         "Language": "python",
         "Website": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.PowerPlans",
-        "UrlDownload": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.PowerPlans/releases/download/v1.0.0/Flow.Launcher.Plugin.PowerPlans.zip",
+        "UrlDownload": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.PowerPlans/releases/download/v1.2.1/Flow.Launcher.Plugin.PowerPlans.zip",
         "UrlSourceCode": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.PowerPlans",
         "IcoPath": "https://cdn.jsdelivr.net/gh/TillKnollmann/Flow.Launcher.Plugin.PowerPlans@main/Images/app.png",
-        "LatestReleaseDate": "2025-10-10T18:54:01Z",
+        "LatestReleaseDate": "2025-10-31T09:45:24Z",
         "Tested": true,
         "DateAdded": "2025-10-12T21:18:33Z"
     },
@@ -3557,13 +3585,13 @@
         "Name": "MDict",
         "Description": "Search in MDict dictionaries",
         "Author": "Jack251970",
-        "Version": "2.0.2",
+        "Version": "2.0.3",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v2.0.2/MDict-2.0.2.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v2.0.3/MDict-2.0.3.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.MDict/src/Flow.Launcher.Plugin.MDict/Images/icon.png",
-        "LatestReleaseDate": "2025-10-07T04:58:42Z",
+        "LatestReleaseDate": "2025-10-25T07:23:41Z",
         "DateAdded": "2025-07-07T18:34:26Z"
     },
     {
@@ -3605,7 +3633,7 @@
         "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks/tree/v0.2.2",
         "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.2.3/FirefoxKeywordBookmarks.zip",
         "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
-        "IcoPath": "https://i.imgur.com/1cGHQTp.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/FirefoxKeywordBookmarks/assets/app.png",
         "LatestReleaseDate": "2025-02-09T22:12:13Z",
         "Tested": true,
         "DateAdded": "2024-10-31T12:40:23Z"
@@ -3868,6 +3896,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/MBeggiato/Flow.Launcher.Plugin.RDP@main/screen-mirroring.png",
         "DateAdded": "2023-10-23T03:45:46Z",
         "LatestReleaseDate": "2025-06-23T13:48:38Z"
+    },
+    {
+        "ID": "ced64af5-db04-44dc-b287-0d35d28943c9",
+        "Name": "Byte Stash",
+        "Description": "Search and manage code snippets in ByteStash",
+        "Author": "TillKnollmann",
+        "Version": "1.1.1",
+        "Language": "csharp",
+        "Website": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.ByteStash",
+        "UrlDownload": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.ByteStash/releases/download/v1.1.1/Flow.Launcher.Plugin.ByteStash-1.1.1.zip",
+        "UrlSourceCode": "https://github.com/TillKnollmann/Flow.Launcher.Plugin.ByteStash",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/TillKnollmann/Flow.Launcher.Plugin.ByteStash@main/Images/app.png",
+        "LatestReleaseDate": "2025-10-29T08:54:28Z",
+        "DateAdded": "2025-10-24T01:45:15Z"
     },
     {
         "ID": "ef3a6ece-ca05-4d4f-92ba-2ff8a67e017b",

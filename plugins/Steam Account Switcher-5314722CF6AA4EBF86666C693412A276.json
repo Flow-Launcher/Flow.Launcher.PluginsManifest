@@ -8,7 +8,7 @@
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher/releases/download/v1.0.3/Flow.Launcher.Plugin.SteamAccountSwitcher.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher",
-    "IcoPath": "https://i.imgur.com/7kxy2JP.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.SteamAccountSwitcher/Images/app.png",
     "LatestReleaseDate": "2024-11-18T00:02:20Z",
     "Tested": true,
     "DateAdded": "2024-11-21T09:23:24Z"

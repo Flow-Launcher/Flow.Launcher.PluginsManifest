@@ -8,7 +8,7 @@
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks/tree/v0.2.2",
     "UrlDownload": "https://github.com/cibere/FirefoxKeywordBookmarks/releases/download/v0.2.3/FirefoxKeywordBookmarks.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FirefoxKeywordBookmarks",
-    "IcoPath": "https://i.imgur.com/1cGHQTp.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/FirefoxKeywordBookmarks/assets/app.png",
     "LatestReleaseDate": "2025-02-09T22:12:13Z",
     "Tested": true,
     "DateAdded": "2024-10-31T12:40:23Z"
