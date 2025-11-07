@@ -3,12 +3,12 @@
     "Name": "Search Unicode \u2013 Search",
     "Description": "Search the entire Unicode character set",
     "Author": "Eana Hufwe",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "Language": "csharp",
     "Website": "https://github.com/blueset/flow-search-unicode",
     "IcoPath": "https://cdn.jsdelivr.net/gh/blueset/flow-search-unicode@master/Flow.Launcher.Plugin.SearchUnicode.Search/icon.png?raw=true",
     "UrlSourceCode": "https://github.com/blueset/flow-search-unicode",
-    "UrlDownload": "https://github.com/blueset/flow-search-unicode/releases/download/v1.1.0/SearchUnicode.Search.zip",
-    "LatestReleaseDate": "2025-09-13T12:55:51Z",
+    "UrlDownload": "https://github.com/blueset/flow-search-unicode/releases/download/v1.2.0/SearchUnicode.Search.zip",
+    "LatestReleaseDate": "2025-11-07T16:36:35Z",
     "DateAdded": "2025-01-19T01:42:28Z"
 }
