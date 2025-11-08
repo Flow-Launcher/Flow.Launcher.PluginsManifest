@@ -9,5 +9,6 @@
     "UrlDownload": "https://github.com/gdemazeux/WingetFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.WingetFlow.zip",
     "UrlSourceCode": "https://github.com/gdemazeux/WingetFlow/tree/master",
     "IcoPath": "https://cdn.jsdelivr.net/gh/gdemazeux/WingetFlow@master/Flow.Launcher.Plugin.WingetFlow/Images/app.png",
-    "LatestReleaseDate": "2025-11-06T09:03:35Z"
+    "LatestReleaseDate": "2025-11-06T09:03:35Z",
+    "DateAdded": "2025-11-08T21:18:44Z"
 }
