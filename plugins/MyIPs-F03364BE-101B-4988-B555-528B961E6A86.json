@@ -1,0 +1,15 @@
+{
+    "ID": "F03364BE-101B-4988-B555-528B961E6A86",
+    "ActionKeyword": "myips",
+    "Name": "MyIPs",
+    "Description": "A plugin to tell you your internal and public IP excluding any coming from VM programs and the like",
+    "Author": "Adam Marciniec",
+    "Version": "1.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/Echostorm44/FlowLauncherPluginMyIPs",
+    "UrlDownload": "https://github.com/Echostorm44/FlowLauncherPluginMyIPs/releases/download/1.0.1/Flow.Launcher.Plugin.FlowLauncherPluginMyIPs.zip",
+    "UrlSourceCode": "https://github.com/Echostorm44/FlowLauncherPluginMyIPs",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/FlowLauncherPluginMyIPs@main/Flow.Launcher.Plugin.FlowLauncherPluginMyIPs/icon.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-08-17T15:00:00Z"
+}

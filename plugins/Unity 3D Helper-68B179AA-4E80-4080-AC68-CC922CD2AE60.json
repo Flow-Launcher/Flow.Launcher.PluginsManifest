@@ -1,0 +1,15 @@
+{
+    "ID": "68B179AA-4E80-4080-AC68-CC922CD2AE60",
+    "ActionKeyword": "un",
+    "Name": "Unity 3D Helper",
+    "Description": "Unity3D project list/launcher",
+    "Author": "falldeaf",
+    "Version": "1.0.2",
+    "Language": "csharp",
+    "Website": "https://github.com/falldeaf/unity-flowlauncher",
+    "UrlDownload": "https://github.com/falldeaf/unity-flowlauncher/releases/download/v1.0.2/Flow.Launcher.Plugin.Unityhelper.zip",
+    "UrlSourceCode": "https://github.com/falldeaf/unity-flowlauncher/tree/main/",
+    "IcoPath": "https://github.com/falldeaf/unity-flowlauncher/raw/main/Flow.Launcher.Plugin.UnityHelper/Images/unitylogo.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2022-07-20T15:07:28Z"
+}

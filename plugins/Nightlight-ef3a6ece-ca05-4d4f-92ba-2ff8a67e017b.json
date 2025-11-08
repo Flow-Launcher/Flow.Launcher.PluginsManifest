@@ -1,0 +1,14 @@
+{
+    "ID": "ef3a6ece-ca05-4d4f-92ba-2ff8a67e017b",
+    "Name": "Nightlight",
+    "Description": "Nightlight Controls",
+    "Author": "Jonathan Glanz",
+    "Version": "1.1.4",
+    "Language": "TypeScript",
+    "Website": "https://github.com/jglanz",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/jglanz/flow-launcher-plugin-nightlight/assets/bulb.png",
+    "UrlDownload": "https://github.com/jglanz/flow-launcher-plugin-nightlight/releases/download/v1.1.4/Nightlight-1.1.4.zip",
+    "UrlSourceCode": "https://github.com/jglanz/flow-launcher-plugin-nightlight/tree/master",
+    "LatestReleaseDate": "2024-12-12T16:17:38Z",
+    "DateAdded": "2024-12-12T12:45:18Z"
+}

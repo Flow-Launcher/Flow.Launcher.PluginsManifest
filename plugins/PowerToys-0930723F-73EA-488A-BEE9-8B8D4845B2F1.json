@@ -1,0 +1,14 @@
+{
+    "ID": "0930723F-73EA-488A-BEE9-8B8D4845B2F1",
+    "Name": "PowerToys",
+    "Description": "Launches PowerToys tools",
+    "Author": "PederBirk",
+    "Version": "1.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys",
+    "UrlDownload": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys/releases/download/v1.1.0/Flow.Launcher.Plugin.PowerToys.zip",
+    "UrlSourceCode": "https://github.com/PederBirk/Flow.Launcher.Plugin.PowerToys/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/PederBirk/Flow.Launcher.Plugin.PowerToys@master/images/PowerToys.png",
+    "LatestReleaseDate": "2025-08-25T07:44:38Z",
+    "DateAdded": "2024-09-12T12:37:57Z"
+}

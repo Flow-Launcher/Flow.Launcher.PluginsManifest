@@ -1,0 +1,15 @@
+{
+    "ID": "7ed41d7e3d174379972e1cdacb647474",
+    "Name": "Wordnik Dictionary",
+    "Description": "A feature-packed that lets you see stuff like definitions for words using wordnik.",
+    "Author": "cibere",
+    "Version": "2.1.0",
+    "Language": "python",
+    "Website": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/v2.1.0",
+    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/releases/download/v2.1.0/Flow.Launcher.Plugin.WordNikDictionary.zip",
+    "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.WordNikDictionary/Images/app.png",
+    "LatestReleaseDate": "2024-10-28T03:23:35Z",
+    "Tested": true,
+    "DateAdded": "2024-10-26T21:17:53Z"
+}

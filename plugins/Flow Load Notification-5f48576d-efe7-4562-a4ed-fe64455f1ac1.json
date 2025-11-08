@@ -1,0 +1,14 @@
+{
+    "ID": "5f48576d-efe7-4562-a4ed-fe64455f1ac1",
+    "Name": "Flow Load Notification",
+    "Description": "A plugin that only sends a notification when the plugin gets loaded after a restart or on first start.",
+    "Author": "cibere",
+    "Version": "0.0.6",
+    "Language": "python_v2",
+    "Website": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
+    "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification/releases/download/v0.0.6/Flow.Launcher.Plugin.FlowLoadNotification.zip",
+    "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.FlowLoadNotification",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.FlowLoadNotification/assets/app.png",
+    "LatestReleaseDate": "2025-09-08T04:02:06Z",
+    "DateAdded": "2024-11-24T12:38:14Z"
+}

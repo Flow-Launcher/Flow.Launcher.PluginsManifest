@@ -1,0 +1,15 @@
+{
+    "ID": "d58fbe34-bce7-11ed-afa1-0242ac120002",
+    "Name": "Youtube Downloader",
+    "Description": "Download videos on youtube! usage: {-yt} {youtube link}",
+    "Author": "LordOfTheEel; Eyal.Br",
+    "Version": "0.1.2",
+    "Language": "python",
+    "Website": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/DeepVoyager253/FlowLauncherYTDownload@main/icon.png",
+    "UrlSourceCode": "https://github.com/DeepVoyager253/FlowLauncherYTDownload",
+    "UrlDownload": "https://github.com/DeepVoyager253/FlowLauncherYTDownload/releases/download/v0.1.2/Flow.Launcher.Plugin.YTDownloader.zip",
+    "Tested": true,
+    "DateAdded": "2023-03-09T17:22:21Z",
+    "LatestReleaseDate": "2024-03-04T12:59:00Z"
+}

@@ -1,0 +1,14 @@
+{
+    "ID": "8EC2CDFB9A8C4CC0A49CC61F158510F2",
+    "Name": "Wallpaper Searcher",
+    "Description": "A plugin for quickly searching for wallpapers",
+    "Author": "zkwokleung",
+    "Version": "1.0.2",
+    "Language": "csharp",
+    "Website": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher",
+    "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher/releases/download/v1.0.2/Flow.Launcher.Plugin.WallpaperSearcher.zip",
+    "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.WallpaperSearcher@main/Images/icon.png",
+    "DateAdded": "2024-06-08T01:22:39Z",
+    "LatestReleaseDate": "2024-07-15T08:27:03Z"
+}

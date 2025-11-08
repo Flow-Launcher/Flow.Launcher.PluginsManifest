@@ -1,0 +1,15 @@
+{
+    "ID": "9B1E4E14-15DB-48E5-9156-3C1A9AB3FF31",
+    "Name": "Google Meet Creator",
+    "Description": "Quickly create Google Meet meetings from Flow Launcher",
+    "Author": "Renzo Castillo",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
+    "UrlDownload": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator/releases/download/v1.0.0/Flow.Launcher.Plugin.GoogleMeetCreator.zip",
+    "UrlSourceCode": "https://github.com/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/renzocastillo/Flow.Launcher.Plugin.GoogleMeetCreator@1.0.0/Images/app.png",
+    "Tested": true,
+    "DateAdded": "2025-04-21T22:36:43Z",
+    "LatestReleaseDate": "2025-04-10T14:16:46Z"
+}

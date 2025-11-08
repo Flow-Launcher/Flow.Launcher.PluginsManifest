@@ -1,0 +1,15 @@
+{
+    "ID": "cb95613a-626f-4153-9c21-b1f7ea3bcf37",
+    "Name": "LaunchNow",
+    "Description": "Lightning-fast multi-search plugin that lets you search across dozens of websites with a single command!",
+    "Author": "Jayesh Vegda",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow",
+    "UrlDownload": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/releases/download/v1.0.0/Flow.Launcher.Plugin.LaunchNow.zip",
+    "UrlSourceCode": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/JayeshVegda/Flow.Launcher.Plugin.LaunchNow@1.0.0/Images/app.png",
+    "LatestReleaseDate": "2025-06-24T14:07:27Z",
+    "Tested": true,
+    "DateAdded": "2025-06-30T12:50:59Z"
+}

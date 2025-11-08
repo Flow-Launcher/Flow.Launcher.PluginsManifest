@@ -1,0 +1,15 @@
+{
+    "ID": "F32C0CF0270944AFAC9298BB67E16292",
+    "Name": "Emoji+",
+    "Description": "Search and copy the right Emoji for any occasion.",
+    "Author": "Garulf",
+    "Version": "2.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/emoji-plus",
+    "UrlDownload": "https://github.com/Garulf/Emoji-plus/releases/download/v2.0.0/Emoji-plus.zip",
+    "UrlSourceCode": "https://github.com/Garulf/emoji-plus/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/emoji-plus@main/icon.png",
+    "Tested": true,
+    "LatestReleaseDate": "2022-11-20T03:50:30Z",
+    "DateAdded": "2022-10-08T16:26:57Z"
+}

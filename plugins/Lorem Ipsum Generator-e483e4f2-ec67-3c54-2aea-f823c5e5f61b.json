@@ -1,0 +1,15 @@
+{
+    "ID": "e483e4f2-ec67-3c54-2aea-f823c5e5f61b",
+    "Name": "Lorem Ipsum Generator",
+    "Description": "Generates Lorem Ipsum and copies it to your clipboard.",
+    "Author": "Tom Kliner",
+    "Version": "3.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+    "UrlDownload": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator/releases/download/v3.0.0/Flow.Launcher.Plugin.LoremIpsumGenerator.zip",
+    "UrlSourceCode": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Tomkov1c/Lorem-Ipsum-Generator@main/Lorem%20Ipsum%20C%23/Images/app.png",
+    "Tested": true,
+    "DateAdded": "2024-05-29T12:24:56Z",
+    "LatestReleaseDate": "2024-11-01T12:50:40Z"
+}

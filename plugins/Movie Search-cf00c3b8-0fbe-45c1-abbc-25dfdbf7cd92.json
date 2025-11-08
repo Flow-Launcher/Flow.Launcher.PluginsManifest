@@ -1,0 +1,15 @@
+{
+    "ID": "cf00c3b8-0fbe-45c1-abbc-25dfdbf7cd92",
+    "Name": "Movie Search",
+    "Description": "Find movies using the TMDB API. Just enter a movie name to view its details, ratings, and more.",
+    "Author": "Jayesh Vegda",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/jayeshvegda/Flow.Launcher.Plugin.MovieSearch",
+    "UrlDownload": "https://github.com/JayeshVegda/Flow.Launcher.Plugin.MovieSearch/releases/download/v1.0.0/Flow.Launcher.Plugin.MovieSearch.zip",
+    "UrlSourceCode": "https://github.com/jayeshvegda/Flow.Launcher.Plugin.MovieSearch/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/JayeshVegda/Flow.Launcher.Plugin.MovieSearch@1.0.0/image/icon.png",
+    "LatestReleaseDate": "2025-05-26T09:46:19Z",
+    "Tested": true,
+    "DateAdded": "2025-05-29T06:34:14Z"
+}

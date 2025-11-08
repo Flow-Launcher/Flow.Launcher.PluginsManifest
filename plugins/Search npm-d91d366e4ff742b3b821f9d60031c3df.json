@@ -1,0 +1,15 @@
+{
+    "ID": "d91d366e4ff742b3b821f9d60031c3df",
+    "ActionKeyword": "npm",
+    "Name": "Search npm",
+    "Description": "Search npm packages",
+    "Author": "Gabriel Carloto",
+    "Version": "1.0.4",
+    "Language": "typescript",
+    "Website": "https://github.com/gabrielcarloto/flow-search-npm",
+    "UrlDownload": "https://github.com/gabrielcarloto/flow-search-npm/releases/download/v1.0.4/Flow.Launcher.Plugin.SearchNPM.zip",
+    "UrlSourceCode": "https://github.com/gabrielcarloto/flow-search-npm/tree/main/",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/gabrielcarloto/flow-search-npm@main/app.png",
+    "DateAdded": "2022-10-08T16:26:57Z",
+    "LatestReleaseDate": "2025-03-17T14:31:32Z"
+}

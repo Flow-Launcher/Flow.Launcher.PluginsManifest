@@ -1,0 +1,12 @@
+# cache
+__pycache__
+.history
+
+# vscode
+.vscode
+
+# Python Virtual Environments
+.venv
+
+# Jetbrains IDEA
+.idea
