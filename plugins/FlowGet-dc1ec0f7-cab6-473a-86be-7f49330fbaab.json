@@ -1,0 +1,12 @@
+{
+    "ID": "dc1ec0f7-cab6-473a-86be-7f49330fbaab",
+    "Name": "FlowGet",
+    "Description": "FlowGet is a Flow Launcher plugin that lets you search, install, update, and remove applications directly from Flow Launcher using Winget.",
+    "Author": "benello",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet",
+    "UrlDownload": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet/releases/download/1.0.0/Flow.Launcher.Plugin.FlowGet.zip",
+    "UrlSourceCode": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/benello/Flow.Launcher.Plugin.FlowGet@master/assets/icon.png"
+}
