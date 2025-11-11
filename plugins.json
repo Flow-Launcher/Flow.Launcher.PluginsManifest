@@ -3663,7 +3663,8 @@
         "UrlDownload": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet/releases/download/1.0.0/Flow.Launcher.Plugin.FlowGet.zip",
         "UrlSourceCode": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet",
         "IcoPath": "https://cdn.jsdelivr.net/gh/benello/Flow.Launcher.Plugin.FlowGet@master/assets/icon.png",
-        "LatestReleaseDate": "2025-11-09T17:30:40Z"
+        "LatestReleaseDate": "2025-11-09T17:30:40Z",
+        "DateAdded": "2025-11-11T03:47:40Z"
     },
     {
         "ID": "b6a9192c-6646-4c77-bc6b-be4f8195ffda",
