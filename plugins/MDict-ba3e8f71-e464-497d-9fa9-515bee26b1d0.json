@@ -3,12 +3,12 @@
     "Name": "MDict",
     "Description": "Search in MDict dictionaries",
     "Author": "Jack251970",
-    "Version": "2.0.3",
+    "Version": "2.0.4",
     "Language": "csharp",
     "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict",
-    "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v2.0.3/MDict-2.0.3.zip",
+    "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v2.0.4/MDict-2.0.4.zip",
     "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/tree/master",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.MDict/src/Flow.Launcher.Plugin.MDict/Images/icon.png",
-    "LatestReleaseDate": "2025-10-25T07:23:41Z",
+    "LatestReleaseDate": "2025-11-14T16:23:11Z",
     "DateAdded": "2025-07-07T18:34:26Z"
 }
