@@ -7,6 +7,7 @@
     "Language": "csharp",
     "Website": "https://github.com/haugjan/Flow.ConfluenceSearch",
     "UrlDownload": "https://github.com/haugjan/Flow.ConfluenceSearch/releases/download/v1.0.1/ConfluenceSearch-1.0.1.zip",
-    "UrlSourceCode": "https://github.com/haugjan/Flow.ConfluenceSearch.git", 
-    "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.ConfluenceSearch@5d347ac7a5594cc4e468771eecee97d706f1d6bf/Flow.ConfluenceSearch/Images/icon.png"
+    "UrlSourceCode": "https://github.com/haugjan/Flow.ConfluenceSearch.git",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.ConfluenceSearch@5d347ac7a5594cc4e468771eecee97d706f1d6bf/Flow.ConfluenceSearch/Images/icon.png",
+    "LatestReleaseDate": null
 }

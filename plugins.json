@@ -836,6 +836,19 @@
         "LatestReleaseDate": "2025-10-09T19:11:38Z"
     },
     {
+        "ID": "EE691863-50D1-4E0F-9A36-83314C2B2B27",
+        "Name": "Confluence Search",
+        "Description": "Search in Confluence and open directly from Flow Launcher.",
+        "Author": "Jan Haug",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/haugjan/Flow.ConfluenceSearch",
+        "UrlDownload": "https://github.com/haugjan/Flow.ConfluenceSearch/releases/download/v1.0.1/ConfluenceSearch-1.0.1.zip",
+        "UrlSourceCode": "https://github.com/haugjan/Flow.ConfluenceSearch.git",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.ConfluenceSearch@5d347ac7a5594cc4e468771eecee97d706f1d6bf/Flow.ConfluenceSearch/Images/icon.png",
+        "LatestReleaseDate": null
+    },
+    {
         "ID": "a3c36e85-793c-4881-90bf-6d791a978a9f",
         "Name": "DevDocs",
         "Description": "Quick access to documentations for various programming languages, frameworks and tools.",
