@@ -1,0 +1,12 @@
+{
+  "ID": "3ec155bc-acd0-4242-be74-c4a5fef150db",
+  "Name": "WorkspacesFlow",
+  "Description": "Launch powertoys workspaces directly from FlowLauncher",
+  "Author": "gdemazeux",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/gdemazeux/WorkspacesFlow",
+  "UrlDownload": "https://github.com/gdemazeux/WorkspacesFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.WorkspacesFlow.zip",
+  "UrlSourceCode": "https://github.com/gdemazeux/WorkspacesFlow/tree/master",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/gdemazeux/WorkspacesFlow@master/Flow.Launcher.Plugin.WorkspacesFlow/Images/app.png"
+}
