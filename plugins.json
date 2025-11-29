@@ -1703,7 +1703,8 @@
         "UrlDownload": "https://github.com/gdemazeux/WorkspacesFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.WorkspacesFlow.zip",
         "UrlSourceCode": "https://github.com/gdemazeux/WorkspacesFlow/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gdemazeux/WorkspacesFlow@master/Flow.Launcher.Plugin.WorkspacesFlow/Images/app.png",
-        "LatestReleaseDate": "2025-11-19T22:16:22Z"
+        "LatestReleaseDate": "2025-11-19T22:16:22Z",
+        "DateAdded": "2025-11-29T01:52:54Z"
     },
     {
         "ID": "BC4E22D7C0CD4FBA9108C26B8B8DBA8D",
@@ -2508,7 +2509,9 @@
         "UrlDownload": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols/releases/download/v1.1.0/Flow.Launcher.Plugin.Symbols.zip",
         "UrlSourceCode": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Benjosss/Flow.Launcher.Plugin.Symbols@main/icon.png",
-        "LatestReleaseDate": "2025-11-20T16:33:01Z"
+        "LatestReleaseDate": "2025-11-20T16:33:01Z",
+        "Tested": true,
+        "DateAdded": "2025-11-29T01:52:55Z"
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
