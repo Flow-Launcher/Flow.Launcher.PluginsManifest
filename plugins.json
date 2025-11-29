@@ -1693,6 +1693,19 @@
         "DateAdded": "2025-11-08T21:18:44Z"
     },
     {
+        "ID": "3ec155bc-acd0-4242-be74-c4a5fef150db",
+        "Name": "WorkspacesFlow",
+        "Description": "Launch powertoys workspaces directly from FlowLauncher",
+        "Author": "gdemazeux",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/gdemazeux/WorkspacesFlow",
+        "UrlDownload": "https://github.com/gdemazeux/WorkspacesFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.WorkspacesFlow.zip",
+        "UrlSourceCode": "https://github.com/gdemazeux/WorkspacesFlow/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/gdemazeux/WorkspacesFlow@master/Flow.Launcher.Plugin.WorkspacesFlow/Images/app.png",
+        "LatestReleaseDate": "2025-11-19T22:16:22Z"
+    },
+    {
         "ID": "BC4E22D7C0CD4FBA9108C26B8B8DBA8D",
         "Name": "ryot",
         "Description": "Search your ryot tracker",
@@ -2483,6 +2496,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jwiggiff/Flow-Launcher-Tenor-Plugin@main/assets/icon.png",
         "LatestReleaseDate": "2024-12-08T22:46:20Z",
         "DateAdded": "2025-01-27T01:38:33Z"
+    },
+    {
+        "ID": "e4a91f4c2be9434e8f76982cb3a4c1df",
+        "Name": "Benjosss Symbols",
+        "Description": "A plugin for Flow Launcher that allows you to easily copy symbols for your notes.",
+        "Author": "Benjosss",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols",
+        "UrlDownload": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols/releases/download/v1.1.0/Flow.Launcher.Plugin.Symbols.zip",
+        "UrlSourceCode": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Benjosss/Flow.Launcher.Plugin.Symbols@main/icon.png",
+        "LatestReleaseDate": "2025-11-20T16:33:01Z"
     },
     {
         "ID": "E2D2C23B084D41D1B6F60EC79D62CAH6",
