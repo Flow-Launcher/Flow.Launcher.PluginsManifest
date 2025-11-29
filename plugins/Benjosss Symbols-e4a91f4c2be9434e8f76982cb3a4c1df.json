@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols/releases/download/v1.1.0/Flow.Launcher.Plugin.Symbols.zip",
     "UrlSourceCode": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Benjosss/Flow.Launcher.Plugin.Symbols@main/icon.png",
-    "LatestReleaseDate": "2025-11-20T16:33:01Z"
+    "LatestReleaseDate": "2025-11-20T16:33:01Z",
+    "Tested": true,
+    "DateAdded": "2025-11-29T01:52:55Z"
 }
