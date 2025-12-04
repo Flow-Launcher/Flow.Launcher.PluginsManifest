@@ -1,0 +1,12 @@
+{
+  "ID": "8F9E7D6C5B4A3E2D1C0B9A8F7E6D5C4B",
+  "Name": "Windsurf Workspaces",
+  "Description": "Quickly open recent workspaces and remote machines in Windsurf.",
+  "Author": "plfavreau",
+  "Version": "1.0.0",
+  "Language": "typescript",
+  "Website": "https://github.com/plfavreau/windsurf-flow-launcher-plugin",
+  "UrlDownload": "https://github.com/plfavreau/windsurf-flow-launcher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Windsurf.zip",
+  "UrlSourceCode": "https://github.com/plfavreau/windsurf-flow-launcher-plugin.git",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/plfavreau/windsurf-flow-launcher-plugin@v1.0.0/icon.png"
+}
