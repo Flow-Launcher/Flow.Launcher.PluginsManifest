@@ -3257,7 +3257,8 @@
         "UrlDownload": "https://github.com/plfavreau/windsurf-flow-launcher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Windsurf.zip",
         "UrlSourceCode": "https://github.com/plfavreau/windsurf-flow-launcher-plugin.git",
         "IcoPath": "https://cdn.jsdelivr.net/gh/plfavreau/windsurf-flow-launcher-plugin@v1.0.0/icon.png",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": null,
+        "DateAdded": "2025-12-04T01:58:08Z"
     },
     {
         "ID": "c11d8b37-9967-4af3-b134-a22171d0dba8",
