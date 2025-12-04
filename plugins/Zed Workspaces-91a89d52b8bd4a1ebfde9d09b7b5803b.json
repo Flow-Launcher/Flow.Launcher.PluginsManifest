@@ -6,7 +6,7 @@
   "Version": "1.5",
   "Language": "python",
   "Website": "https://github.com/shubhambhatnag/zed-flow-extension",
-  "UrlDownload": "https://github.com/shubhambhatnag/zed-flow-extension/releases/latest/download/Flow.Launcher.Plugin.ZedWorkspaces.zip",
+  "UrlDownload": "https://github.com/shubhambhatnag/zed-flow-extension/releases/download/v1.5/Flow.Launcher.Plugin.ZedWorkspaces.zip",
   "UrlSourceCode": "https://github.com/shubhambhatnag/zed-flow-extension/tree/main", 
   "IcoPath": "https://cdn.jsdelivr.net/gh/shubhambhatnag/zed-flow-extension/assets/zed.png"
 }
