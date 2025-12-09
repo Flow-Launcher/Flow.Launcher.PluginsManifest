@@ -387,7 +387,9 @@
         "UrlDownload": "https://github.com/shubhambhatnag/zed-flow-extension/releases/download/v1.6/Flow.Launcher.Plugin.ZedWorkspaces.zip",
         "UrlSourceCode": "https://github.com/shubhambhatnag/zed-flow-extension/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/shubhambhatnag/zed-flow-extension/assets/zed.png",
-        "LatestReleaseDate": "2025-12-09T00:46:42Z"
+        "LatestReleaseDate": "2025-12-09T00:46:42Z",
+        "Tested": true,
+        "DateAdded": "2025-12-09T01:58:17Z"
     },
     {
         "ID": "789B27F3EB8B42D5B6EFB6EF7DFD2BE1",
@@ -1006,7 +1008,9 @@
         "UrlDownload": "https://github.com/Axforzi/flow-gemini-assistant/releases/download/v1.0.0/plugin.zip",
         "UrlSourceCode": "https://github.com/Axforzi/flow-gemini-assistant",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Axforzi/flow-gemini-assistant@main/assets/favicon.ico",
-        "LatestReleaseDate": "2025-12-08T22:30:22Z"
+        "LatestReleaseDate": "2025-12-08T22:30:22Z",
+        "Tested": true,
+        "DateAdded": "2025-12-09T01:58:17Z"
     },
     {
         "ID": "D2B1550D-7F24-4A9C-9952-2CF0A253A555",
