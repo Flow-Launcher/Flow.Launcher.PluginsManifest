@@ -1,0 +1,12 @@
+{
+    "ID": "b852745d-e7e3-47b0-b026-5077f19829a6",
+    "Name": "AI Assistant for Gemini",
+    "Description": "Quick AI queries using Google's Gemini API. Supports English and Spanish.",
+    "Author": "Maikel García",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Axforzi/flow-gemini-assistant",
+    "UrlDownload": "https://github.com/Axforzi/flow-gemini-assistant/releases/download/v1.0.0/plugin.zip",
+    "UrlSourceCode": "https://github.com/Axforzi/flow-gemini-assistant",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Axforzi/flow-gemini-assistant@main/assets/favicon.ico"
+}
