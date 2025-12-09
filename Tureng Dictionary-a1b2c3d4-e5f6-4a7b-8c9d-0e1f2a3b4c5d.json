@@ -1,13 +1,12 @@
 {
   "ID": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-  "ActionKeyword": "tureng",
   "Name": "Tureng Dictionary",
   "Description": "An unofficial FlowLauncher plugin to easily access Tureng Dictionary.",
   "Author": "Vlamz",
   "Version": "1.0.0",
   "Language": "python",
   "Website": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary",
-  "IcoPath": "images\\tureng.png",
-  "ExecuteFileName": "main.py",
-  "DownloadLink": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary/releases/download/v1.0.0/Tureng.Dictionary-1.0.0.zip"
+  "UrlDownload": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary/releases/download/v1.0.0/Tureng.Dictionary-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/vlamz/FlowLauncher.Tureng.Dictionary@main/images/tureng.png"
 }
