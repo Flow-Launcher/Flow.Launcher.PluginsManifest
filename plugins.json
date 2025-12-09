@@ -377,6 +377,19 @@
         "LatestReleaseDate": "2025-06-16T22:35:06Z"
     },
     {
+        "ID": "91a89d52b8bd4a1ebfde9d09b7b5803b",
+        "Name": "Zed Workspaces",
+        "Description": "Allows search for Zed workspaces, locally or on WSL.",
+        "Author": "Shubham Bhatnagar",
+        "Version": "1.6",
+        "Language": "python",
+        "Website": "https://github.com/shubhambhatnag/zed-flow-extension",
+        "UrlDownload": "https://github.com/shubhambhatnag/zed-flow-extension/releases/download/v1.6/Flow.Launcher.Plugin.ZedWorkspaces.zip",
+        "UrlSourceCode": "https://github.com/shubhambhatnag/zed-flow-extension/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/shubhambhatnag/zed-flow-extension/assets/zed.png",
+        "LatestReleaseDate": "2025-12-09T00:46:42Z"
+    },
+    {
         "ID": "789B27F3EB8B42D5B6EFB6EF7DFD2BE1",
         "Name": "TwoFactorAuthenticator",
         "Description": "Two Factor Authenticator HTOP Code Generate Plugin",
@@ -981,6 +994,19 @@
         "LatestReleaseDate": "2025-03-10T16:35:24Z",
         "Tested": true,
         "DateAdded": "2025-03-30T06:29:21Z"
+    },
+    {
+        "ID": "b852745d-e7e3-47b0-b026-5077f19829a6",
+        "Name": "AI Assistant for Gemini",
+        "Description": "Quick AI queries using Google's Gemini API. Supports English and Spanish.",
+        "Author": "Maikel García",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Axforzi/flow-gemini-assistant",
+        "UrlDownload": "https://github.com/Axforzi/flow-gemini-assistant/releases/download/v1.0.0/plugin.zip",
+        "UrlSourceCode": "https://github.com/Axforzi/flow-gemini-assistant",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Axforzi/flow-gemini-assistant@main/assets/favicon.ico",
+        "LatestReleaseDate": "2025-12-08T22:30:22Z"
     },
     {
         "ID": "D2B1550D-7F24-4A9C-9952-2CF0A253A555",
