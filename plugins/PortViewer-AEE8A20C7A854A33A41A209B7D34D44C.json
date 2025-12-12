@@ -1,0 +1,12 @@
+{
+  "ID": "AEE8A20C7A854A33A41A209B7D34D44C",
+  "Name": "PortViewer",
+  "Description": "View the Tcp or udp port process info and kill the process",
+  "Author": "yu-xiaoyao",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer",
+  "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer/releases/download/v1.0.0/PortViewer.zip",
+  "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer",
+  "IcoPath": "https://raw.githubusercontent.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer/main/Flow.Launcher.Plugin.PortViewer/Images/PortViewer.png"
+}
