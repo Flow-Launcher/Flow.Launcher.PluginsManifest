@@ -1,0 +1,12 @@
+{
+    "ID": "27D72EBFE7E247958CBC707A7CB504C0",
+    "Name": "FlowTyper",
+    "Description": "Quick and simple typing tests built into flow launcher",
+    "Author": "nebbyJammin",
+    "Version": "1.0.2",
+    "Language": "csharp",
+    "Website": "https://github.com/nebbyJammin/FlowTyper",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/nebbyJammin/flowTyper@main/Flow.Launcher.Plugin.FlowTyper/Images/icon.png",
+    "UrlDownload": "https://github.com/nebbyJammin/FlowTyper/releases/download/v1.0.2/Flow.Launcher.Plugin.FlowTyper-1.0.2.zip",
+    "UrlSourceCode": "https://github.com/nebbyJammin/flowTyper/tree/main"
+}
