@@ -1,12 +1,13 @@
 {
-  "ID": "42f63e8d-3d3d-4b4b-9e91-c6094bf240ec",
-  "Name": "Windows Services Manager",
-  "Description": "Manage Windows services from Flow Launcher",
-  "Author": "TBM13",
-  "Version": "1.1.1",
-  "Language": "csharp",
-  "Website": "https://github.com/TBM13/Flow.Launcher.Plugin.WindowsServices",
-  "UrlDownload": "https://github.com/TBM13/Flow.Launcher.Plugin.WindowsServices/releases/download/v1.1.1/Flow.Launcher.Plugin.WindowsServices.zip",
-  "UrlSourceCode": "https://github.com/TBM13/Flow.Launcher.Plugin.WindowsServices", 
-  "IcoPath": "https://cdn.jsdelivr.net/gh/TBM13/Flow.Launcher.Plugin.WindowsServicesManager@main/Flow.Launcher.Plugin.WindowsServices/Images/app.png"
+    "ID": "42f63e8d-3d3d-4b4b-9e91-c6094bf240ec",
+    "Name": "Windows Services Manager",
+    "Description": "Manage Windows services from Flow Launcher",
+    "Author": "TBM13",
+    "Version": "1.1.1",
+    "Language": "csharp",
+    "Website": "https://github.com/TBM13/Flow.Launcher.Plugin.WindowsServices",
+    "UrlDownload": "https://github.com/TBM13/Flow.Launcher.Plugin.WindowsServices/releases/download/v1.1.1/Flow.Launcher.Plugin.WindowsServices.zip",
+    "UrlSourceCode": "https://github.com/TBM13/Flow.Launcher.Plugin.WindowsServices",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/TBM13/Flow.Launcher.Plugin.WindowsServicesManager@main/Flow.Launcher.Plugin.WindowsServices/Images/app.png",
+    "LatestReleaseDate": "2025-12-12T17:46:39Z"
 }
