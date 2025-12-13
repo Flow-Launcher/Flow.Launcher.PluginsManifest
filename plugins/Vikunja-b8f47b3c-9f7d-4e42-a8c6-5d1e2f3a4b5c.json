@@ -3,10 +3,10 @@
   "Name": "Vikunja",
   "Description": "Quickly add tasks to Vikunja with natural language parsing",
   "Author": "AntoineTA",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Language": "csharp",
   "Website": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Vikunja",
-  "UrlDownload": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Vikunja/releases/download/v1.0.0/Vikunja-1.0.0.zip",
+  "UrlDownload": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Vikunja/releases/download/v1.0.1/Vikunja-1.0.1.zip",
   "UrlSourceCode": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Vikunja",
   "IcoPath": "https://cdn.jsdelivr.net/gh/AntoineTA/Flow.Launcher.Plugin.Vikunja@main/Vikunja/icon.png"
 }
