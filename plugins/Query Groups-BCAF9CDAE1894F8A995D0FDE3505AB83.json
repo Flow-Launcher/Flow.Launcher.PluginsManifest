@@ -7,6 +7,7 @@
     "Language": "csharp",
     "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups",
     "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/releases/download/v1.0.0/Flow.Launcher.Plugin.QueryGroups-v1.0.0.zip",
-    "UrlSourceCode":"https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.QueryGroups@main/Flow.Launcher.Plugin.QueryGroups/Assets/icon.png"
+    "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.QueryGroups@main/Flow.Launcher.Plugin.QueryGroups/Assets/icon.png",
+    "LatestReleaseDate": "2025-12-17T15:29:50Z"
 }

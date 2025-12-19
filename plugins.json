@@ -734,6 +734,19 @@
         "DateAdded": "2024-11-30T06:28:20Z"
     },
     {
+        "ID": "BCAF9CDAE1894F8A995D0FDE3505AB83",
+        "Name": "Query Groups",
+        "Description": "A plugin for creating custom groups of queries",
+        "Author": "DavidGBrett",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups",
+        "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/releases/download/v1.0.0/Flow.Launcher.Plugin.QueryGroups-v1.0.0.zip",
+        "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.QueryGroups@main/Flow.Launcher.Plugin.QueryGroups/Assets/icon.png",
+        "LatestReleaseDate": "2025-12-17T15:29:50Z"
+    },
+    {
         "ID": "FF2C31D6A47348FFB9ED4EB26F6794E2",
         "Name": "Fancy Emoji",
         "Description": "Search for emoji and add to your clipboard automatically.",
@@ -1170,6 +1183,19 @@
         "DateAdded": "2024-02-11T21:34:00Z",
         "LatestReleaseDate": "2024-02-11T21:16:57Z",
         "Tested": true
+    },
+    {
+        "ID": "b8f47b3c-9f7d-4e42-a8c6-5d1e2f3a4b5c",
+        "Name": "Vikunja",
+        "Description": "Quickly add tasks to Vikunja with natural language parsing",
+        "Author": "AntoineTA",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Vikunja",
+        "UrlDownload": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Vikunja/releases/download/v1.0.1/Vikunja-1.0.1.zip",
+        "UrlSourceCode": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Vikunja",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AntoineTA/Flow.Launcher.Plugin.Vikunja@main/Vikunja/icon.png",
+        "LatestReleaseDate": "2025-12-13T00:12:26Z"
     },
     {
         "ID": "0A3D1C9663EB49308749EC0FED268729",
@@ -2083,6 +2109,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/o850cHQk/Flow.Launcher.Plugin.Caffeine@main/Images/icon.png",
         "LatestReleaseDate": "2025-09-10T12:48:58Z",
         "DateAdded": "2025-06-30T12:50:59Z"
+    },
+    {
+        "ID": "27D72EBFE7E247958CBC707A7CB504C0",
+        "Name": "FlowTyper",
+        "Description": "Quick and simple typing tests built into flow launcher",
+        "Author": "nebbyJammin",
+        "Version": "1.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/nebbyJammin/FlowTyper",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/nebbyJammin/flowTyper@main/Flow.Launcher.Plugin.FlowTyper/Images/icon.png",
+        "UrlDownload": "https://github.com/nebbyJammin/FlowTyper/releases/download/v1.0.2/Flow.Launcher.Plugin.FlowTyper-1.0.2.zip",
+        "UrlSourceCode": "https://github.com/nebbyJammin/flowTyper/tree/main",
+        "LatestReleaseDate": "2025-12-04T07:33:38Z"
     },
     {
         "ID": "968c2551-5b24-4bab-9a6c-5f8cff6ca0ef",
@@ -3361,6 +3400,18 @@
         "Tested": true,
         "LatestReleaseDate": "2022-01-06T15:47:03Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "cd12dbcd-fc9c-4028-822d-6fcaedc16234",
+        "Name": "Tureng Dictionary",
+        "Description": "An unofficial FlowLauncher plugin to easily access Tureng Dictionary.",
+        "Author": "Vlamz",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary",
+        "UrlDownload": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary/releases/download/v1.0.0/Tureng.Dictionary-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/vlamz/FlowLauncher.Tureng.Dictionary@main/images/tureng.png"
     },
     {
         "ID": "959A3FED8292422784F7892F7FB59DB1",
