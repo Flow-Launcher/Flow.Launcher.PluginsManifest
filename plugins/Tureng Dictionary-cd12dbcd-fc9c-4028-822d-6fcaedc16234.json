@@ -8,5 +8,7 @@
     "Website": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary",
     "UrlDownload": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary/releases/download/v1.0.0/Tureng.Dictionary-1.0.0.zip",
     "UrlSourceCode": "https://github.com/vlamz/FlowLauncher.Tureng.Dictionary",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/vlamz/FlowLauncher.Tureng.Dictionary@main/images/tureng.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/vlamz/FlowLauncher.Tureng.Dictionary@main/images/tureng.png",
+    "Tested": true,
+    "DateAdded": "2025-12-19T03:58:23Z"
 }
