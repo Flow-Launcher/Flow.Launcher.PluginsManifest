@@ -1,5 +1,5 @@
 {
-  "ID": "B8F4D5E27C9E5C6BC3E8240FFD9GB1C5",
+  "ID": "9a660827-89d3-422f-897e-c307c3d78bef",
   "Name": "GoogleKeepFlow",
   "Description": "Add and browse notes in Google Keep.",
   "Author": "keekys",
@@ -11,3 +11,4 @@
   "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/GoogleKeepFlow@main/keep.png"
 
 }
+
