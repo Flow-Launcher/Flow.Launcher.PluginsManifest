@@ -1,7 +1,7 @@
 {
   "ID": "B8F4D5E27C9E5C6BC3E8240FFD9GB1C5",
   "Name": "GoogleKeepFlow",
-  "Description": "Add and browse notes in Google Keep",
+  "Description": "Add and browse notes in Google Keep.",
   "Author": "keekys",
   "Version": "1.0.0",
   "Language": "python",
@@ -9,4 +9,5 @@
   "UrlDownload": "https://github.com/keekyslusus/GoogleKeepFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.GoogleKeepFlow.zip",
   "UrlSourceCode": "https://github.com/keekyslusus/GoogleKeepFlow/tree/main",
   "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/GoogleKeepFlow@main/keep.png"
+
 }
