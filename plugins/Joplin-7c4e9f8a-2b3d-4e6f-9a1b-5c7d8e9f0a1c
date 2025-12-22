@@ -6,7 +6,7 @@
   "Version": "1.0.0",
   "Language": "csharp",
   "Website": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin",
-  "UrlDownload": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin/releases/download/v1.0.0/Flow.Launcher.Plugin.Joplin.zip",
+  "UrlDownload": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin/releases/download/v1.0.0/Flow.Launcher.Plugin.Joplin-1.0.0.zip",
   "UrlSourceCode": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin",
   "IcoPath": "https://cdn.jsdelivr.net/gh/AntoineTA/Flow.Launcher.Plugin.Joplin@main/icon.png"
 }
