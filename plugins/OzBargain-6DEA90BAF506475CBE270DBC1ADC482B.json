@@ -1,0 +1,12 @@
+{
+    "ID": "6DEA90BAF506475CBE270DBC1ADC482B",
+    "Name": "OzBargain",
+    "Description": "Browse OzBargain from FlowLauncher!",
+    "Author": "coweggs",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain",
+    "UrlDownload": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain/releases/download/v1.0.0/Flow.Launcher.Plugin.OzBargain.zip",
+    "UrlSourceCode": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain/tree/main", 
+    "IcoPath": "https://www.ozbargain.com.au/themes/ozbargain/logo-icon-256.png"
+}
