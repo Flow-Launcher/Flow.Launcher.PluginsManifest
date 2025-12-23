@@ -1,15 +1,15 @@
 {
     "ID": "e4a91f4c2be9434e8f76982cb3a4c1df",
     "Name": "Benjosss Symbols",
-    "Description": "A plugin for Flow Launcher that allows you to easily copy symbols for your notes.",
+    "Description": "Copy useful symbols for your notes",
     "Author": "Benjosss",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "Language": "python",
-    "Website": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols",
-    "UrlDownload": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols/releases/download/v1.1.0/Flow.Launcher.Plugin.Symbols.zip",
+    "Website": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols.git",
+    "UrlDownload": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols/releases/download/v1.2.0/Flow.Launcher.Plugin.Symbols.zip",
     "UrlSourceCode": "https://github.com/Benjosss/Flow.Launcher.Plugin.Symbols",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Benjosss/Flow.Launcher.Plugin.Symbols@main/icon.png",
-    "LatestReleaseDate": "2025-11-20T16:33:01Z",
+    "LatestReleaseDate": "2025-12-23T09:48:58Z",
     "Tested": true,
     "DateAdded": "2025-11-29T01:52:55Z"
 }
