@@ -1,7 +1,7 @@
 {
     "ID": "9E4A2B3C-5F6D-4E8A-9B1C-2D3E4F5A6B7C",
     "Name": "Speed Test",
-    "Description": "Test your internet connection speed using Speedtest by Ookla",
+    "Description": "Test your internet connection speed",
     "Author": "swopnil7",
     "Version": "1.1.0",
     "Language": "csharp",
@@ -9,6 +9,6 @@
     "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.1.0/Flow.Launcher.Plugin.SpeedTest-1.1.0.zip",
     "UrlSourceCode": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
     "IcoPath": "https://cdn.jsdelivr.net/gh/swopnil7/Flow.Launcher.Plugin.SpeedTest@main/icon-dark.png",
-    "LatestReleaseDate": "2025-12-23T13:24:41Z",
+    "LatestReleaseDate": "2025-12-24T11:05:03Z",
     "DateAdded": "2025-12-24T06:40:44Z"
 }
