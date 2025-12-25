@@ -2523,7 +2523,7 @@
         "Website": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
         "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.1.0/Flow.Launcher.Plugin.SpeedTest-1.1.0.zip",
         "UrlSourceCode": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/swopnil7/Flow.Launcher.Plugin.SpeedTest@main/icon.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/swopnil7/Flow.Launcher.Plugin.SpeedTest@main/icon-dark.png",
         "LatestReleaseDate": "2025-12-24T11:05:03Z",
         "DateAdded": "2025-12-24T06:40:44Z"
     },
