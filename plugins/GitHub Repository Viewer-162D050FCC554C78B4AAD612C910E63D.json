@@ -1,0 +1,12 @@
+{
+    "ID": "162D050FCC554C78B4AAD612C910E63D",
+    "Name": "GitHub Repository Viewer",
+    "Description": "A Flow Launcher plugin to quickly navigate to your personal repositories",
+    "Author": "RudraPatel2003",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/RudraPatel2003/github-repository-viewer",
+    "UrlDownload": "https://github.com/RudraPatel2003/github-repository-viewer/releases/download/v1.0.0/Flow.Plugin.GitHubRepositoryViewer-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/RudraPatel2003/github-repository-viewer",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/github-repository-viewer@main/Flow.Launcher.Plugin.GitHubRepositoryViewer/Assets/icon.png"
+}
