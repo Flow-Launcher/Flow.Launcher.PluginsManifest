@@ -2765,7 +2765,8 @@
         "UrlDownload": "https://github.com/t4nk3rchu/FlowFaker/releases/download/v1.0.2/Flow.Launcher.Plugin.FakerJS.zip",
         "UrlSourceCode": "https://github.com/t4nk3rchu/FlowFaker/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/t4nk3rchu/FlowFaker@main/Images/app.png",
-        "LatestReleaseDate": "2025-12-19T07:19:09Z"
+        "LatestReleaseDate": "2025-12-19T07:19:09Z",
+        "DateAdded": "2025-12-29T09:35:41Z"
     },
     {
         "ID": "A3EA904783E14335894354F09DC4B054",
@@ -2891,7 +2892,8 @@
         "UrlDownload": "https://github.com/RudraPatel2003/github-repository-viewer/releases/download/v1.0.0/Flow.Plugin.GitHubRepositoryViewer-1.0.0.zip",
         "UrlSourceCode": "https://github.com/RudraPatel2003/github-repository-viewer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/github-repository-viewer@main/Flow.Launcher.Plugin.GitHubRepositoryViewer/Assets/icon.png",
-        "LatestReleaseDate": "2025-12-09T06:00:37Z"
+        "LatestReleaseDate": "2025-12-09T06:00:37Z",
+        "DateAdded": "2025-12-29T09:35:41Z"
     },
     {
         "ID": "d13e69b5-048a-4dce-a950-cbdd5f61f3be",
