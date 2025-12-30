@@ -1,14 +1,14 @@
 {
     "ID": "4FD15DF08F7146B3AC36AB5F143D8058",
     "Name": "Snippets",
-    "Description": "Manage name/value snippets and copy to clipboard",
+    "Description": "Manage name/value snippets with auto-paste and clipboard support",
     "Author": "yu-xiaoyao",
-    "Version": "2.2.0",
+    "Version": "2.3.0",
     "Language": "csharp",
     "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
     "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
     "IcoPath": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/raw/main/Flow.Launcher.Plugin.Snippets/Images/Snippets.png",
-    "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v2.2.0/Snippets.zip",
-    "LatestReleaseDate": "2025-09-02T14:28:27Z",
+    "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v2.3.0/Snippets.zip",
+    "LatestReleaseDate": "2025-12-30T06:40:10Z",
     "DateAdded": "2025-01-27T01:38:33Z"
 }
