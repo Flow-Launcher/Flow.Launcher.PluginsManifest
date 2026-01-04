@@ -947,7 +947,8 @@
         "UrlDownload": "https://github.com/RudraPatel2003/repository-quick-launcher/releases/download/v1.0.0/Flow.Plugin.RepositoryQuickLauncher-1.0.0.zip",
         "UrlSourceCode": "https://github.com/RudraPatel2003/repository-quick-launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/repository-quick-launcher@main/Flow.Launcher.Plugin.RepositoryQuickLauncher/Assets/icon.png",
-        "LatestReleaseDate": "2026-01-01T21:44:35Z"
+        "LatestReleaseDate": "2026-01-01T21:44:35Z",
+        "DateAdded": "2026-01-04T09:24:56Z"
     },
     {
         "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
@@ -2955,15 +2956,15 @@
         "Name": "UpsetGalgame",
         "Description": "Search galgame on shinnku.com",
         "Author": "luohua",
-        "Version": "0.1.1",
+        "Version": "0.2.4",
         "Language": "python",
         "Website": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame",
         "UrlSourceCode": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/tree/main",
-        "UrlDownload": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/releases/download/v0.1.1/ShinnkuGalgamePlugin.zip",
+        "UrlDownload": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/releases/download/v0.2.4/ShinnkuGalgamePlugin.zip",
         "IcoPath": "https://shinnku.com/favicon.ico",
         "Tested": true,
         "DateAdded": "2024-02-04T06:02:40Z",
-        "LatestReleaseDate": "2024-01-12T11:15:56Z"
+        "LatestReleaseDate": "2026-01-04T11:07:22Z"
     },
     {
         "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
