@@ -1,12 +1,13 @@
 {
-  "ID": "D0F4498BC725495FBCAB8B5046818671",
-  "Name": "Repository Quick Launcher",
-  "Description": "A Flow Launcher plugin to quickly open codebases using your IDE of choice (VSCode, Cursor, Zed, etc.)",
-  "Author": "RudraPatel2003",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/RudraPatel2003/repository-quick-launcher",
-  "UrlDownload": "https://github.com/RudraPatel2003/repository-quick-launcher/releases/download/v1.0.0/Flow.Plugin.RepositoryQuickLauncher-1.0.0.zip",
-  "UrlSourceCode": "https://github.com/RudraPatel2003/repository-quick-launcher",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/repository-quick-launcher@main/Flow.Launcher.Plugin.RepositoryQuickLauncher/Assets/icon.png"
+    "ID": "D0F4498BC725495FBCAB8B5046818671",
+    "Name": "Repository Quick Launcher",
+    "Description": "A Flow Launcher plugin to quickly open codebases using your IDE of choice (VSCode, Cursor, Zed, etc.)",
+    "Author": "RudraPatel2003",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/RudraPatel2003/repository-quick-launcher",
+    "UrlDownload": "https://github.com/RudraPatel2003/repository-quick-launcher/releases/download/v1.0.0/Flow.Plugin.RepositoryQuickLauncher-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/RudraPatel2003/repository-quick-launcher",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/repository-quick-launcher@main/Flow.Launcher.Plugin.RepositoryQuickLauncher/Assets/icon.png",
+    "LatestReleaseDate": "2026-01-01T21:44:35Z"
 }
