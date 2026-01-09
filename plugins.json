@@ -353,13 +353,13 @@
         "Name": "Snippets",
         "Description": "Manage name/value snippets with auto-paste and clipboard support",
         "Author": "yu-xiaoyao",
-        "Version": "2.3.0",
+        "Version": "2.3.1",
         "Language": "csharp",
         "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
         "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
         "IcoPath": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/raw/main/Flow.Launcher.Plugin.Snippets/Images/Snippets.png",
-        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v2.3.0/Snippets.zip",
-        "LatestReleaseDate": "2025-12-30T06:40:10Z",
+        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v2.3.1/Snippets.zip",
+        "LatestReleaseDate": "2026-01-05T03:38:19Z",
         "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
@@ -935,6 +935,20 @@
         "LatestReleaseDate": "2024-11-16T21:39:28Z",
         "Tested": true,
         "DateAdded": "2024-09-26T03:25:50Z"
+    },
+    {
+        "ID": "D0F4498BC725495FBCAB8B5046818671",
+        "Name": "Repository Quick Launcher",
+        "Description": "A Flow Launcher plugin to quickly open codebases using your IDE of choice (VS Code, Cursor, Zed, etc.)",
+        "Author": "RudraPatel2003",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/RudraPatel2003/repository-quick-launcher",
+        "UrlDownload": "https://github.com/RudraPatel2003/repository-quick-launcher/releases/download/v1.0.1/Flow.Plugin.RepositoryQuickLauncher-1.0.1.zip",
+        "UrlSourceCode": "https://github.com/RudraPatel2003/repository-quick-launcher",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/repository-quick-launcher@main/Flow.Launcher.Plugin.RepositoryQuickLauncher/Assets/icon.png",
+        "LatestReleaseDate": "2026-01-04T22:08:22Z",
+        "DateAdded": "2026-01-04T09:24:56Z"
     },
     {
         "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
@@ -2518,13 +2532,13 @@
         "Name": "Speed Test",
         "Description": "Test your internet connection speed",
         "Author": "swopnil7",
-        "Version": "1.1.1",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
-        "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.1.1/Flow.Launcher.Plugin.SpeedTest-1.1.1.zip",
+        "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.2.0/Flow.Launcher.Plugin.SpeedTest-1.2.0.zip",
         "UrlSourceCode": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
         "IcoPath": "https://cdn.jsdelivr.net/gh/swopnil7/Flow.Launcher.Plugin.SpeedTest@main/icon-dark.png",
-        "LatestReleaseDate": "2025-12-25T06:55:11Z",
+        "LatestReleaseDate": "2026-01-06T10:25:54Z",
         "DateAdded": "2025-12-24T06:40:44Z"
     },
     {
@@ -2886,13 +2900,13 @@
         "Name": "GitHub Repository Viewer",
         "Description": "A Flow Launcher plugin to quickly navigate to your personal repositories",
         "Author": "RudraPatel2003",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "Language": "csharp",
         "Website": "https://github.com/RudraPatel2003/github-repository-viewer",
-        "UrlDownload": "https://github.com/RudraPatel2003/github-repository-viewer/releases/download/v1.0.0/Flow.Plugin.GitHubRepositoryViewer-1.0.0.zip",
+        "UrlDownload": "https://github.com/RudraPatel2003/github-repository-viewer/releases/download/v1.0.1/Flow.Plugin.GitHubRepositoryViewer-1.0.1.zip",
         "UrlSourceCode": "https://github.com/RudraPatel2003/github-repository-viewer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/github-repository-viewer@main/Flow.Launcher.Plugin.GitHubRepositoryViewer/Assets/icon.png",
-        "LatestReleaseDate": "2025-12-09T06:00:37Z",
+        "LatestReleaseDate": "2026-01-04T22:47:23Z",
         "DateAdded": "2025-12-29T09:35:41Z"
     },
     {
@@ -2942,15 +2956,15 @@
         "Name": "UpsetGalgame",
         "Description": "Search galgame on shinnku.com",
         "Author": "luohua",
-        "Version": "0.1.1",
+        "Version": "0.2.4",
         "Language": "python",
         "Website": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame",
         "UrlSourceCode": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/tree/main",
-        "UrlDownload": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/releases/download/v0.1.1/ShinnkuGalgamePlugin.zip",
+        "UrlDownload": "https://github.com/iuohua/FlowLauncherPlugin-upsetGalgame/releases/download/v0.2.4/ShinnkuGalgamePlugin.zip",
         "IcoPath": "https://shinnku.com/favicon.ico",
         "Tested": true,
         "DateAdded": "2024-02-04T06:02:40Z",
-        "LatestReleaseDate": "2024-01-12T11:15:56Z"
+        "LatestReleaseDate": "2026-01-04T11:07:22Z"
     },
     {
         "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
@@ -4046,13 +4060,13 @@
         "Name": "LinkOpener",
         "Description": "Allows you to open URLs using keywords set in the settings",
         "Author": "Exarilo",
-        "Version": "1.3.6",
+        "Version": "1.3.7",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.6/Flow.Launcher.Plugin.LinkOpener.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.7/Flow.Launcher.Plugin.LinkOpener.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-        "LatestReleaseDate": "2025-10-08T14:38:57Z",
+        "LatestReleaseDate": "2026-01-06T00:33:51Z",
         "DateAdded": "2024-08-08T09:19:45Z"
     },
     {
