@@ -1,0 +1,12 @@
+{
+    "ID": "6920034425C14101A0F90335130AE3CE",
+    "Name": "ChatGPT",
+    "Description": "Automatically open ChatGPT in the browser with your prompt",
+    "Author": "ruinmi",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT",
+    "UrlDownload": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.0.0/ChatGPT.zip",
+    "UrlSourceCode": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/ruinmi/Flow.Launcher.Plugin.ChatGPT@main/Flow.Launcher.Plugin.ChatGPT/Images/app.ico"
+}
