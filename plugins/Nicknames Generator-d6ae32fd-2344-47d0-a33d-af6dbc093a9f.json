@@ -1,0 +1,12 @@
+{
+  "ID": "d6ae32fd-2344-47d0-a33d-af6dbc093a9f",
+  "Name": "Nicknames Generator",
+  "Description": "Simple configurable nicknames generator",
+  "Author": "HOK405",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator",
+  "UrlDownload": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator/releases/download/v1.0.0/Flow.Launcher.Plugin.NicknamesGenerator.zip",
+  "UrlSourceCode": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator/tree/master/src/Flow.Launcher.Plugin.NicknamesGenerator",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/HOK405/Flow.Launcher.Plugin.NicknamesGenerator@master/src/Flow.Launcher.Plugin.NicknamesGenerator/icon.png"
+}
