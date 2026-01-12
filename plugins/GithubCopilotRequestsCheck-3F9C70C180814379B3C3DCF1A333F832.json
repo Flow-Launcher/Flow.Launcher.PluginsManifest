@@ -1,0 +1,15 @@
+{
+    "ID": "3F9C70C180814379B3C3DCF1A333F832",
+    "ActionKeyword": "ghr",
+    "Name": "Github Copilot Requests Check",
+    "Description": "Checks to see how many Github Copilot requests the user has left for the month",
+    "Author": "Adam Marciniec",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Echostorm44/GithubCopilotRequestsCheck",
+    "UrlDownload": "https://github.com/Echostorm44/GithubCopilotRequestsCheck/releases/download/v1.0/GithubCopilotRequestsCheck-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/Echostorm44/GithubCopilotRequestsCheck",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Echostorm44/GithubCopilotRequestsCheck@master/Flow.Launcher.Plugin.GithubCopilotRequestsCheck/icon.png",
+    "DateAdded": "2026-01-12T15:26:57Z",
+    "LatestReleaseDate": "2026-01-12T15:26:57Z"
+}
