@@ -4294,5 +4294,19 @@
         "Tested": true,
         "LatestReleaseDate": "2023-06-23T19:26:36Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+        {
+        "ID": "a0e12ab7-7f1e-4192-b37b-81e1d4ff8358",
+        "Name": "Alias Flow",
+        "Description": "Create custom keyword aliases for any URL or local application.",
+        "Author": "GOODJINC",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/goodjinc/Flow.Launcher.Plugin.AliasFlow",
+        "UrlDownload": "https://github.com/GOODJINC/Flow.Launcher.Plugin.AliasFlow/releases/download/v1.0.0/Flow.Launcher.Plugin.AliasFlow.zip",
+        "UrlSourceCode": "https://github.com/GOODJINC/Flow.Launcher.Plugin.AliasFlow",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/GOODJINC/Flow.Launcher.Plugin.AliasFlow@main/icon.png",
+        "LatestReleaseDate": "2026-01-12T08:51:44Z",
+        "DateAdded": "2026-01-12T08:51:44Z"
     }
 ]
