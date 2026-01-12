@@ -879,6 +879,20 @@
         "DateAdded": "2025-11-18T12:51:16Z"
     },
     {
+        "ID": "d6ae32fd-2344-47d0-a33d-af6dbc093a9f",
+        "Name": "Nicknames Generator",
+        "Description": "Simple configurable nicknames generator",
+        "Author": "HOK405",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator",
+        "UrlDownload": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator/releases/download/v1.0.0/Flow.Launcher.Plugin.NicknamesGenerator.zip",
+        "UrlSourceCode": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator/tree/master/src/Flow.Launcher.Plugin.NicknamesGenerator",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/HOK405/Flow.Launcher.Plugin.NicknamesGenerator@master/src/Flow.Launcher.Plugin.NicknamesGenerator/icon.png",
+        "LatestReleaseDate": "2026-01-08T17:30:15Z",
+        "DateAdded": "2026-01-11T18:35:23Z"
+    },
+    {
         "ID": "a3c36e85-793c-4881-90bf-6d791a978a9f",
         "Name": "DevDocs",
         "Description": "Quick access to documentations for various programming languages, frameworks and tools.",
@@ -2298,6 +2312,20 @@
         "Tested": true,
         "DateAdded": "2023-05-12T12:05:40Z",
         "LatestReleaseDate": "2024-03-05T17:48:48Z"
+    },
+    {
+        "ID": "F71C76ECF30740E6A5092209B76FE628",
+        "Name": "Simple Password Generator",
+        "Description": "Configurable random password generator",
+        "Author": "hok",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/HOK405/Flow.Launcher.Plugin.PassGen",
+        "UrlDownload": "https://github.com/HOK405/Flow.Launcher.Plugin.PassGen/releases/download/v1.0.0/Flow.Launcher.Plugin.PassGen.zip",
+        "UrlSourceCode": "https://github.com/HOK405/Flow.Launcher.Plugin.PassGen/tree/main/src/Flow.Launcher.Plugin.PassGen",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/HOK405/Flow.Launcher.Plugin.PassGen@main/src/Flow.Launcher.Plugin.PassGen/icon.png",
+        "LatestReleaseDate": "2026-01-01T16:27:11Z",
+        "DateAdded": "2026-01-11T18:35:23Z"
     },
     {
         "ID": "81b8c8c8-72ef-427c-a9c1-17cf8f1c766c",
