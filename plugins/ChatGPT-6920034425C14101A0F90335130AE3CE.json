@@ -3,7 +3,7 @@
     "Name": "ChatGPT",
     "Description": "Automatically open ChatGPT in the browser with your prompt",
     "Author": "ruinmi",
-    "Version": "v1.1.0",
+    "Version": "1.1.0",
     "Language": "csharp",
     "Website": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT",
     "UrlDownload": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.1.0/ChatGPT.zip",
