@@ -1,0 +1,12 @@
+{
+  "ID": "a0e12ab7-7f1e-4192-b37b-81e1d4ff8358",
+  "Name": "Alias Flow",
+  "Description": "Create custom keyword aliases for any URL or local application with Chosung search support.",
+  "Author": "GOODJINC",
+  "Version": "1.1.0",
+  "Language": "python",
+  "Website": "https://github.com/GOODJINC/Flow.Launcher.Plugin.AliasFlow",
+  "UrlDownload": "https://github.com/GOODJINC/Flow.Launcher.Plugin.AliasFlow/releases/download/v1.1.0/Flow.Launcher.Plugin.AliasFlow.zip",
+  "UrlSourceCode": "https://github.com/GOODJINC/Flow.Launcher.Plugin.AliasFlow",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/GOODJINC/Flow.Launcher.Plugin.AliasFlow@main/icon.png"
+}
