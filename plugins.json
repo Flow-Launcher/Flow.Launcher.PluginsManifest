@@ -566,13 +566,13 @@
         "Name": "Remind Me",
         "Description": "A plugin for setting reminders",
         "Author": "Yusyuriv",
-        "Version": "1.3.0",
+        "Version": "1.4.0",
         "Language": "csharp",
         "Website": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Yusyuriv/Flow.Launcher.Plugin.RemindMe@main/icon.png",
         "UrlSourceCode": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe",
-        "UrlDownload": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe/releases/download/v1.3.0/Flow.Launcher.Plugin.RemindMe.zip",
-        "LatestReleaseDate": "2026-01-16T07:05:39Z",
+        "UrlDownload": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe/releases/download/v1.4.0/Flow.Launcher.Plugin.RemindMe.zip",
+        "LatestReleaseDate": "2026-01-17T13:30:38Z",
         "DateAdded": "2025-01-18T06:25:42Z"
     },
     {
