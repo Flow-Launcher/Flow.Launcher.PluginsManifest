@@ -850,6 +850,19 @@
         "LatestReleaseDate": "2025-08-26T17:59:36Z"
     },
     {
+        "ID": "AEE8A20C7A854A33A41A209B7D34D44C",
+        "Name": "PortViewer",
+        "Description": "View the Tcp or udp port process info and kill the process",
+        "Author": "yu-xiaoyao",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer",
+        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer/releases/download/v1.0.0/PortViewer.zip",
+        "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer@main/Flow.Launcher.Plugin.PortViewer/Images/PortViewer.png",
+        "LatestReleaseDate": "2025-12-16T06:34:03Z"
+    },
+    {
         "ID": "70CED0AC-3D9D-4255-AD0B-D9A37862E879",
         "Name": "AnyVideo Downloader",
         "Description": "Plugin for downloading videos from YouTube, Facebook, Twitter, Instagram, and many other websites.",
@@ -905,6 +918,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/apostolosantoniou/Flow.Launcher.Plugin.DevDocs@1.0.0/icons/app.png",
         "LatestReleaseDate": "2025-04-30T10:10:58Z",
         "DateAdded": "2025-02-19T18:27:50Z"
+    },
+    {
+        "ID": "6DEA90BAF506475CBE270DBC1ADC482B",
+        "Name": "OzBargain",
+        "Description": "Browse OzBargain from FlowLauncher!",
+        "Author": "coweggs",
+        "Version": "1.1.5",
+        "Language": "csharp",
+        "Website": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain",
+        "UrlDownload": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain/releases/download/v1.1.5/Flow.Launcher.Plugin.OzBargain.zip",
+        "UrlSourceCode": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain/tree/main",
+        "IcoPath": "https://www.ozbargain.com.au/themes/ozbargain/logo-icon-256.png",
+        "LatestReleaseDate": "2025-12-24T10:35:40Z"
     },
     {
         "ID": "5f48576d-efe7-4562-a4ed-fe64455f1ac1",
@@ -4154,6 +4180,19 @@
         "LatestReleaseDate": "2025-06-23T13:48:38Z"
     },
     {
+        "ID": "9a660827-89d3-422f-897e-c307c3d78bef",
+        "Name": "GoogleKeepFlow",
+        "Description": "Add and browse notes in Google Keep",
+        "Author": "keekys",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/keekyslusus/GoogleKeepFlow",
+        "UrlDownload": "https://github.com/keekyslusus/GoogleKeepFlow/releases/download/v1.0.1/Flow.Launcher.Plugin.GoogleKeepFlow.zip",
+        "UrlSourceCode": "https://github.com/keekyslusus/GoogleKeepFlow/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/GoogleKeepFlow@main/keep.png",
+        "LatestReleaseDate": "2025-12-31T13:33:50Z"
+    },
+    {
         "ID": "ced64af5-db04-44dc-b287-0d35d28943c9",
         "Name": "Byte Stash",
         "Description": "Search and manage code snippets in ByteStash",
@@ -4166,6 +4205,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/TillKnollmann/Flow.Launcher.Plugin.ByteStash@main/Images/app.png",
         "LatestReleaseDate": "2025-10-29T08:54:28Z",
         "DateAdded": "2025-10-24T01:45:15Z"
+    },
+    {
+        "ID": "7c4e9f8a-2b3d-4e6f-9a1b-5c7d8e9f0a1c",
+        "Name": "Joplin",
+        "Description": "Quickly create and edit notes in Joplin directly from Flow Launcher",
+        "Author": "AntoineTA",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin",
+        "UrlDownload": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin/releases/download/v1.0.1/Flow.Launcher.Plugin.Joplin-1.0.1.zip",
+        "UrlSourceCode": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AntoineTA/Flow.Launcher.Plugin.Joplin@main/icon.png",
+        "LatestReleaseDate": "2025-12-25T16:32:37Z"
     },
     {
         "ID": "ef3a6ece-ca05-4d4f-92ba-2ff8a67e017b",
