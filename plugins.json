@@ -860,7 +860,8 @@
         "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer/releases/download/v1.0.0/PortViewer.zip",
         "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/yu-xiaoyao/Flow.Launcher.Plugin.PortViewer@main/Flow.Launcher.Plugin.PortViewer/Images/PortViewer.png",
-        "LatestReleaseDate": "2025-12-16T06:34:03Z"
+        "LatestReleaseDate": "2025-12-16T06:34:03Z",
+        "DateAdded": "2026-01-23T04:06:45Z"
     },
     {
         "ID": "70CED0AC-3D9D-4255-AD0B-D9A37862E879",
@@ -930,7 +931,8 @@
         "UrlDownload": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain/releases/download/v1.1.5/Flow.Launcher.Plugin.OzBargain.zip",
         "UrlSourceCode": "https://github.com/coweggs/Flow.Launcher.Plugin.OzBargain/tree/main",
         "IcoPath": "https://www.ozbargain.com.au/themes/ozbargain/logo-icon-256.png",
-        "LatestReleaseDate": "2025-12-24T10:35:40Z"
+        "LatestReleaseDate": "2025-12-24T10:35:40Z",
+        "DateAdded": "2026-01-23T04:06:45Z"
     },
     {
         "ID": "5f48576d-efe7-4562-a4ed-fe64455f1ac1",
@@ -2136,6 +2138,19 @@
         "Tested": true,
         "DateAdded": "2022-11-06T05:01:49Z",
         "LatestReleaseDate": "2025-02-08T20:06:49Z"
+    },
+    {
+        "ID": "997C1625F44C4AF09C0E495F35E2712A",
+        "Name": "App Audio Manager",
+        "Description": "Control the volume and mute state of individual applications directly from Flow Launcher",
+        "Author": "DavidGBrett",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager",
+        "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager/releases/download/v1.0.0/Flow.Launcher.Plugin.AppAudioManager-v1.0.0.zip",
+        "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager@main/Flow.Launcher.Plugin.AppAudioManager/Assets/PluginIcon.png",
+        "LatestReleaseDate": "2026-01-16T18:10:53Z"
     },
     {
         "ID": "D0DB38F5-0199-4DFC-8A8D-1B22F68C157C",
@@ -4190,7 +4205,9 @@
         "UrlDownload": "https://github.com/keekyslusus/GoogleKeepFlow/releases/download/v1.0.1/Flow.Launcher.Plugin.GoogleKeepFlow.zip",
         "UrlSourceCode": "https://github.com/keekyslusus/GoogleKeepFlow/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/GoogleKeepFlow@main/keep.png",
-        "LatestReleaseDate": "2025-12-31T13:33:50Z"
+        "LatestReleaseDate": "2025-12-31T13:33:50Z",
+        "Tested": true,
+        "DateAdded": "2026-01-23T04:06:45Z"
     },
     {
         "ID": "ced64af5-db04-44dc-b287-0d35d28943c9",
@@ -4217,7 +4234,8 @@
         "UrlDownload": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin/releases/download/v1.0.1/Flow.Launcher.Plugin.Joplin-1.0.1.zip",
         "UrlSourceCode": "https://github.com/AntoineTA/Flow.Launcher.Plugin.Joplin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AntoineTA/Flow.Launcher.Plugin.Joplin@main/icon.png",
-        "LatestReleaseDate": "2025-12-25T16:32:37Z"
+        "LatestReleaseDate": "2025-12-25T16:32:37Z",
+        "DateAdded": "2026-01-23T04:06:46Z"
     },
     {
         "ID": "ef3a6ece-ca05-4d4f-92ba-2ff8a67e017b",
