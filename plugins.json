@@ -566,13 +566,13 @@
         "Name": "Remind Me",
         "Description": "A plugin for setting reminders",
         "Author": "Yusyuriv",
-        "Version": "1.2.0",
+        "Version": "1.4.0",
         "Language": "csharp",
         "Website": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Yusyuriv/Flow.Launcher.Plugin.RemindMe@main/icon.png",
         "UrlSourceCode": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe",
-        "UrlDownload": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe/releases/download/v1.2.0/Flow.Launcher.Plugin.RemindMe.zip",
-        "LatestReleaseDate": "2024-07-09T11:05:14Z",
+        "UrlDownload": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.RemindMe/releases/download/v1.4.0/Flow.Launcher.Plugin.RemindMe.zip",
+        "LatestReleaseDate": "2026-01-17T13:30:38Z",
         "DateAdded": "2025-01-18T06:25:42Z"
     },
     {
@@ -744,7 +744,7 @@
         "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/releases/download/v1.1.0/Flow.Launcher.Plugin.QueryGroups-v1.1.0.zip",
         "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.QueryGroups@main/Flow.Launcher.Plugin.QueryGroups/Assets/icon.png",
-        "LatestReleaseDate": "2025-12-28T16:35:22Z",
+        "LatestReleaseDate": "2026-01-16T20:42:27Z",
         "DateAdded": "2025-12-19T03:58:23Z"
     },
     {
@@ -883,13 +883,13 @@
         "Name": "Nicknames Generator",
         "Description": "Simple configurable nicknames generator",
         "Author": "HOK405",
-        "Version": "1.0.0",
+        "Version": "2.0.0",
         "Language": "csharp",
         "Website": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator",
-        "UrlDownload": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator/releases/download/v1.0.0/Flow.Launcher.Plugin.NicknamesGenerator.zip",
+        "UrlDownload": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator/releases/download/v2.0.0/Flow.Launcher.Plugin.NicknamesGenerator.zip",
         "UrlSourceCode": "https://github.com/HOK405/Flow.Launcher.Plugin.NicknamesGenerator/tree/master/src/Flow.Launcher.Plugin.NicknamesGenerator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/HOK405/Flow.Launcher.Plugin.NicknamesGenerator@master/src/Flow.Launcher.Plugin.NicknamesGenerator/icon.png",
-        "LatestReleaseDate": "2026-01-08T17:30:15Z",
+        "LatestReleaseDate": "2026-01-15T21:50:25Z",
         "DateAdded": "2026-01-11T18:35:23Z"
     },
     {
@@ -1146,14 +1146,14 @@
         "Name": "General Converter",
         "Description": "General weights and measures converter",
         "Author": "deefrawley",
-        "Version": "2.0.3",
+        "Version": "2.1.0",
         "Language": "python",
         "Website": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert",
-        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v2.0.3/Flow.Launcher.Plugin.GenConvert.zip",
+        "UrlDownload": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/releases/download/v2.1.0/Flow.Launcher.Plugin.GenConvert.zip",
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.GenConvert/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.GenConvert@main/assets/favicon.ico",
         "Tested": true,
-        "LatestReleaseDate": "2025-09-27T07:46:16Z",
+        "LatestReleaseDate": "2026-01-15T21:06:30Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -2518,14 +2518,14 @@
         "Name": "FileZilla",
         "Description": "Launch FileZilla sessions",
         "Author": "Karel Faille",
-        "Version": "1.0.3",
+        "Version": "1.0.4",
         "Language": "typescript",
         "Website": "https://github.com/shaffe-fr/flow-filezilla",
-        "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.3/Flow.Launcher.Plugin.FileZilla.zip",
+        "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.4/Flow.Launcher.Plugin.FileZilla.zip",
         "UrlSourceCode": "https://github.com/shaffe-fr/flow-filezilla/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
         "DateAdded": "2024-05-04T02:18:48Z",
-        "LatestReleaseDate": "2025-09-10T07:11:31Z"
+        "LatestReleaseDate": "2026-01-20T14:51:21Z"
     },
     {
         "ID": "6CD987FE4D5E43438EE51C43D0961F89",
@@ -4102,13 +4102,13 @@
         "Name": "Yu-Gi-Oh! card search",
         "Description": "Searches for Yu-Gi-Oh! cards on ygoprodeck.com",
         "Author": "pivotiiii",
-        "Version": "1.1.3",
+        "Version": "1.2.1",
         "Language": "JavaScript",
         "Website": "https://github.com/pivotiiii/flow_launcher_ygo",
-        "UrlDownload": "https://github.com/pivotiiii/flow_launcher_ygo/releases/download/v1.1.3/pivotiiii.Flow-Plugin.Yu-Gi-Oh-Search.zip",
+        "UrlDownload": "https://github.com/pivotiiii/flow_launcher_ygo/releases/download/v1.2.1/pivotiiii.Flow-Plugin.Yu-Gi-Oh-Search.zip",
         "UrlSourceCode": "https://github.com/pivotiiii/flow_launcher_ygo/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/pivotiiii/flow_launcher_ygo@main/img/app.png",
-        "LatestReleaseDate": "2025-01-31T00:52:41Z",
+        "LatestReleaseDate": "2026-01-18T19:34:08Z",
         "DateAdded": "2024-07-07T17:12:01Z"
     },
     {
