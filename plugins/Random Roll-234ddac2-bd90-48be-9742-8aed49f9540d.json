@@ -1,0 +1,12 @@
+{
+  "ID": "234ddac2-bd90-48be-9742-8aed49f9540d",
+  "Name": "Random Roll",
+  "Description": "Roll random numbers and choices in Flow Launcher",
+  "Author": "OGTripleK",
+  "Version": "1.0.4",
+  "Language": "python",
+  "Website": "https://github.com/OGTripleK/random-roll",
+  "UrlDownload": "https://github.com/OGTripleK/random-roll/releases/download/v1.0.4/RandomRoll.zip",
+  "UrlSourceCode": "https://github.com/OGTripleK/random-roll/tree/master", 
+  "IcoPath": "https://cdn.jsdelivr.net/gh/OGTripleK/random-roll/icon.png"
+}
