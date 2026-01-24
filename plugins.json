@@ -2905,7 +2905,9 @@
         "UrlDownload": "https://github.com/OGTripleK/random-roll/releases/download/v1.0.4/RandomRoll.zip",
         "UrlSourceCode": "https://github.com/OGTripleK/random-roll/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/OGTripleK/random-roll/icon.png",
-        "LatestReleaseDate": "2026-01-23T23:21:08Z"
+        "LatestReleaseDate": "2026-01-23T23:21:08Z",
+        "Tested": true,
+        "DateAdded": "2026-01-24T09:26:00Z"
     },
     {
         "ID": "28b1bc8d-06e1-4bda-8311-f36e8d4f9915",
