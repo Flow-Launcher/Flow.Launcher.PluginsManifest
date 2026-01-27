@@ -1,0 +1,14 @@
+{
+    "ID": "997C1625F44C4AF09C0E495F35E2712A",
+    "Name": "App Audio Manager",
+    "Description": "Control the volume and mute state of individual applications directly from Flow Launcher",
+    "Author": "DavidGBrett",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager",
+    "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager/releases/download/v1.0.0/Flow.Launcher.Plugin.AppAudioManager-v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager@main/Flow.Launcher.Plugin.AppAudioManager/Assets/PluginIcon.png",
+    "LatestReleaseDate": "2026-01-16T18:10:53Z",
+    "DateAdded": "2026-01-23T06:42:00Z"
+}
