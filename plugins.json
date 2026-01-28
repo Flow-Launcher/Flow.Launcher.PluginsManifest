@@ -1227,6 +1227,20 @@
         "DateAdded": "2025-01-29T12:38:36Z"
     },
     {
+        "ID": "a0e12ab7-7f1e-4192-b37b-81e1d4ff8358",
+        "Name": "Alias Flow",
+        "Description": "Create custom keyword aliases for any URL or local application with Chosung search support.",
+        "Author": "GOODJINC",
+        "Version": "2.0.2",
+        "Language": "csharp",
+        "Website": "https://github.com/logitstudio/Flow.Launcher.Plugin.AliasFlow",
+        "UrlSourceCode": "https://github.com/logitstudio/Flow.Launcher.Plugin.AliasFlow/tree/main/src",
+        "UrlDownload": "https://github.com/logitstudio/Flow.Launcher.Plugin.AliasFlow/releases/download/v2.0.2/Flow.Launcher.Plugin.AliasFlow.zip",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/logitstudio/Flow.Launcher.Plugin.AliasFlow@main/src/icon.png",
+        "DateAdded": "2026-01-15T09:19:00Z",
+        "LatestReleaseDate": "2026-01-15T09:16:26Z"
+    },
+    {
         "ID": "88312EF0-3300-4D7E-999C-50212CF8F3C8",
         "Name": "Unicode Finder",
         "Description": "Find Unicode characters by name.",
@@ -2354,6 +2368,19 @@
         "Tested": true,
         "DateAdded": "2023-05-12T12:05:40Z",
         "LatestReleaseDate": "2024-03-05T17:48:48Z"
+    },
+    {
+        "ID": "6920034425C14101A0F90335130AE3CE",
+        "Name": "ChatGPT",
+        "Description": "Automatically open ChatGPT in the browser with your prompt",
+        "Author": "ruinmi",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT",
+        "UrlDownload": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT/releases/download/v1.1.0/ChatGPT.zip",
+        "UrlSourceCode": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ruinmi/Flow.Launcher.Plugin.ChatGPT@main/Flow.Launcher.Plugin.ChatGPT/Images/app.ico",
+        "LatestReleaseDate": "2026-01-11T18:28:03Z"
     },
     {
         "ID": "F71C76ECF30740E6A5092209B76FE628",
