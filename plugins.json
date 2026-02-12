@@ -3537,13 +3537,13 @@
         "Name": "Query Groups",
         "Description": "A plugin for creating custom groups of queries",
         "Author": "DavidGBrett",
-        "Version": "2.1.0",
+        "Version": "2.1.1",
         "Language": "csharp",
         "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups",
-        "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/releases/download/v2.1.0/Flow.Launcher.Plugin.QueryGroups-v2.1.0.zip",
+        "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/releases/download/v2.1.1/Flow.Launcher.Plugin.QueryGroups-v2.1.1.zip",
         "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.QueryGroups/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.QueryGroups@main/Flow.Launcher.Plugin.QueryGroups/Assets/icon.png",
-        "LatestReleaseDate": "2026-02-02T13:50:08Z",
+        "LatestReleaseDate": "2026-02-12T21:23:12Z",
         "DateAdded": "2025-12-19T03:58:23Z"
     },
     {
