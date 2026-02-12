@@ -4025,6 +4025,20 @@
         "DateAdded": "2025-12-13T09:24:02Z"
     },
     {
+        "ID": "ae951fdb-f40b-4b45-b66c-14acd12f0f7c",
+        "ActionKeyword": "vd",
+        "Name": "Virtual Desktops",
+        "Description": "Switch between Virtual Desktops using Flow Launcher",
+        "Author": "DavidGBrett",
+        "Version": "1.2.0",
+        "Language": "python",
+        "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.VirtualDesktops",
+        "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.VirtualDesktops/releases/download/v1.2.0/Flow.Launcher.Plugin.VirtualDesktops-v1.2.0.zip",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.VirtualDesktops@master/assets/main_icon.png",
+        "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.VirtualDesktops/tree/master",
+        "LatestReleaseDate": "2026-02-11T09:35:11Z"
+    },
+    {
         "ID": "e6a13bf1-5op9-2b96-a7fd-130b7vdt3d14",
         "Name": "QuickLook",
         "Description": "Use QuickLook to preview files",
