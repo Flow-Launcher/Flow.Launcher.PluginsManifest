@@ -1635,6 +1635,19 @@
         "DateAdded": "2025-03-30T01:53:44Z"
     },
     {
+        "ID": "7c0f4fd6-64b7-4d4e-8d7b-7f6d4b54b0a3",
+        "Name": "Ask AI",
+        "Description": "Multi-provider AI assistant (Ollama/OpenAI/DeepSeek) with web search and thinking mode",
+        "Author": "Bowie",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://github.com/BowieHe/ask-ai-plugin",
+        "UrlDownload": "https://github.com/BowieHe/ask-ai-plugin/releases/download/v1.1.0/Ask-AI.zip",
+        "UrlSourceCode": "https://github.com/BowieHe/ask-ai-plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/BowieHe/ask-ai-plugin@main/icon.png",
+        "LatestReleaseDate": "2026-01-31T00:30:54Z"
+    },
+    {
         "ID": "789B27F3EB8B42D5B6EFB6EF7DFD2BE1",
         "Name": "TwoFactorAuthenticator",
         "Description": "Two Factor Authenticator HTOP Code Generate Plugin",

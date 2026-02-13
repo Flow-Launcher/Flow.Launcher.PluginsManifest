@@ -3,10 +3,11 @@
     "Name": "Ask AI",
     "Description": "Multi-provider AI assistant (Ollama/OpenAI/DeepSeek) with web search and thinking mode",
     "Author": "Bowie",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Language": "python",
     "Website": "https://github.com/BowieHe/ask-ai-plugin",
-    "UrlDownload": "https://github.com/BowieHe/ask-ai-plugin/releases/download/v1.0.0/Ask-AI.zip",
+    "UrlDownload": "https://github.com/BowieHe/ask-ai-plugin/releases/download/v1.1.0/Ask-AI.zip",
     "UrlSourceCode": "https://github.com/BowieHe/ask-ai-plugin",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/BowieHe/ask-ai-plugin@main/icon.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/BowieHe/ask-ai-plugin@main/icon.png",
+    "LatestReleaseDate": "2026-01-31T00:30:54Z"
 }
