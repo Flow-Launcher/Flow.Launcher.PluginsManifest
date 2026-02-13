@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/BowieHe/ask-ai-plugin/releases/download/v1.1.0/Ask-AI.zip",
     "UrlSourceCode": "https://github.com/BowieHe/ask-ai-plugin",
     "IcoPath": "https://cdn.jsdelivr.net/gh/BowieHe/ask-ai-plugin@main/icon.png",
-    "LatestReleaseDate": "2026-01-31T00:30:54Z"
+    "LatestReleaseDate": "2026-01-31T00:30:54Z",
+    "Tested": true,
+    "DateAdded": "2026-02-13T04:57:09Z"
 }
