@@ -48,30 +48,24 @@ plugin_name = "Name"
 github_url = "https://github.com"
 release_date = "LatestReleaseDate"
 date_added = "DateAdded"
-tested = "Tested"
 website = "Website"
 minimum_app_version = "MinimumAppVersion"
 
-permitted_fields = (
-    "ID",
-    "Name",
-    "Description",
-    "Author",
-    "Version",
-    "Language",
-    "Website",
-    "UrlDownload",
-    "UrlSourceCode",
-    "IcoPath",
-    "MinimumAppVersion",
-    "ActionKeyword",
-    "ExecuteFileName",
+necessary_fields = (
+    id_name,
+    plugin_name,
+    description,
+    author,
+    version,
+    language_name,
+    website,
+    url_download,
+    url_sourcecode,
+    icon_path,
 )
 
-ci_managed_fields = (
-    "DateAdded",
-    "LatestReleaseDate",
-    "Tested",
+optional_fields = (
+    minimum_app_version
 )
 
 # typing
