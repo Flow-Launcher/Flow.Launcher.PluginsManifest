@@ -46,6 +46,7 @@ author = "Author"
 description = "Description"
 plugin_name = "Name"
 github_url = "https://github.com"
+tested = "Tested"
 release_date = "LatestReleaseDate"
 date_added = "DateAdded"
 website = "Website"
@@ -65,7 +66,10 @@ necessary_fields = (
 )
 
 optional_fields = (
-    minimum_app_version
+    minimum_app_version,
+    tested,
+    release_date,
+    date_added
 )
 
 # typing
