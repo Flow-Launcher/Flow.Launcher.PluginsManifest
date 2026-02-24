@@ -58,7 +58,7 @@ def test_submitted_plugin_id_is_valid_uuid():
 
 def test_valid_download_url():
     for info in plugin_infos:
-        assert github_download_url_regex.fullmatch(info[url_download]), f" The plugin {info[plugin_name]} with ID {info[id_name]} does not have a valid download url: {info[url_download]}"
+        assert github_download_url_regex.fullmatch(info[url_download]), f"The plugin {info[plugin_name]} with ID {info[id_name]} does not have a valid download url: {info[url_download]}"
 
 
 def test_necessary_fields():
