@@ -86,11 +86,18 @@ ETagsType = Dict[str, str]
 
 
 def _raise_on_duplicate_keys(pairs):
-    keys = [key for key, _ in pairs]
-    duplicates = {key for key in keys if keys.count(key) > 1}
+    seen = set()
+    duplicates = set()
+    result = {}
+    for key, value in pairs:
+        if key in seen:
+            duplicates.add(key)
+        else:
+            seen.add(key)
+            result[key] = value
     if duplicates:
         raise ValueError(f"Duplicate keys found: {duplicates}")
-    return dict(pairs)
+    return result
 
 
 def plugin_reader() -> P:
