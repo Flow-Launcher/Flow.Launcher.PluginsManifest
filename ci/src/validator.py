@@ -61,16 +61,17 @@ def test_valid_download_url():
         assert github_download_url_regex.fullmatch(info[url_download]), f" The plugin {info['Name']}-{info['ID']} does not have a valid download url: {info[url_download]}"
 
 
-def test_no_unknown_fields():
-    new_ids = set(get_new_plugin_submission_ids())
+def test_necessary_fields():
     for info in plugin_infos:
-        if info[id_name] not in new_ids:
-            continue
-        unknown = set(info.keys()) - set(necessary_fields)
-        assert len(unknown) == 0, (
-            f"Plugin {info['Name']}-{info[id_name]} contains unknown field(s): {unknown}. "
-            f"Only these fields are permitted: {necessary_fields}"
-        )
+        missing_fields = [field for field in necessary_fields if field not in info]
+        assert not missing_fields, f"Plugin {info[plugin_name]}-{info[id_name]} is missing fields: {missing_fields}"
+
+
+def test_optional_fields():
+    allowed_fields = set(necessary_fields) | set(optional_fields)
+    for info in plugin_infos:
+        unknown_fields = [field for field in info if field not in allowed_fields]
+        assert not unknown_fields, f"Plugin {info[plugin_name]}-{info[id_name]} has unknown fields: {unknown_fields}"
 
 
 def test_no_duplicate_fields():
