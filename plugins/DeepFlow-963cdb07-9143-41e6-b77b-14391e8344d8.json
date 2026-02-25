@@ -1,6 +1,5 @@
 {
     "ID": "963cdb07-9143-41e6-b77b-14391e8344d8",
-    "ActionKeyword": "dp",
     "Name": "DeepFlow",
     "Description": "Plugin to use DeepL in FlowLauncher",
     "Author": "Davide Gena",
