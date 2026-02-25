@@ -92,7 +92,8 @@ def _raise_on_duplicate_keys(pairs):
             seen.add(key)
             result[key] = value
     if duplicates:
-        raise ValueError(f"Duplicate keys found: {duplicates}")
+        sorted_duplicates = sorted(duplicates)
+        raise ValueError(f"Duplicate keys found: {sorted_duplicates}")
     return result
 
 
