@@ -3,12 +3,12 @@
     "Name": "URL",
     "Description": "Open the typed URL from Flow Launcher",
     "Author": "qianlifeng",
-    "Version": "2.0.3",
+    "Version": "2.1.0",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Url/releases/download/v2.0.3/Flow.Launcher.Plugin.Url.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Url/releases/download/v2.1.0/Flow.Launcher.Plugin.Url.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Url",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Url/Images/url.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2025-11-20T11:04:20Z"
+    "LatestReleaseDate": "2026-02-24T11:54:28Z"
 }

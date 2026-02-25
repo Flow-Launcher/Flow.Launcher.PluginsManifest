@@ -3,12 +3,12 @@
     "Name": "Plugin Indicator",
     "Description": "Provides plugin action keyword suggestions",
     "Author": "qianlifeng",
-    "Version": "2.0.3",
+    "Version": "2.1.0",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginIndicator/releases/download/v2.0.3/Flow.Launcher.Plugin.PluginIndicator.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginIndicator/releases/download/v2.1.0/Flow.Launcher.Plugin.PluginIndicator.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.PluginIndicator",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.PluginIndicator/Images/work.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2025-11-20T11:03:42Z"
+    "LatestReleaseDate": "2026-02-24T11:53:44Z"
 }
