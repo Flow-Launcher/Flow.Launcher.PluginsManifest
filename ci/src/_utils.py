@@ -51,8 +51,6 @@ release_date = "LatestReleaseDate"
 date_added = "DateAdded"
 website = "Website"
 minimum_app_version = "MinimumAppVersion"
-action_keyword = "ActionKeyword"
-action_keywords = "ActionKeywords"
 
 necessary_fields = (
     id_name,
@@ -69,8 +67,6 @@ necessary_fields = (
 
 optional_fields = (
     minimum_app_version,
-    action_keyword,
-    action_keywords,
     tested,
     release_date,
     date_added
