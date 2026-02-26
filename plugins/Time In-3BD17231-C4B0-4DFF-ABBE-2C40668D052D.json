@@ -1,0 +1,12 @@
+{
+    "ID": "3BD17231-C4B0-4DFF-ABBE-2C40668D052D",
+    "Name": "Time In",
+    "Description": "Get the current time in different timezones around the world",
+    "Author": "DavidGBrett",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.TimeIn",
+    "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.TimeIn/releases/download/v1.0.0/Flow.Launcher.Plugin.TimeIn-v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.TimeIn/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.TimeIn@main/Flow.Launcher.Plugin.TimeIn/Assets/PluginIcon.png"
+}
