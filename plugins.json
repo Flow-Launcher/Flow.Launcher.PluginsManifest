@@ -773,13 +773,13 @@
         "Name": "Window Manager",
         "Description": "Easily move and resize application windows",
         "Author": "Jack251970",
-        "Version": "2.0.2",
+        "Version": "2.0.3",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/releases/download/v2.0.2/Window.Manager-2.0.2.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/releases/download/v2.0.3/Window.Manager-2.0.3.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.WindowManager/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.WindowManager/src/Flow.Launcher.Plugin.WindowManager/Images/icon.png",
-        "LatestReleaseDate": "2025-10-07T05:04:53Z",
+        "LatestReleaseDate": "2026-02-27T02:23:52Z",
         "DateAdded": "2025-06-05T03:49:32Z"
     },
     {
@@ -2055,13 +2055,13 @@
         "Name": "MDict",
         "Description": "Search in MDict dictionaries",
         "Author": "Jack251970",
-        "Version": "2.0.4",
+        "Version": "2.0.5",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v2.0.4/MDict-2.0.4.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/releases/download/v2.0.5/MDict-2.0.5.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.MDict/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.MDict/src/Flow.Launcher.Plugin.MDict/Images/icon.png",
-        "LatestReleaseDate": "2025-11-14T16:23:11Z",
+        "LatestReleaseDate": "2026-02-27T02:21:41Z",
         "DateAdded": "2025-07-07T18:34:26Z"
     },
     {
@@ -4173,13 +4173,13 @@
         "Name": "Uninstaller+",
         "Description": "Easily uninstall desktop and Microsoft store programs based on Bulk-Crap-Uninstaller",
         "Author": "Jack251970",
-        "Version": "2.0.4",
+        "Version": "2.0.5",
         "Language": "csharp",
         "Website": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus",
-        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v2.0.4/Uninstaller%2B-2.0.4.zip",
+        "UrlDownload": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/releases/download/v2.0.5/Uninstaller%2B-2.0.5.zip",
         "UrlSourceCode": "https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.UninstallerPlus/src/Flow.Launcher.Plugin.UninstallerPlus/Images/icon.png",
-        "LatestReleaseDate": "2025-11-16T13:22:29Z",
+        "LatestReleaseDate": "2026-02-27T02:28:48Z",
         "DateAdded": "2025-06-05T03:49:32Z"
     },
     {
@@ -4266,6 +4266,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png",
         "DateAdded": "2022-10-20T11:20:54Z",
         "LatestReleaseDate": "2023-02-28T10:34:28Z"
+    },
+    {
+        "ID": "256B5175-B3FD-409D-875C-6ED3D3AE8E7C",
+        "Name": "CryptoPrice",
+        "Description": "Grab the latest value of any cryptocurrency coin.",
+        "Author": "vs256",
+        "Version": "1.2.0",
+        "Language": "javascript",
+        "Website": "https://github.com/vs256/crypto-price",
+        "UrlSourceCode": "https://github.com/vs256/crypto-price",
+        "UrlDownload": "https://github.com/vs256/crypto-price/releases/download/v1.2.0/CryptoPrice.zip",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/vs256/crypto-price@main/icons/app.svg",
+        "LatestReleaseDate": "2026-02-25T23:15:23Z"
     },
     {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
