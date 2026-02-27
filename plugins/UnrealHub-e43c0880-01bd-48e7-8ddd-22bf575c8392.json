@@ -3,13 +3,13 @@
     "Name": "UnrealHub",
     "Description": "Launch Unreal Engine projects managed by UnrealHub",
     "Author": "Sami Uysal",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Language": "python",
     "Website": "https://github.com/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub",
-    "UrlDownload": "https://github.com/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub/releases/download/v1.1.0/Flow.Launcher.Plugin.UnrealHub.zip",
+    "UrlDownload": "https://github.com/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub/releases/download/v1.1.1/Flow.Launcher.Plugin.UnrealHub.zip",
     "UrlSourceCode": "https://github.com/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub@main/Images/app.png",
-    "LatestReleaseDate": "2026-02-25T05:08:25Z",
+    "LatestReleaseDate": "2026-02-27T20:11:03Z",
     "Tested": true,
     "DateAdded": "2026-02-25T07:08:18Z"
 }
