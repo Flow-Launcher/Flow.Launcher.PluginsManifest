@@ -1,6 +1,5 @@
 {
     "ID": "775E87797F144BD7A0233B46F9BAB75C",
-    "ActionKeyword": "shodan",
     "Name": "Shodan",
     "Description": "Interact with the Shodan API",
     "Author": "Melv1no",
