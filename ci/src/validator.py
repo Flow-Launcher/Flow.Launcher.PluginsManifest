@@ -1,12 +1,19 @@
 # -*-coding: utf-8 -*-
 import json
+import os
 import uuid
 
 from _utils import (check_url, clean, get_new_plugin_submission_ids, get_plugin_file_paths, get_plugin_filenames,
                     icon_path, id_name, language_list, language_name, plugin_reader, github_download_url_regex,
                     url_download, necessary_fields, optional_fields, _raise_on_duplicate_keys, plugin_name)
 
-plugin_infos = plugin_reader()
+is_pull_request_event = os.environ.get('GITHUB_EVENT_NAME', '') == 'pull_request'
+
+if is_pull_request_event:
+    new_plugin_ids = set(get_new_plugin_submission_ids())
+    plugin_infos = [info for info in plugin_reader() if info[id_name] in new_plugin_ids]
+else:
+    plugin_infos = plugin_reader()
 
 
 def test_uuid_unique():
