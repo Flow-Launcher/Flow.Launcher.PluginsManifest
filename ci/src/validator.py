@@ -6,7 +6,11 @@ from _utils import (check_url, clean, get_new_plugin_submission_ids, get_plugin_
                     icon_path, id_name, language_list, language_name, plugin_reader, github_download_url_regex,
                     url_download, necessary_fields, optional_fields, _raise_on_duplicate_keys, plugin_name)
 
-plugin_infos = plugin_reader()
+USE_EFFECTIVE_PLUGIN_DIR = True
+
+plugin_infos = plugin_reader(use_effective_plugin_dir=USE_EFFECTIVE_PLUGIN_DIR)
+plugin_filenames = get_plugin_filenames(use_effective_plugin_dir=USE_EFFECTIVE_PLUGIN_DIR)
+plugin_file_paths = get_plugin_file_paths(use_effective_plugin_dir=USE_EFFECTIVE_PLUGIN_DIR)
 
 
 def test_uuid_unique():
@@ -32,16 +36,15 @@ def test_valid_icon_url():
 
 
 def test_file_type_json():
-    incorrect_ext_files = [file_path for file_path in get_plugin_file_paths() if not file_path.endswith(".json")]
+    incorrect_ext_files = [file_path for file_path in plugin_file_paths if not file_path.endswith(".json")]
 
     assert len(incorrect_ext_files) == 0, f"Expected the following file to be of .json extension: {incorrect_ext_files}"
 
 
 def test_file_name_construct():
-    filenames = get_plugin_filenames()
     for info in plugin_infos:
         assert (
-            f"{info[plugin_name]}-{info[id_name]}.json" in filenames
+                f"{info[plugin_name]}-{info[id_name]}.json" in plugin_filenames
         ), f"Plugin {info[plugin_name]} with ID {info[id_name]} does not have the correct filename. Make sure it's name + ID, i.e. {info[plugin_name]}-{info[id_name]}.json"
 
 
@@ -58,7 +61,8 @@ def test_submitted_plugin_id_is_valid_uuid():
 
 def test_valid_download_url():
     for info in plugin_infos:
-        assert github_download_url_regex.fullmatch(info[url_download]), f"The plugin {info[plugin_name]} with ID {info[id_name]} does not have a valid download url: {info[url_download]}"
+        assert github_download_url_regex.fullmatch(info[
+                                                       url_download]), f"The plugin {info[plugin_name]} with ID {info[id_name]} does not have a valid download url: {info[url_download]}"
 
 
 def test_necessary_fields():
@@ -75,7 +79,7 @@ def test_optional_fields():
 
 
 def test_no_duplicate_fields():
-    for file_path in get_plugin_file_paths():
+    for file_path in plugin_file_paths:
         with open(file_path, "r", encoding="utf-8") as f:
             try:
                 json.load(f, object_pairs_hook=_raise_on_duplicate_keys)
