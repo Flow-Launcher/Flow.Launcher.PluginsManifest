@@ -72,6 +72,10 @@ optional_fields = (
     date_added
 )
 
+submission_optional_fields = (
+    minimum_app_version,
+)
+
 # typing
 PluginType = Dict[str, str]
 P = TypeVar("P", bound=PluginType)
@@ -184,3 +188,8 @@ def get_new_plugin_submission_ids() -> list[str]:
         new_ids.append(id)
 
     return new_ids
+
+
+def get_submitted_plugin_infos() -> PluginsType:
+    plugins_json_ids = set(item["ID"] for item in get_file_plugins_json_info("ID"))
+    return [plugin for plugin in plugin_reader() if plugin[id_name] not in plugins_json_ids]

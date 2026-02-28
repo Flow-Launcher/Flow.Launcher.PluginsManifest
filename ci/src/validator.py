@@ -4,7 +4,8 @@ import uuid
 
 from _utils import (check_url, clean, get_new_plugin_submission_ids, get_plugin_file_paths, get_plugin_filenames,
                     icon_path, id_name, language_list, language_name, plugin_reader, github_download_url_regex,
-                    url_download, necessary_fields, optional_fields, _raise_on_duplicate_keys, plugin_name)
+                    url_download, necessary_fields, optional_fields, submission_optional_fields,
+                    _raise_on_duplicate_keys, plugin_name, get_submitted_plugin_infos, plugin_dir)
 
 plugin_infos = plugin_reader()
 
@@ -66,12 +67,21 @@ def test_necessary_fields():
         missing_fields = [field for field in necessary_fields if field not in info]
         assert not missing_fields, f"Plugin {info[plugin_name]} with ID {info[id_name]} is missing fields: {missing_fields}"
 
+    for info in get_submitted_plugin_infos():
+        missing_fields = [field for field in necessary_fields if field not in info]
+        assert not missing_fields, f"Submitted plugin {info[plugin_name]} with ID {info[id_name]} is missing fields: {missing_fields}"
+
 
 def test_optional_fields():
     allowed_fields = set(necessary_fields) | set(optional_fields)
     for info in plugin_infos:
         unknown_fields = [field for field in info if field not in allowed_fields]
         assert not unknown_fields, f"Plugin {info[plugin_name]} with ID {info[id_name]} has unknown fields: {unknown_fields}"
+
+    submission_allowed_fields = set(necessary_fields) | set(submission_optional_fields)
+    for info in get_submitted_plugin_infos():
+        disallowed_fields = [field for field in info if field not in submission_allowed_fields]
+        assert not disallowed_fields, f"Submitted plugin {info[plugin_name]} with ID {info[id_name]} has fields not allowed for new submissions: {disallowed_fields}"
 
 
 def test_no_duplicate_fields():
@@ -81,3 +91,11 @@ def test_no_duplicate_fields():
                 json.load(f, object_pairs_hook=_raise_on_duplicate_keys)
             except ValueError as e:
                 assert False, f"Plugin file {file_path} has {e}"
+
+    for info in get_submitted_plugin_infos():
+        file_path = str(plugin_dir / f"{info[plugin_name]}-{info[id_name]}.json")
+        with open(file_path, "r", encoding="utf-8") as f:
+            try:
+                json.load(f, object_pairs_hook=_raise_on_duplicate_keys)
+            except ValueError as e:
+                assert False, f"Submitted plugin file {file_path} has {e}"
