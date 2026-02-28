@@ -7,6 +7,7 @@ import shutil
 import tempfile
 import urllib.error
 import urllib.request
+import urllib.parse
 from pathlib import Path
 from typing import Dict, List, TypeVar
 
@@ -138,8 +139,12 @@ def _get_pr_plugin_dir() -> str:
 
     for item in contents:
         if item["name"].endswith(".json") and item["type"] == "file":
+            url = item["download_url"]
+            # Ensure the URL is properly encoded, handling spaces and other characters
+            url = urllib.parse.quote(url, safe=":/")
+
             file_req = urllib.request.Request(
-                item["download_url"],
+                url,
                 headers={"User-Agent": "flow-launcher-validator"},
             )
             try:
