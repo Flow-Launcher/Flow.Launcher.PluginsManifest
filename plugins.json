@@ -115,7 +115,6 @@
     },
     {
         "ID": "CF8389C7-61AC-4387-93DE-370B31BD07EB",
-        "ActionKeyword": "wap",
         "Name": "WebApp launcher",
         "Description": "Start a URL in a webapp mode",
         "Author": "gissehel",
@@ -260,7 +259,6 @@
     },
     {
         "ID": "3f648301-8764-4790-841b-0431fc0eb072",
-        "ActionKeyword": "*",
         "Name": "CurrencyPP",
         "Description": "A Better Currency Converter",
         "Author": "SweedXD",
@@ -290,7 +288,6 @@
     },
     {
         "ID": "F229B92B-C4D1-4A87-B05B-A96ACC486263",
-        "ActionKeyword": "email",
         "Name": "EmailTo",
         "Description": "Flow plugin to spawn a new email in the system default client",
         "Author": "Adam Marciniec",
@@ -334,7 +331,6 @@
     },
     {
         "ID": "775E87797F144BD7A0233B46F9BAB75C",
-        "ActionKeyword": "shodan",
         "Name": "Shodan",
         "Description": "Interact with the Shodan API",
         "Author": "Melv1no",
@@ -405,7 +401,6 @@
     },
     {
         "ID": "963cdb07-9143-41e6-b77b-14391e8344d8",
-        "ActionKeyword": "dp",
         "Name": "DeepFlow",
         "Description": "Plugin to use DeepL in FlowLauncher",
         "Author": "Davide Gena",
@@ -415,7 +410,6 @@
         "IcoPath": "https://cdn.statically.io/gh/DavidG33k/Flow.Launcher.Plugin.DeepFlow/main/images/ico.png",
         "UrlSourceCode": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow",
         "UrlDownload": "https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow/releases/download/v1.0.1/Flow.Launcher.Plugin.DeepFlow.zip",
-        "ExecuteFileName": "main.py",
         "Tested": true,
         "DateAdded": "2023-05-12T12:05:40Z",
         "LatestReleaseDate": "2024-03-05T17:48:48Z"
@@ -522,7 +516,6 @@
     },
     {
         "ID": "D87F82F1-5A19-46CC-B5CC-50430B2F77AB",
-        "ActionKeyword": "unit",
         "Name": "Unit converter",
         "Description": "Convert between physical units",
         "Author": "gissehel",
@@ -703,7 +696,6 @@
         "Version": "1.0.0",
         "Language": "python",
         "Website": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
-        "ExecuteFileName": "main.py",
         "UrlDownload": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc/releases/download/v1.0.0/Flow.Plugin.SudokuKillerCalc.zip",
         "UrlSourceCode": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
         "IcoPath": "https://cdn.jsdelivr.net/gh/alexdeloy/Flow.Plugin.SudokuKillerCalc/icon-search.png",
@@ -813,7 +805,6 @@
     },
     {
         "ID": "d91d366e4ff742b3b821f9d60031c3df",
-        "ActionKeyword": "npm",
         "Name": "Search npm",
         "Description": "Search npm packages",
         "Author": "Gabriel Carloto",
@@ -901,7 +892,6 @@
     },
     {
         "ID": "77435DA907472F189B759F9F4F3E3C23",
-        "ActionKeyword": "when",
         "Name": "When to Expect",
         "Description": "Calculates how many tries are needed to expect an event (by default with ≥ 50 % probability).",
         "Author": "Jonas A. Wendorf",
@@ -1018,7 +1008,6 @@
     },
     {
         "ID": "3AF7F9DD4367439AA4730641D99EDA21",
-        "ActionKeyword": "vol",
         "Name": "FlowTrumpet",
         "Description": "Set the volume of a specific application",
         "Author": "Hary309",
@@ -1234,7 +1223,6 @@
     },
     {
         "ID": "340E73A8A8C148A28082C90207E097B3",
-        "ActionKeyword": "qr",
         "Name": "QrCodeGenerator",
         "Description": "Qr Code Generator or Parser Qr Code file Plugin",
         "Author": "yu-xiaoyao",
@@ -1263,7 +1251,6 @@
     },
     {
         "ID": "ae951fdb-f40b-4b45-b66c-14acd12f0f7c",
-        "ActionKeyword": "vd",
         "Name": "Virtual Desktops",
         "Description": "Switch between Virtual Desktops using Flow Launcher",
         "Author": "DavidGBrett",
@@ -1365,7 +1352,6 @@
     },
     {
         "ID": "D0DB38F5-0199-4DFC-8A8D-1B22F68C157C",
-        "ActionKeyword": "*",
         "Name": "Favorites",
         "Description": "Flow Launcher plugin to define favorite apps, files, folders and URLs.",
         "Author": "stax76",
@@ -1394,7 +1380,6 @@
     },
     {
         "ID": "68B179AA-4E80-4080-AC68-CC922CD2AE60",
-        "ActionKeyword": "un",
         "Name": "Unity 3D Helper",
         "Description": "Unity3D project list/launcher",
         "Author": "falldeaf",
@@ -2311,7 +2296,6 @@
     },
     {
         "ID": "6361A46C-D08C-49AB-AAA4-D19E1F2ABA0D",
-        "ActionKeyword": "base",
         "Name": "Base Converter",
         "Description": "Convert values from one base to another (for example decimal to hexadecimal, etc.)",
         "Author": "gissehel",
@@ -2815,7 +2799,6 @@
     },
     {
         "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
-        "ActionKeyword": "work",
         "Name": "Workspacer",
         "Description": "Create and manage workspaces",
         "Author": "gissehel",
@@ -2916,7 +2899,6 @@
     },
     {
         "ID": "AAA4B665C94142F89B7D3DDCEA5E91CF",
-        "ActionKeyword": "svg",
         "Name": "SVGl Plugin",
         "Description": "Get SVGs Copied to your clipboard from svgl",
         "Author": "AF_Askar",
@@ -2926,7 +2908,6 @@
         "UrlDownload": "https://github.com/AFAskar/SVGl-plugin/releases/download/v1.0.0/Svgl-1.0.0.zip",
         "UrlSourceCode": "https://github.com/abo3skr2019/SVGl-plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/abo3skr2019/SVGl-plugin@refs/heads/main/Flow.Launcher.Plugin.svgl/icon.svg",
-        "ExecuteFileName": "Flow.Launcher.Plugin.svgl.dll",
         "LatestReleaseDate": "2025-04-27T18:41:08Z",
         "DateAdded": "2025-05-01T03:47:07Z"
     },
@@ -3793,7 +3774,6 @@
     },
     {
         "ID": "F03364BE-101B-4988-B555-528B961E6A86",
-        "ActionKeyword": "myips",
         "Name": "MyIPs",
         "Description": "A plugin to tell you your internal and public IP excluding any coming from VM programs and the like",
         "Author": "Adam Marciniec",
@@ -4126,7 +4106,6 @@
     },
     {
         "ID": "8G5CDC9A78EF4A7E667E138F1FC04015",
-        "ActionKeyword": "mdi",
         "Name": "Search-MDI",
         "Description": "Search materialdesignicons.com",
         "Author": "Garulf",
@@ -4288,7 +4267,6 @@
         "Author": "Tueska",
         "Version": "1.0.1",
         "Language": "JavaScript",
-        "ExecuteFileName": "main.js",
         "Website": "https://github.com/Tueska/fl-howlongtobeat",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Tueska/fl-HowLongToBeat/Images/howlongtobeat.png",
         "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.1/Tueska.HowLongToBeat.zip",
@@ -4413,7 +4391,6 @@
     },
     {
         "ID": "d50362aa29f04cd59032bb44a5d5f7e5",
-        "ActionKeyword": "e",
         "Name": "Emoji Finder",
         "Description": "Find emoji easily by typing keywords.",
         "Author": "kalvn",
