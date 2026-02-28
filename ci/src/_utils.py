@@ -46,9 +46,31 @@ author = "Author"
 description = "Description"
 plugin_name = "Name"
 github_url = "https://github.com"
+tested = "Tested"
 release_date = "LatestReleaseDate"
 date_added = "DateAdded"
 website = "Website"
+minimum_app_version = "MinimumAppVersion"
+
+necessary_fields = (
+    id_name,
+    plugin_name,
+    description,
+    author,
+    version,
+    language_name,
+    website,
+    url_download,
+    url_sourcecode,
+    icon_path,
+)
+
+optional_fields = (
+    minimum_app_version,
+    tested,
+    release_date,
+    date_added
+)
 
 # typing
 PluginType = Dict[str, str]
@@ -57,6 +79,22 @@ PluginsType = List[PluginType]
 Ps = TypeVar("Ps", bound=PluginsType)
 
 ETagsType = Dict[str, str]
+
+
+def _raise_on_duplicate_keys(pairs):
+    seen = set()
+    duplicates = set()
+    result = {}
+    for key, value in pairs:
+        if key in seen:
+            duplicates.add(key)
+        else:
+            seen.add(key)
+            result[key] = value
+    if duplicates:
+        sorted_duplicates = sorted(duplicates)
+        raise ValueError(f"Duplicate keys found: {sorted_duplicates}")
+    return result
 
 
 def plugin_reader() -> P:

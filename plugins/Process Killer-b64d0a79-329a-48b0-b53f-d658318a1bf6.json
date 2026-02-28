@@ -3,12 +3,12 @@
     "Name": "Process Killer",
     "Description": "Kill running processes from Flow",
     "Author": "Flow-Launcher",
-    "Version": "2.0.3",
+    "Version": "2.1.0",
     "Language": "csharp",
     "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.ProcessKiller",
-    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.ProcessKiller/releases/download/v2.0.3/Flow.Launcher.Plugin.ProcessKiller.zip",
+    "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.ProcessKiller/releases/download/v2.1.0/Flow.Launcher.Plugin.ProcessKiller.zip",
     "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.ProcessKiller",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.ProcessKiller/Images/app.png",
     "DateAdded": "2023-09-27T02:43:06Z",
-    "LatestReleaseDate": "2025-11-20T11:03:52Z"
+    "LatestReleaseDate": "2026-02-24T11:53:56Z"
 }

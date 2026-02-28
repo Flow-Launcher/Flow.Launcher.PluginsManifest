@@ -1,15 +1,15 @@
 {
     "ID": "91a89d52b8bd4a1ebfde9d09b7b5803b",
     "Name": "Zed Workspaces",
-    "Description": "Allows search for Zed workspaces, locally or on WSL.",
+    "Description": "Allows search for Zed workspaces: local, WSL, and SSH remote.",
     "Author": "Shubham Bhatnagar",
-    "Version": "1.6",
+    "Version": "1.7",
     "Language": "python",
-    "Website": "https://github.com/shubhambhatnag/zed-flow-extension",
-    "UrlDownload": "https://github.com/shubhambhatnag/zed-flow-extension/releases/download/v1.6/Flow.Launcher.Plugin.ZedWorkspaces.zip",
+    "Website": "https://github.com/shubhambhatnag",
+    "UrlDownload": "https://github.com/shubhambhatnag/zed-flow-extension/releases/download/v1.7/Flow.Launcher.Plugin.ZedWorkspaces.zip",
     "UrlSourceCode": "https://github.com/shubhambhatnag/zed-flow-extension/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/shubhambhatnag/zed-flow-extension/assets/zed.png",
-    "LatestReleaseDate": "2025-12-09T00:46:42Z",
+    "LatestReleaseDate": "2026-02-22T14:17:06Z",
     "Tested": true,
     "DateAdded": "2025-12-09T01:58:17Z"
 }

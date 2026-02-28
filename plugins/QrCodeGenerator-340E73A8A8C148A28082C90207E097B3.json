@@ -1,6 +1,5 @@
 {
     "ID": "340E73A8A8C148A28082C90207E097B3",
-    "ActionKeyword": "qr",
     "Name": "QrCodeGenerator",
     "Description": "Qr Code Generator or Parser Qr Code file Plugin",
     "Author": "yu-xiaoyao",

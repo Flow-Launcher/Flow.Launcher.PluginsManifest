@@ -1,6 +1,5 @@
 {
     "ID": "d91d366e4ff742b3b821f9d60031c3df",
-    "ActionKeyword": "npm",
     "Name": "Search npm",
     "Description": "Search npm packages",
     "Author": "Gabriel Carloto",
