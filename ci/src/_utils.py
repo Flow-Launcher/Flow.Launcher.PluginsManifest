@@ -160,8 +160,8 @@ def _effective_plugin_dir() -> Path:
     return plugin_dir
 
 
-def plugin_reader() -> P:
-    plugin_file_paths = get_plugin_file_paths()
+def plugin_reader(use_effective_plugin_dir=False) -> P:
+    plugin_file_paths = get_plugin_file_paths(use_effective_plugin_dir=use_effective_plugin_dir)
 
     manifests = []
 
@@ -177,13 +177,13 @@ def save_plugins_json_file(content: list[dict[str]]) -> None:
         json.dump(content, f, indent=4, ensure_ascii=False)
 
 
-def get_plugin_file_paths() -> list[str]:
-    dir_path = _effective_plugin_dir()
+def get_plugin_file_paths(use_effective_plugin_dir=False) -> list[str]:
+    dir_path = _effective_plugin_dir() if use_effective_plugin_dir else plugin_dir
     return [os.path.join(dir_path, filename) for filename in os.listdir(dir_path)]
 
 
-def get_plugin_filenames() -> list[str]:
-    return os.listdir(_effective_plugin_dir())
+def get_plugin_filenames(use_effective_plugin_dir=False) -> list[str]:
+    return os.listdir(_effective_plugin_dir() if use_effective_plugin_dir else plugin_dir)
 
 
 def etag_reader() -> ETagsType:
