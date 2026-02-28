@@ -1,7 +1,12 @@
 # -*-coding: utf-8 -*-
+import atexit
 import json
 import os
 import re
+import shutil
+import tempfile
+import urllib.error
+import urllib.request
 from pathlib import Path
 from typing import Dict, List, TypeVar
 
@@ -97,6 +102,64 @@ def _raise_on_duplicate_keys(pairs):
     return result
 
 
+def _is_pull_request() -> bool:
+    return os.environ.get("GITHUB_EVENT_NAME") == "pull_request"
+
+
+_pr_plugin_dir: str | None = None
+
+
+def _get_pr_plugin_dir() -> str:
+    """Download plugin files from the PR head repository to a temp directory and return its path."""
+    global _pr_plugin_dir
+    if _pr_plugin_dir is not None:
+        return _pr_plugin_dir
+
+    repo = os.environ.get("PR_HEAD_REPO", "")
+    branch = os.environ.get("PR_HEAD_BRANCH", "main")
+
+    if not repo:
+        _pr_plugin_dir = str(plugin_dir)
+        return _pr_plugin_dir
+
+    temp_dir = tempfile.mkdtemp()
+    atexit.register(shutil.rmtree, temp_dir, ignore_errors=True)
+
+    api_url = f"https://api.github.com/repos/{repo}/contents/plugins?ref={branch}"
+    req = urllib.request.Request(
+        api_url,
+        headers={"Accept": "application/vnd.github.v3+json", "User-Agent": "flow-launcher-validator"},
+    )
+    try:
+        with urllib.request.urlopen(req) as response:
+            contents = json.loads(response.read().decode("utf-8"))
+    except urllib.error.URLError as e:
+        raise RuntimeError(f"Failed to fetch plugin list from {api_url}: {e}") from e
+
+    for item in contents:
+        if item["name"].endswith(".json") and item["type"] == "file":
+            file_req = urllib.request.Request(
+                item["download_url"],
+                headers={"User-Agent": "flow-launcher-validator"},
+            )
+            try:
+                with urllib.request.urlopen(file_req) as r:
+                    file_path = os.path.join(temp_dir, item["name"])
+                    with open(file_path, "wb") as f:
+                        f.write(r.read())
+            except urllib.error.URLError as e:
+                raise RuntimeError(f"Failed to download plugin file {item['name']}: {e}") from e
+
+    _pr_plugin_dir = temp_dir
+    return _pr_plugin_dir
+
+
+def _effective_plugin_dir() -> Path:
+    if _is_pull_request():
+        return Path(_get_pr_plugin_dir())
+    return plugin_dir
+
+
 def plugin_reader() -> P:
     plugin_file_paths = get_plugin_file_paths()
 
@@ -115,11 +178,12 @@ def save_plugins_json_file(content: list[dict[str]]) -> None:
 
 
 def get_plugin_file_paths() -> list[str]:
-    return [os.path.join(plugin_dir, filename) for filename in get_plugin_filenames()]
+    dir_path = _effective_plugin_dir()
+    return [os.path.join(dir_path, filename) for filename in os.listdir(dir_path)]
 
 
 def get_plugin_filenames() -> list[str]:
-    return os.listdir(plugin_dir)
+    return os.listdir(_effective_plugin_dir())
 
 
 def etag_reader() -> ETagsType:

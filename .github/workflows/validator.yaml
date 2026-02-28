@@ -16,7 +16,7 @@ jobs:
           paths: '["plugins/*.json"]'
   test:
     needs: skip_check_job
-    if: ${{ needs.pre_job.outputs.should_skip != 'true' }}
+    if: ${{ needs.skip_check_job.outputs.should_skip != 'true' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,5 +29,9 @@ jobs:
           pip install -r ./ci/envs/requirements-validator.txt
 
       - name: Test with pytest
+        env:
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          PR_HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          PR_HEAD_BRANCH: ${{ github.event.pull_request.head.ref }}
         run: |
           pytest ./ci/src/validator.py
