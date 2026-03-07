@@ -1,0 +1,12 @@
+{
+    "ID": "D3A8F5E1-2C4B-4D6E-8F0A-1B2C3D4E5F6A",
+    "Name": "Capacities",
+    "Description": "Add notes, tasks, and todos to your Capacities.io daily note",
+    "Author": "Wraiyth",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Wraiyth/flow-launcher-capacities-plugin",
+    "UrlDownload": "https://github.com/Wraiyth/flow-launcher-capacities-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Capacities.zip",
+    "UrlSourceCode": "https://github.com/Wraiyth/flow-launcher-capacities-plugin/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Wraiyth/flow-launcher-capacities-plugin@main/Images/capacities.png"
+}
