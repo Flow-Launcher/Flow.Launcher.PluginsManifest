@@ -14,7 +14,8 @@ jobs:
         with:
           skip_after_successful_duplicate: 'true'
           paths: '["plugins/*.json"]'
-  test:
+  
+  validate_plugin_manifest:
     needs: skip_check_job
     if: ${{ needs.pre_job.outputs.should_skip != 'true' }}
     runs-on: ubuntu-latest
@@ -28,6 +29,6 @@ jobs:
         run: |
           pip install -r ./ci/envs/requirements-validator.txt
 
-      - name: Test with pytest
+      - name: Validate plugin manifest file
         run: |
           pytest ./ci/src/validator.py
