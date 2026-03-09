@@ -1,10 +1,14 @@
 # -*-coding: utf-8 -*-
 import json
+import os
 import uuid
+from pathlib import Path
 
-from _utils import (check_url, clean, get_new_plugin_submission_ids, get_plugin_file_paths, get_plugin_filenames,
-                    icon_path, id_name, language_list, language_name, plugin_reader, github_download_url_regex,
-                    url_download, necessary_fields, optional_fields, _raise_on_duplicate_keys, plugin_name)
+from _utils import (_raise_on_duplicate_keys, base_dir, check_url, clean, get_new_plugin_submission_ids,
+                    get_plugin_file_paths, get_plugin_filenames, github_download_url_regex, icon_path, id_name,
+                    language_list, language_name, necessary_fields, optional_fields, plugin_dir, plugin_name,
+                    plugin_reader, url_download)
+from pytest import fail
 
 plugin_infos = plugin_reader()
 
@@ -81,3 +85,34 @@ def test_no_duplicate_fields():
                 json.load(f, object_pairs_hook=_raise_on_duplicate_keys)
             except ValueError as e:
                 assert False, f"Plugin file {file_path} has {e}"
+
+
+def test_plugins_in_correct_location():
+    plugins_path = Path(plugin_dir)
+
+    for root, _dirs, files in os.walk(base_dir):
+        root_path = Path(root)
+
+        # Skip the official plugins directory and anything inside it
+        if root_path == plugins_path or plugins_path in root_path.parents:
+            continue
+
+        for file in files:
+            if not file.endswith(".json"):
+                continue
+
+            path_without_extension = Path(file).stem
+            if "-" not in path_without_extension:
+                continue
+
+            _, uuid_part = path_without_extension.split("-", 1)
+
+            try:
+                _ = uuid.UUID(uuid_part, version=4)
+            except ValueError:
+                continue
+
+            fail(
+                f"{str(root_path / file)} appears to be a plugin file and is not in the ./plugins directory. "
+                "Please move it into ./plugins"
+            )
