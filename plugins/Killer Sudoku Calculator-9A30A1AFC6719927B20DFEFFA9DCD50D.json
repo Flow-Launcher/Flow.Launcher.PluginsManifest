@@ -6,7 +6,6 @@
     "Version": "1.0.0",
     "Language": "python",
     "Website": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
-    "ExecuteFileName": "main.py",
     "UrlDownload": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc/releases/download/v1.0.0/Flow.Plugin.SudokuKillerCalc.zip",
     "UrlSourceCode": "https://github.com/alexdeloy/Flow.Plugin.SudokuKillerCalc",
     "IcoPath": "https://cdn.jsdelivr.net/gh/alexdeloy/Flow.Plugin.SudokuKillerCalc/icon-search.png",
