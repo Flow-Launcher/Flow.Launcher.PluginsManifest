@@ -1,0 +1,13 @@
+{
+    "ID": "17849714f4d84ff095a12b6f1b8d7e12",
+    "ActionKeyword": "np",
+    "Name": "Nouns Proposal Search",
+    "Description": "Search Nouns DAO proposals and open them on nouncil.club",
+    "Author": "xppaicyber",
+    "Version": "1.0.0",
+    "Language": "python",
+    "UrlSourceCode": "https://github.com/XppaiCyberr/Flow.Launcher.Plugin.NounsProp/tree/main",
+    "UrlDownload": "https://github.com/XppaiCyberr/Flow.Launcher.Plugin.NounsProp/releases/download/v1.0.0/Flow.Launcher.Plugin.NounsProp.zip",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/XppaiCyberr/Flow.Launcher.Plugin.NounsProp@main/assets/favicon.ico",
+    "ExecuteFileName": "main.py"
+}
