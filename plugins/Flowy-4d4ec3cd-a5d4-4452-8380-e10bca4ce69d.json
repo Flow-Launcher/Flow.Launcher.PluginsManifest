@@ -1,0 +1,12 @@
+{
+  "ID": "4d4ec3cd-a5d4-4452-8380-e10bca4ce69d",
+  "Name": "Flow.Launcher.Plugin.Flowy",
+  "Description": "Custom catalog indexer like Launchy",
+  "Author": "OpusLux",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy",
+  "UrlDownload": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy/releases/download/v1.0.0/Flow.Launcher.Plugin.Flowy-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/opuslux/Flowy@main/Images/app.png"
+}
