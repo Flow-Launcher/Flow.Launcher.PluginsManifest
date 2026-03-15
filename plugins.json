@@ -1779,6 +1779,21 @@
         "LatestReleaseDate": "2026-03-09T03:26:24Z"
     },
     {
+        "ID": "9e54a3a6-b9a3-41bb-a0db-75ebff0aed45",
+        "Name": "Volt",
+        "Description": "Control Windows 11 power plans (High Performance, Balanced, Power Saver)",
+        "Author": "Goodspoken",
+        "Version": "1.2.8",
+        "Language": "python",
+        "Website": "https://github.com/Goodspoken/Flow.Launcher.Plugin.Volt",
+        "UrlDownload": "https://github.com/Goodspoken/Flow.Launcher.Plugin.Volt/releases/download/v1.2.8/Volt-v1.2.8.zip",
+        "UrlSourceCode": "https://github.com/Goodspoken/Flow.Launcher.Plugin.Volt",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Goodspoken/Flow.Launcher.Plugin.Volt@main/Images/app.png",
+        "LatestReleaseDate": "2026-03-11T08:14:47Z",
+        "Tested": true,
+        "DateAdded": "2026-03-11T13:12:41Z"
+    },
+    {
         "ID": "91B97FA34859445782AEF1893DE4E350",
         "Name": "Minecraft Multi Launcher",
         "Description": "Launcher your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
@@ -1840,13 +1855,13 @@
         "Name": "App Audio Manager",
         "Description": "Control the volume and mute state of individual applications directly from Flow Launcher",
         "Author": "DavidGBrett",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager",
-        "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager/releases/download/v1.0.0/Flow.Launcher.Plugin.AppAudioManager-v1.0.0.zip",
+        "UrlDownload": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager/releases/download/v1.1.0/Flow.Launcher.Plugin.AppAudioManager-v1.1.0.zip",
         "UrlSourceCode": "https://github.com/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DavidGBrett/Flow.Launcher.Plugin.AppAudioManager@main/Flow.Launcher.Plugin.AppAudioManager/Assets/PluginIcon.png",
-        "LatestReleaseDate": "2026-01-16T18:10:53Z",
+        "LatestReleaseDate": "2026-03-15T18:26:46Z",
         "DateAdded": "2026-01-23T06:42:00Z"
     },
     {
@@ -2888,14 +2903,14 @@
         "Name": "OneNote",
         "Description": "Search and create your OneNote notes",
         "Author": "Odotocodot",
-        "Version": "3.0.0",
+        "Version": "3.0.1",
         "Language": "csharp",
         "Website": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
-        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v3.0.0/Flow.Launcher.Plugin.OneNote.zip",
+        "UrlDownload": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote/releases/download/v3.0.1/Flow.Launcher.Plugin.OneNote.zip",
         "UrlSourceCode": "https://github.com/Odotocodot/Flow.Launcher.Plugin.OneNote",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Odotocodot/Flow.Launcher.Plugin.OneNote@master/Flow.Launcher.Plugin.OneNote/Images/logo.png",
         "DateAdded": "2022-12-24T20:14:35Z",
-        "LatestReleaseDate": "2026-03-04T21:37:22Z"
+        "LatestReleaseDate": "2026-03-13T19:18:17Z"
     },
     {
         "ID": "AAA4B665C94142F89B7D3DDCEA5E91CF",
@@ -4364,15 +4379,15 @@
         "Name": "AnyVideo Downloader",
         "Description": "Plugin for downloading videos from YouTube, Facebook, Twitter, Instagram, and many other websites.",
         "Author": "z1nc0r3",
-        "Version": "2.3.1",
+        "Version": "2.4.0",
         "Language": "python",
         "Website": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin",
-        "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v2.3.1/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
+        "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v2.4.0/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
         "UrlSourceCode": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/AnyVideo-Downloader-Flow-Plugin@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2024-07-30T07:46:00Z",
-        "LatestReleaseDate": "2026-02-05T20:55:43Z"
+        "LatestReleaseDate": "2026-03-15T14:23:41Z"
     },
     {
         "ID": "18892B7863AC43ABA27859A5A2866DD8",
