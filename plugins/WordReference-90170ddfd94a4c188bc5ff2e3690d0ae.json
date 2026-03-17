@@ -2,7 +2,7 @@
     "ID": "90170ddfd94a4c188bc5ff2e3690d0ae",
     "Name": "WordReference",
     "Description": "WordReference translations (es, en, fr, it)",
-    "Author": "LeoDupont and jeregon1",
+    "Author": "LeoDupont, jeregon1",
     "Version": "1.1.0",
     "Language": "javascript",
     "Website": "https://github.com/jeregon1/Flow.Launcher.Plugin.WordReference",
