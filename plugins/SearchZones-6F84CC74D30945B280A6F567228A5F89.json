@@ -1,0 +1,12 @@
+{
+  "Author": "suly520",
+  "UrlSourceCode": "https://github.com/suly520/Flow.Launcher.Plugin.SearchZones/tree/main",
+  "Language": "csharp",
+  "Name": "SearchZones",
+  "Version": "1.0.0",
+  "ID": "6F84CC74D30945B280A6F567228A5F89",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/suly520/Flow.Launcher.Plugin.SearchZones@main/Flow.Launcher.Plugin.SearchZones/Images/icon.png",
+  "Website": "https://github.com/suly520/Flow.Launcher.Plugin.SearchZones",
+  "UrlDownload": "https://github.com/suly520/Flow.Launcher.Plugin.SearchZones/releases/download/v1.0.0/Flow.Launcher.Plugin.SearchZones.zip",
+  "Description": "Search spaces with folder-scoped presets, quick commands, and plugin actions for Flow Launcher"
+}
