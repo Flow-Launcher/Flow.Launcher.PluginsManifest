@@ -1,7 +1,7 @@
 {
     "ID": "211E5D954B464A408740C088A6551C98",
     "Name": "Web Scraper",
-    "Description": "Scrape the web and display the results from Flow Launcher",
+    "Description": "Scrape the web and view the results in the Flow Launcher",
     "Author": "Nofontnl",
     "Version": "1.0.0",
     "Language": "csharp",
