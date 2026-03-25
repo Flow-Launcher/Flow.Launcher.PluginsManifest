@@ -1,7 +1,7 @@
 {
   "ID": "F1676243-7AB5-45A8-9741-5E0C5DA47D92",
   "Name": "Omni Flow",
-  "Description": "Search browser history with frecency ranking and open-tab switching.",
+  "Description": "Intelligent URL address bar with real-time browser history, autocomplete, and already-open-tab detection — a faux omnibox for Flow Launcher.",
   "Author": "handofhate",
   "Version": "1.0.0",
   "Language": "python",
