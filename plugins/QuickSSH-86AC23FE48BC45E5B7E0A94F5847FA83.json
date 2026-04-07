@@ -1,0 +1,13 @@
+{
+  "ID": "86AC23FE48BC45E5B7E0A94F5847FA83",
+  "Name": "QuickSSH",
+  "Description": "SSH/SCP plugin with structured profiles, SSH-config-like import/export, direct SSH, custom shell management, and query autocomplete via suggestions",
+  "Author": "Vaso73",
+  "Version": "3.5.0",
+  "Language": "csharp",
+  "MinimumAppVersion": "1.19.0",
+  "Website": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH",
+  "UrlSourceCode": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/tree/main",
+  "UrlDownload": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/releases/download/v3.5.0/QuickSSH.zip",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Vaso73/Flow.Launcher.Plugin.QuickSSH@main/Images/app.png"
+}
