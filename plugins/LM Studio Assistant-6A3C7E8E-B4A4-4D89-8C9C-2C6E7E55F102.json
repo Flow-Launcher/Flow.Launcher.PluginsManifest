@@ -1,0 +1,14 @@
+    {
+        "ID": "6A3C7E8E-B4A4-4D89-8C9C-2C6E7E55F102",
+        "Name": "LM Studio Assistant",
+        "Description": "Flow Launcher plugin for chatting with and managing models in LM Studio.",
+        "Author": "PorcessorI7",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/Processori7/LMStudioAssistant",
+        "UrlDownload": "https://github.com/Processori7/LMStudioAssistant/releases/download/1.0.0/LM_Studio.Plugin.zip",
+        "UrlSourceCode": "https://github.com/Processori7/LMStudioAssistant/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Processori7/LMStudioAssistant@v1.0.0/Images/icon.png",
+        "LatestReleaseDate": "2026-04-07T08:11:00Z",
+        "DateAdded": "2026-04-07T08:26:00Z"
+    }
