@@ -1698,13 +1698,13 @@
         "Name": "Plugin Runner",
         "Description": "Create simple command shortcuts",
         "Author": "Jesse Barocio (@jessebarocio)",
-        "Version": "2.4.0",
+        "Version": "2.5.0",
         "Language": "csharp",
         "Website": "https://github.com/jjw24/Wox.Plugin.Runner",
-        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.4.0/Wox.Plugin.Runner.zip",
+        "UrlDownload": "https://github.com/jjw24/Wox.Plugin.Runner/releases/download/v2.5.0/Wox.Plugin.Runner.zip",
         "UrlSourceCode": "https://github.com/jjw24/Wox.Plugin.Runner/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png",
-        "LatestReleaseDate": "2025-07-06T06:34:53Z",
+        "LatestReleaseDate": "2026-04-11T12:14:24Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -4275,6 +4275,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png",
         "DateAdded": "2022-10-20T11:20:54Z",
         "LatestReleaseDate": "2023-02-28T10:34:28Z"
+    },
+    {
+        "ID": "7f4eaab8-016f-4d2a-9b3c-6d94392219db",
+        "Name": "WARP",
+        "Description": "WARP connect / disconnect / colo",
+        "Author": "ieraasyl",
+        "Version": "1.0.4",
+        "Language": "javascript",
+        "Website": "https://github.com/ieraasyl/warp-flow",
+        "UrlDownload": "https://github.com/ieraasyl/warp-flow/releases/download/v1.0.4/Flow.Launcher.Plugin.WARP.zip",
+        "UrlSourceCode": "https://github.com/ieraasyl/warp-flow/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ieraasyl/warp-flow@main/Images/app.png",
+        "LatestReleaseDate": "2026-03-29T11:37:45Z"
     },
     {
         "ID": "a3c36e85-793c-4881-90bf-6d791a978a9f",

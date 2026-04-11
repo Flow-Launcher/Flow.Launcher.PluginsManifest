@@ -1,12 +1,13 @@
 {
-  "ID": "7f4eaab8-016f-4d2a-9b3c-6d94392219db",
-  "Name": "WARP",
-  "Description": "WARP connect / disconnect / colo",
-  "Author": "ieraasyl",
-  "Version": "1.0.4",
-  "Language": "javascript",
-  "Website": "https://github.com/ieraasyl/warp-flow",
-  "UrlDownload": "https://github.com/ieraasyl/warp-flow/releases/download/v1.0.4/Flow.Launcher.Plugin.WARP.zip",
-  "UrlSourceCode": "https://github.com/ieraasyl/warp-flow/tree/main",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/ieraasyl/warp-flow@main/Images/app.png"
+    "ID": "7f4eaab8-016f-4d2a-9b3c-6d94392219db",
+    "Name": "WARP",
+    "Description": "WARP connect / disconnect / colo",
+    "Author": "ieraasyl",
+    "Version": "1.0.4",
+    "Language": "javascript",
+    "Website": "https://github.com/ieraasyl/warp-flow",
+    "UrlDownload": "https://github.com/ieraasyl/warp-flow/releases/download/v1.0.4/Flow.Launcher.Plugin.WARP.zip",
+    "UrlSourceCode": "https://github.com/ieraasyl/warp-flow/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/ieraasyl/warp-flow@main/Images/app.png",
+    "LatestReleaseDate": "2026-03-29T11:37:45Z"
 }
