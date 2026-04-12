@@ -2527,6 +2527,19 @@
         "DateAdded": "2025-01-19T01:42:28Z"
     },
     {
+        "ID": "e840a588-fc41-4d80-94a0-88739e529172",
+        "Name": "FlowOCR",
+        "Description": "GLM-OCR plugin: code, math & text from any screen region",
+        "Author": "Agostino Cesarano",
+        "Version": "1.0.2",
+        "Language": "python",
+        "Website": "https://github.com/agostino-code/FlowOCR.git",
+        "UrlDownload": "https://github.com/agostino-code/FlowOCR/releases/download/v1.0.2/Flow.Launcher.Plugin.FlowOCR.zip",
+        "UrlSourceCode": "https://github.com/agostino-code/FlowOCR/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/agostino-code/FlowOCR@main/Images/app.png",
+        "LatestReleaseDate": "2026-03-19T23:58:18Z"
+    },
+    {
         "ID": "B9EE77F84A9141C3850BB329D45B8D9A",
         "Name": "Search Unicode – Identify",
         "Description": "Identify Unicode properties of any text",
