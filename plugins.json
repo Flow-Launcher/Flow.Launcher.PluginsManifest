@@ -2458,13 +2458,13 @@
         "Name": "SteamFlow",
         "Description": "Launch Steam games and search Steam store",
         "Author": "keekys",
-        "Version": "1.0.6",
+        "Version": "1.0.8",
         "Language": "python",
         "Website": "https://github.com/keekyslusus/SteamFlow",
-        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v1.0.6/Flow.Launcher.Plugin.SteamFlow.zip",
+        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v1.0.8/Flow.Launcher.Plugin.SteamFlow.zip",
         "UrlSourceCode": "https://github.com/keekyslusus/SteamFlow/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/SteamFlow@main/steam.png",
-        "LatestReleaseDate": "2025-12-19T14:16:31Z",
+        "LatestReleaseDate": "2026-04-14T11:39:07Z",
         "Tested": true,
         "DateAdded": "2025-07-01T02:10:27Z"
     },
@@ -3850,6 +3850,19 @@
         "LatestReleaseDate": "2025-02-09T22:12:13Z",
         "Tested": true,
         "DateAdded": "2024-10-31T12:40:23Z"
+    },
+    {
+        "ID": "4d4ec3cd-a5d4-4452-8380-e10bca4ce69d",
+        "Name": "Flowy",
+        "Description": "Custom catalog indexer like Launchy.",
+        "Author": "OpusLux",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy",
+        "UrlDownload": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy/releases/download/v1.0.0/Flow.Launcher.Plugin.Flowy-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/opuslux/Flow.Launcher.Plugin.Flowy@master/Images/app.png",
+        "LatestReleaseDate": "2026-03-14T00:54:16Z"
     },
     {
         "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
