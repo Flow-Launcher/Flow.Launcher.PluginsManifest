@@ -3862,7 +3862,8 @@
         "UrlDownload": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy/releases/download/v1.0.0/Flow.Launcher.Plugin.Flowy-1.0.0.zip",
         "UrlSourceCode": "https://github.com/opuslux/Flow.Launcher.Plugin.Flowy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/opuslux/Flow.Launcher.Plugin.Flowy@master/Images/app.png",
-        "LatestReleaseDate": "2026-03-14T00:54:16Z"
+        "LatestReleaseDate": "2026-03-14T00:54:16Z",
+        "DateAdded": "2026-04-14T13:57:02Z"
     },
     {
         "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
