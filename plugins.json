@@ -453,7 +453,7 @@
         "Version": "3.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
-        "UrlDownload": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator/releases/download/v3.0.0/Flow.Launcher.Plugin.LoremIpsumGenerator.zip",
+        "UrlDownload": "https://github.com/ansi-sudo/Lorem-Ipsum-Generator/releases/download/v3.0.0/Flow.Launcher.Plugin.LoremIpsumGenerator.zip",
         "UrlSourceCode": "https://github.com/Tomkov1c/Lorem-Ipsum-Generator",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Tomkov1c/Lorem-Ipsum-Generator@main/Lorem%20Ipsum%20C%23/Images/app.png",
         "Tested": true,
