@@ -1,0 +1,12 @@
+{
+  "ID": "EC779402-4FF2-496D-862E-C2A14E1767C8",
+  "Name": "Zoxide",
+  "Description": "Zoxide integration for Flow Launcher, written in C#.",
+  "Author": "WantChane",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/WantChane/Flow.Launcher.Plugin.Zoxide",
+  "UrlDownload": "https://github.com/WantChane/Flow.Launcher.Plugin.Zoxide/releases/download/v1.0.0/Flow.Launcher.Plugin.Zoxide-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/WantChane/Flow.Launcher.Plugin.Zoxide/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/WantChane/Flow.Launcher.Plugin.Zoxide@main/Flow.Launcher.Plugin.Zoxide/Images/icon.png"
+}
