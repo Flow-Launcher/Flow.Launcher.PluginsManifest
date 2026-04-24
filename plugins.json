@@ -389,6 +389,19 @@
         "DateAdded": "2025-10-14T01:46:47Z"
     },
     {
+        "ID": "98A73DF5-85BD-43E3-A07F-4269957AF8DD",
+        "Name": "Maa Launcher",
+        "Description": "A Flow Launcher plugin that launches MaaAssistantArknights using config",
+        "Author": "WantChane",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/WantChane/Flow.Launcher.Plugin.MaaLauncher",
+        "UrlDownload": "https://github.com/WantChane/Flow.Launcher.Plugin.MaaLauncher/releases/download/v1.0.0/MaaLauncher-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/WantChane/Flow.Launcher.Plugin.MaaLauncher/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/WantChane/Flow.Launcher.Plugin.MaaLauncher@main/Images/icon.png",
+        "LatestReleaseDate": "2026-04-06T08:57:47Z"
+    },
+    {
         "ID": "DF2EFA222C4A46F586FBBE815885D306",
         "Name": "WingetFlow",
         "Description": "Search, update, install and uninstall packages with Winget",
@@ -847,6 +860,20 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "9c3ff0be220b4568af017ffd3cdfb4d7",
+        "Name": "Multi-Profile Bookmarks",
+        "Description": "Opens bookmarks in correct browser profile. Ideal if you use separate profiles for work/study and personal browsing.",
+        "Author": "sergebat",
+        "Version": "0.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks",
+        "UrlDownload": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks/releases/download/v0.0.1/MultiprofileBookmarks.zip",
+        "UrlSourceCode": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks/tree/main/Flow.Launcher.Plugin.MultiprofileBookmarks",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks@0.0.1/Flow.Launcher.Plugin.MultiprofileBookmarks/Images/icon.png",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-03-02T01:51:13Z"
+    },
+    {
         "ID": "e4a91f4c2be9434e8f76982cb3a4c1df",
         "Name": "Benjosss Symbols",
         "Description": "Copy useful symbols for your notes",
@@ -1216,6 +1243,19 @@
         "DateAdded": "2024-11-24T12:38:14Z"
     },
     {
+        "ID": "211E5D954B464A408740C088A6551C98",
+        "Name": "Web Scraper",
+        "Description": "Scrape the web and view the results in the Flow Launcher",
+        "Author": "Nofontnl",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Nofontnl/Flow.Launcher.Plugin.WebScraper",
+        "UrlDownload": "https://github.com/Nofontnl/Flow.Launcher.Plugin.WebScraper/releases/download/v1.0.0/Flow.Launcher.Plugin.WebScraper.zip",
+        "UrlSourceCode": "https://github.com/Nofontnl/Flow.Launcher.Plugin.WebScraper/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Nofontnl/Flow.Launcher.Plugin.WebScraper@main/Flow.Launcher.Plugin.WebScraper/Images/webscraper.png",
+        "LatestReleaseDate": "2026-03-22T23:48:16Z"
+    },
+    {
         "ID": "5043CETYU6A748679OPA02D27D99677A",
         "Description": "Search settings inside Control Panel and Settings App",
         "Name": "Windows Settings",
@@ -1578,6 +1618,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "518E2D95-D89E-44E6-8B99-3A71D977E93A",
+        "Name": "Remote Desktop",
+        "Description": "A plugin to start remote desktop connections",
+        "Author": "XDFUN",
+        "Version": "1.0.3",
+        "Language": "csharp",
+        "Website": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
+        "UrlDownload": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop/releases/download/v1.0.3/remote-desktop-v1.0.3.zip",
+        "UrlSourceCode": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/XDFUN/Flow.Launcher.Plugin.RemoteDesktop@main/src/Flow.Launcher.Plugin.RemoteDesktop/Images/icon.png",
+        "LatestReleaseDate": "2026-04-19T10:28:29Z"
+    },
+    {
         "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",
         "Name": "Astro",
         "Description": "Search Astro Docs",
@@ -1834,6 +1887,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/YukiGasai/Flow.Launcher.Plugin.MarkdownTodo@main/img/app.png",
         "LatestReleaseDate": "2025-03-31T00:49:07Z",
         "DateAdded": "2025-03-30T01:53:44Z"
+    },
+    {
+        "ID": "2032fd77-87f3-47fa-91ab-a67982ba1253",
+        "Name": "Browser History V2",
+        "Description": "Search your internet browsing history across multiple browsers",
+        "Author": "Fahim Ahmed",
+        "Version": "1.6.7",
+        "Language": "python",
+        "Website": "https://github.com/fahim-ahmed05/browser-history-v2",
+        "UrlDownload": "https://github.com/fahim-ahmed05/browser-history-v2/releases/download/v1.6.7/browser-history-v2.zip",
+        "UrlSourceCode": "https://github.com/fahim-ahmed05/browser-history-v2/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/fahim-ahmed05/browser-history-v2@main/icon.png",
+        "LatestReleaseDate": "2026-04-23T13:25:43Z"
     },
     {
         "ID": "df432fe0-9ff7-4ba1-b0fd-5ffd26efbf86",
@@ -3619,6 +3685,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
         "LatestReleaseDate": "2026-01-06T00:33:51Z",
         "DateAdded": "2024-08-08T09:19:45Z"
+    },
+    {
+        "ID": "86AC23FE48BC45E5B7E0A94F5847FA83",
+        "Name": "QuickSSH",
+        "Description": "SSH/SCP plugin with structured profiles, SSH-config-like import/export, direct SSH, custom shell management, and query autocomplete via suggestions",
+        "Author": "Vaso73",
+        "Version": "3.5.0",
+        "Language": "csharp",
+        "MinimumAppVersion": "1.19.0",
+        "Website": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH",
+        "UrlSourceCode": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/tree/main",
+        "UrlDownload": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/releases/download/v3.5.0/QuickSSH.zip",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Vaso73/Flow.Launcher.Plugin.QuickSSH@main/Images/app.png",
+        "LatestReleaseDate": "2026-04-06T20:04:04Z"
     },
     {
         "ID": "9A30A1AFC6719927B20DFEFFA9DCD50D",

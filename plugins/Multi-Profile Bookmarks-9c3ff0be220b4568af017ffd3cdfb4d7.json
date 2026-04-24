@@ -1,13 +1,14 @@
 {
-  "ID": "9c3ff0be220b4568af017ffd3cdfb4d7",
-  "Name": "Multi-Profile Bookmarks",
-  "Description": "Opens bookmarks in correct browser profile. Ideal if you use separate profiles for work/study and personal browsing.",
-  "Author": "sergebat",
-  "Version": "0.0.1",
-  "Language": "csharp",
-  "Website": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks",
-  "UrlDownload": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks/releases/download/v0.0.1/MultiprofileBookmarks.zip",
-  "UrlSourceCode": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks/tree/main/Flow.Launcher.Plugin.MultiprofileBookmarks", 
-  "IcoPath": "https://cdn.jsdelivr.net/gh/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks@0.0.1/Flow.Launcher.Plugin.MultiprofileBookmarks/Images/icon.png",
-  "MinimumAppVersion": "2.0.0"
+    "ID": "9c3ff0be220b4568af017ffd3cdfb4d7",
+    "Name": "Multi-Profile Bookmarks",
+    "Description": "Opens bookmarks in correct browser profile. Ideal if you use separate profiles for work/study and personal browsing.",
+    "Author": "sergebat",
+    "Version": "0.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks",
+    "UrlDownload": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks/releases/download/v0.0.1/MultiprofileBookmarks.zip",
+    "UrlSourceCode": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks/tree/main/Flow.Launcher.Plugin.MultiprofileBookmarks",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks@0.0.1/Flow.Launcher.Plugin.MultiprofileBookmarks/Images/icon.png",
+    "MinimumAppVersion": "2.0.0",
+    "LatestReleaseDate": "2026-03-02T01:51:13Z"
 }
