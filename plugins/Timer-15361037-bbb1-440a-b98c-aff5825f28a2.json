@@ -1,0 +1,15 @@
+{
+    "ID": "15361037-bbb1-440a-b98c-aff5825f28a2",
+    "Name": "Timer",
+    "Description": "A lightweight command timer plugin",
+    "Author": "starfi11",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/starfi11/flow-timer-plugin",
+    "UrlDownload": "https://github.com/starfi11/flow-timer-plugin/releases/download/v1.0.0/flow_timer_plugin-v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/starfi11/flow-timer-plugin",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/starfi11/flow-timer-plugin@master/Images/app.png",
+    "LatestReleaseDate": "2025-09-08T07:57:50Z",
+    "Tested": true,
+    "DateAdded": "2025-09-09T01:47:31Z"
+}

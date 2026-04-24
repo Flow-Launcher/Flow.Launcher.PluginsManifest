@@ -1,6 +1,5 @@
 {
     "ID": "F03364BE-101B-4988-B555-528B961E6A86",
-    "ActionKeyword": "myips",
     "Name": "MyIPs",
     "Description": "A plugin to tell you your internal and public IP excluding any coming from VM programs and the like",
     "Author": "Adam Marciniec",
