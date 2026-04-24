@@ -1,0 +1,14 @@
+{
+    "ID": "dc1ec0f7-cab6-473a-86be-7f49330fbaab",
+    "Name": "FlowGet",
+    "Description": "Easily manage your apps with Winget in one place.",
+    "Author": "benello",
+    "Version": "1.1.1",
+    "Language": "csharp",
+    "Website": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet",
+    "UrlDownload": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet/releases/download/1.1.1/Flow.Launcher.Plugin.FlowGet.zip",
+    "UrlSourceCode": "https://github.com/benello/Flow.Launcher.Plugin.FlowGet",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/benello/Flow.Launcher.Plugin.FlowGet@master/assets/icon.png",
+    "LatestReleaseDate": "2025-11-14T15:54:15Z",
+    "DateAdded": "2025-11-11T03:47:40Z"
+}

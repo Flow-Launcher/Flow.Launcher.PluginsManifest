@@ -8,7 +8,7 @@
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness/releases/download/v0.0.10/Flow.Launcher.Plugin.ScreenBrightness.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.ScreenBrightness",
-    "IcoPath": "https://i.imgur.com/AvRgwSl.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.ScreenBrightness/assets/app.png",
     "LatestReleaseDate": "2025-07-08T12:36:25Z",
     "DateAdded": "2024-12-22T01:45:40Z"
 }
