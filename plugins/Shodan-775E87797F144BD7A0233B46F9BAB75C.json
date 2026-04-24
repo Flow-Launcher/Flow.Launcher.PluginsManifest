@@ -1,0 +1,14 @@
+{
+    "ID": "775E87797F144BD7A0233B46F9BAB75C",
+    "Name": "Shodan",
+    "Description": "Interact with the Shodan API",
+    "Author": "Melv1no",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Melv1no/Flow.Launcher.Plugin.Shodan",
+    "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.Shodan/releases/download/v1.0.0/Shodan-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.Shodan/tree/master",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.Shodan/Flow.Launcher.Plugin.Shodan/img/icon.png",
+    "LatestReleaseDate": "2026-02-24T10:55:17Z",
+    "DateAdded": "2026-02-24T13:18:12Z"
+}

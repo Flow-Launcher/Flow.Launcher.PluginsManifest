@@ -1,0 +1,14 @@
+{
+    "ID": "6EAD20BB-5B49-486C-BD96-86F61C2F8BD2",
+    "Name": "Pomodoro",
+    "Description": "A Pomodoro timer plugin for Flow Launcher",
+    "Author": "fmerlung",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/fmerlung/Flow.Launcher.Plugin.Pomodoro",
+    "UrlDownload": "https://github.com/fmerlung/Flow.Launcher.Plugin.Pomodoro/releases/download/v1.0.0/Pomodoro-v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/fmerlung/Flow.Launcher.Plugin.Pomodoro/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/fmerlung/Flow.Launcher.Plugin.Pomodoro/Images/icon.png",
+    "LatestReleaseDate": "2026-02-16T12:18:10Z",
+    "DateAdded": "2026-02-18T21:40:08Z"
+}
