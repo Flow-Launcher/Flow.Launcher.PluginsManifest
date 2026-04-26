@@ -6,7 +6,7 @@
   "Version": "1.0.1",
   "Language": "csharp",
   "Website": "https://github.com/kureysalp/Flow.Launcher.Plugin.Claude",
-  "UrlDownload": "https://github.com/kureysalp/Flow.Launcher.Plugin.Claude/releases/download/Release/FlowLauncher.Claude-1.0.1.zip",
+  "UrlDownload": "https://github.com/kureysalp/Flow.Launcher.Plugin.Claude/releases/download/tag/v1.0.1/Claude.zip",
   "UrlSourceCode": "https://github.com/kureysalp/Flow.Launcher.Plugin.Claude/tree/master", 
   "IcoPath": "https://cdn.jsdelivr.net/gh/kureysalp/Flow.Launcher.Plugin.Claude@master/Flow.Launcher.Plugin.Claude/Icons/claude.png"
 }
