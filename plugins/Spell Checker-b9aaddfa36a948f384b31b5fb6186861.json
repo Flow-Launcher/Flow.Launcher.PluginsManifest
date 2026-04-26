@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/rakesh-karmaker/Flow.Launcher.Plugin.SpellChecker/releases/download/v1.1.0/Flow.Launcher.Plugin.SpellChecker.zip",
     "UrlSourceCode": "https://github.com/rakesh-karmaker/Flow.Launcher.Plugin.SpellChecker/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/rakesh-karmaker/Flow.Launcher.Plugin.SpellChecker@main/assets/icon.png",
-    "LatestReleaseDate": "2026-04-17T06:56:57Z"
+    "LatestReleaseDate": "2026-04-17T06:56:57Z",
+    "Tested": true,
+    "DateAdded": "2026-04-26T13:17:12Z"
 }
