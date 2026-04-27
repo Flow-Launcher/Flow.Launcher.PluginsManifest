@@ -126,7 +126,7 @@
         "UrlSourceCode": "https://github.com/gissehel/BarLauncher-WebApp",
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-WebApp/BarLauncher.WebApp.Flow.Launcher/BarLauncher-WebApp-64.png",
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2022-04-27T22:12:36Z"
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -1846,7 +1846,7 @@
         "UrlSourceCode": "https://github.com/Garulf/Betterttv-twitch-emotes/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Betterttv-twitch-emotes@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2022-01-31T18:25:12Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3415,7 +3415,7 @@
         "UrlDownload": "https://github.com/taooceros/Flow.Plugin.IPAddress/releases/download/v1.2.2/Flow.Plugin.IPAddress.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.IPAddress",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.IPAddress@master/ipaddress.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2022-07-20T20:25:51Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3605,7 +3605,7 @@
         "UrlSourceCode": "https://github.com/Garulf/Windows-Startup/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Windows-Startup@main/icons/application.png",
         "Tested": true,
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2022-01-12T08:10:51Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -4206,7 +4206,7 @@
         "UrlSourceCode": "https://github.com/deefrawley/Flow.Launcher.Plugin.DirectTranslate/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/deefrawley/Flow.Launcher.Plugin.DirectTranslate@master/assets/favicon.ico",
         "Tested": true,
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2022-05-31T12:40:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
