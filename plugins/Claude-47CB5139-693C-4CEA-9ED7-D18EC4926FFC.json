@@ -1,0 +1,12 @@
+{
+  "ID": "47CB5139-693C-4CEA-9ED7-D18EC4926FFC",
+  "Name": "Claude",
+  "Description": "Open Claude in your browser with your prompt.",
+  "Author": "kureysalp",
+  "Version": "1.0.1",
+  "Language": "csharp",
+  "Website": "https://github.com/kureysalp/Flow.Launcher.Plugin.Claude",
+  "UrlDownload": "https://github.com/kureysalp/Flow.Launcher.Plugin.Claude/releases/download/v1.0.1/Claude.zip",
+  "UrlSourceCode": "https://github.com/kureysalp/Flow.Launcher.Plugin.Claude/tree/master", 
+  "IcoPath": "https://cdn.jsdelivr.net/gh/kureysalp/Flow.Launcher.Plugin.Claude@master/Flow.Launcher.Plugin.Claude/Icons/claude.png"
+}
