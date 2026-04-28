@@ -1,0 +1,15 @@
+{
+    "ID": "2032fd77-87f3-47fa-91ab-a67982ba1253",
+    "Name": "Browser History V2",
+    "Description": "Search your internet browsing history across multiple browsers",
+    "Author": "Fahim Ahmed",
+    "Version": "1.6.8",
+    "Language": "python",
+    "Website": "https://github.com/fahim-ahmed05/browser-history-v2",
+    "UrlDownload": "https://github.com/fahim-ahmed05/browser-history-v2/releases/download/v1.6.8/browser-history-v2.zip",
+    "UrlSourceCode": "https://github.com/fahim-ahmed05/browser-history-v2/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/fahim-ahmed05/browser-history-v2@main/icon.png",
+    "LatestReleaseDate": "2026-04-25T13:20:03Z",
+    "Tested": true,
+    "DateAdded": "2026-04-24T13:48:07Z"
+}
