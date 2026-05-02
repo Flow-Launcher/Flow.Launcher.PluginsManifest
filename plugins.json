@@ -1041,9 +1041,9 @@
         "Language": "typescript",
         "Website": "https://github.com/plfavreau/windsurf-flow-launcher-plugin",
         "UrlDownload": "https://github.com/plfavreau/windsurf-flow-launcher-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.Windsurf.zip",
-        "UrlSourceCode": "https://github.com/plfavreau/windsurf-flow-launcher-plugin.git",
+        "UrlSourceCode": "https://github.com/plfavreau/windsurf-flow-launcher-plugin",
         "IcoPath": "https://cdn.jsdelivr.net/gh/plfavreau/windsurf-flow-launcher-plugin@v1.0.0/icon.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2025-11-09T11:08:54Z",
         "DateAdded": "2025-12-04T01:58:08Z"
     },
     {
@@ -1225,7 +1225,7 @@
         "Language": "csharp",
         "Website": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter.git",
         "UrlDownload": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter/releases/download/v1.1.1/Flow.Launcher.Plugin.GuidConverter.zip",
-        "UrlSourceCode": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter/tree/main",
+        "UrlSourceCode": "https://github.com/NDiiong/Flow.Launcher.Plugin.GuidConverter",
         "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.GuidConverter@main/Flow.Launcher.Plugin.GuidConverter/Images/icon.png",
         "DateAdded": "2024-01-29T22:14:40Z",
         "LatestReleaseDate": "2024-01-30T02:43:51Z"
@@ -2183,15 +2183,15 @@
     {
         "ID": "EE691863-50D1-4E0F-9A36-83314C2B2B27",
         "Name": "Confluence Search",
-        "Description": "Search in Confluence and open directly from Flow Launcher.",
+        "Description": "Search for and open Confluence pages directly from Flow Launcher.",
         "Author": "Jan Haug",
-        "Version": "1.0.1",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/haugjan/Flow.ConfluenceSearch",
-        "UrlDownload": "https://github.com/haugjan/Flow.ConfluenceSearch/releases/download/v1.0.1/ConfluenceSearch-1.0.1.zip",
+        "UrlDownload": "https://github.com/haugjan/Flow.ConfluenceSearch/releases/download/v1.1.0/ConfluenceSearch-1.1.0.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.ConfluenceSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.ConfluenceSearch@5d347ac7a5594cc4e468771eecee97d706f1d6bf/Flow.ConfluenceSearch/Images/icon.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2026-05-01T11:33:19Z",
         "DateAdded": "2025-11-18T12:51:16Z"
     },
     {
@@ -2621,7 +2621,7 @@
         "Language": "python",
         "Website": "https://github.com/agostino-code/FlowOCR.git",
         "UrlDownload": "https://github.com/agostino-code/FlowOCR/releases/download/v1.0.2/Flow.Launcher.Plugin.FlowOCR.zip",
-        "UrlSourceCode": "https://github.com/agostino-code/FlowOCR/tree/main",
+        "UrlSourceCode": "https://github.com/agostino-code/FlowOCR",
         "IcoPath": "https://cdn.jsdelivr.net/gh/agostino-code/FlowOCR@main/Images/app.png",
         "LatestReleaseDate": "2026-03-19T23:58:18Z",
         "Tested": true,
@@ -4397,13 +4397,13 @@
         "Name": "Jira Search",
         "Description": "Search for and open Jira issues directly from Flow Launcher.",
         "Author": "Jan Haug",
-        "Version": "1.1.0",
+        "Version": "1.3.1",
         "Language": "csharp",
         "Website": "https://github.com/haugjan/Flow.JiraSearch",
-        "UrlDownload": "https://github.com/haugjan/Flow.JiraSearch/releases/download/v1.1.0/JiraSearch-1.1.0.zip",
+        "UrlDownload": "https://github.com/haugjan/Flow.JiraSearch/releases/download/v1.3.1/JiraSearch-1.3.1.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.JiraSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.JiraSearch@main/Flow.JiraSearch/Images/icon.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2026-05-01T10:51:15Z",
         "DateAdded": "2025-10-22T01:53:34Z"
     },
     {
