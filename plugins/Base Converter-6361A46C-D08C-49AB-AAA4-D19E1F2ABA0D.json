@@ -1,6 +1,5 @@
 {
     "ID": "6361A46C-D08C-49AB-AAA4-D19E1F2ABA0D",
-    "ActionKeyword": "base",
     "Name": "Base Converter",
     "Description": "Convert values from one base to another (for example decimal to hexadecimal, etc.)",
     "Author": "gissehel",

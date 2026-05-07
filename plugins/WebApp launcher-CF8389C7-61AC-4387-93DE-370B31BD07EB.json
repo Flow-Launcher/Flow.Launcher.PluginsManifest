@@ -1,6 +1,5 @@
 {
     "ID": "CF8389C7-61AC-4387-93DE-370B31BD07EB",
-    "ActionKeyword": "wap",
     "Name": "WebApp launcher",
     "Description": "Start a URL in a webapp mode",
     "Author": "gissehel",

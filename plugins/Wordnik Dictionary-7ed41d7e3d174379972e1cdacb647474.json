@@ -8,7 +8,7 @@
     "Website": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/v2.1.0",
     "UrlDownload": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/releases/download/v2.1.0/Flow.Launcher.Plugin.WordNikDictionary.zip",
     "UrlSourceCode": "https://github.com/cibere/Flow.Launcher.Plugin.WordNikDictionary/tree/main",
-    "IcoPath": "https://i.imgur.com/VTVaFuF.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cibere/Flow.Launcher.Plugin.WordNikDictionary/Images/app.png",
     "LatestReleaseDate": "2024-10-28T03:23:35Z",
     "Tested": true,
     "DateAdded": "2024-10-26T21:17:53Z"
