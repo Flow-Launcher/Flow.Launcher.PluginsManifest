@@ -2530,14 +2530,14 @@
         "Name": "Program",
         "Description": "Search programs in Flow.Launcher",
         "Author": "qianlifeng",
-        "Version": "2.1.1",
+        "Version": "2.1.2",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v2.1.1/Flow.Launcher.Plugin.Program.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program/releases/download/v2.1.2/Flow.Launcher.Plugin.Program.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Program",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Program/Images/program.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2026-03-09T03:26:14Z"
+        "LatestReleaseDate": "2026-05-10T11:43:34Z"
     },
     {
         "ID": "A7F3C4E16B8D4B5AB2D7139EEC8FA0B4",
@@ -4100,14 +4100,14 @@
         "Name": "Web Searches",
         "Description": "Provide the web search ability",
         "Author": "qianlifeng",
-        "Version": "2.1.1",
+        "Version": "2.1.2",
         "Language": "csharp",
         "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
-        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v2.1.1/Flow.Launcher.Plugin.WebSearch.zip",
+        "UrlDownload": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch/releases/download/v2.1.2/Flow.Launcher.Plugin.WebSearch.zip",
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.WebSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WebSearch/Images/web_search.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": "2026-03-09T03:26:36Z"
+        "LatestReleaseDate": "2026-05-10T11:44:12Z"
     },
     {
         "ID": "251B44B4162E470B9167A2954DAEBC6E",
