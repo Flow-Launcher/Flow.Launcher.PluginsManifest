@@ -2185,13 +2185,13 @@
         "Name": "Confluence Search",
         "Description": "Search for and open Confluence pages directly from Flow Launcher.",
         "Author": "Jan Haug",
-        "Version": "1.1.0",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "https://github.com/haugjan/Flow.ConfluenceSearch",
-        "UrlDownload": "https://github.com/haugjan/Flow.ConfluenceSearch/releases/download/v1.1.0/ConfluenceSearch-1.1.0.zip",
+        "UrlDownload": "https://github.com/haugjan/Flow.ConfluenceSearch/releases/download/v1.2.0/ConfluenceSearch-1.2.0.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.ConfluenceSearch",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.ConfluenceSearch@5d347ac7a5594cc4e468771eecee97d706f1d6bf/Flow.ConfluenceSearch/Images/icon.png",
-        "LatestReleaseDate": "2026-05-01T11:33:19Z",
+        "LatestReleaseDate": "2026-05-10T16:40:56Z",
         "DateAdded": "2025-11-18T12:51:16Z"
     },
     {
