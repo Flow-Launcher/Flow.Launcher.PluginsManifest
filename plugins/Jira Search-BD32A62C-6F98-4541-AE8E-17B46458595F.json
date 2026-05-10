@@ -3,12 +3,12 @@
     "Name": "Jira Search",
     "Description": "Search for and open Jira issues directly from Flow Launcher.",
     "Author": "Jan Haug",
-    "Version": "1.3.1",
+    "Version": "1.4.0",
     "Language": "csharp",
     "Website": "https://github.com/haugjan/Flow.JiraSearch",
-    "UrlDownload": "https://github.com/haugjan/Flow.JiraSearch/releases/download/v1.3.1/JiraSearch-1.3.1.zip",
+    "UrlDownload": "https://github.com/haugjan/Flow.JiraSearch/releases/download/v1.4.0/JiraSearch-1.4.0.zip",
     "UrlSourceCode": "https://github.com/haugjan/Flow.JiraSearch",
     "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.JiraSearch@main/Flow.JiraSearch/Images/icon.png",
-    "LatestReleaseDate": "2026-05-01T10:51:15Z",
+    "LatestReleaseDate": "2026-05-10T16:40:59Z",
     "DateAdded": "2025-10-22T01:53:34Z"
 }
