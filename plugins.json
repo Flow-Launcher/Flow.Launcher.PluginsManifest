@@ -3370,20 +3370,6 @@
         "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
-        "ID": "a0e12ab7-7f1e-4192-b37b-81e1d4ff8358",
-        "Name": "Alias Flow",
-        "Description": "Create custom keyword aliases for any URL or local application with Chosung search support.",
-        "Author": "GOODJINC",
-        "Version": "2.0.2",
-        "Language": "csharp",
-        "Website": "https://github.com/logitstudio/Flow.Launcher.Plugin.AliasFlow",
-        "UrlSourceCode": "https://github.com/logitstudio/Flow.Launcher.Plugin.AliasFlow/tree/main/src",
-        "UrlDownload": "https://github.com/logitstudio/Flow.Launcher.Plugin.AliasFlow/releases/download/v2.0.2/Flow.Launcher.Plugin.AliasFlow.zip",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/logitstudio/Flow.Launcher.Plugin.AliasFlow@main/src/icon.png",
-        "DateAdded": "2026-01-15T09:19:00Z",
-        "LatestReleaseDate": null
-    },
-    {
         "ID": "BCAF9CDAE1894F8A995D0FDE3505AB83",
         "Name": "Query Groups",
         "Description": "A plugin for creating custom groups of queries",
