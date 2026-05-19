@@ -2569,20 +2569,6 @@
         "DateAdded": "2025-02-05T12:40:12Z"
     },
     {
-        "ID": "4e2018ca-4ed0-11ed-bdc3-0242ac120002",
-        "Name": "Cider",
-        "Description": "Control Cider and it's playback with Flow Launcher",
-        "Author": "Monochromish",
-        "Version": "1.1.1",
-        "Language": "javascript",
-        "Website": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider",
-        "UrlDownload": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/releases/download/v1.1.1/Flow.Launcher.Plugin.Cider.zip",
-        "UrlSourceCode": "https://github.com/Monochromish/Flow.Launcher.Plugin.Cider/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Monochromish/Flow.Launcher.Plugin.Cider@main/Assets/app.png",
-        "DateAdded": "2022-10-20T11:20:54Z",
-        "LatestReleaseDate": "2023-02-28T10:34:28Z"
-    },
-    {
         "ID": "256B5175-B3FD-409D-875C-6ED3D3AE8E7C",
         "Name": "CryptoPrice",
         "Description": "Grab the latest value of any cryptocurrency coin.",
