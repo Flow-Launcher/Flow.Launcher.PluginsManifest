@@ -26,7 +26,7 @@
         "UrlSourceCode": "https://github.com/NDiiong/Flow.Launcher.Plugin.TempCleaner/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/NDiiong/Flow.Launcher.Plugin.TempCleaner@main/Flow.Launcher.Plugin.TempCleaner/Images/icon.png",
         "DateAdded": "2024-02-01T22:14:40Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2024-02-01T17:11:53Z"
     },
     {
         "ID": "7AB469ED3A2845E6A7D2975ED4C77FE3",
@@ -67,7 +67,7 @@
         "UrlDownload": "https://github.com/RudraPatel2003/github-repository-viewer/releases/download/v1.0.1/Flow.Plugin.GitHubRepositoryViewer-1.0.1.zip",
         "UrlSourceCode": "https://github.com/RudraPatel2003/github-repository-viewer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/RudraPatel2003/github-repository-viewer@main/Flow.Launcher.Plugin.GitHubRepositoryViewer/Assets/icon.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2026-01-04T22:47:23Z",
         "DateAdded": "2025-12-29T09:35:41Z"
     },
     {
@@ -139,7 +139,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/bennett-sh/Flow.Launcher.Plugin.YOURLS/Flow.Launcher.Plugin.YOURLS/icon.png",
         "UrlSourceCode": "https://github.com/bennett-sh/Flow.Launcher.Plugin.YOURLS",
         "UrlDownload": "https://github.com/bennett-sh/Flow.Launcher.Plugin.YOURLS/releases/download/v1.0.0/flow-yourls-release.zip",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2025-02-19T20:29:46Z",
         "DateAdded": "2025-03-30T01:53:44Z"
     },
     {
@@ -1142,7 +1142,7 @@
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Explorer",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2026-05-10T11:34:51Z"
     },
     {
         "ID": "D29D1AA0-3F6A-4F2E-8D0A-A5B7C9A5EFCF",
@@ -1184,7 +1184,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/blueset/flow-search-unicode@master/Flow.Launcher.Plugin.SearchUnicode.Search/icon.png?raw=true",
         "UrlSourceCode": "https://github.com/blueset/flow-search-unicode",
         "UrlDownload": "https://github.com/blueset/flow-search-unicode/releases/download/v1.3.1/SearchUnicode.Search.zip",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2025-12-19T19:09:45Z",
         "DateAdded": "2025-01-19T01:42:28Z"
     },
     {
@@ -1284,7 +1284,7 @@
         "UrlDownload": "https://github.com/thisisleobro/docker-flow-launcher-plugin/releases/download/v0.0.2/Flow.Launcher.Plugin.Docker.zip",
         "UrlSourceCode": "https://github.com/thisisleobro/docker-flow-launcher-plugin/",
         "IcoPath": "https://cdn.jsdelivr.net/gh/thisisleobro/docker-flow-launcher-plugin/assets/docker.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2025-09-06T17:03:08Z",
         "DateAdded": "2025-08-27T03:36:26Z"
     },
     {
@@ -1601,7 +1601,7 @@
         "UrlDownload": "https://github.com/shubhambhatnag/zed-flow-extension/releases/download/v1.7/Flow.Launcher.Plugin.ZedWorkspaces.zip",
         "UrlSourceCode": "https://github.com/shubhambhatnag/zed-flow-extension/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/shubhambhatnag/zed-flow-extension/assets/zed.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2026-02-22T14:17:06Z",
         "Tested": true,
         "DateAdded": "2025-12-09T01:58:17Z"
     },
@@ -1845,7 +1845,7 @@
         "UrlSourceCode": "https://github.com/JamesNZL/flow-toggl-plugin",
         "UrlDownload": "https://github.com/JamesNZL/flow-toggl-plugin/releases/download/v4.1.0/Flow.Launcher.Plugin.TogglTrack.zip",
         "DateAdded": "2023-05-12T14:51:58Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2024-02-02T09:22:11Z"
     },
     {
         "ID": "c3406b5c-22f0-4984-b018-3dae897cab3f",
@@ -2319,7 +2319,7 @@
         "UrlDownload": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock/releases/download/v1.1.0/Flow.Launcher.Plugin.Mock.zip",
         "UrlSourceCode": "https://github.com/tho-myr/Flow.Launcher.Plugin.Mock/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/tho-myr/Flow.Launcher.Plugin.Mock@master/Flow.Launcher.Plugin.Mock/Images/icon.png",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2025-03-02T18:32:45Z",
         "DateAdded": "2025-02-27T01:41:54Z"
     },
     {
@@ -2937,7 +2937,7 @@
         "UrlSourceCode": "https://github.com/qjcXu/Flow.Launcher.Translation",
         "IcoPath": "https://cdn.jsdelivr.net/gh/qjcXu/Flow.Launcher.Translation/src/assets/images/app.png",
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2023-05-19T13:55:58Z"
     },
     {
         "ID": "477F16413D374364A4D5D36DCE68ED45",
@@ -3596,7 +3596,7 @@
         "UrlSourceCode": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Url",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Url/Images/url.png",
         "DateAdded": "2023-09-27T02:43:06Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2026-05-10T11:44:00Z"
     },
     {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
@@ -3741,7 +3741,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/tarikjaber/Bulk-URL-Opener/Images/app.png",
         "Tested": true,
         "DateAdded": "2023-09-07T09:51:13Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2024-09-22T17:23:42Z"
     },
     {
         "ID": "b34023f6440d11ef94540242ac120002",
@@ -3800,7 +3800,7 @@
         "UrlSourceCode": "https://github.com/mantasjasikenas/flow-launcher-shortcuts-plugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png",
         "DateAdded": "2023-08-20T03:55:23Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2025-01-22T17:03:38Z"
     },
     {
         "ID": "d50362aa29f04cd59032bb44a5d5f7e5",
@@ -4139,7 +4139,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/jglanz/flow-launcher-plugin-nightlight/assets/bulb.png",
         "UrlDownload": "https://github.com/jglanz/flow-launcher-plugin-nightlight/releases/download/v1.1.4/Nightlight-1.1.4.zip",
         "UrlSourceCode": "https://github.com/jglanz/flow-launcher-plugin-nightlight/tree/master",
-        "LatestReleaseDate": null,
+        "LatestReleaseDate": "2024-12-12T16:17:38Z",
         "DateAdded": "2024-12-12T12:45:18Z"
     },
     {
@@ -4154,7 +4154,7 @@
         "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png",
         "DateAdded": "2024-01-04T00:32:56Z",
-        "LatestReleaseDate": null
+        "LatestReleaseDate": "2026-02-19T12:35:13Z"
     },
     {
         "ID": "F71F6EE367D34BAFB681A9287ACF59EB",
