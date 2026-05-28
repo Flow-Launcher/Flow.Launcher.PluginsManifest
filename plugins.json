@@ -2128,7 +2128,8 @@
         "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.2/GeminiActions-1.1.2.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.GeminiActions",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.GeminiActions@main/Flow.GeminiActions/Images/icon.png",
-        "LatestReleaseDate": "2026-05-26T06:00:18Z"
+        "LatestReleaseDate": "2026-05-26T06:00:18Z",
+        "DateAdded": "2026-05-28T16:10:05Z"
     },
     {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
@@ -2887,7 +2888,8 @@
         "UrlDownload": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist/releases/download/v1.0.0/Flow.Launcher.Plugin.CommanderHotlist-1.0.0.zip",
         "UrlSourceCode": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Dani7377/Flow.Launcher.Plugin.CommanderHotlist@main/Flow.Launcher.Plugin.CommanderHotlist/Images/icon.png",
-        "LatestReleaseDate": "2026-05-24T13:09:19Z"
+        "LatestReleaseDate": "2026-05-24T13:09:19Z",
+        "DateAdded": "2026-05-28T16:10:06Z"
     },
     {
         "ID": "5b35d5c3-0316-4363-9180-fc2e8e49683d",
@@ -3087,7 +3089,8 @@
         "UrlDownload": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo/releases/download/v1.1.0/Flow.Launcher.Plugin.QuickTodo.zip",
         "UrlSourceCode": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo",
         "IcoPath": "https://cdn.jsdelivr.net/gh/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo@master/Images/todo.png",
-        "LatestReleaseDate": "2026-05-27T22:42:24Z"
+        "LatestReleaseDate": "2026-05-27T22:42:24Z",
+        "DateAdded": "2026-05-28T16:10:06Z"
     },
     {
         "ID": "B75F7BE9E8B544FAB7EADBB581DB7C7B",
