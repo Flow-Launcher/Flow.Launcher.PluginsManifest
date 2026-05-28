@@ -9,7 +9,5 @@
   "UrlDownload": "https://github.com/handofhate/Omni-Flow/releases/download/v1.0.0/Omni.Flow-1.0.0.zip",
   "UrlSourceCode": "https://github.com/handofhate/Omni-Flow",
   "IcoPath": "https://cdn.jsdelivr.net/gh/handofhate/Omni-Flow@master/omni.png",
-  "MinimumAppVersion": "2.0.0",
-  "DateAdded": "2026-03-24T00:00:00.0000000+00:00",
-  "LatestReleaseDate": "2026-03-24T00:00:00.0000000+00:00"
+  "MinimumAppVersion": "2.0.0"
 }
