@@ -2118,6 +2118,19 @@
         "DateAdded": "2025-01-19T01:42:28Z"
     },
     {
+        "ID": "F4D7B5C2-3A1E-4F8B-9D6E-2A8C7B4F1E9A",
+        "Name": "Gemini Actions",
+        "Description": "Run pre-configured Gemini prompts (translate, correct, rewrite ...) against your text and copy the result to the clipboard.",
+        "Author": "Jan Haug",
+        "Version": "1.1.2",
+        "Language": "csharp",
+        "Website": "https://github.com/haugjan/Flow.GeminiActions",
+        "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.2/GeminiActions-1.1.2.zip",
+        "UrlSourceCode": "https://github.com/haugjan/Flow.GeminiActions",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.GeminiActions@main/Flow.GeminiActions/Images/icon.png",
+        "LatestReleaseDate": "2026-05-26T06:00:18Z"
+    },
+    {
         "ID": "dcbb0454f0694431944b1b7f18673a54",
         "Name": "How Long To Beat",
         "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
@@ -2864,6 +2877,19 @@
         "DateAdded": "2025-04-24T18:31:07Z"
     },
     {
+        "ID": "cecb82f3-6bde-4a1d-b5c6-b4bd3b71d1f1",
+        "Name": "Commander Hotlist",
+        "Description": "Access directory hotlist bookmarks from Total/Double Commander",
+        "Author": "Dani7377",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist",
+        "UrlDownload": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist/releases/download/v1.0.0/Flow.Launcher.Plugin.CommanderHotlist-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Dani7377/Flow.Launcher.Plugin.CommanderHotlist@main/Flow.Launcher.Plugin.CommanderHotlist/Images/icon.png",
+        "LatestReleaseDate": "2026-05-24T13:09:19Z"
+    },
+    {
         "ID": "5b35d5c3-0316-4363-9180-fc2e8e49683d",
         "Name": "Docker",
         "Description": "Manage Docker. List containers, images...",
@@ -3049,6 +3075,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jack251970/Flow.Launcher.Plugin.WindowManager/src/Flow.Launcher.Plugin.WindowManager/Images/icon.png",
         "LatestReleaseDate": "2026-02-27T02:23:52Z",
         "DateAdded": "2025-06-05T03:49:32Z"
+    },
+    {
+        "ID": "F8A3B1D4E6C2947F5A0B8D3E1C6F2A74",
+        "Name": "QuickTodo",
+        "Description": "Quick task management with priorities, categories, reminders, and Outlook Tasks support.",
+        "Author": "TrueCrimeAudit",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo",
+        "UrlDownload": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo/releases/download/v1.1.0/Flow.Launcher.Plugin.QuickTodo.zip",
+        "UrlSourceCode": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo@master/Images/todo.png",
+        "LatestReleaseDate": "2026-05-27T22:42:24Z"
     },
     {
         "ID": "B75F7BE9E8B544FAB7EADBB581DB7C7B",

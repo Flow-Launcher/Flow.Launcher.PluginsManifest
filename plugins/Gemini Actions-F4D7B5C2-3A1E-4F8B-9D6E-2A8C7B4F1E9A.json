@@ -3,10 +3,11 @@
     "Name": "Gemini Actions",
     "Description": "Run pre-configured Gemini prompts (translate, correct, rewrite ...) against your text and copy the result to the clipboard.",
     "Author": "Jan Haug",
-    "Version": "1.0.0",
+    "Version": "1.1.2",
     "Language": "csharp",
     "Website": "https://github.com/haugjan/Flow.GeminiActions",
-    "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.0.0/GeminiActions-1.0.0.zip",
+    "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.2/GeminiActions-1.1.2.zip",
     "UrlSourceCode": "https://github.com/haugjan/Flow.GeminiActions",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.GeminiActions@main/Flow.GeminiActions/Images/icon.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.GeminiActions@main/Flow.GeminiActions/Images/icon.png",
+    "LatestReleaseDate": "2026-05-26T06:00:18Z"
 }
