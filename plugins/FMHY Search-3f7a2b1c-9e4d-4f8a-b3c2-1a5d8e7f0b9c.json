@@ -1,0 +1,13 @@
+{
+  "ID": "3f7a2b1c-9e4d-4f8a-b3c2-1a5d8e7f0b9c",
+  "Name": "FMHY Search",
+  "Description": "Search the Free Media Heck Yeah database",
+  "Author": "iamshamit",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/iamshamit/fmhy-search-flow-launcher",
+  "UrlDownload": "https://github.com/iamshamit/fmhy-search-flow-launcher/releases/download/v1.0.0/FMHY-Search-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/iamshamit/fmhy-search-flow-launcher",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/iamshamit/fmhy-search-flow-launcher@master/icons/fmhy.png",
+  "MinimumAppVersion": "2.12.0"
+}
