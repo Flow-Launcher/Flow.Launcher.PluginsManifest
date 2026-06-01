@@ -157,6 +157,20 @@
         "LatestReleaseDate": "2026-02-23T18:44:27Z"
     },
     {
+        "ID": "3f7a2b1c-9e4d-4f8a-b3c2-1a5d8e7f0b9c",
+        "Name": "FMHY Search",
+        "Description": "Search the Free Media Heck Yeah database",
+        "Author": "iamshamit",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/iamshamit/fmhy-search-flow-launcher",
+        "UrlDownload": "https://github.com/iamshamit/fmhy-search-flow-launcher/releases/download/v1.0.0/FMHY-Search-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/iamshamit/fmhy-search-flow-launcher",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/iamshamit/fmhy-search-flow-launcher@master/icons/fmhy.png",
+        "MinimumAppVersion": "2.12.0",
+        "LatestReleaseDate": "2026-06-01T01:42:38Z"
+    },
+    {
         "ID": "7c4e9f8a-2b3d-4e6f-9a1b-5c7d8e9f0a1c",
         "Name": "Joplin",
         "Description": "Quickly create and edit notes in Joplin directly from Flow Launcher",
