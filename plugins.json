@@ -168,7 +168,9 @@
         "UrlSourceCode": "https://github.com/iamshamit/fmhy-search-flow-launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/iamshamit/fmhy-search-flow-launcher@master/icons/fmhy.png",
         "MinimumAppVersion": "2.12.0",
-        "LatestReleaseDate": "2026-06-01T01:42:38Z"
+        "LatestReleaseDate": "2026-06-01T01:42:38Z",
+        "Tested": true,
+        "DateAdded": "2026-06-01T04:46:26Z"
     },
     {
         "ID": "7c4e9f8a-2b3d-4e6f-9a1b-5c7d8e9f0a1c",
