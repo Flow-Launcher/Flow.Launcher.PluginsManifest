@@ -157,6 +157,22 @@
         "LatestReleaseDate": "2026-02-23T18:44:27Z"
     },
     {
+        "ID": "3f7a2b1c-9e4d-4f8a-b3c2-1a5d8e7f0b9c",
+        "Name": "FMHY Search",
+        "Description": "Search the Free Media Heck Yeah database",
+        "Author": "iamshamit",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/iamshamit/fmhy-search-flow-launcher",
+        "UrlDownload": "https://github.com/iamshamit/fmhy-search-flow-launcher/releases/download/v1.0.0/FMHY-Search-1.0.0.zip",
+        "UrlSourceCode": "https://github.com/iamshamit/fmhy-search-flow-launcher",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/iamshamit/fmhy-search-flow-launcher@master/icons/fmhy.png",
+        "MinimumAppVersion": "2.12.0",
+        "LatestReleaseDate": "2026-06-01T01:42:38Z",
+        "Tested": true,
+        "DateAdded": "2026-06-01T04:46:26Z"
+    },
+    {
         "ID": "7c4e9f8a-2b3d-4e6f-9a1b-5c7d8e9f0a1c",
         "Name": "Joplin",
         "Description": "Quickly create and edit notes in Joplin directly from Flow Launcher",
@@ -265,10 +281,10 @@
         "Version": "1.0.3",
         "Language": "csharp",
         "Website": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
-        "UrlDownload": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop/releases/download/v1.0.3/remote-desktop-v1.0.3.zip",
+        "UrlDownload": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop/releases/download/v1.1.0-alpha1/install.ps1",
         "UrlSourceCode": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
         "IcoPath": "https://cdn.jsdelivr.net/gh/XDFUN/Flow.Launcher.Plugin.RemoteDesktop@main/src/Flow.Launcher.Plugin.RemoteDesktop/Images/icon.png",
-        "LatestReleaseDate": "2026-04-19T10:28:29Z",
+        "LatestReleaseDate": "2026-06-01T17:17:40Z",
         "DateAdded": "2026-04-24T13:48:07Z"
     },
     {
@@ -319,13 +335,13 @@
         "Name": "SteamFlow",
         "Description": "Launch Steam games and search Steam store",
         "Author": "keekys",
-        "Version": "2.0.1",
+        "Version": "2.0.2",
         "Language": "python",
         "Website": "https://github.com/keekyslusus/SteamFlow",
-        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v2.0.1/Flow.Launcher.Plugin.SteamFlow.zip",
+        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v2.0.2/Flow.Launcher.Plugin.SteamFlow.zip",
         "UrlSourceCode": "https://github.com/keekyslusus/SteamFlow/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/SteamFlow@main/steam.png",
-        "LatestReleaseDate": "2026-05-11T07:00:51Z",
+        "LatestReleaseDate": "2026-06-01T13:20:32Z",
         "Tested": true,
         "DateAdded": "2025-07-01T02:10:27Z"
     },
