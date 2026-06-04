@@ -1,6 +1,6 @@
 {
 	"ID": "b7ffaa48-ae89-4de7-ad41-43ca1eeb3ce3",
-	"Name": "Open Windows Terminal Profiles",
+	"Name": "WindowsTerminalProfiles",
 	"Description": "Search and open Windows Terminal profiles.",
 	"Author": "zlyfer",
 	"Version": "1.0.0",
