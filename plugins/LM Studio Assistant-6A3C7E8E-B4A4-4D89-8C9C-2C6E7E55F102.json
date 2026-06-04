@@ -8,5 +8,7 @@
     "Website": "https://github.com/Processori7/LMStudioAssistant",
     "UrlDownload": "https://github.com/Processori7/LMStudioAssistant/releases/download/v1.0.0/LMStudioAssistant-1.0.0.zip",
     "UrlSourceCode": "https://github.com/Processori7/LMStudioAssistant/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/Processori7/LMStudioAssistant@v1.0.0/Images/icon.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Processori7/LMStudioAssistant@v1.0.0/Images/icon.png",
+    "Tested": true,
+    "DateAdded": "2026-06-04T15:25:55Z"
 }
