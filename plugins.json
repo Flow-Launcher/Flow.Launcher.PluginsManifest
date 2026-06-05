@@ -278,13 +278,13 @@
         "Name": "Remote Desktop",
         "Description": "A plugin to start remote desktop connections",
         "Author": "XDFUN",
-        "Version": "1.1.0-alpha2",
+        "Version": "1.0.3",
         "Language": "csharp",
         "Website": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
-        "UrlDownload": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop/releases/download/v1.1.0-alpha2/remote-desktop-v1.1.0-alpha2.zip",
+        "UrlDownload": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop/releases/download/v1.0.3/remote-desktop-v1.0.3.zip",
         "UrlSourceCode": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
         "IcoPath": "https://cdn.jsdelivr.net/gh/XDFUN/Flow.Launcher.Plugin.RemoteDesktop@main/src/Flow.Launcher.Plugin.RemoteDesktop/Images/icon.png",
-        "LatestReleaseDate": "2026-06-03T15:26:49Z",
+        "LatestReleaseDate": "2026-04-19T10:28:29Z",
         "DateAdded": "2026-04-24T13:48:07Z"
     },
     {
