@@ -3,10 +3,10 @@
   "Name": "MapPaste",
   "Description": "Search Google Maps from pasted text",
   "Author": "Sergey Chernykh",
-  "Version": "0.1.3",
+  "Version": "0.1.4",
   "Language": "javascript",
   "Website": "https://github.com/serglider/map-paste",
-  "UrlDownload": "https://github.com/serglider/map-paste/releases/download/v0.1.3/map-paste-v0.1.3.zip",
+  "UrlDownload": "https://github.com/serglider/map-paste/releases/download/v0.1.4/map-paste-v0.1.4.zip",
   "UrlSourceCode": "https://github.com/serglider/map-paste",
   "IcoPath": "https://cdn.jsdelivr.net/gh/serglider/map-paste@master/Images/app.png"
 }
