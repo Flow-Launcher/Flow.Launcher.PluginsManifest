@@ -10,5 +10,7 @@
     "UrlSourceCode": "https://github.com/cangyan/github-quick-access/tree/v1.0.44",
     "IcoPath": "https://cdn.jsdelivr.net/gh/cangyan/github-quick-access@v1.0.44/assets/favicon.ico",
     "MinimumAppVersion": "2.0.0",
-    "LatestReleaseDate": "2026-05-31T08:13:02Z"
+    "LatestReleaseDate": "2026-05-31T08:13:02Z",
+    "Tested": true,
+    "DateAdded": "2026-06-07T04:23:00Z"
 }
