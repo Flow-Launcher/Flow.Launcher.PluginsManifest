@@ -1,12 +1,14 @@
 {
-  "ID": "fd5e5017-66f2-4d75-8911-f387ce788efd",
-  "Name": "Mouse Mover",
-  "Description": "Toggle randomized, smooth automatic mouse movement (anti-idle). Enable to keep the cursor gliding to random nearby points; disable to return control.",
-  "Author": "ZainGill45",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/ZainGill45/MouseMoverFlowExtension",
-  "UrlDownload": "https://github.com/ZainGill45/MouseMoverFlowExtension/releases/download/v1.0.0/MouseMover.zip",
-  "UrlSourceCode": "https://github.com/ZainGill45/MouseMoverFlowExtension/tree/main",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/ZainGill45/MouseMoverFlowExtension@main/Images/icon.png"
+    "ID": "fd5e5017-66f2-4d75-8911-f387ce788efd",
+    "Name": "Mouse Mover",
+    "Description": "Toggle randomized, smooth automatic mouse movement (anti-idle). Enable to keep the cursor gliding to random nearby points; disable to return control.",
+    "Author": "ZainGill45",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/ZainGill45/MouseMoverFlowExtension",
+    "UrlDownload": "https://github.com/ZainGill45/MouseMoverFlowExtension/releases/download/v1.0.0/MouseMover.zip",
+    "UrlSourceCode": "https://github.com/ZainGill45/MouseMoverFlowExtension/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/ZainGill45/MouseMoverFlowExtension@main/Images/icon.png",
+    "LatestReleaseDate": "2026-06-02T21:02:06Z",
+    "DateAdded": "2026-06-07T09:22:02Z"
 }
