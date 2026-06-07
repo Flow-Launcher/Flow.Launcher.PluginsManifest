@@ -1,0 +1,13 @@
+{
+    "ID": "8c3b4d7e-5f6a-4b8c-9d1e-2f3a4b5c6d7e",
+    "Name": "GitHub Quick Access",
+    "Description": "多 GitHub 账号快速访问，支持 Chrome Profile 隔离 | Multi-account GitHub quick access with Chrome Profile isolation",
+    "Author": "cangyan",
+    "Version": "1.0.44",
+    "Language": "python",
+    "Website": "https://github.com/cangyan/github-quick-access",
+    "UrlDownload": "https://github.com/cangyan/github-quick-access/releases/download/v1.0.44/GitHubQuickAccess-1.0.44.zip",
+    "UrlSourceCode": "https://github.com/cangyan/github-quick-access/tree/v1.0.44",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/cangyan/github-quick-access@v1.0.44/assets/favicon.ico",
+    "MinimumAppVersion": "2.0.0"
+}
