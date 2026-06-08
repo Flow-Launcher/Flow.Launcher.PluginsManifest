@@ -1,12 +1,13 @@
 {
-  "ID": "3361362c-97e0-46f3-9461-31d24975f0a9",
-  "Name": "MapPaste",
-  "Description": "Search Google Maps from pasted text",
-  "Author": "Sergey Chernykh",
-  "Version": "0.1.4",
-  "Language": "javascript",
-  "Website": "https://github.com/serglider/map-paste",
-  "UrlDownload": "https://github.com/serglider/map-paste/releases/download/v0.1.4/map-paste-v0.1.4.zip",
-  "UrlSourceCode": "https://github.com/serglider/map-paste",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/serglider/map-paste@master/Images/app.png"
+    "ID": "3361362c-97e0-46f3-9461-31d24975f0a9",
+    "Name": "MapPaste",
+    "Description": "Search Google Maps from pasted text",
+    "Author": "Sergey Chernykh",
+    "Version": "0.1.4",
+    "Language": "javascript",
+    "Website": "https://github.com/serglider/map-paste",
+    "UrlDownload": "https://github.com/serglider/map-paste/releases/download/v0.1.4/map-paste-v0.1.4.zip",
+    "UrlSourceCode": "https://github.com/serglider/map-paste",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/serglider/map-paste@master/Images/app.png",
+    "LatestReleaseDate": "2026-06-05T13:06:21Z"
 }

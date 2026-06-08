@@ -875,6 +875,19 @@
         "LatestReleaseDate": "2024-09-05T13:26:15Z"
     },
     {
+        "ID": "3361362c-97e0-46f3-9461-31d24975f0a9",
+        "Name": "MapPaste",
+        "Description": "Search Google Maps from pasted text",
+        "Author": "Sergey Chernykh",
+        "Version": "0.1.4",
+        "Language": "javascript",
+        "Website": "https://github.com/serglider/map-paste",
+        "UrlDownload": "https://github.com/serglider/map-paste/releases/download/v0.1.4/map-paste-v0.1.4.zip",
+        "UrlSourceCode": "https://github.com/serglider/map-paste",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/serglider/map-paste@master/Images/app.png",
+        "LatestReleaseDate": "2026-06-05T13:06:21Z"
+    },
+    {
         "ID": "a3c36e85-793c-4881-90bf-6d791a978a9f",
         "Name": "DevDocs",
         "Description": "Quick access to documentations for various programming languages, frameworks and tools.",
@@ -3296,6 +3309,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-BaseConverter/BarLauncher.BaseConverter.Flow.Launcher/BarLauncher-BaseConverter-64.png",
         "LatestReleaseDate": "2022-03-13T13:35:25Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "8E3F7A21-9B2C-4D5E-A1F8-3C2B7D9E5A4B",
+        "Name": "Steam Launcher",
+        "Description": "Launch games, search the store, manage friends, switch accounts, set status, find shared multiplayer games",
+        "Author": "Hyun",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/hyunwoo312/steam-launcher",
+        "UrlDownload": "https://github.com/hyunwoo312/steam-launcher/releases/download/v1.1.0/Flow.Launcher.Plugin.SteamLauncher.zip",
+        "UrlSourceCode": "https://github.com/hyunwoo312/steam-launcher/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/hyunwoo312/steam-launcher@main/src/Flow.Launcher.Plugin.SteamLauncher/Images/steam.png",
+        "LatestReleaseDate": "2026-06-07T18:04:36Z"
     },
     {
         "ID": "340E73A8A8C148A28082C90207E097B3",
