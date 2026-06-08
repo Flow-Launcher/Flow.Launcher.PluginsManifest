@@ -875,6 +875,19 @@
         "LatestReleaseDate": "2024-09-05T13:26:15Z"
     },
     {
+        "ID": "3361362c-97e0-46f3-9461-31d24975f0a9",
+        "Name": "MapPaste",
+        "Description": "Search Google Maps from pasted text",
+        "Author": "Sergey Chernykh",
+        "Version": "0.1.4",
+        "Language": "javascript",
+        "Website": "https://github.com/serglider/map-paste",
+        "UrlDownload": "https://github.com/serglider/map-paste/releases/download/v0.1.4/map-paste-v0.1.4.zip",
+        "UrlSourceCode": "https://github.com/serglider/map-paste",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/serglider/map-paste@master/Images/app.png",
+        "LatestReleaseDate": "2026-06-05T13:06:21Z"
+    },
+    {
         "ID": "a3c36e85-793c-4881-90bf-6d791a978a9f",
         "Name": "DevDocs",
         "Description": "Quick access to documentations for various programming languages, frameworks and tools.",
@@ -2133,6 +2146,20 @@
         "DateAdded": "2025-01-19T01:42:28Z"
     },
     {
+        "ID": "fd5e5017-66f2-4d75-8911-f387ce788efd",
+        "Name": "Mouse Mover",
+        "Description": "Toggle randomized, smooth automatic mouse movement (anti-idle). Enable to keep the cursor gliding to random nearby points; disable to return control.",
+        "Author": "ZainGill45",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/ZainGill45/MouseMoverFlowExtension",
+        "UrlDownload": "https://github.com/ZainGill45/MouseMoverFlowExtension/releases/download/v1.0.0/MouseMover.zip",
+        "UrlSourceCode": "https://github.com/ZainGill45/MouseMoverFlowExtension/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ZainGill45/MouseMoverFlowExtension@main/Images/icon.png",
+        "LatestReleaseDate": "2026-06-02T21:02:06Z",
+        "DateAdded": "2026-06-07T09:22:02Z"
+    },
+    {
         "ID": "F4D7B5C2-3A1E-4F8B-9D6E-2A8C7B4F1E9A",
         "Name": "Gemini Actions",
         "Description": "Run pre-configured Gemini prompts (translate, correct, rewrite ...) against your text and copy the result to the clipboard.",
@@ -2345,6 +2372,22 @@
         "UrlSourceCode": "https://github.com/tenmo2003/Flow.Launcher.Plugin.FreeDictionary",
         "LatestReleaseDate": "2025-12-11T07:22:30Z",
         "DateAdded": "2025-03-10T21:19:47Z"
+    },
+    {
+        "ID": "8c3b4d7e-5f6a-4b8c-9d1e-2f3a4b5c6d7e",
+        "Name": "GitHub Quick Access",
+        "Description": "多 GitHub 账号快速访问，支持 Chrome Profile 隔离 | Multi-account GitHub quick access with Chrome Profile isolation",
+        "Author": "cangyan",
+        "Version": "1.0.44",
+        "Language": "python",
+        "Website": "https://github.com/cangyan/github-quick-access",
+        "UrlDownload": "https://github.com/cangyan/github-quick-access/releases/download/v1.0.44/GitHubQuickAccess-1.0.44.zip",
+        "UrlSourceCode": "https://github.com/cangyan/github-quick-access/tree/v1.0.44",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/cangyan/github-quick-access@v1.0.44/assets/favicon.ico",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-05-31T08:13:02Z",
+        "Tested": true,
+        "DateAdded": "2026-06-07T04:23:00Z"
     },
     {
         "ID": "467A8D7E-0DC6-F0C8-347C-BC4B315C397F",
@@ -3268,6 +3311,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "8E3F7A21-9B2C-4D5E-A1F8-3C2B7D9E5A4B",
+        "Name": "Steam Launcher",
+        "Description": "Launch games, search the store, manage friends, switch accounts, set status, find shared multiplayer games",
+        "Author": "Hyun",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/hyunwoo312/steam-launcher",
+        "UrlDownload": "https://github.com/hyunwoo312/steam-launcher/releases/download/v1.1.0/Flow.Launcher.Plugin.SteamLauncher.zip",
+        "UrlSourceCode": "https://github.com/hyunwoo312/steam-launcher/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/hyunwoo312/steam-launcher@main/src/Flow.Launcher.Plugin.SteamLauncher/Images/steam.png",
+        "LatestReleaseDate": "2026-06-07T18:04:36Z"
+    },
+    {
         "ID": "340E73A8A8C148A28082C90207E097B3",
         "Name": "QrCodeGenerator",
         "Description": "Qr Code Generator or Parser Qr Code file Plugin",
@@ -3754,6 +3810,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/mantasjasikenas/flow-launcher-shortcuts-plugin@master/Flow.Launcher.Plugin.ShortcutPlugin/Images/icon.png",
         "DateAdded": "2023-08-20T03:55:23Z",
         "LatestReleaseDate": "2025-01-22T17:03:38Z"
+    },
+    {
+        "ID": "b7ffaa48-ae89-4de7-ad41-43ca1eeb3ce3",
+        "Name": "WindowsTerminalProfiles",
+        "Description": "Search and open Windows Terminal profiles.",
+        "Author": "zlyfer",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles",
+        "UrlDownload": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles/releases/download/v1.0.0/FlowLauncher.Plugin.WindowsTerminalProfiles-v1.0.0.zip",
+        "UrlSourceCode": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles",
+        "IcoPath": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles/blob/main/FlowLauncher.Plugin.WindowsTerminalProfiles/Images/icon.png",
+        "LatestReleaseDate": "2026-05-29T17:42:21Z",
+        "DateAdded": "2026-06-07T04:23:00Z"
     },
     {
         "ID": "258159A0D7A64C7A931CBBD8FB3A6FA6",
