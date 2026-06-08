@@ -4747,5 +4747,21 @@
         "LatestReleaseDate": "2025-01-03T03:09:57Z",
         "Tested": true,
         "DateAdded": "2025-01-01T09:20:50Z"
+    },
+    {
+        "ID": "5eb7da7c-b181-4835-9f32-f71cd1939179",
+        "Name": "AppTrace",
+        "Description": "Find where Windows apps are actually installed.",
+        "Author": "SahilVirdi",
+        "Version": "0.1.0",
+        "Language": "python",
+        "Website": "https://github.com/sahilvirdi01/Flow.Launcher.Plugin.AppTrace",
+        "UrlDownload": "https://github.com/sahilvirdi01/Flow.Launcher.Plugin.AppTrace/releases/download/v0.1.0/AppTrace-v0.1.0.zip",
+        "UrlSourceCode": "https://github.com/sahilvirdi01/Flow.Launcher.Plugin.AppTrace",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/sahilvirdi01/Flow.Launcher.Plugin.AppTrace@main/assets/icon.png",
+        "LatestReleaseDate": "2026-06-08T12:59:00Z",
+        "Tested": true,
+        "DateAdded": "2026-06-08T12:59:00Z"
     }
 ]
+
