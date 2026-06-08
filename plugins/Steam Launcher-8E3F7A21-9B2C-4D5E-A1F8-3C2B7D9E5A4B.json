@@ -1,0 +1,12 @@
+{
+  "ID": "8E3F7A21-9B2C-4D5E-A1F8-3C2B7D9E5A4B",
+  "Name": "Steam Launcher",
+  "Description": "Launch games, search the store, manage friends, switch accounts, set status, find shared multiplayer games",
+  "Author": "Hyun",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/hyunwoo312/steam-launcher",
+  "UrlDownload": "https://github.com/hyunwoo312/steam-launcher/releases/download/v1.0.0/Flow.Launcher.Plugin.SteamLauncher.zip",
+  "UrlSourceCode": "https://github.com/hyunwoo312/steam-launcher/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/hyunwoo312/steam-launcher@main/src/Flow.Launcher.Plugin.SteamLauncher/Images/steam.png"
+}
