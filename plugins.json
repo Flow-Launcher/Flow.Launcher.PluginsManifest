@@ -330,6 +330,18 @@
         "DateAdded": "2024-08-21T01:22:18Z"
     },
     {
+        "ID": "8B0D62F4F2C44F18B8CB4A6BAD1F0001",
+        "Name": "FileNinja",
+        "Description": "Browse FileNinja URLs (qry://, tag://) from Flow.Launcher",
+        "Author": "Joakim",
+        "Version": "0.1.0",
+        "Language": "csharp",
+        "Website": "https://thefile.ninja",
+        "UrlDownload": "https://github.com/sandeberger/TFN_Flow_plugin/releases/download/v0.1.0/FileNinja-0.1.0.zip",
+        "UrlSourceCode": "https://github.com/sandeberger/TFN_Flow_plugin",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/sandeberger/TFN_Flow_plugin@v0.1.0/Icon.png"
+    },
+    {
         "ID": "A7F3C4E16B8D4B5AB2D7139EEC8FA0B4",
         "Name": "SteamFlow",
         "Description": "Launch Steam games and search Steam store",
@@ -985,7 +997,8 @@
         "UrlDownload": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker/releases/download/v1.0.0/SteamTracker.zip",
         "UrlSourceCode": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker",
         "IcoPath": "https://cdn.jsdelivr.net/gh/BllurryDev/Flow.Launcher.Plugin.SteamTracker@main/Images/steam.png",
-        "LatestReleaseDate": "2026-05-31T21:50:07Z"
+        "LatestReleaseDate": "2026-05-31T21:50:07Z",
+        "DateAdded": "2026-06-08T11:05:56Z"
     },
     {
         "ID": "9f8f9b14-2518-4907-b211-35ab6290dee7",
@@ -1627,6 +1640,18 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/opuslux/Flow.Launcher.Plugin.Flowy@master/Images/app.png",
         "LatestReleaseDate": "2026-03-14T00:54:16Z",
         "DateAdded": "2026-04-14T13:57:02Z"
+    },
+    {
+        "ID": "a0b31f6b-01a0-4255-a815-258310f686ce",
+        "Name": "Curseforge Modpack Launcher",
+        "Description": "Launch Modpack from Curseforge launcher",
+        "Author": "iglee42",
+        "Version": "1.0.3",
+        "Language": "TypeScript",
+        "Website": "https://iglee.fr",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/iglee42/CurseforgeFlowLauncherPlugin@latest/assets/curseforge-logo.png?raw=true",
+        "UrlSourceCode": "https://github.com/iglee42/CurseforgeFlowLauncherPlugin",
+        "UrlDownload": "https://github.com/iglee42/CurseforgeFlowLauncherPlugin/releases/download/v1.0.3/CurseforgeLauncher-1.0.3.zip"
     },
     {
         "ID": "d91d366e4ff742b3b821f9d60031c3df",
@@ -4587,6 +4612,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Jessuhh/discord-timestamps-flowlauncher-plugin/app.png",
         "DateAdded": "2022-12-05T21:48:10Z",
         "LatestReleaseDate": "2023-02-18T12:53:20Z"
+    },
+    {
+        "ID": "9EE99C394F05429991E286E4731BAB81",
+        "Name": "NoSleep",
+        "Description": "Keep your computer awake with optional timer, display, and battery safeguards.",
+        "Author": "ItxFilas",
+        "Version": "1.4.0",
+        "Language": "csharp",
+        "Website": "https://github.com/ItxFilas/Flow.Launcher.Plugin.NoSleep",
+        "UrlDownload": "https://github.com/ItxFilas/Flow.Launcher.Plugin.NoSleep/releases/download/v1.4.0/NoSleep-1.4.0.zip",
+        "UrlSourceCode": "https://github.com/ItxFilas/Flow.Launcher.Plugin.NoSleep/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ItxFilas/Flow.Launcher.Plugin.NoSleep@main/Images/icon.png",
+        "LatestReleaseDate": "2026-05-30T15:34:23Z"
     },
     {
         "ID": "8226842d-f2e2-4159-940c-966666ce7b44",
