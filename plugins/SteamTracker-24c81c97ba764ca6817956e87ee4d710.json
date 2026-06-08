@@ -1,12 +1,13 @@
 {
-  "ID": "24c81c97ba764ca6817956e87ee4d710",
-  "Name": "SteamTracker",
-  "Description": "Look up any Steam game info by App ID — pricing, metacritic, players, achievements & more",
-  "Author": "BlurryDev",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker",
-  "UrlDownload": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker/releases/download/v1.0.0/SteamTracker.zip",
-  "UrlSourceCode": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/BllurryDev/Flow.Launcher.Plugin.SteamTracker@main/Images/steam.png"
+    "ID": "24c81c97ba764ca6817956e87ee4d710",
+    "Name": "SteamTracker",
+    "Description": "Look up any Steam game info by App ID \u2014 pricing, metacritic, players, achievements & more",
+    "Author": "BlurryDev",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker",
+    "UrlDownload": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker/releases/download/v1.0.0/SteamTracker.zip",
+    "UrlSourceCode": "https://github.com/BllurryDev/Flow.Launcher.Plugin.SteamTracker",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/BllurryDev/Flow.Launcher.Plugin.SteamTracker@main/Images/steam.png",
+    "LatestReleaseDate": "2026-05-31T21:50:07Z"
 }
