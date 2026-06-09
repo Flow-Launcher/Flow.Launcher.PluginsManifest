@@ -1,0 +1,12 @@
+{
+  "ID": "D4D44C2E-2C47-48AC-93E7-5E5C6F5218D8",
+  "Name": "Riot Launcher",
+  "Description": "Switch Riot accounts and launch Riot games from Flow Launcher",
+  "Author": "Hyun",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/hyunwoo312/riot-launcher",
+  "UrlDownload": "https://github.com/hyunwoo312/riot-launcher/releases/download/v1.0.0/Flow.Launcher.Plugin.RiotLauncher.zip",
+  "UrlSourceCode": "https://github.com/hyunwoo312/riot-launcher/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/hyunwoo312/riot-launcher@main/src/Flow.Launcher.Plugin.RiotLauncher/Images/riot.png"
+}
