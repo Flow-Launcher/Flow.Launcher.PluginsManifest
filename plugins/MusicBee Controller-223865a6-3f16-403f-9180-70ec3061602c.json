@@ -1,7 +1,7 @@
 {
   "ID": "223865a6-3f16-403f-9180-70ec3061602c",
   "Name": "MusicBee Controller",
-  "Description": "Instantly search your music library, play tracks, and control MusicBee playback directly from Flow Launcher.",
+  "Description": "Search your music library, play tracks, and control MusicBee playback directly from Flow Launcher.",
   "Author": "Maikel García",
   "Version": "1.0.0",
   "Language": "python",
