@@ -1,0 +1,12 @@
+{
+  "ID": "223865a6-3f16-403f-9180-70ec3061602c",
+  "Name": "MusicBee Controller",
+  "Description": "Instantly search your music library, play tracks, and control MusicBee playback directly from Flow Launcher.",
+  "Author": "Maikel García",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/Axforzi/flow-musicbee-controller",
+  "UrlSourceCode": "https://github.com/Axforzi/flow-musicbee-controller",
+  "UrlDownload": "https://github.com/Axforzi/flow-musicbee-controller/releases/download/v1.0.0/plugin.zip",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Axforzi/flow-musicbee-controller@main/assets/favicon.png"
+}
