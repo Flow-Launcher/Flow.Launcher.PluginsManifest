@@ -1,0 +1,15 @@
+{
+    "ID": "19132E4B-9100-4E97-BDD2-92415B78D23D",
+    "Name": "Command Vault",
+    "Description": "Search and copy commands from a structured local vault. Supports categories (Cisco, Linux, Proxmox, Ansible), fuzzy search, favorites and templates with variables.",
+    "Author": "BossFlap",
+    "Version": "1.1.2",
+    "Language": "python",
+    "Website": "https://github.com/BossFlap/flow-command-vault",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/BossFlap/flow-command-vault@master/Images/icon.png",
+    "UrlSourceCode": "https://github.com/BossFlap/flow-command-vault",
+    "UrlDownload": "https://github.com/BossFlap/flow-command-vault/releases/download/v1.1.2/CommandVault-1.1.2.zip",
+    "LatestReleaseDate": "2026-02-24T16:00:47Z",
+    "Tested": true,
+    "DateAdded": "2026-02-25T02:38:06Z"
+}

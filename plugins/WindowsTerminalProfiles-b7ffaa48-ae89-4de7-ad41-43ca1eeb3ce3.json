@@ -1,0 +1,14 @@
+{
+    "ID": "b7ffaa48-ae89-4de7-ad41-43ca1eeb3ce3",
+    "Name": "WindowsTerminalProfiles",
+    "Description": "Search and open Windows Terminal profiles.",
+    "Author": "zlyfer",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles",
+    "UrlDownload": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles/releases/download/v1.0.0/FlowLauncher.Plugin.WindowsTerminalProfiles-v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles",
+    "IcoPath": "https://github.com/zlyfer/FlowLauncher.Plugin.WindowsTerminalProfiles/blob/main/FlowLauncher.Plugin.WindowsTerminalProfiles/Images/icon.png",
+    "LatestReleaseDate": "2026-05-29T17:42:21Z",
+    "DateAdded": "2026-06-07T04:23:00Z"
+}

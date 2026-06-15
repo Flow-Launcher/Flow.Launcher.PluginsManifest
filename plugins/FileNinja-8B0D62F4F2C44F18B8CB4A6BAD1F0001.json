@@ -1,0 +1,14 @@
+{
+    "ID": "8B0D62F4F2C44F18B8CB4A6BAD1F0001",
+    "Name": "FileNinja",
+    "Description": "Browse FileNinja URLs (qry://, tag://) from Flow.Launcher",
+    "Author": "Joakim",
+    "Version": "0.1.0",
+    "Language": "csharp",
+    "Website": "https://thefile.ninja",
+    "UrlDownload": "https://github.com/sandeberger/TFN_Flow_plugin/releases/download/v0.1.0/FileNinja-0.1.0.zip",
+    "UrlSourceCode": "https://github.com/sandeberger/TFN_Flow_plugin",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/sandeberger/TFN_Flow_plugin@v0.1.0/Icon.png",
+    "DateAdded": "2026-06-08T16:05:35Z",
+    "LatestReleaseDate": "2026-06-05T19:29:57Z"
+}
