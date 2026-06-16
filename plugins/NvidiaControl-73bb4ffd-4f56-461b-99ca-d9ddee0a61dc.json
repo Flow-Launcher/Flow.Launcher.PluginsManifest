@@ -1,0 +1,12 @@
+{
+  "ID": "73bb4ffd-4f56-461b-99ca-d9ddee0a61dc",
+  "Name": "NvidiaControl",
+  "Description": "Control your NVIDIA GPU: driver info, live stats, clips and screenshots",
+  "Author": "Stenosi",
+  "Version": "1.0.2",
+  "Language": "python",
+  "Website": "https://github.com/Stenosi/flow-nvidia-control",
+  "UrlDownload": "https://github.com/Stenosi/flow-nvidia-control/releases/download/v1.0.2/Flow.Launcher.Plugin.NvidiaControl.zip",
+  "UrlSourceCode": "https://github.com/Stenosi/flow-nvidia-control",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Stenosi/flow-nvidia-control@main/Images/icon.png"
+}
