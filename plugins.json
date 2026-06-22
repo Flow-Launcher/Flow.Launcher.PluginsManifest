@@ -246,15 +246,15 @@
         "ID": "90170ddfd94a4c188bc5ff2e3690d0ae",
         "Name": "WordReference",
         "Description": "WordReference translations (es, en, fr, it)",
-        "Author": "LeoDupont, jeregon1",
-        "Version": "1.1.0",
+        "Author": "LeoDupont and jeregon1",
+        "Version": "1.2.0",
         "Language": "javascript",
         "Website": "https://github.com/jeregon1/Flow.Launcher.Plugin.WordReference",
-        "UrlDownload": "https://github.com/jeregon1/Flow.Launcher.Plugin.WordReference/releases/download/v1.1.0/Flow.Launcher.Plugin.WordReference.zip",
+        "UrlDownload": "https://github.com/jeregon1/Flow.Launcher.Plugin.WordReference/releases/download/v1.2.0/Flow.Launcher.Plugin.WordReference.zip",
         "UrlSourceCode": "https://github.com/jeregon1/Flow.Launcher.Plugin.WordReference/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/jeregon1/Flow.Launcher.Plugin.WordReference@main/images/favicon-32x32.png",
         "DateAdded": "2022-10-08T16:26:57Z",
-        "LatestReleaseDate": "2026-03-17T08:51:31Z"
+        "LatestReleaseDate": "2026-06-22T12:52:50Z"
     },
     {
         "ID": "565B73353DBF4806919830B9202EE3BF",
