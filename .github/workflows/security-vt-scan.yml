@@ -1,0 +1,130 @@
+name: VirusTotal Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 17 * * *"
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      plugins: ${{ steps.filter.outputs.plugins }}
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v6
+      - uses: dorny/paths-filter@v4
+        if: github.event_name == 'pull_request'
+        id: filter
+        with:
+          filters: |
+            plugins:
+              - 'plugins/**'
+
+  vt-plugin-scan:
+    needs: changes
+    if: needs.changes.outputs.plugins == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # Avoid repeat downloads which bump the plugins' download count
+      - name: Restore downloaded plugin cache
+        uses: actions/cache/restore@v5
+        # No need to restore cache, PR's plugin is downloaded and scanned each time.
+        # Plugin dev may repeatedly only update one version
+        if: github.event_name != 'pull_request'
+        with:
+          path: |
+            scan-files/
+            plugin-download-cache.json
+          key: plugin-zips-restore-not-used
+          restore-keys: plugin-zips-
+
+      - name: Download plugin submitted in this PR
+        if: github.event_name == 'pull_request'
+        run: python ci/src/download_plugins.py --mode new --output-dir scan-files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download all plugins with cache metadata
+        if: github.event_name != 'pull_request'
+        run: python ci/src/download_plugins.py --output-dir scan-files --cache-meta plugin-download-cache.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Restore VirusTotal scan cache from previous runs
+        uses: actions/cache/restore@v5
+        # Don't use cache, upload/retrieve report from VirustTotal each time for new submissions
+        if: github.event_name != 'pull_request'
+        with:
+          path: vt_cache.json
+          key: vt-cache-restore-not-used
+          restore-keys: vt-cache-
+
+      - name: Run VirusTotal scan
+        uses: jjw24/virustotal-scanner-action@v1.0.1
+        with:
+          api-key: ${{ secrets.VT_API_KEY }}
+          scan-paths: |
+            ./scan-files/
+          no-cache: false
+          cache-path: vt_cache.json
+          whitelist-path: vt_whitelist.json
+          report-path: vt_report.json
+          request-interval-sec: 15
+          analysis-poll-timeout-sec: 600
+          download-timeout-sec: 120
+          max-report-age-days: 30
+
+      - name: Save VirusTotal scan cache for future runs
+        uses: actions/cache/save@v5
+        # Cache not used for PR plugin submissions
+        if: always() && github.event_name != 'pull_request'
+        with:
+          path: vt_cache.json
+          key: vt-cache-${{ hashFiles('vt_cache.json') }}
+
+      - name: Save plugin ZIPs and cache metadata for future runs
+        uses: actions/cache/save@v5
+        # Upload even if scan fails
+        if: always() && github.event_name != 'pull_request'
+        with:
+          path: |
+            scan-files/
+            plugin-download-cache.json
+          key: plugin-zips-${{ hashFiles('plugin-download-cache.json') }}
+
+      - name: Upload VirusTotal scan report as viewable artifact
+        uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          path: vt_report.json
+          archive: false
+
+      - name: Upload VirusTotal scan cache as viewable artifact
+        uses: actions/upload-artifact@v7
+        # Cache not used for PR plugin submissions
+        if: always() && github.event_name != 'pull_request'
+        with:
+          path: vt_cache.json
+          archive: false
+
+      - name: Upload plugin download cache metadata as viewable artifact
+        uses: actions/upload-artifact@v7
+        # Upload even if scan fails
+        if: always() && github.event_name != 'pull_request'
+        with:
+          path: plugin-download-cache.json
+          archive: false

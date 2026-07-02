@@ -1,0 +1,71 @@
+[
+  {
+    "manifest_file": "Yu-Gi-Oh! card search-53fcad7f00e244829b0059eaa8ea5ab7.json",
+    "sha256": "fc4c100ac14fb239b95be6f0ef2de43a955bbe7b4a1a139605d6632a1224c31a",
+    "engine_threats": {
+      "MaxSecure": "Trojan.Malware.300983.susgen"
+    },
+    "reason": "Low detection (1)"
+  },
+  {
+    "manifest_file": "Hacker News-140f3da0-7d14-4b20-b897-b4cb155fec2d.json",
+    "sha256": "b67a61c2eb54b152735dd41ccfedd6bfdf003dbbb3229815c81f3bd755508e80",
+    "engine_threats": {
+      "Bkav": "W32.Malware.7912D208"
+    },
+    "reason": "Low detection (1)"
+  },
+  {
+    "manifest_file": "Lively Wallpaper Controller-5C310C539BFF4F47BA15D01AF0173032.json",
+    "sha256": "f46af3b0a6946be5108c0739b7bb474732509280b00ff6bb27c1ef706f6b6afd",
+    "engine_threats": {
+      "AhnLab-V3": "Trojan/Win.Malware-gen.C5018546",
+      "Fortinet": "W32/PossibleThreat"
+    },
+    "reason": "Low detection (2)"
+  },
+  {
+    "manifest_file": "Minecraft Multi Launcher-91B97FA34859445782AEF1893DE4E350.json",
+    "sha256": "4ae3f247779a2ae03508fd0b1223c78abae7c16350bfeac2f6266bf3f021e6c0",
+    "engine_threats": {
+      "Antiy-AVL": "Trojan/Win32.Agent",
+      "TrellixENS": "Artemis!BB4E7FEEB103",
+      "MaxSecure": "Trojan.Malware.277671326.susgen",
+      "Fortinet": "W32/PossibleThreat"
+    },
+    "reason": "May be due to plugin launching multiple MC launcher executables"
+  },
+  {
+    "manifest_file": "QrFlow-725660A1CB3D4FFE978A8B477EB376B4.json",
+    "sha256": "a98e43e34de760046d1176362d30af13318dc8fe2e3a9b1430f39328f095a922",
+    "engine_threats": {
+      "Sophos": "NirCmd (PUA)",
+      "Jiangmin": "Trojan.Agentb.ofd"
+    },
+    "reason": "Low detection (2). NirCmd falsely flagged as risk too"
+  },
+  {
+    "manifest_file": "Timer-15361037-bbb1-440a-b98c-aff5825f28a2.json",
+    "sha256": "e5d6d4f79b8da5f3fd7903aadbbbc1ac83f6d39a3eb107e5a2c2107e26e6bc0d",
+    "engine_threats": {
+      "MaxSecure": "Trojan.Malware.300983.susgen"
+    },
+    "reason": "Low detection (1)"
+  },
+  {
+    "manifest_file": "VolumeFlow-7d2d209d-5ab9-42dd-ae9b-2487b57ff569.json",
+    "sha256": "75394430caaffb7566a00bf1abe0e4f4d8dd612a158a8bef058e53ebf945d3d7",
+    "engine_threats": {
+      "Sophos": "NirCmd (PUA)"
+    },
+    "reason": "Low detection (1). NirCmd falsely flagged as risk too"
+  },
+  {
+    "manifest_file": "WinsFlow-72E67DFE0F6F482395AF3CD0A3BC6F04.json",
+    "sha256": "4f4afb05d4a5daf5af5cd346349c60a787e0e745a30405e53d136f74fb02edaa",
+    "engine_threats": {
+      "Sophos": "NirCmd (PUA)"
+    },
+    "reason": "Low detection (1). NirCmd falsely flagged as risk too"
+  }
+]
