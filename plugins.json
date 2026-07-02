@@ -1259,13 +1259,13 @@
         "Name": "LinkOpener",
         "Description": "Allows you to open URLs using keywords set in the settings",
         "Author": "Exarilo",
-        "Version": "1.3.7",
+        "Version": "1.3.8",
         "Language": "csharp",
         "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
-        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.7/Flow.Launcher.Plugin.LinkOpener.zip",
+        "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener/releases/download/v1.3.8/Flow.Launcher.Plugin.LinkOpener.zip",
         "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.LinkOpener@main/Images/app.png",
-        "LatestReleaseDate": "2026-01-06T00:33:51Z",
+        "LatestReleaseDate": "2026-06-28T18:34:48Z",
         "DateAdded": "2024-08-08T09:19:45Z"
     },
     {
@@ -2141,13 +2141,13 @@
         "Name": "Commander Hotlist",
         "Description": "Access directory hotlist bookmarks from Total/Double Commander",
         "Author": "Dani7377",
-        "Version": "1.0.0",
+        "Version": "1.0.2",
         "Language": "csharp",
         "Website": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist",
-        "UrlDownload": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist/releases/download/v1.0.0/Flow.Launcher.Plugin.CommanderHotlist-1.0.0.zip",
+        "UrlDownload": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist/releases/download/v1.0.2/Flow.Launcher.Plugin.CommanderHotlist-1.0.2.zip",
         "UrlSourceCode": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Dani7377/Flow.Launcher.Plugin.CommanderHotlist@main/Flow.Launcher.Plugin.CommanderHotlist/Images/icon.png",
-        "LatestReleaseDate": "2026-05-24T13:09:19Z",
+        "LatestReleaseDate": "2026-06-30T19:45:25Z",
         "DateAdded": "2026-05-28T16:10:06Z"
     },
     {
@@ -3800,15 +3800,15 @@
     {
         "ID": "F8A3B1D4E6C2947F5A0B8D3E1C6F2A74",
         "Name": "QuickTodo",
-        "Description": "Quick task management with priorities, categories, reminders, and Outlook Tasks support.",
+        "Description": "Quick task management with priorities, categories, reminders, Outlook Tasks support, and Outlook email search (os).",
         "Author": "TrueCrimeAudit",
-        "Version": "1.1.0",
+        "Version": "1.5.0",
         "Language": "csharp",
         "Website": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo",
-        "UrlDownload": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo/releases/download/v1.1.0/Flow.Launcher.Plugin.QuickTodo.zip",
+        "UrlDownload": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo/releases/download/v1.5.0/Flow.Launcher.Plugin.QuickTodo.zip",
         "UrlSourceCode": "https://github.com/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo",
         "IcoPath": "https://cdn.jsdelivr.net/gh/TrueCrimeDev/Flow.Launcher.Plugin.QuickTodo@master/Images/todo.png",
-        "LatestReleaseDate": "2026-05-27T22:42:24Z",
+        "LatestReleaseDate": "2026-06-29T12:08:20Z",
         "DateAdded": "2026-05-28T16:10:06Z"
     },
     {
