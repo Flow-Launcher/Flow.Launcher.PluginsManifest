@@ -32,4 +32,4 @@ jobs:
           pip install pytest requests
       - name: Run tests
         run: |
-          python -m pytest tests/test_download_plugins.py -v
+          python -m pytest tests/ -v
