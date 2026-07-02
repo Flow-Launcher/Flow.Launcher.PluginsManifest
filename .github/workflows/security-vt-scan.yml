@@ -73,14 +73,10 @@ jobs:
       - name: Download plugin submitted in this PR
         if: github.event_name == 'pull_request_target'
         run: python ci/src/download_plugins.py --mode new --output-dir scan-files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download all plugins with cache metadata
         if: github.event_name != 'pull_request_target'
         run: python ci/src/download_plugins.py --output-dir scan-files --cache-meta plugin-download-cache.json
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Restore VirusTotal scan cache from previous runs
         uses: actions/cache/restore@v5
