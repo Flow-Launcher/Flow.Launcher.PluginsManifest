@@ -9,6 +9,7 @@ on:
 
 jobs:
   changes:
+    if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     outputs:
       plugins: ${{ steps.filter.outputs.plugins }}
@@ -16,8 +17,9 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
       - uses: dorny/paths-filter@v4
-        if: github.event_name == 'pull_request_target'
         id: filter
         with:
           ref: ${{ github.event.pull_request.head.sha }}
@@ -30,7 +32,12 @@ jobs:
 
   vt-plugin-scan:
     needs: changes
-    if: (needs.changes.outputs.plugins == 'true' && needs.changes.outputs.ci_files == 'false') || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+    if: |
+      always() && (
+        (github.event_name == 'pull_request_target' && needs.changes.outputs.plugins == 'true' && needs.changes.outputs.ci_files == 'false') ||
+        github.event_name == 'workflow_dispatch' ||
+        github.event_name == 'schedule'
+      )
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
