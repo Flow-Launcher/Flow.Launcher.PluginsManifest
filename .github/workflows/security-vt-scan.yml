@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       plugins: ${{ steps.filter.outputs.plugins }}
-      ci_files: ${{ steps.filter.outputs.ci_files }}
+      non_plugin_files: ${{ steps.filter.outputs.non_plugin_files }}
     steps:
       - name: Check out repository code
         uses: actions/checkout@v6
@@ -26,18 +26,25 @@ jobs:
         id: filter
         with:
           ref: ${{ github.event.pull_request.head.sha }}
+          predicate-quantifier: 'every'
           filters: |
             plugins:
-              - 'plugins/**'
-            ci_files:
-              - 'ci/**'
-              - '.github/**'
+              - 'plugins/*.json'
+            non_plugin_files:
+              - '**'
+              - '!plugins/*.json'
+      - name: Fail if non-plugin files changed
+        if: github.event_name == 'pull_request_target' && needs.changes.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'true'
+        run: |
+          echo "This PR contains changes to files outside the plugins directory."
+          echo "Plugin submission PRs must only create/modify plugin manifest files in the plugins directory."
+          exit 1
 
   vt-plugin-scan:
     needs: changes
     if: |
       always() && (
-        (github.event_name == 'pull_request_target' && needs.changes.outputs.plugins == 'true' && needs.changes.outputs.ci_files == 'false') ||
+        (github.event_name == 'pull_request_target' && needs.changes.outputs.plugins == 'true' && needs.changes.outputs.non_plugin_files == 'false') ||
         github.event_name == 'workflow_dispatch' ||
         github.event_name == 'schedule'
       )
