@@ -11,7 +11,7 @@ permissions:
   contents: read  # Restrict GITHUB_TOKEN
 
 jobs:
-  changes:
+  vt-plugin-scan-changes-check:
     if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     outputs:
@@ -25,7 +25,6 @@ jobs:
       - uses: dorny/paths-filter@v4
         id: filter
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
           predicate-quantifier: 'every'
           filters: |
             plugins:
@@ -34,17 +33,17 @@ jobs:
               - '**'
               - '!plugins/*.json'
       - name: Fail if non-plugin files changed
-        if: github.event_name == 'pull_request_target' && needs.changes.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'true'
+        if: github.event_name == 'pull_request_target' && steps.filter.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'true'
         run: |
           echo "This PR contains changes to files outside the plugins directory."
           echo "Plugin submission PRs must only create/modify plugin manifest files in the plugins directory."
           exit 1
 
   vt-plugin-scan:
-    needs: changes
+    needs: vt-plugin-scan-changes-check
     if: |
       always() && (
-        (github.event_name == 'pull_request_target' && needs.changes.outputs.plugins == 'true' && needs.changes.outputs.non_plugin_files == 'false') ||
+        (github.event_name == 'pull_request_target' && needs.vt-plugin-scan-changes-check.outputs.plugins == 'true' && needs.vt-plugin-scan-changes-check.outputs.non_plugin_files == 'false') ||
         github.event_name == 'workflow_dispatch' ||
         github.event_name == 'schedule'
       )
