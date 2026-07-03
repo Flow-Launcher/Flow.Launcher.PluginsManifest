@@ -1,4 +1,4 @@
-name: src unit tests
+name: Src unit tests
 
 on:
   push:
@@ -17,6 +17,7 @@ jobs:
           filters: |
             src_files:
               - 'ci/src/download_plugins.py'
+              - 'tests/**'
 
   unit-tests:
     needs: changes
