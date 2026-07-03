@@ -1,4 +1,4 @@
-name: src unit tests
+name: Src unit tests
 
 on:
   push:
