@@ -1,4 +1,5 @@
 # -*-coding: utf-8 -*-
+import hashlib
 import json
 import os
 import re
@@ -46,9 +47,31 @@ author = "Author"
 description = "Description"
 plugin_name = "Name"
 github_url = "https://github.com"
+tested = "Tested"
 release_date = "LatestReleaseDate"
 date_added = "DateAdded"
 website = "Website"
+minimum_app_version = "MinimumAppVersion"
+
+necessary_fields = (
+    id_name,
+    plugin_name,
+    description,
+    author,
+    version,
+    language_name,
+    website,
+    url_download,
+    url_sourcecode,
+    icon_path,
+)
+
+optional_fields = (
+    minimum_app_version,
+    tested,
+    release_date,
+    date_added
+)
 
 # typing
 PluginType = Dict[str, str]
@@ -57,6 +80,22 @@ PluginsType = List[PluginType]
 Ps = TypeVar("Ps", bound=PluginsType)
 
 ETagsType = Dict[str, str]
+
+
+def _raise_on_duplicate_keys(pairs):
+    seen = set()
+    duplicates = set()
+    result = {}
+    for key, value in pairs:
+        if key in seen:
+            duplicates.add(key)
+        else:
+            seen.add(key)
+            result[key] = value
+    if duplicates:
+        sorted_duplicates = sorted(duplicates)
+        raise ValueError(f"Duplicate keys found: {sorted_duplicates}")
+    return result
 
 
 def plugin_reader() -> P:
@@ -130,6 +169,22 @@ def get_file_plugins_json_info(required_key: str = "") -> list[dict[str, str]]:
         return data
 
     return [{required_key: plugin[required_key]} for plugin in data]
+
+
+def sha256_file(path: Path) -> str:
+    """Compute the SHA-256 hex digest of a file.
+
+    Args:
+        path: Path to the file.
+
+    Returns:
+        Lower-case hex digest string.
+    """
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
 
 
 def get_new_plugin_submission_ids() -> list[str]:

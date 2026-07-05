@@ -1,0 +1,14 @@
+{
+    "ID": "a0b31f6b-01a0-4255-a815-258310f686ce",
+    "Name": "Curseforge Modpack Launcher",
+    "Description": "Launch Modpack from Curseforge launcher",
+    "Author": "iglee42",
+    "Version": "1.0.3",
+    "Language": "TypeScript",
+    "Website": "https://iglee.fr",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/iglee42/CurseforgeFlowLauncherPlugin@latest/assets/curseforge-logo.png?raw=true",
+    "UrlSourceCode": "https://github.com/iglee42/CurseforgeFlowLauncherPlugin",
+    "UrlDownload": "https://github.com/iglee42/CurseforgeFlowLauncherPlugin/releases/download/v1.0.3/CurseforgeLauncher-1.0.3.zip",
+    "DateAdded": "2026-06-08T16:05:35Z",
+    "LatestReleaseDate": "2026-06-04T14:06:51Z"
+}

@@ -1,7 +1,7 @@
 name: Update tested plugins
 on:
   push:
-    branches: [ plugin_api_v2 ]
+    branches: [ main ]
     paths:
       - 'plugins.json'
 jobs:
@@ -31,4 +31,4 @@ jobs:
         with:
           commit_message: "Update Tested plugins"
           push_options: --force
-          branch: plugin_api_v2
+          branch: main

@@ -1,6 +1,5 @@
 {
     "ID": "F229B92B-C4D1-4A87-B05B-A96ACC486263",
-    "ActionKeyword": "email",
     "Name": "EmailTo",
     "Description": "Flow plugin to spawn a new email in the system default client",
     "Author": "Adam Marciniec",
