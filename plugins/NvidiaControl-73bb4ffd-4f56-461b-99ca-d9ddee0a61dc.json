@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/Stenosi/flow-nvidia-control/releases/download/v1.0.3/Flow.Launcher.Plugin.NvidiaControl.zip",
     "UrlSourceCode": "https://github.com/Stenosi/flow-nvidia-control",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Stenosi/flow-nvidia-control@main/Images/icon.png",
-    "LatestReleaseDate": "2026-07-05T12:12:27Z"
+    "LatestReleaseDate": "2026-07-05T12:12:27Z",
+    "Tested": true,
+    "DateAdded": "2026-07-06T15:42:11Z"
 }
