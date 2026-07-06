@@ -1,0 +1,12 @@
+{
+  "ID": "03BDCDCDD4DD4D16A8E401EDBED908EA",
+  "Name": "KV Database",
+  "Description": "Key-value database for quick lookup and updates in Flow Launcher",
+  "Author": "Wang.Yuhang",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database",
+  "UrlDownload": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database/releases/download/v1.0.0/Flow.Launcher.Plugin.KV-Database.zip",
+  "UrlSourceCode": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database@main/images/kv_database_logo.png"
+}
