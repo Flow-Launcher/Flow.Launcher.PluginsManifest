@@ -1132,14 +1132,14 @@
         "Name": "Git Easy",
         "Description": "Provide easy access to repositories. Allows quickly cloning repository and open in vscode/file explorer.",
         "Author": "zkwokleung",
-        "Version": "0.5.0",
+        "Version": "0.5.1",
         "Language": "csharp",
         "Website": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
-        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.5.0/Flow.Launcher.Plugin.GitEasy.zip",
+        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.5.1/Flow.Launcher.Plugin.GitEasy.zip",
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.GitEasy@main/Flow.Launcher.Plugin.GitEasy/Images/icon.png",
         "DateAdded": "2024-07-19T22:34:00Z",
-        "LatestReleaseDate": "2025-06-30T13:17:19Z"
+        "LatestReleaseDate": "2026-07-06T08:11:49Z"
     },
     {
         "ID": "DBBBC4D4C38147A7B0570A473CFA9521",
@@ -4802,5 +4802,20 @@
     "UrlDownload": "https://github.com/ErenMFYeager/flow-LeetCode/releases/download/v1.3.1/LeetCodeSearch.zip",
     "UrlSourceCode": "https://github.com/ErenMFYeager/flow-LeetCode/tree/main",
     "IcoUrl": "https://cdn.jsdelivr.net/gh/ErenMFYeager/flow-LeetCode@main/SearchLeetCode.png"
-  }
+  },
+  {
+        "ID": "73bb4ffd-4f56-461b-99ca-d9ddee0a61dc",
+        "Name": "NvidiaControl",
+        "Description": "Control your NVIDIA GPU: driver info, live stats, clips and screenshots",
+        "Author": "Stenosi",
+        "Version": "1.0.3",
+        "Language": "python",
+        "Website": "https://github.com/Stenosi/flow-nvidia-control",
+        "UrlDownload": "https://github.com/Stenosi/flow-nvidia-control/releases/download/v1.0.3/Flow.Launcher.Plugin.NvidiaControl.zip",
+        "UrlSourceCode": "https://github.com/Stenosi/flow-nvidia-control",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Stenosi/flow-nvidia-control@main/Images/icon.png",
+        "LatestReleaseDate": "2026-07-05T12:12:27Z",
+        "Tested": true,
+        "DateAdded": "2026-07-06T15:42:11Z"
+    }
 ]
