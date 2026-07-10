@@ -1420,7 +1420,9 @@
         "UrlDownload": "https://github.com/emre-ekmel/tdk-sozluk-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.TDKSozluk.zip",
         "UrlSourceCode": "https://github.com/emre-ekmel/tdk-sozluk-plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/emre-ekmel/tdk-sozluk-plugin@main/images/icon.png",
-        "LatestReleaseDate": "2026-06-17T14:47:33Z"
+        "LatestReleaseDate": "2026-06-17T14:47:33Z",
+        "Tested": true,
+        "DateAdded": "2026-07-10T14:37:56Z"
     },
     {
         "ID": "A3EA904783E14335894354F09DC4B054",
@@ -1974,7 +1976,8 @@
         "UrlSourceCode": "https://github.com/hermanocabral/flowlauncher-herd",
         "IcoPath": "https://cdn.jsdelivr.net/gh/hermanocabral/flowlauncher-herd@main/src/Flow.Launcher.Plugin.Herd/Images/icon.png",
         "MinimumAppVersion": "2.0.0",
-        "LatestReleaseDate": "2026-06-19T08:36:09Z"
+        "LatestReleaseDate": "2026-06-19T08:36:09Z",
+        "DateAdded": "2026-07-10T14:37:56Z"
     },
     {
         "ID": "09f22573-52b9-433b-832e-450e2f91093b",
@@ -2934,7 +2937,8 @@
         "UrlDownload": "https://github.com/ahmedsabie/flow_launcher_universal_conversion/releases/download/v1.0.0/Flow.Launcher.Plugin.UniversalConversion.zip",
         "UrlSourceCode": "https://github.com/ahmedsabie/flow_launcher_universal_conversion/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ahmedsabie/flow_launcher_universal_conversion@main/Images/app.png",
-        "LatestReleaseDate": "2026-07-07T00:41:22Z"
+        "LatestReleaseDate": "2026-07-07T00:41:22Z",
+        "DateAdded": "2026-07-10T14:37:56Z"
     },
     {
         "ID": "9f8f9b14-2518-4907-b211-35ab6290dee7",
