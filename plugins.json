@@ -1385,14 +1385,14 @@
         "Name": "Steam Search",
         "Description": "Search and launch your Steam Game library",
         "Author": "Garulf",
-        "Version": "10.0.1",
+        "Version": "11.0.2",
         "Language": "python",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v10.0.1/Steam-Search-10.0.1.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v11.0.2/Steam-Search-11.0.2.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/static/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2026-05-05T17:39:16Z",
+        "LatestReleaseDate": "2026-07-09T18:38:12Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -2915,14 +2915,14 @@
         "Name": "FileZilla",
         "Description": "Launch FileZilla sessions",
         "Author": "Karel Faille",
-        "Version": "1.0.4",
+        "Version": "1.0.5",
         "Language": "typescript",
         "Website": "https://github.com/shaffe-fr/flow-filezilla",
-        "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.4/Flow.Launcher.Plugin.FileZilla.zip",
+        "UrlDownload": "https://github.com/shaffe-fr/flow-filezilla/releases/download/v1.0.5/Flow.Launcher.Plugin.FileZilla.zip",
         "UrlSourceCode": "https://github.com/shaffe-fr/flow-filezilla/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/shaffe-fr/flow-filezilla/app.png",
         "DateAdded": "2024-05-04T02:18:48Z",
-        "LatestReleaseDate": "2026-01-20T14:51:21Z"
+        "LatestReleaseDate": "2026-07-08T09:07:30Z"
     },
     {
         "ID": "E5E5A4BD-39C7-4B41-93F8-0D4850BC317C",
@@ -4796,13 +4796,13 @@
         "Name": "NvidiaControl",
         "Description": "Control your NVIDIA GPU: driver info, live stats, clips and screenshots",
         "Author": "Stenosi",
-        "Version": "1.0.3",
+        "Version": "1.0.4",
         "Language": "python",
         "Website": "https://github.com/Stenosi/flow-nvidia-control",
-        "UrlDownload": "https://github.com/Stenosi/flow-nvidia-control/releases/download/v1.0.3/Flow.Launcher.Plugin.NvidiaControl.zip",
+        "UrlDownload": "https://github.com/Stenosi/flow-nvidia-control/releases/download/v1.0.4/Flow.Launcher.Plugin.NvidiaControl.zip",
         "UrlSourceCode": "https://github.com/Stenosi/flow-nvidia-control",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Stenosi/flow-nvidia-control@main/Images/icon.png",
-        "LatestReleaseDate": "2026-07-05T12:12:27Z",
+        "LatestReleaseDate": "2026-07-08T18:14:36Z",
         "Tested": true,
         "DateAdded": "2026-07-06T15:42:11Z"
     }
