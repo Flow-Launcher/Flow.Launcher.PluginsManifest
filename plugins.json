@@ -4792,18 +4792,6 @@
         "DateAdded": "2026-02-25T07:08:18Z"
     },
     {
-    "ID": "cce72a24-d8b2-4567-97fd-6a016a87a415",
-    "Name": "LeetCode Search",
-    "Description": "Search and open LeetCode problems instantly",
-    "Author": "Aryan Vijay",
-    "Version": "1.3.1",
-    "Language": "python",
-    "Website": "https://github.com/ErenMFYeager/flow-LeetCode",
-    "UrlDownload": "https://github.com/ErenMFYeager/flow-LeetCode/releases/download/v1.3.1/LeetCodeSearch.zip",
-    "UrlSourceCode": "https://github.com/ErenMFYeager/flow-LeetCode/tree/main",
-    "IcoUrl": "https://cdn.jsdelivr.net/gh/ErenMFYeager/flow-LeetCode@main/SearchLeetCode.png"
-  },
-  {
         "ID": "73bb4ffd-4f56-461b-99ca-d9ddee0a61dc",
         "Name": "NvidiaControl",
         "Description": "Control your NVIDIA GPU: driver info, live stats, clips and screenshots",
