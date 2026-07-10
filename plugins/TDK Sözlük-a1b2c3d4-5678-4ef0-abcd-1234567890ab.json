@@ -1,12 +1,13 @@
 {
-  "ID": "a1b2c3d4-5678-4ef0-abcd-1234567890ab",
-  "Name": "TDK Sözlük",
-  "Description": "Türk Dil Kurumu sözlüğünde hızlı kelime araması yapın.",
-  "Author": "emre-ekmel",
-  "Version": "1.0.0",
-  "Language": "python",
-  "Website": "https://github.com/emre-ekmel/tdk-sozluk-plugin",
-  "UrlDownload": "https://github.com/emre-ekmel/tdk-sozluk-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.TDKSozluk.zip",
-  "UrlSourceCode": "https://github.com/emre-ekmel/tdk-sozluk-plugin/tree/main",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/emre-ekmel/tdk-sozluk-plugin@main/images/icon.png"
+    "ID": "a1b2c3d4-5678-4ef0-abcd-1234567890ab",
+    "Name": "TDK S\u00f6zl\u00fck",
+    "Description": "T\u00fcrk Dil Kurumu s\u00f6zl\u00fc\u011f\u00fcnde h\u0131zl\u0131 kelime aramas\u0131 yap\u0131n.",
+    "Author": "emre-ekmel",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/emre-ekmel/tdk-sozluk-plugin",
+    "UrlDownload": "https://github.com/emre-ekmel/tdk-sozluk-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.TDKSozluk.zip",
+    "UrlSourceCode": "https://github.com/emre-ekmel/tdk-sozluk-plugin/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/emre-ekmel/tdk-sozluk-plugin@main/images/icon.png",
+    "LatestReleaseDate": "2026-06-17T14:47:33Z"
 }
