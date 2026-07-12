@@ -461,6 +461,20 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "D1A7E9C48B6F4A5A8F963DA278F41921",
+        "Name": "Layout Fallback",
+        "Description": "Adds lower-priority search results using corrected keyboard layouts available on the user's system, e.g. Yfcnhjqrb -> Настройки.",
+        "Author": "Roman Lankin AKA LanKing",
+        "Version": "0.1.4",
+        "Language": "csharp",
+        "Website": "https://github.com/LanKing/flow-launcher-plugin-layout-fallback",
+        "UrlDownload": "https://github.com/LanKing/flow-launcher-plugin-layout-fallback/releases/download/v0.1.4/LayoutFallback.zip",
+        "UrlSourceCode": "https://github.com/LanKing/flow-launcher-plugin-layout-fallback/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/LanKing/flow-launcher-plugin-layout-fallback@main/Images/layout-fallback.png",
+        "MinimumAppVersion": "1.19.0",
+        "LatestReleaseDate": "2026-07-10T13:01:53Z"
+    },
+    {
         "ID": "5DBA462B9AB77AC5DC158EB5047367F0",
         "Name": "RemoveUSB",
         "Description": "Removes USB drives",
