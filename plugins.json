@@ -76,14 +76,14 @@
         "Name": "Godot",
         "Description": "Quickly launch your godot projects from flow launcher",
         "Author": "DiekoMA",
-        "Version": "1.0.6",
+        "Version": "1.0.7",
         "Language": "csharp",
         "Website": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot",
         "IcoPath": "https://cdn.jsdelivr.net/gh/DiekoMA/Flow.Launcher.Plugin.Godot@master/Assets/Godot.png",
         "UrlSourceCode": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/tree/master",
-        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/download/v1.0.6/Godot-1.0.6.zip",
+        "UrlDownload": "https://github.com/DiekoMA/Flow.Launcher.Plugin.Godot/releases/download/v1.0.7/Godot-1.0.7.zip",
         "DateAdded": "2023-10-04T09:44:20Z",
-        "LatestReleaseDate": "2025-06-20T22:00:35Z"
+        "LatestReleaseDate": "2026-07-12T15:39:53Z"
     },
     {
         "ID": "42f4fb22-c254-49b3-81d2-6c5b591c2152",
@@ -472,7 +472,8 @@
         "UrlSourceCode": "https://github.com/LanKing/flow-launcher-plugin-layout-fallback/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/LanKing/flow-launcher-plugin-layout-fallback@main/Images/layout-fallback.png",
         "MinimumAppVersion": "1.19.0",
-        "LatestReleaseDate": "2026-07-10T13:01:53Z"
+        "LatestReleaseDate": "2026-07-10T13:01:53Z",
+        "DateAdded": "2026-07-12T13:37:04Z"
     },
     {
         "ID": "5DBA462B9AB77AC5DC158EB5047367F0",
