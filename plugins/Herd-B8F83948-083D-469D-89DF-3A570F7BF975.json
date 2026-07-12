@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/hermanocabral/flowlauncher-herd/releases/download/v0.1.2/Flow.Launcher.Plugin.Herd-0.1.2.zip",
     "UrlSourceCode": "https://github.com/hermanocabral/flowlauncher-herd",
     "IcoPath": "https://cdn.jsdelivr.net/gh/hermanocabral/flowlauncher-herd@main/src/Flow.Launcher.Plugin.Herd/Images/icon.png",
-    "MinimumAppVersion": "2.0.0"
+    "MinimumAppVersion": "2.0.0",
+    "LatestReleaseDate": "2026-06-19T08:36:09Z",
+    "DateAdded": "2026-07-10T14:37:56Z"
 }

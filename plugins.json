@@ -314,6 +314,21 @@
         "DateAdded": "2026-02-27T13:09:57Z"
     },
     {
+        "ID": "7C4B0B56EA2A4B55A2E4F62049BDBF18",
+        "Name": "Flow-Picker",
+        "Description": "Pick the color under your cursor and copy it instantly.",
+        "Author": "Shrinidhi Hegde",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/shrinidhihegde3/Flow-Picker",
+        "UrlDownload": "https://github.com/shrinidhihegde3/Flow-Picker/releases/download/v1.0.0/FlowPicker.zip",
+        "UrlSourceCode": "https://github.com/shrinidhihegde3/Flow-Picker",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/shrinidhihegde3/Flow-Picker@main/Images/logo.png",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-07-10T19:34:27Z",
+        "DateAdded": "2026-07-11T08:03:13Z"
+    },
+    {
         "ID": "9c3ff0be220b4568af017ffd3cdfb4d7",
         "Name": "Multi-Profile Bookmarks",
         "Description": "Opens bookmarks in correct browser profile. Ideal if you use separate profiles for work/study and personal browsing.",
@@ -1410,6 +1425,21 @@
         "LatestReleaseDate": "2026-06-08T05:04:13Z"
     },
     {
+        "ID": "a1b2c3d4-5678-4ef0-abcd-1234567890ab",
+        "Name": "TDK Sözlük",
+        "Description": "Türk Dil Kurumu sözlüğünde hızlı kelime araması yapın.",
+        "Author": "emre-ekmel",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/emre-ekmel/tdk-sozluk-plugin",
+        "UrlDownload": "https://github.com/emre-ekmel/tdk-sozluk-plugin/releases/download/v1.0.0/Flow.Launcher.Plugin.TDKSozluk.zip",
+        "UrlSourceCode": "https://github.com/emre-ekmel/tdk-sozluk-plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/emre-ekmel/tdk-sozluk-plugin@main/images/icon.png",
+        "LatestReleaseDate": "2026-06-17T14:47:33Z",
+        "Tested": true,
+        "DateAdded": "2026-07-10T14:37:56Z"
+    },
+    {
         "ID": "A3EA904783E14335894354F09DC4B054",
         "Name": "CdList",
         "Description": "Like cd in terminal, but for Flow Launcher",
@@ -1948,6 +1978,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/bretthysuik/Flow.Launcher.Plugin.Ryot@main/Flow.Launcher.Plugin.Ryot/Images/ryot.png",
         "DateAdded": "2023-09-11T22:03:35Z",
         "LatestReleaseDate": "2023-09-08T01:47:40Z"
+    },
+    {
+        "ID": "B8F83948-083D-469D-89DF-3A570F7BF975",
+        "Name": "Herd",
+        "Description": "Herd your apps into groups and launch the whole flock at once.",
+        "Author": "Hermano Cabral",
+        "Version": "0.1.2",
+        "Language": "csharp",
+        "Website": "https://github.com/hermanocabral/flowlauncher-herd",
+        "UrlDownload": "https://github.com/hermanocabral/flowlauncher-herd/releases/download/v0.1.2/Flow.Launcher.Plugin.Herd-0.1.2.zip",
+        "UrlSourceCode": "https://github.com/hermanocabral/flowlauncher-herd",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/hermanocabral/flowlauncher-herd@main/src/Flow.Launcher.Plugin.Herd/Images/icon.png",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-06-19T08:36:09Z",
+        "DateAdded": "2026-07-10T14:37:56Z"
     },
     {
         "ID": "09f22573-52b9-433b-832e-450e2f91093b",
@@ -2895,6 +2940,20 @@
         "Tested": true,
         "LatestReleaseDate": "2022-01-26T21:37:27Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "8c6ef83e-4ecb-4f82-b8cb-0f74f916837a",
+        "Name": "Universal Conversion",
+        "Description": "Convert units, countries, and city timezones",
+        "Author": "ahmedsabie",
+        "Version": "1.0.0",
+        "Language": "javascript",
+        "Website": "https://github.com/ahmedsabie/flow_launcher_universal_conversion",
+        "UrlDownload": "https://github.com/ahmedsabie/flow_launcher_universal_conversion/releases/download/v1.0.0/Flow.Launcher.Plugin.UniversalConversion.zip",
+        "UrlSourceCode": "https://github.com/ahmedsabie/flow_launcher_universal_conversion/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ahmedsabie/flow_launcher_universal_conversion@main/Images/app.png",
+        "LatestReleaseDate": "2026-07-07T00:41:22Z",
+        "DateAdded": "2026-07-10T14:37:56Z"
     },
     {
         "ID": "9f8f9b14-2518-4907-b211-35ab6290dee7",
