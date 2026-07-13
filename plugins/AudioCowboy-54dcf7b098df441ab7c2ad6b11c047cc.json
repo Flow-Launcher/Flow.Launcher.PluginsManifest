@@ -3,10 +3,10 @@
     "Name": "AudioCowboy",
     "Description": "Quickly switch the default audio input/output device, and save device profiles. Type 'ac' for a menu.",
     "Author": "True347",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "python",
     "Website": "https://github.com/True347/AudioCowboy",
-    "UrlDownload": "https://github.com/True347/AudioCowboy/releases/download/v1.0.0/Flow.Launcher.Plugin.AudioCowboy.zip",
+    "UrlDownload": "https://github.com/True347/AudioCowboy/releases/download/v1.0.1/Flow.Launcher.Plugin.AudioCowboy.zip",
     "UrlSourceCode": "https://github.com/True347/AudioCowboy/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/True347/AudioCowboy@main/Images/app.png"
 }
