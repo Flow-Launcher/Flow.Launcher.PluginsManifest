@@ -1,0 +1,36 @@
+name: Src unit tests
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      src_files: ${{ steps.filter.outputs.src_files }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dorny/paths-filter@v4
+        id: filter
+        with:
+          filters: |
+            src_files:
+              - 'ci/src/download_plugins.py'
+              - 'tests/**'
+
+  unit-tests:
+    needs: changes
+    if: needs.changes.outputs.src_files == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          pip install pytest requests
+      - name: Run tests
+        run: |
+          python -m pytest tests/ -v
