@@ -3,13 +3,13 @@
     "Name": "Steam Search",
     "Description": "Search and launch your Steam Game library",
     "Author": "Garulf",
-    "Version": "11.0.2",
-    "Language": "python",
+    "Version": "12.1.0",
+    "Language": "python_v2",
     "Website": "https://github.com/Garulf/Steam-Search",
-    "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v11.0.2/Steam-Search-11.0.2.zip",
+    "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v12.1.0/Steam-Search-12.1.0.zip",
     "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/static/icon.png",
     "Tested": true,
-    "LatestReleaseDate": "2026-07-09T18:38:12Z",
+    "LatestReleaseDate": "2026-07-13T09:11:50Z",
     "DateAdded": "2022-10-08T16:26:57Z"
 }
