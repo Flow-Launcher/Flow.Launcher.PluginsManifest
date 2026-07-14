@@ -1,0 +1,14 @@
+{
+    "ID": "7f3c2d9e-8b41-4c7a-a9f2-6d18e5b73c4f",
+    "Name": "Ask I Want",
+    "Description": "[Forked from Bowie Enhanced Edition] Multi-provider AI assistant (Ollama/OpenAI/DeepSeek) with web search and thinking mode, edit and release under MIT Licence",
+    "Author": "Bowie And Chumenta",
+    "Version": "1.1.2",
+    "Language": "python",
+    "Website": "https://github.com/QWXL/ask-i-want-plugin",
+    "UrlDownload": "https://github.com/QWXL/ask-i-want-plugin/archive/refs/tags/JustIWant.zip",
+    "UrlSourceCode": "https://github.com/QWXL/ask-i-want-plugin",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/BowieHe/ask-ai-plugin@main/icon.png",
+    "ExecuteFileName": "main.py",
+    "ActionKeyword": "ask"
+}
