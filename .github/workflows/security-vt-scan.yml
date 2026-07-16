@@ -51,6 +51,7 @@ jobs:
           else
             echo "plugin_additions=false" >> $GITHUB_OUTPUT
           fi
+          echo "New plugin file/s added: $ADDED"
 
   vt-plugin-scan:
     needs: vt-plugin-scan-changes-check
