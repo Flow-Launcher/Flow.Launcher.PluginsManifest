@@ -44,6 +44,7 @@ jobs:
         id: detect_new
         if: github.event_name == 'pull_request_target' && steps.filter.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'false'
         run: |
+          git fetch origin ${{ github.event.pull_request.base.sha }}
           ADDED=$(git diff --name-status ${{ github.event.pull_request.base.sha }}...HEAD -- 'plugins/*.json' | grep '^A' | head -c1)
           if [ -n "$ADDED" ]; then
             echo "plugin_additions=true" >> $GITHUB_OUTPUT
