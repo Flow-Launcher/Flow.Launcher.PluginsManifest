@@ -1,0 +1,13 @@
+{
+    "ID": "f38c9470-7d31-401e-88ca-06c964bb3fc3",
+    "ActionKeyword": "hz",
+    "Name": "Monitor Refresh Rate Changer",
+    "Description": "Change your monitor refresh rate easily from Flow Launcher",
+    "Author": "Musfikur Rhaman Sifat",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/psycodess/hz-plugin",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/psycodess/hz-plugin@main/Images/app.png",
+    "UrlDownload": "https://github.com/psycodess/hz-plugin/releases/download/v1.0.0/hz-plugin.zip",
+    "UrlSourceCode": "https://github.com/psycodess/hz-plugin"
+}
