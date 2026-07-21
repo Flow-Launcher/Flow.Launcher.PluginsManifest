@@ -1,0 +1,13 @@
+{
+  "ID": "31f74a44-5845-4172-9bd4-a2971fcb8d5c",
+  "ActionKeywords": ["timer","alarm"],
+  "Name": "Timer & Alarm",
+  "Description": "Quickly set timers and alarms.",
+  "Author": "commandblocks0",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
+  "UrlDownload": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm/releases/download/v1.0.0/TimerAlarm.zip",
+  "UrlSourceCode": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/commandblocks0/Flow.Launcher.Plugin.TimerAlarm@v1.0.0/src/icons/icon.png"
+}
