@@ -17,6 +17,7 @@ jobs:
     outputs:
       plugins: ${{ steps.filter.outputs.plugins }}
       non_plugin_files: ${{ steps.filter.outputs.non_plugin_files }}
+      plugin_additions: ${{ steps.detect_new.outputs.plugin_additions }}
     steps:
       - name: Check out repository code
         uses: actions/checkout@v6
@@ -39,11 +40,25 @@ jobs:
           echo "Plugin submission PRs must only create/modify plugin manifest files in the plugins directory."
           exit 1
 
+      - name: Detect new plugin file additions
+        id: detect_new
+        if: github.event_name == 'pull_request_target' && steps.filter.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'false'
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.sha }}
+          ADDED=$(git diff --diff-filter=A --name-only ${{ github.event.pull_request.base.sha }} HEAD -- 'plugins/*.json' | head -c1)
+          if [ -n "$ADDED" ]; then
+            echo "plugin_additions=true" >> $GITHUB_OUTPUT
+            echo "New plugin manifest file/s added: true"
+          else
+            echo "plugin_additions=false" >> $GITHUB_OUTPUT
+            echo "New plugin manifest file/s added: false"
+          fi
+
   vt-plugin-scan:
     needs: vt-plugin-scan-changes-check
     if: |
       always() && (
-        (github.event_name == 'pull_request_target' && needs.vt-plugin-scan-changes-check.outputs.plugins == 'true' && needs.vt-plugin-scan-changes-check.outputs.non_plugin_files == 'false') ||
+        (github.event_name == 'pull_request_target' && needs.vt-plugin-scan-changes-check.outputs.plugin_additions == 'true') ||
         github.event_name == 'workflow_dispatch' ||
         github.event_name == 'schedule'
       )
