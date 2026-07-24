@@ -1,0 +1,12 @@
+{
+  "ID": "122454f3-7f67-441c-b80b-624e45ee745c",
+  "Name": "Live Tennis",
+  "Description": "Live tennis scores at a keystroke: point-by-point live matches, set scores and serving indicator, plus player search (ranking, country) from Live Tennis API.",
+  "Author": "livetennisapi",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://livetennisapi.com",
+  "UrlDownload": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/releases/download/v1.0.0/Flow.Launcher.Plugin.LiveTennis.zip",
+  "UrlSourceCode": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/livetennisapi/Flow.Launcher.Plugin.LiveTennis@main/Images/icon.png"
+}
