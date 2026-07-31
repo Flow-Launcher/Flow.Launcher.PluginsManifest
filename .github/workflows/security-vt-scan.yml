@@ -71,11 +71,16 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           path: pr-manifests/
 
+      - name: Copy PR manifests into plugins directory
+        if: github.event_name == 'workflow_run'
+        # The artifact manifests are untrusted data. Copying them into plugins/ lets the
+        # existing --mode new logic detect them as new submissions (IDs absent from plugins.json).
+        run: cp pr-manifests/*.json plugins/
+
       - name: Download plugin submitted in this PR
         if: github.event_name == 'workflow_run'
-        # Reads manifests from the downloaded artifact (untrusted data, not code).
-        # The script itself (download_plugins.py) is from the trusted base repo.
-        run: python ci/src/download_plugins.py --manifest-dir pr-manifests/ --output-dir scan-files
+        # Trusted base-repo script; reads manifests from plugins/ as data only.
+        run: python ci/src/download_plugins.py --mode new --output-dir scan-files
 
       - name: Download all plugins with cache metadata
         if: github.event_name != 'workflow_run'
