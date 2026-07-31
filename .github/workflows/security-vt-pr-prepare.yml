@@ -1,0 +1,76 @@
+name: VirusTotal PR Prepare
+
+# Phase 1 of the two-phase PR scanning design.
+#
+# This workflow runs on pull_request (untrusted fork context, no repo secrets)
+# and is responsible for two things:
+#   1. Validating that the PR only modifies plugin manifest files (plugins/*.json).
+#   2. Uploading the changed manifest file(s) as a workflow artifact so that the
+#      trusted follow-up workflow (security-vt-scan.yml, triggered via workflow_run)
+#      can download and scan the submitted plugin ZIP(s) using VT_API_KEY.
+#
+# Security model:
+#   - No secrets (including VT_API_KEY) are available here; fork PRs cannot access
+#     base-repo secrets under the pull_request event.
+#   - The fork PR code is checked out only to read the manifest JSON files as data.
+#   - No trusted scripts from the base repo are executed with PR-provided inputs here.
+#   - The actual VirusTotal scan happens in security-vt-scan.yml using only trusted
+#     base-repo code, treating the artifact manifests as untrusted data.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - "plugins/*.json"
+
+permissions:
+  contents: read
+
+jobs:
+  prepare-pr-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out PR code
+        uses: actions/checkout@v6
+
+      - name: Check changed file paths
+        uses: dorny/paths-filter@v4
+        id: filter
+        with:
+          list-files: json
+          predicate-quantifier: 'every'
+          filters: |
+            plugins:
+              - 'plugins/*.json'
+            non_plugin_files:
+              - '**'
+              - '!plugins/*.json'
+
+      - name: Fail if non-plugin files changed
+        if: steps.filter.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'true'
+        run: |
+          echo "This PR contains changes to files outside the plugins directory."
+          echo "Plugin submission PRs must only create/modify plugin manifest files in the plugins directory."
+          exit 1
+
+      - name: Collect changed plugin manifests
+        if: steps.filter.outputs.plugins == 'true'
+        env:
+          PLUGIN_FILES: ${{ steps.filter.outputs.plugins_files }}
+        run: |
+          mkdir -p pr-manifests
+          python3 -c "
+          import json, os, shutil
+          files = json.loads(os.environ['PLUGIN_FILES'])
+          for f in files:
+              shutil.copy(f, os.path.join('pr-manifests', os.path.basename(f)))
+          print('Collected {} manifest(s): {}'.format(len(files), [os.path.basename(f) for f in files]))
+          "
+
+      - name: Upload changed manifests for trusted scan
+        if: steps.filter.outputs.plugins == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-plugin-manifests
+          path: pr-manifests/
+          if-no-files-found: error

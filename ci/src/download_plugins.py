@@ -67,6 +67,29 @@ def manifest_filename(plugin: dict[str, str]) -> str:
     return f"{plugin[plugin_name]}-{plugin[id_name]}.json"
 
 
+def read_manifests_from_dir(manifest_dir: Path) -> list[dict[str, str]]:
+    """Read plugin manifests from a directory of JSON files.
+
+    Used in the trusted ``workflow_run`` scan when manifest files have been
+    downloaded from a PR-prepare artifact rather than read from the repository's
+    ``plugins/`` directory.  The manifest content is treated as untrusted data;
+    only the trusted base-repo script executes against it.
+
+    Args:
+        manifest_dir: Directory containing plugin manifest JSON files.
+
+    Returns:
+        List of plugin manifest dicts.
+    """
+    manifests = []
+    for json_path in sorted(manifest_dir.glob("*.json")):
+        with open(json_path, "r", encoding="utf-8") as f:
+            manifests.append(json.load(f))
+    if not manifests:
+        print(f"No manifest files found in {manifest_dir}")
+    return manifests
+
+
 def select_new_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     """Select plugins whose IDs are absent from plugins.json.
 
@@ -261,6 +284,15 @@ def main() -> None:
         default=None,
         help="Path to cache metadata JSON; skips download if cached version matches manifest",
     )
+    parser.add_argument(
+        "--manifest-dir",
+        default=None,
+        help=(
+            "Directory containing manifest JSON files to scan "
+            "(used by the workflow_run trusted scan to process PR-provided artifact manifests "
+            "instead of the repository's plugins/ directory)"
+        ),
+    )
     args = parser.parse_args()
 
     mode = args.mode
@@ -271,7 +303,11 @@ def main() -> None:
 
     output_dir = Path(args.output_dir or os.getenv("OUTPUT_DIR", "plugin_downloads"))
 
-    if mode == "new":
+    if args.manifest_dir is not None:
+        manifest_dir = Path(args.manifest_dir)
+        plugins = read_manifests_from_dir(manifest_dir)
+        print(f"Scanning {len(plugins)} plugin(s) from manifest directory: {manifest_dir}")
+    elif mode == "new":
         plugins, meta = select_new_plugins()
     else:
         plugins = plugin_reader()
