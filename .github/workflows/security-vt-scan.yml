@@ -20,6 +20,16 @@ on:
   workflow_run:
     workflows: ["VirusTotal PR Prepare"]
     types: [completed]
+  # For PRs that do NOT touch plugin manifests: this trigger fires (paths-ignore means
+  # "run when the changed files are NOT all in plugins/*.json"), all jobs are skipped
+  # (their conditions don't match pull_request), and the workflow completes as success.
+  # This satisfies any branch-protection rule that requires this check to pass on every PR.
+  # For manifest PRs the paths-ignore filter prevents this trigger from firing; only the
+  # workflow_run path above handles those.
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths-ignore:
+      - "plugins/*.json"
 
 permissions:
   contents: read  # Restrict GITHUB_TOKEN
