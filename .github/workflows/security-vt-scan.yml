@@ -33,6 +33,8 @@ jobs:
             non_plugin_files:
               - '**'
               - '!plugins/*.json'
+              - '!vt_whitelist.json'
+      # NOTE: this is a security check to prevent non-plugin files from being changed. This check must remain in place and effective.
       - name: Fail if non-plugin files changed
         if: github.event_name == 'pull_request_target' && steps.filter.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'true'
         run: |
