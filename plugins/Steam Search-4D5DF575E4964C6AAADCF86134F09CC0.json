@@ -1,15 +1,15 @@
 {
     "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
     "Name": "Steam Search",
-    "Description": "Search and launch your Steam Game library",
+    "Description": "The fastest way to launch your Steam games. Fully local, and instant.",
     "Author": "Garulf",
-    "Version": "12.1.3",
+    "Version": "12.1.4",
     "Language": "python_v2",
     "Website": "https://github.com/Garulf/Steam-Search",
-    "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v12.1.3/Steam-Search-12.1.3.zip",
+    "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v12.1.4/Steam-Search-12.1.4.zip",
     "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/data/icon.png",
     "Tested": true,
-    "LatestReleaseDate": "2026-08-01T08:08:02Z",
+    "LatestReleaseDate": "2026-08-02T23:31:28Z",
     "DateAdded": "2022-10-08T16:26:57Z"
 }
