@@ -3,12 +3,12 @@
     "Name": "Speed Test",
     "Description": "Test your internet connection speed",
     "Author": "swopnil7",
-    "Version": "1.2.2",
+    "Version": "1.3.0",
     "Language": "csharp",
     "Website": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
-    "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.2.2/Flow.Launcher.Plugin.SpeedTest-1.2.2.zip",
+    "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.3.0/Flow.Launcher.Plugin.SpeedTest-1.3.0.zip",
     "UrlSourceCode": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
     "IcoPath": "https://cdn.jsdelivr.net/gh/swopnil7/Flow.Launcher.Plugin.SpeedTest@main/icon-dark.png",
-    "LatestReleaseDate": "2026-03-02T12:32:42Z",
+    "LatestReleaseDate": "2026-07-30T04:43:15Z",
     "DateAdded": "2025-12-24T06:40:44Z"
 }
