@@ -1,7 +1,7 @@
 {
     "ID": "997C1625F44C4AF09C0E495F35E2712A",
     "Name": "App Audio Manager",
-    "Description": "Control the volume and mute state of individual applications directly from Flow Launcher",
+    "Description": "Control the volume and mute state of individual applications directly from Flow Launcher.",
     "Author": "DavidGBrett",
     "Version": "1.1.1",
     "Language": "csharp",
