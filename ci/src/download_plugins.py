@@ -3,8 +3,9 @@
 This script reads plugin manifest JSON files from the ``plugins/``
 directory and downloads each plugin's ``UrlDownload`` ZIP into an output
 directory.  It supports a ``--mode new`` option to download only newly
-submitted plugins, and a local metadata cache to avoid re-downloading
-unchanged versions.
+submitted plugins, ``--mode changed`` to download plugins whose manifests
+were added or modified in a PR, and a local metadata cache to avoid
+re-downloading unchanged versions.
 
 Usage examples::
 
@@ -14,11 +15,15 @@ Usage examples::
     # Download only newly submitted plugins
     python ci/src/download_plugins.py --mode new
 
+    # Download plugins added or modified in a PR (base from GITHUB_BASE_REF)
+    python ci/src/download_plugins.py --mode changed
+
     # Use a cache metadata file to skip unchanged downloads
     python ci/src/download_plugins.py --cache-meta cache.json
 
 Environment variables:
     MODE                 Fallback for ``--mode``.
+    GITHUB_BASE_REF      PR base branch for ``--mode changed`` (auto-set by GitHub).
     OUTPUT_DIR           Fallback for ``--output-dir`` (default: plugin_downloads).
     DOWNLOAD_WORKERS     Max concurrent downloads (default: 8).
     DOWNLOAD_TIMEOUT_SEC HTTP request timeout in seconds (default: 120).
@@ -27,6 +32,7 @@ Environment variables:
 import argparse
 import json
 import os
+import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -81,6 +87,62 @@ def select_new_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
         print("No new plugin submissions to download")
     else:
         print(f"Downloading {len(plugins)} new plugin submission(s)")
+    return plugins, meta
+
+
+def _get_changed_plugin_manifest_paths() -> list[str]:
+    """Return repo-relative paths of plugin manifests added or modified vs the PR base.
+
+    Fetches the base branch first, since a PR checkout is shallow and the
+    base commits are not present locally.  Uses a three-dot diff against
+    the merge-base so a changed ``UrlDownload`` on an existing plugin is
+    re-scanned, and main advancing does not over-include files.
+
+    Returns:
+        List of ``plugins/<Name>-<ID>.json`` paths.
+    """
+    # GITHUB_BASE_REF is set automatically for pull_request_target runs, otherwise fallback to main
+    base_ref = os.getenv("GITHUB_BASE_REF") or "main"
+
+    # PR checkout is shallow so the base branch must be fetched again
+    subprocess.run(["git", "fetch", "origin", base_ref], check=True, capture_output=True, text=True)
+
+    # Three-dot diff shows only this PR's changes vs the merge-base.
+    # Only added or modified manifests matter. Deleted files are not considered.
+    result = subprocess.run(
+        [
+            "git",
+            "diff",
+            "--diff-filter=AM",  # added or modified only
+            "--name-only",  # paths only, no content
+            f"origin/{base_ref}...HEAD",  # three-dot: this PR's changes
+            "--",  # end of options, the rest are paths
+            "plugins/*.json",  # only plugin manifest files
+        ],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    return [line for line in result.stdout.splitlines() if line]
+
+
+def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
+    """Select plugins whose manifest files were added or modified vs the PR base.
+
+    Treats an updated manifest like a new submission, so a change to an
+    existing plugin's ``UrlDownload`` is downloaded and scanned.
+
+    Returns:
+        Tuple of ``(changed_plugins, metadata_dict)``.
+    """
+    changed_paths = _get_changed_plugin_manifest_paths()
+    by_filename = {manifest_filename(plugin): plugin for plugin in plugin_reader()}
+    plugins = [by_filename[Path(path).name] for path in changed_paths if Path(path).name in by_filename]
+    meta: dict[str, Any] = {"mode": "changed", "changed_plugins": len(plugins)}
+    if not plugins:
+        print("No changed plugin manifests to download")
+    else:
+        print(f"Downloading {len(plugins)} changed plugin manifest(s)")
     return plugins, meta
 
 
@@ -250,7 +312,7 @@ def main() -> None:
     parser.add_argument(
         "--mode",
         default=None,
-        choices=["new"],
+        choices=["new", "changed"],
         help="Selection mode (default: download all plugins, falls back to MODE env var)",
     )
     parser.add_argument(
@@ -275,6 +337,8 @@ def main() -> None:
 
     if mode == "new":
         plugins, meta = select_new_plugins()
+    elif mode == "changed":
+        plugins, meta = select_changed_plugins()
     else:
         plugins = plugin_reader()
         print(f"Downloading all {len(plugins)} plugins")
