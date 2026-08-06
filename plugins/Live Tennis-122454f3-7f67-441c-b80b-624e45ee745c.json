@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/releases/download/v1.0.0/Flow.Launcher.Plugin.LiveTennis.zip",
     "UrlSourceCode": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/livetennisapi/Flow.Launcher.Plugin.LiveTennis@main/Images/icon.png",
-    "LatestReleaseDate": "2026-07-24T05:03:53Z"
+    "LatestReleaseDate": "2026-07-24T05:03:53Z",
+    "Tested": true,
+    "DateAdded": "2026-08-06T08:44:05Z"
 }
