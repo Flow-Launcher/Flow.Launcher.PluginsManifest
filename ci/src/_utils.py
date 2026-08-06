@@ -1,4 +1,5 @@
 # -*-coding: utf-8 -*-
+import hashlib
 import json
 import os
 import re
@@ -168,6 +169,22 @@ def get_file_plugins_json_info(required_key: str = "") -> list[dict[str, str]]:
         return data
 
     return [{required_key: plugin[required_key]} for plugin in data]
+
+
+def sha256_file(path: Path) -> str:
+    """Compute the SHA-256 hex digest of a file.
+
+    Args:
+        path: Path to the file.
+
+    Returns:
+        Lower-case hex digest string.
+    """
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
 
 
 def get_new_plugin_submission_ids() -> list[str]:
