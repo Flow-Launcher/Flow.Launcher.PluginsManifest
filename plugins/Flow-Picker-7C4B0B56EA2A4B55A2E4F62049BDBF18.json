@@ -1,0 +1,15 @@
+{
+    "ID": "7C4B0B56EA2A4B55A2E4F62049BDBF18",
+    "Name": "Flow-Picker",
+    "Description": "Pick the color under your cursor and copy it instantly.",
+    "Author": "Shrinidhi Hegde",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/shrinidhihegde3/Flow-Picker",
+    "UrlDownload": "https://github.com/shrinidhihegde3/Flow-Picker/releases/download/v1.0.0/FlowPicker.zip",
+    "UrlSourceCode": "https://github.com/shrinidhihegde3/Flow-Picker",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/shrinidhihegde3/Flow-Picker@main/Images/logo.png",
+    "MinimumAppVersion": "2.0.0",
+    "LatestReleaseDate": "2026-07-10T19:34:27Z",
+    "DateAdded": "2026-07-11T08:03:13Z"
+}
