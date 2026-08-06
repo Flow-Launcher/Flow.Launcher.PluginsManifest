@@ -19,7 +19,7 @@ def _make_plugin(pid: str, name: str = "", version: str = "1.0") -> dict:
         dp.id_name: pid,
         dp.plugin_name: name or f"Plugin-{pid}",
         dp.version: version,
-        dp.url_download: f"https://example.com/{pid}.zip",
+        dp.url_download: f"https://github.com/author/repo/releases/download/v1.0.0/{pid}.zip",
     }
 
 
@@ -96,10 +96,10 @@ def test_download_plugin_successfully(tmp_path, monkeypatch):
     with patch.object(dp, "requests") as mock_requests:
         mock_requests.get.return_value = mock_response
         dest = tmp_path / "plugin.zip"
-        plugin = {dp.url_download: "https://example.com/plugin.zip"}
+        plugin = {dp.url_download: "https://github.com/author/repo/releases/download/v1.0.0/plugin.zip"}
         dp.download_plugin(plugin, dest)
         mock_requests.get.assert_called_once_with(
-            "https://example.com/plugin.zip",
+            "https://github.com/author/repo/releases/download/v1.0.0/plugin.zip",
             timeout=30,
             stream=True,
         )
@@ -115,9 +115,29 @@ def test_download_plugin_raises_on_http_error(tmp_path):
         mock_requests.get.return_value = mock_response
         with pytest.raises(requests.HTTPError):
             dp.download_plugin(
-                {dp.url_download: "https://example.com/bad.zip"},
+                {dp.url_download: "https://github.com/author/repo/releases/download/v1.0.0/bad.zip"},
                 tmp_path / "bad.zip",
             )
+
+
+def test_download_plugin_rejects_non_github_url(tmp_path):
+    with patch.object(dp, "requests") as mock_requests:
+        with pytest.raises(ValueError, match="must be a GitHub release .zip URL"):
+            dp.download_plugin(
+                {dp.url_download: "https://example.com/plugin.zip"},
+                tmp_path / "plugin.zip",
+            )
+        mock_requests.get.assert_not_called()
+
+
+def test_download_plugin_rejects_non_zip_url(tmp_path):
+    with patch.object(dp, "requests") as mock_requests:
+        with pytest.raises(ValueError, match="must be a GitHub release .zip URL"):
+            dp.download_plugin(
+                {dp.url_download: "https://github.com/author/repo/releases/download/v1.0.0/plugin.tar.gz"},
+                tmp_path / "plugin.tar.gz",
+            )
+        mock_requests.get.assert_not_called()
 
 
 def test_sha256_file_computes_correct_hash(tmp_path):
@@ -246,8 +266,7 @@ def test_download_all_handles_download_failures(tmp_path):
 
 def test_download_all_missing_urldownload_in_task(tmp_path):
     plugin = {dp.id_name: "1", dp.plugin_name: "P1", dp.version: "1.0"}
-    with patch.object(dp, "download_plugin"):
-        result = dp.download_all([plugin], tmp_path)
+    result = dp.download_all([plugin], tmp_path)
     _, (dest, err, status) = next(iter(result.items()))
     assert err is not None
     assert "missing UrlDownload" in err
