@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools/releases/download/v1.0.7/TextTools-v1.0.7.zip",
     "UrlSourceCode": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
     "IcoPath": "https://cdn.jsdelivr.net/gh/ghaemaghaey/Flow.Launcher.Plugin.TextTools@main/Images/app.png",
-    "LatestReleaseDate": "2026-07-14T13:37:24Z"
+    "LatestReleaseDate": "2026-07-14T13:37:24Z",
+    "Tested": true,
+    "DateAdded": "2026-08-06T14:22:51Z"
 }
