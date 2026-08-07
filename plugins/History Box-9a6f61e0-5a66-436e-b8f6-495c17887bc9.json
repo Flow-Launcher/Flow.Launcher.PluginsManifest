@@ -1,13 +1,14 @@
 {
-  "ID": "9a6f61e0-5a66-436e-b8f6-495c17887bc9",
-  "Name": "History Box",
-  "Description": "在 Flow Launcher 空白主页显示并置顶 Windows 最近使用的文件和文件夹",
-  "Author": "SHJ",
-  "Version": "1.2.0",
-  "Language": "csharp",
-  "Website": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems",
-  "UrlDownload": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/releases/download/v1.2.0/HistoryBox-1.2.0.zip",
-  "UrlSourceCode": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/tree/main",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/lei0620/Flow.Launcher.Plugin.RecentItems@v1.2.0/Flow.Launcher.Plugin.RecentItems/Images/history.svg",
-  "MinimumAppVersion": "2.0.0"
+    "ID": "9a6f61e0-5a66-436e-b8f6-495c17887bc9",
+    "Name": "History Box",
+    "Description": "\u5728 Flow Launcher \u7a7a\u767d\u4e3b\u9875\u663e\u793a\u5e76\u7f6e\u9876 Windows \u6700\u8fd1\u4f7f\u7528\u7684\u6587\u4ef6\u548c\u6587\u4ef6\u5939",
+    "Author": "SHJ",
+    "Version": "1.2.0",
+    "Language": "csharp",
+    "Website": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems",
+    "UrlDownload": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/releases/download/v1.2.0/HistoryBox-1.2.0.zip",
+    "UrlSourceCode": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/lei0620/Flow.Launcher.Plugin.RecentItems@v1.2.0/Flow.Launcher.Plugin.RecentItems/Images/history.svg",
+    "MinimumAppVersion": "2.0.0",
+    "LatestReleaseDate": "2026-07-28T09:39:36Z"
 }

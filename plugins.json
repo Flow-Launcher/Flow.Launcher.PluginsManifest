@@ -3173,6 +3173,19 @@
         "DateAdded": "2025-03-31T21:20:56Z"
     },
     {
+        "ID": "f8a2b1c3d4e5f6a7b8c9d0e1f2a3b4c5",
+        "Name": "QuickWall",
+        "Description": "Browse wallpaper folders and set desktop wallpapers with Enter.",
+        "Author": "Yazan + Alan",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin",
+        "UrlDownload": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/releases/download/v1.1.0/QuickWall.zip",
+        "UrlSourceCode": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yazan-abualenain/QuickWall-Flowlauncher-plugin@main/Images/app.png",
+        "LatestReleaseDate": "2026-07-15T08:13:54Z"
+    },
+    {
         "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
         "Name": "RollDice",
         "Description": "Rolls the given dice and evaluates the expression",
@@ -4366,6 +4379,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png",
         "DateAdded": "2024-01-04T00:32:56Z",
         "LatestReleaseDate": "2026-02-19T12:35:13Z"
+    },
+    {
+        "ID": "9a6f61e0-5a66-436e-b8f6-495c17887bc9",
+        "Name": "History Box",
+        "Description": "在 Flow Launcher 空白主页显示并置顶 Windows 最近使用的文件和文件夹",
+        "Author": "SHJ",
+        "Version": "1.2.0",
+        "Language": "csharp",
+        "Website": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems",
+        "UrlDownload": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/releases/download/v1.2.0/HistoryBox-1.2.0.zip",
+        "UrlSourceCode": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/lei0620/Flow.Launcher.Plugin.RecentItems@v1.2.0/Flow.Launcher.Plugin.RecentItems/Images/history.svg",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-07-28T09:39:36Z"
     },
     {
         "ID": "518E2D95-D89E-44E6-8B99-3A71D977E93A",
