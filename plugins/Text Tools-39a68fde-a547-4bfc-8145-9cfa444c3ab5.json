@@ -1,0 +1,15 @@
+{
+    "ID": "39a68fde-a547-4bfc-8145-9cfa444c3ab5",
+    "Name": "Text Tools",
+    "Description": "Flow Launcher plugin for Persian and general text manipulation. Convert Arabic characters to Persian, remove half-spaces, clean lines, and more \u2014 directly from your clipboard with a single shortcut.",
+    "Author": "ghaemaghaey",
+    "Version": "1.0.7",
+    "Language": "python",
+    "Website": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
+    "UrlDownload": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools/releases/download/v1.0.7/TextTools-v1.0.7.zip",
+    "UrlSourceCode": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/ghaemaghaey/Flow.Launcher.Plugin.TextTools@main/Images/app.png",
+    "LatestReleaseDate": "2026-07-14T13:37:24Z",
+    "Tested": true,
+    "DateAdded": "2026-08-06T14:22:51Z"
+}

@@ -3,13 +3,13 @@
     "Name": "QuickSSH",
     "Description": "Manage SSH profiles, reusable remote actions, SSH keys, config imports, and custom shells from Flow Launcher",
     "Author": "Vaso73",
-    "Version": "3.6.0",
+    "Version": "3.6.1",
     "Language": "csharp",
     "MinimumAppVersion": "1.19.0",
     "Website": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH",
     "UrlSourceCode": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/tree/main",
-    "UrlDownload": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/releases/download/v3.6.0/QuickSSH.zip",
+    "UrlDownload": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/releases/download/v3.6.1/QuickSSH.zip",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Vaso73/Flow.Launcher.Plugin.QuickSSH@main/Images/app.png",
-    "LatestReleaseDate": "2026-07-27T20:43:40Z",
+    "LatestReleaseDate": "2026-07-28T13:43:00Z",
     "DateAdded": "2026-04-24T13:48:07Z"
 }
