@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/releases/download/v1.1.0/QuickWall.zip",
     "UrlSourceCode": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/yazan-abualenain/QuickWall-Flowlauncher-plugin@main/Images/app.png",
-    "LatestReleaseDate": "2026-07-15T08:13:54Z"
+    "LatestReleaseDate": "2026-07-15T08:13:54Z",
+    "Tested": true,
+    "DateAdded": "2026-08-07T15:59:47Z"
 }
