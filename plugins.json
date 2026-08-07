@@ -3183,7 +3183,9 @@
         "UrlDownload": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/releases/download/v1.1.0/QuickWall.zip",
         "UrlSourceCode": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/yazan-abualenain/QuickWall-Flowlauncher-plugin@main/Images/app.png",
-        "LatestReleaseDate": "2026-07-15T08:13:54Z"
+        "LatestReleaseDate": "2026-07-15T08:13:54Z",
+        "Tested": true,
+        "DateAdded": "2026-08-07T15:59:47Z"
     },
     {
         "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
@@ -4392,7 +4394,8 @@
         "UrlSourceCode": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lei0620/Flow.Launcher.Plugin.RecentItems@v1.2.0/Flow.Launcher.Plugin.RecentItems/Images/history.svg",
         "MinimumAppVersion": "2.0.0",
-        "LatestReleaseDate": "2026-07-28T09:39:36Z"
+        "LatestReleaseDate": "2026-07-28T09:39:36Z",
+        "DateAdded": "2026-08-07T15:59:47Z"
     },
     {
         "ID": "518E2D95-D89E-44E6-8B99-3A71D977E93A",
