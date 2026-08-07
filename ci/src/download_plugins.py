@@ -33,8 +33,8 @@ from pathlib import Path
 from typing import Any, Optional
 
 import requests
-from _utils import (get_new_plugin_submission_ids, id_name, plugin_name, plugin_reader, sha256_file, url_download,
-                    version)
+from _utils import (get_new_plugin_submission_ids, github_download_url_regex, id_name, plugin_name, plugin_reader,
+                    sha256_file, url_download, version)
 
 DOWNLOAD_WORKERS = 8
 
@@ -94,7 +94,11 @@ def download_plugin(plugin: dict[str, str], dest: Path) -> None:
     Raises:
         requests.HTTPError: On non-2xx HTTP responses.
     """
-    url = plugin[url_download]
+    url = plugin.get(url_download)
+    if not url:
+        raise ValueError("missing UrlDownload")
+    if github_download_url_regex.fullmatch(url) is None:
+        raise ValueError(f"UrlDownload must be a GitHub release .zip URL, got {url}")
 
     timeout = env_int("DOWNLOAD_TIMEOUT_SEC", 120)
     with requests.get(url, timeout=timeout, stream=True) as resp:
@@ -201,8 +205,6 @@ def download_all(
         if cached and cached.get("version") == plugin.get(version) and dest.exists():
             return pid, dest, None, f"up-to-date (v{cached['version']})"
         try:
-            if not plugin.get(url_download):
-                raise ValueError("missing UrlDownload")
             download_plugin(plugin, dest)
             cache_meta[filename] = {"version": plugin.get(version, "")}
             status = f"updated (v{cached['version']} -> v{plugin.get(version, '')})" if cached else "fresh"

@@ -417,13 +417,13 @@
         "Name": "Speed Test",
         "Description": "Test your internet connection speed",
         "Author": "swopnil7",
-        "Version": "1.2.2",
+        "Version": "1.3.0",
         "Language": "csharp",
         "Website": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
-        "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.2.2/Flow.Launcher.Plugin.SpeedTest-1.2.2.zip",
+        "UrlDownload": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest/releases/download/v1.3.0/Flow.Launcher.Plugin.SpeedTest-1.3.0.zip",
         "UrlSourceCode": "https://github.com/swopnil7/Flow.Launcher.Plugin.SpeedTest",
         "IcoPath": "https://cdn.jsdelivr.net/gh/swopnil7/Flow.Launcher.Plugin.SpeedTest@main/icon-dark.png",
-        "LatestReleaseDate": "2026-03-02T12:32:42Z",
+        "LatestReleaseDate": "2026-07-30T04:43:15Z",
         "DateAdded": "2025-12-24T06:40:44Z"
     },
     {
@@ -483,6 +483,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.WebSearch/Images/web_search.png",
         "DateAdded": "2023-09-27T02:43:06Z",
         "LatestReleaseDate": "2026-06-08T05:04:54Z"
+    },
+    {
+        "ID": "03BDCDCDD4DD4D16A8E401EDBED908EA",
+        "Name": "KV Database",
+        "Description": "Key-value database for quick lookup and updates in Flow Launcher",
+        "Author": "Wang.Yuhang",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database",
+        "UrlDownload": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database/releases/download/v1.0.0/Flow.Launcher.Plugin.KV-Database.zip",
+        "UrlSourceCode": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database@main/images/kv_database_logo.png",
+        "LatestReleaseDate": "2026-07-06T03:38:44Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
     },
     {
         "ID": "517b8920fe5647e284c29089749ab69b",
@@ -902,14 +917,14 @@
         "Name": "Steam Search",
         "Description": "The fastest way to launch your Steam games. Fully local, and instant.",
         "Author": "Garulf",
-        "Version": "12.1.0",
+        "Version": "12.1.4",
         "Language": "python_v2",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v12.1.0/Steam-Search-12.1.0.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v12.1.4/Steam-Search-12.1.4.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/data/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2026-07-13T09:11:50Z",
+        "LatestReleaseDate": "2026-08-02T23:31:28Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -988,13 +1003,13 @@
         "Name": "Steam Launcher",
         "Description": "Launch games, search the store, manage friends, switch accounts, set status, find shared multiplayer games",
         "Author": "Hyun",
-        "Version": "1.1.1",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "https://github.com/hyunwoo312/steam-launcher",
-        "UrlDownload": "https://github.com/hyunwoo312/steam-launcher/releases/download/v1.1.1/Flow.Launcher.Plugin.SteamLauncher.zip",
+        "UrlDownload": "https://github.com/hyunwoo312/steam-launcher/releases/download/v1.2.0/Flow.Launcher.Plugin.SteamLauncher.zip",
         "UrlSourceCode": "https://github.com/hyunwoo312/steam-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/hyunwoo312/steam-launcher@main/src/Flow.Launcher.Plugin.SteamLauncher/Images/steam.png",
-        "LatestReleaseDate": "2026-06-19T21:06:48Z",
+        "LatestReleaseDate": "2026-08-07T00:56:27Z",
         "DateAdded": "2026-06-08T04:27:08Z"
     },
     {
@@ -1371,6 +1386,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho@main/assets/favicon.png",
         "LatestReleaseDate": "2025-08-02T23:57:31Z",
         "DateAdded": "2025-08-11T02:09:48Z"
+    },
+    {
+        "ID": "39a68fde-a547-4bfc-8145-9cfa444c3ab5",
+        "Name": "Text Tools",
+        "Description": "Flow Launcher plugin for Persian and general text manipulation. Convert Arabic characters to Persian, remove half-spaces, clean lines, and more — directly from your clipboard with a single shortcut.",
+        "Author": "ghaemaghaey",
+        "Version": "1.0.7",
+        "Language": "python",
+        "Website": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
+        "UrlDownload": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools/releases/download/v1.0.7/TextTools-v1.0.7.zip",
+        "UrlSourceCode": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ghaemaghaey/Flow.Launcher.Plugin.TextTools@main/Images/app.png",
+        "LatestReleaseDate": "2026-07-14T13:37:24Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
     },
     {
         "ID": "757e8531-8aa3-41a6-bcd4-358d5bbe4c3c",
@@ -1823,13 +1853,13 @@
         "Name": "Gemini Actions",
         "Description": "Run pre-configured Gemini prompts (translate, correct, rewrite ...) against your text and copy the result to the clipboard.",
         "Author": "Jan Haug",
-        "Version": "1.1.2",
+        "Version": "1.1.5",
         "Language": "csharp",
         "Website": "https://github.com/haugjan/Flow.GeminiActions",
-        "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.2/GeminiActions-1.1.2.zip",
+        "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.5/GeminiActions-1.1.5.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.GeminiActions",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.GeminiActions@main/Flow.GeminiActions/Images/icon.png",
-        "LatestReleaseDate": "2026-05-26T06:00:18Z",
+        "LatestReleaseDate": "2026-08-04T10:26:54Z",
         "DateAdded": "2026-05-28T16:10:05Z"
     },
     {
@@ -2097,13 +2127,13 @@
         "Name": "SteamFlow",
         "Description": "Launch Steam games and search Steam store",
         "Author": "keekys",
-        "Version": "2.1.0",
+        "Version": "2.2.0",
         "Language": "python",
         "Website": "https://github.com/keekyslusus/SteamFlow",
-        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v2.1.0/Flow.Launcher.Plugin.SteamFlow.zip",
+        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v2.2.0/Flow.Launcher.Plugin.SteamFlow.zip",
         "UrlSourceCode": "https://github.com/keekyslusus/SteamFlow/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/SteamFlow@main/steam.png",
-        "LatestReleaseDate": "2026-06-10T18:51:45Z",
+        "LatestReleaseDate": "2026-07-29T21:19:56Z",
         "Tested": true,
         "DateAdded": "2025-07-01T02:10:27Z"
     },
@@ -2884,6 +2914,21 @@
         "DateAdded": "2025-06-08T18:29:44Z"
     },
     {
+        "ID": "cee1cdb5-07b3-495d-8c16-636035ab3a51",
+        "Name": "VSCode Recent",
+        "Description": "Open recent VS Code folders/workspaces. Reads the current VS Code storage (storage.json: profileAssociations / backupWorkspaces / windowsState), so it works on VS Code builds that no longer write history.recentlyOpenedPathsList.",
+        "Author": "xt-fg",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/xt-fg/Flow.Launcher.Plugin.VSCodeRecent",
+        "UrlDownload": "https://github.com/xt-fg/Flow.Launcher.Plugin.VSCodeRecent/releases/download/v1.0.1/Flow.Launcher.Plugin.VSCodeRecent.zip",
+        "UrlSourceCode": "https://github.com/xt-fg/Flow.Launcher.Plugin.VSCodeRecent/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/xt-fg/Flow.Launcher.Plugin.VSCodeRecent@main/Images/code-light.png",
+        "LatestReleaseDate": "2026-07-15T15:41:12Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
+    },
+    {
         "ID": "01B2DC8D31394299ACBE3B32D91FA3EC",
         "Name": "DirQuickJump",
         "Description": "When opening or saving files, quickly jump to the directory you already opened in File Explorer. Inspired by Listary Quick Switch.",
@@ -3632,6 +3677,21 @@
         "DateAdded": "2025-06-30T12:50:59Z"
     },
     {
+        "ID": "54dcf7b098df441ab7c2ad6b11c047cc",
+        "Name": "AudioCowboy",
+        "Description": "Quickly switch the default audio input/output device, and save device profiles. Type 'ac' for a menu.",
+        "Author": "True347",
+        "Version": "1.0.5",
+        "Language": "python",
+        "Website": "https://github.com/True347/AudioCowboy",
+        "UrlDownload": "https://github.com/True347/AudioCowboy/releases/download/v1.0.5/Flow.Launcher.Plugin.AudioCowboy.zip",
+        "UrlSourceCode": "https://github.com/True347/AudioCowboy/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/True347/AudioCowboy@main/Images/app.png",
+        "LatestReleaseDate": "2026-08-07T08:42:16Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
+    },
+    {
         "ID": "FF2C31D6A47348FFB9ED4EB26F6794E2",
         "Name": "Fancy Emoji",
         "Description": "Search for emoji and add to your clipboard automatically.",
@@ -4105,6 +4165,20 @@
         "LatestReleaseDate": "2026-06-08T05:03:35Z"
     },
     {
+        "ID": "31f74a44-5845-4172-9bd4-a2971fcb8d5c",
+        "Name": "Timer & Alarm",
+        "Description": "Quickly set timers and alarms.",
+        "Author": "commandblocks0",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
+        "UrlDownload": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm/releases/download/v1.0.0/TimerAlarm.zip",
+        "UrlSourceCode": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/commandblocks0/Flow.Launcher.Plugin.TimerAlarm@v1.0.0/src/icons/icon.png",
+        "LatestReleaseDate": "2026-07-15T06:42:58Z",
+        "DateAdded": "2026-08-06T11:27:04Z"
+    },
+    {
         "ID": "B9B8174812E4474D96C148317BE2BFB7",
         "Name": "FlowRaindrop",
         "Description": "Access Raindrop.io bookmarks with Flow Launcher/Wox",
@@ -4236,6 +4310,21 @@
         "DateAdded": "2025-10-12T21:18:33Z"
     },
     {
+        "ID": "122454f3-7f67-441c-b80b-624e45ee745c",
+        "Name": "Live Tennis",
+        "Description": "Live tennis scores at a keystroke: point-by-point live matches with serving indicator, player search, and head-to-head records — ATP, WTA, Challenger, ITF and juniors, from the Live Tennis API.",
+        "Author": "livetennisapi",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://livetennisapi.com",
+        "UrlDownload": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/releases/download/v1.1.0/Flow.Launcher.Plugin.LiveTennis.zip",
+        "UrlSourceCode": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/livetennisapi/Flow.Launcher.Plugin.LiveTennis@main/Images/icon.png",
+        "LatestReleaseDate": "2026-08-07T01:26:46Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T08:44:05Z"
+    },
+    {
         "ID": "506B2EE8-4117-4BDF-8F00-DF58498DF922",
         "Name": "OneNote",
         "Description": "Search and create your OneNote notes",
@@ -4354,14 +4443,14 @@
         "Name": "Git Easy",
         "Description": "Provide easy access to repositories. Allows quickly cloning repository and open in vscode/file explorer.",
         "Author": "zkwokleung",
-        "Version": "0.5.1",
+        "Version": "0.6.1",
         "Language": "csharp",
         "Website": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
-        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.5.1/Flow.Launcher.Plugin.GitEasy.zip",
+        "UrlDownload": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy/releases/download/v0.6.1/Flow.Launcher.Plugin.GitEasy.zip",
         "UrlSourceCode": "https://github.com/zkwokleung/Flow.Launcher.Plugin.GitEasy",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zkwokleung/Flow.Launcher.Plugin.GitEasy@main/Flow.Launcher.Plugin.GitEasy/Images/icon.png",
         "DateAdded": "2024-07-19T22:34:00Z",
-        "LatestReleaseDate": "2026-07-06T08:11:49Z"
+        "LatestReleaseDate": "2026-08-02T08:24:21Z"
     },
     {
         "ID": "8226842d-f2e2-4159-940c-966666ce7b44",
@@ -4440,15 +4529,15 @@
         "Name": "AnyVideo Downloader",
         "Description": "Plugin for downloading videos from YouTube, Facebook, Twitter, Instagram, and many other websites.",
         "Author": "z1nc0r3",
-        "Version": "2.5.0",
+        "Version": "2.5.2",
         "Language": "python",
         "Website": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin",
-        "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v2.5.0/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
+        "UrlDownload": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/releases/download/v2.5.2/Flow.Launcher.Plugin.AnyVideo.Downloader.zip",
         "UrlSourceCode": "https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/AnyVideo-Downloader-Flow-Plugin@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2024-07-30T07:46:00Z",
-        "LatestReleaseDate": "2026-07-26T17:35:55Z"
+        "LatestReleaseDate": "2026-07-30T15:14:38Z"
     },
     {
         "ID": "fd5e5017-66f2-4d75-8911-f387ce788efd",
@@ -4526,13 +4615,13 @@
         "Name": "SpotifyPremium",
         "Description": "Spotify Premium for Flow Launcher",
         "Author": "Frank W. (@fow5040)",
-        "Version": "1.1.7",
+        "Version": "1.1.8",
         "Language": "csharp",
         "Website": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium",
-        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.7/SpotifyPremium-1.1.7.zip",
+        "UrlDownload": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/releases/download/v1.1.8/SpotifyPremium-1.1.8.zip",
         "UrlSourceCode": "https://github.com/fow5040/Flow.Launcher.Plugin.SpotifyPremium/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fow5040/Flow.Launcher.Plugin.SpotifyPremium@main/icon.png",
-        "LatestReleaseDate": "2024-10-30T14:46:51Z",
+        "LatestReleaseDate": "2026-07-28T15:31:34Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -4798,14 +4887,14 @@
         "Name": "QuickSSH",
         "Description": "Manage SSH profiles, reusable remote actions, SSH keys, config imports, and custom shells from Flow Launcher",
         "Author": "Vaso73",
-        "Version": "3.6.0",
+        "Version": "3.6.1",
         "Language": "csharp",
         "MinimumAppVersion": "1.19.0",
         "Website": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH",
         "UrlSourceCode": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/tree/main",
-        "UrlDownload": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/releases/download/v3.6.0/QuickSSH.zip",
+        "UrlDownload": "https://github.com/Vaso73/Flow.Launcher.Plugin.QuickSSH/releases/download/v3.6.1/QuickSSH.zip",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Vaso73/Flow.Launcher.Plugin.QuickSSH@main/Images/app.png",
-        "LatestReleaseDate": "2026-07-27T20:43:40Z",
+        "LatestReleaseDate": "2026-07-28T13:43:00Z",
         "DateAdded": "2026-04-24T13:48:07Z"
     },
     {
