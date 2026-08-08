@@ -485,6 +485,21 @@
         "LatestReleaseDate": "2026-06-08T05:04:54Z"
     },
     {
+        "ID": "03BDCDCDD4DD4D16A8E401EDBED908EA",
+        "Name": "KV Database",
+        "Description": "Key-value database for quick lookup and updates in Flow Launcher",
+        "Author": "Wang.Yuhang",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database",
+        "UrlDownload": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database/releases/download/v1.0.0/Flow.Launcher.Plugin.KV-Database.zip",
+        "UrlSourceCode": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/WangYuhang-CN/Flow.Launcher.Plugin.KV-Database@main/images/kv_database_logo.png",
+        "LatestReleaseDate": "2026-07-06T03:38:44Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
+    },
+    {
         "ID": "517b8920fe5647e284c29089749ab69b",
         "Name": "CHZZK",
         "Description": "Watch CHZZK conveniently.",
@@ -988,13 +1003,13 @@
         "Name": "Steam Launcher",
         "Description": "Launch games, search the store, manage friends, switch accounts, set status, find shared multiplayer games",
         "Author": "Hyun",
-        "Version": "1.1.1",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "https://github.com/hyunwoo312/steam-launcher",
-        "UrlDownload": "https://github.com/hyunwoo312/steam-launcher/releases/download/v1.1.1/Flow.Launcher.Plugin.SteamLauncher.zip",
+        "UrlDownload": "https://github.com/hyunwoo312/steam-launcher/releases/download/v1.2.0/Flow.Launcher.Plugin.SteamLauncher.zip",
         "UrlSourceCode": "https://github.com/hyunwoo312/steam-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/hyunwoo312/steam-launcher@main/src/Flow.Launcher.Plugin.SteamLauncher/Images/steam.png",
-        "LatestReleaseDate": "2026-06-19T21:06:48Z",
+        "LatestReleaseDate": "2026-08-07T00:56:27Z",
         "DateAdded": "2026-06-08T04:27:08Z"
     },
     {
@@ -1371,6 +1386,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/PlainOlSoapBar/Flow.Launcher.Plugin.Jisho@main/assets/favicon.png",
         "LatestReleaseDate": "2025-08-02T23:57:31Z",
         "DateAdded": "2025-08-11T02:09:48Z"
+    },
+    {
+        "ID": "39a68fde-a547-4bfc-8145-9cfa444c3ab5",
+        "Name": "Text Tools",
+        "Description": "Flow Launcher plugin for Persian and general text manipulation. Convert Arabic characters to Persian, remove half-spaces, clean lines, and more — directly from your clipboard with a single shortcut.",
+        "Author": "ghaemaghaey",
+        "Version": "1.0.7",
+        "Language": "python",
+        "Website": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
+        "UrlDownload": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools/releases/download/v1.0.7/TextTools-v1.0.7.zip",
+        "UrlSourceCode": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/ghaemaghaey/Flow.Launcher.Plugin.TextTools@main/Images/app.png",
+        "LatestReleaseDate": "2026-07-14T13:37:24Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
     },
     {
         "ID": "757e8531-8aa3-41a6-bcd4-358d5bbe4c3c",
@@ -1823,13 +1853,13 @@
         "Name": "Gemini Actions",
         "Description": "Run pre-configured Gemini prompts (translate, correct, rewrite ...) against your text and copy the result to the clipboard.",
         "Author": "Jan Haug",
-        "Version": "1.1.2",
+        "Version": "1.1.5",
         "Language": "csharp",
         "Website": "https://github.com/haugjan/Flow.GeminiActions",
-        "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.2/GeminiActions-1.1.2.zip",
+        "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.5/GeminiActions-1.1.5.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.GeminiActions",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.GeminiActions@main/Flow.GeminiActions/Images/icon.png",
-        "LatestReleaseDate": "2026-05-26T06:00:18Z",
+        "LatestReleaseDate": "2026-08-04T10:26:54Z",
         "DateAdded": "2026-05-28T16:10:05Z"
     },
     {
@@ -2884,6 +2914,21 @@
         "DateAdded": "2025-06-08T18:29:44Z"
     },
     {
+        "ID": "cee1cdb5-07b3-495d-8c16-636035ab3a51",
+        "Name": "VSCode Recent",
+        "Description": "Open recent VS Code folders/workspaces. Reads the current VS Code storage (storage.json: profileAssociations / backupWorkspaces / windowsState), so it works on VS Code builds that no longer write history.recentlyOpenedPathsList.",
+        "Author": "xt-fg",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/xt-fg/Flow.Launcher.Plugin.VSCodeRecent",
+        "UrlDownload": "https://github.com/xt-fg/Flow.Launcher.Plugin.VSCodeRecent/releases/download/v1.0.1/Flow.Launcher.Plugin.VSCodeRecent.zip",
+        "UrlSourceCode": "https://github.com/xt-fg/Flow.Launcher.Plugin.VSCodeRecent/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/xt-fg/Flow.Launcher.Plugin.VSCodeRecent@main/Images/code-light.png",
+        "LatestReleaseDate": "2026-07-15T15:41:12Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
+    },
+    {
         "ID": "01B2DC8D31394299ACBE3B32D91FA3EC",
         "Name": "DirQuickJump",
         "Description": "When opening or saving files, quickly jump to the directory you already opened in File Explorer. Inspired by Listary Quick Switch.",
@@ -3126,6 +3171,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/xavialyra/Flow.Launcher.Plugin.Scoop@master/Images/scoop-icon.png",
         "LatestReleaseDate": "2025-04-05T14:50:30Z",
         "DateAdded": "2025-03-31T21:20:56Z"
+    },
+    {
+        "ID": "f8a2b1c3d4e5f6a7b8c9d0e1f2a3b4c5",
+        "Name": "QuickWall",
+        "Description": "Browse wallpaper folders and set desktop wallpapers with Enter.",
+        "Author": "Yazan + Alan",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin",
+        "UrlDownload": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/releases/download/v1.1.0/QuickWall.zip",
+        "UrlSourceCode": "https://github.com/yazan-abualenain/QuickWall-Flowlauncher-plugin/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yazan-abualenain/QuickWall-Flowlauncher-plugin@main/Images/app.png",
+        "LatestReleaseDate": "2026-07-15T08:13:54Z",
+        "Tested": true,
+        "DateAdded": "2026-08-07T15:59:47Z"
     },
     {
         "ID": "5403b2dc28fb4327aedc9f8c872d9d1f",
@@ -3632,6 +3692,21 @@
         "DateAdded": "2025-06-30T12:50:59Z"
     },
     {
+        "ID": "54dcf7b098df441ab7c2ad6b11c047cc",
+        "Name": "AudioCowboy",
+        "Description": "Quickly switch the default audio input/output device, and save device profiles. Type 'ac' for a menu.",
+        "Author": "True347",
+        "Version": "1.0.5",
+        "Language": "python",
+        "Website": "https://github.com/True347/AudioCowboy",
+        "UrlDownload": "https://github.com/True347/AudioCowboy/releases/download/v1.0.5/Flow.Launcher.Plugin.AudioCowboy.zip",
+        "UrlSourceCode": "https://github.com/True347/AudioCowboy/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/True347/AudioCowboy@main/Images/app.png",
+        "LatestReleaseDate": "2026-08-07T08:42:16Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T14:22:51Z"
+    },
+    {
         "ID": "FF2C31D6A47348FFB9ED4EB26F6794E2",
         "Name": "Fancy Emoji",
         "Description": "Search for emoji and add to your clipboard automatically.",
@@ -4105,6 +4180,20 @@
         "LatestReleaseDate": "2026-06-08T05:03:35Z"
     },
     {
+        "ID": "31f74a44-5845-4172-9bd4-a2971fcb8d5c",
+        "Name": "Timer & Alarm",
+        "Description": "Quickly set timers and alarms.",
+        "Author": "commandblocks0",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
+        "UrlDownload": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm/releases/download/v1.0.0/TimerAlarm.zip",
+        "UrlSourceCode": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/commandblocks0/Flow.Launcher.Plugin.TimerAlarm@v1.0.0/src/icons/icon.png",
+        "LatestReleaseDate": "2026-07-15T06:42:58Z",
+        "DateAdded": "2026-08-06T11:27:04Z"
+    },
+    {
         "ID": "B9B8174812E4474D96C148317BE2BFB7",
         "Name": "FlowRaindrop",
         "Description": "Access Raindrop.io bookmarks with Flow Launcher/Wox",
@@ -4236,6 +4325,21 @@
         "DateAdded": "2025-10-12T21:18:33Z"
     },
     {
+        "ID": "122454f3-7f67-441c-b80b-624e45ee745c",
+        "Name": "Live Tennis",
+        "Description": "Live tennis scores at a keystroke: point-by-point live matches with serving indicator, player search, and head-to-head records — ATP, WTA, Challenger, ITF and juniors, from the Live Tennis API.",
+        "Author": "livetennisapi",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://livetennisapi.com",
+        "UrlDownload": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/releases/download/v1.1.0/Flow.Launcher.Plugin.LiveTennis.zip",
+        "UrlSourceCode": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/livetennisapi/Flow.Launcher.Plugin.LiveTennis@main/Images/icon.png",
+        "LatestReleaseDate": "2026-08-07T01:26:46Z",
+        "Tested": true,
+        "DateAdded": "2026-08-06T08:44:05Z"
+    },
+    {
         "ID": "506B2EE8-4117-4BDF-8F00-DF58498DF922",
         "Name": "OneNote",
         "Description": "Search and create your OneNote notes",
@@ -4277,6 +4381,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png",
         "DateAdded": "2024-01-04T00:32:56Z",
         "LatestReleaseDate": "2026-02-19T12:35:13Z"
+    },
+    {
+        "ID": "9a6f61e0-5a66-436e-b8f6-495c17887bc9",
+        "Name": "History Box",
+        "Description": "在 Flow Launcher 空白主页显示并置顶 Windows 最近使用的文件和文件夹",
+        "Author": "SHJ",
+        "Version": "1.2.0",
+        "Language": "csharp",
+        "Website": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems",
+        "UrlDownload": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/releases/download/v1.2.0/HistoryBox-1.2.0.zip",
+        "UrlSourceCode": "https://github.com/lei0620/Flow.Launcher.Plugin.RecentItems/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/lei0620/Flow.Launcher.Plugin.RecentItems@v1.2.0/Flow.Launcher.Plugin.RecentItems/Images/history.svg",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-07-28T09:39:36Z",
+        "DateAdded": "2026-08-07T15:59:47Z"
     },
     {
         "ID": "518E2D95-D89E-44E6-8B99-3A71D977E93A",
