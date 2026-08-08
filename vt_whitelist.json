@@ -20,6 +20,7 @@
     "sha256": "f46af3b0a6946be5108c0739b7bb474732509280b00ff6bb27c1ef706f6b6afd",
     "engine_threats": {
       "AhnLab-V3": "Trojan/Win.Malware-gen.C5018546",
+      "TrellixENS": "Artemis!6CD59C0F01A2",
       "Fortinet": "W32/PossibleThreat"
     },
     "reason": "Low detection (2)"
