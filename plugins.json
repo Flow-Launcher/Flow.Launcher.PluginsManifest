@@ -1,5 +1,18 @@
 [
     {
+        "ID": "f5a9b1c0-3e21-4f8a-9c7d-e6b3b5a1f2e9",
+        "Name": "Lumina",
+        "Description": "Change your wallpaper, theme, and accent color instantly.",
+        "Author": "bijanmurmu",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/bijanmurmu/Lumina",
+        "UrlDownload": "https://github.com/bijanmurmu/Lumina/releases/download/v1.0.0/Lumina.zip",
+        "UrlSourceCode": "https://github.com/bijanmurmu/Lumina/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/bijanmurmu/Lumina@main/Images/app.png",
+        "LatestReleaseDate": "2026-08-07T19:20:18Z"
+    },
+    {
         "ID": "b8fda924-12e9-43cf-a35f-0d7aba08ad06",
         "Name": "Insert",
         "Description": "a plugin that help you insert words into formatted strings",
@@ -4424,6 +4437,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/wangzmg/Flow.Launcher.VolcanoTranslation@main/src/assets/images/app.png",
         "LatestReleaseDate": "2025-03-31T11:58:04Z",
         "DateAdded": "2025-04-03T06:31:34Z"
+    },
+    {
+        "ID": "6f831f62789e4b1c9b06af149f063958",
+        "Name": "YoudaoTranslate",
+        "Description": "Translate between any languages supported by Youdao",
+        "Author": "AndersonBY",
+        "Version": "1.0.5",
+        "Language": "python",
+        "Website": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate",
+        "UrlDownload": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate/releases/download/v1.0.5/Flow.Launcher.Plugin.YoudaoTranslate.zip",
+        "UrlSourceCode": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate@master/assets/favicon.png",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-08-07T16:13:39Z"
     },
     {
         "ID": "9EE99C394F05429991E286E4731BAB81",
