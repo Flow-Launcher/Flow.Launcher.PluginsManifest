@@ -13,6 +13,10 @@ from pytest import fail
 plugin_infos = plugin_reader()
 
 
+def _normalize_plugin_name(name: str) -> str:
+    return name.casefold().strip()
+
+
 def test_uuid_unique():
     uuids = [clean(info[id_name]) for info in plugin_infos]
     duplicates = set([id for id in uuids if uuids.count(id) > 1])
@@ -47,6 +51,27 @@ def test_file_name_construct():
         assert (
             f"{info[plugin_name]}-{info[id_name]}.json" in filenames
         ), f"Plugin {info[plugin_name]} with ID {info[id_name]} does not have the correct filename. Make sure it's name + ID, i.e. {info[plugin_name]}-{info[id_name]}.json"
+
+
+def test_new_plugin_name_is_unique():
+    new_plugin_submission_ids = get_new_plugin_submission_ids()
+
+    for new_plugin_id in new_plugin_submission_ids:
+        new_plugin = next(info for info in plugin_infos if info[id_name] == new_plugin_id)
+        normalized_new_plugin_name = _normalize_plugin_name(new_plugin[plugin_name])
+        duplicate_plugin_names = sorted(
+            {
+                info[plugin_name]
+                for info in plugin_infos
+                if info[id_name] != new_plugin_id and _normalize_plugin_name(info[plugin_name]) == normalized_new_plugin_name
+            }
+        )
+
+        assert not duplicate_plugin_names, (
+            f"Plugin name '{new_plugin[plugin_name]}' in submitted plugin ID {new_plugin_id} "
+            f"matches existing plugin name(s): {duplicate_plugin_names}. "
+            "Please rename the new plugin to a unique name."
+        )
 
 
 def test_submitted_plugin_id_is_valid_uuid():
