@@ -1,0 +1,12 @@
+{
+    "ID": "b7e375f5-b780-480d-9375-6704e7742601",
+    "Name": "DemAi",
+    "Description": "Ask any OpenRouter AI model (GPT, Gemini, DeepSeek, Llama and 300+ more) right from Flow Launcher. Inline answers, auto clipboard, and a live model browser.",
+    "Author": "demirgitbuh",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/demirgitbuh/Flow.Launcher.Plugin.DemAi",
+    "UrlDownload": "https://github.com/demirgitbuh/Flow.Launcher.Plugin.DemAi/releases/download/v1.0.0/DemAi-v1.0.0.zip",
+    "UrlSourceCode": "https://github.com/demirgitbuh/Flow.Launcher.Plugin.DemAi",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/demirgitbuh/Flow.Launcher.Plugin.DemAi@main/Images/app.png"
+}
