@@ -10,7 +10,9 @@
         "UrlDownload": "https://github.com/bijanmurmu/Lumina/releases/download/v1.0.0/Lumina.zip",
         "UrlSourceCode": "https://github.com/bijanmurmu/Lumina/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/bijanmurmu/Lumina@main/Images/app.png",
-        "LatestReleaseDate": "2026-08-07T19:20:18Z"
+        "LatestReleaseDate": "2026-08-07T19:20:18Z",
+        "Tested": true,
+        "DateAdded": "2026-08-08T12:56:43Z"
     },
     {
         "ID": "b8fda924-12e9-43cf-a35f-0d7aba08ad06",
@@ -4450,7 +4452,9 @@
         "UrlSourceCode": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate@master/assets/favicon.png",
         "MinimumAppVersion": "2.0.0",
-        "LatestReleaseDate": "2026-08-07T16:13:39Z"
+        "LatestReleaseDate": "2026-08-07T16:13:39Z",
+        "Tested": true,
+        "DateAdded": "2026-08-08T12:56:43Z"
     },
     {
         "ID": "9EE99C394F05429991E286E4731BAB81",
