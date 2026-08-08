@@ -68,5 +68,13 @@
       "Sophos": "NirCmd (PUA)"
     },
     "reason": "Low detection (1). NirCmd falsely flagged as risk too"
+  },
+  {
+    "manifest_file": "Lumina-f5a9b1c0-3e21-4f8a-9c7d-e6b3b5a1f2e9.json",
+    "sha256": "4fbb3d61976f5e53c7421d4df2f0199cb32666dd6a4a1af4bda00cb5a85ccd24",
+    "engine_threats": {
+      "DeepInstinct": "MALICIOUS"
+    },
+    "reason": "Likely the low-level Win32 desktop overlay behavior, resembling shellcode or unpacker behavior to heuristics"
   }
 ]
