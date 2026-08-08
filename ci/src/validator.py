@@ -57,7 +57,8 @@ def test_new_plugin_name_is_unique():
     new_plugin_submission_ids = get_new_plugin_submission_ids()
 
     for new_plugin_id in new_plugin_submission_ids:
-        new_plugin = next(info for info in plugin_infos if info[id_name] == new_plugin_id)
+        new_plugin = next((info for info in plugin_infos if info[id_name] == new_plugin_id), None)
+        assert new_plugin is not None, f"Submitted plugin ID {new_plugin_id} was not found in the manifest"
         normalized_new_plugin_name = _normalize_plugin_name(new_plugin[plugin_name])
         duplicate_plugin_names = sorted(
             {
