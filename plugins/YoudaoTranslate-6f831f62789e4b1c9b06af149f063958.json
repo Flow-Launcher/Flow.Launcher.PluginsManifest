@@ -10,5 +10,7 @@
     "UrlSourceCode": "https://github.com/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate",
     "IcoPath": "https://cdn.jsdelivr.net/gh/AndersonBY/Flow.Launcher.Plugin.YoudaoTranslate@master/assets/favicon.png",
     "MinimumAppVersion": "2.0.0",
-    "LatestReleaseDate": "2026-08-07T16:13:39Z"
+    "LatestReleaseDate": "2026-08-07T16:13:39Z",
+    "Tested": true,
+    "DateAdded": "2026-08-08T12:56:43Z"
 }
