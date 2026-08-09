@@ -1,0 +1,12 @@
+{
+  "ID": "ca1cccb1-12e8-4f8b-8ea5-a3e730b7add1",
+  "Name": "GeminiSearch",
+  "Description": "Open browser Gemini and ask your question",
+  "Author": "migpbor",
+  "Version": "1.0.0",
+  "Language": "javascript",
+  "Website": "https://github.com/MiguellBorgess/GeminiSearch",
+  "UrlDownload": "https://github.com/MiguellBorgess/GeminiSearch/releases/download/v1.0.0/Flow.Launcher.Plugin.GeminiSearch.zip",
+  "UrlSourceCode": "https://github.com/MiguellBorgess/GeminiSearch/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/MiguellBorgess/GeminiSearch@main/Images/app.png"
+} 
