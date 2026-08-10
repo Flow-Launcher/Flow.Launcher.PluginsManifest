@@ -68,5 +68,29 @@
       "Sophos": "NirCmd (PUA)"
     },
     "reason": "Low detection (1). NirCmd falsely flagged as risk too"
+  },
+  {
+    "manifest_file": "Lumina-f5a9b1c0-3e21-4f8a-9c7d-e6b3b5a1f2e9.json",
+    "sha256": "4fbb3d61976f5e53c7421d4df2f0199cb32666dd6a4a1af4bda00cb5a85ccd24",
+    "engine_threats": {
+      "DeepInstinct": "MALICIOUS"
+    },
+    "reason": "Likely the low-level Win32 desktop overlay behavior, resembling shellcode or unpacker behavior to heuristics"
+  },
+  {
+    "manifest_file": "Uninstaller+-dd2fd217-e332-4fbd-9012-4940e08d41a7.json",
+    "sha256": "a029c8c64e0e60bcd8316e0167e4eb4d2e5d346dbad4e84a8926942a678dff69",
+    "engine_threats": {
+      "MaxSecure": "Trojan.Malware.300983.susgen"
+    },
+    "reason": "Likely from making system changes which can look Trojan-like to heuristic AV engines"
+  },
+  {
+    "manifest_file": "Win Hotkey-7D530704C68E4838896BBA5C4C1DE7DF.json",
+    "sha256": "c38802b878661f39aa64b4002d8a81d30c784cb832d9f918ee2d388602ba584a",
+    "engine_threats": {
+      "TrellixENS": "Artemis!1E654A6EC9EE"
+    },
+    "reason": "Likely flagged for dynamic AutoHotkey execution and keyboard-hook/input-simulation behavior"
   }
 ]
