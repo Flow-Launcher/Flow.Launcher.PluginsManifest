@@ -1,0 +1,13 @@
+{
+    "ID": "621d4d5c-cf05-4031-a427-11688b0767b3",
+    "Name": "简繁转换",
+    "Description": "快速在简体中文、通用繁体、台湾繁体和香港繁体之间转换",
+    "Author": "lennonlu",
+    "Version": "0.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter",
+    "UrlDownload": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/releases/download/v0.1.0/Flow.Launcher.Plugin.ChineseConverter.zip",
+    "UrlSourceCode": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/lennonlu/Flow.Launcher.Plugin.ChineseConverter@main/src/Flow.Launcher.Plugin.ChineseConverter/Images/app.svg",
+    "MinimumAppVersion": "2.1.1"
+}
