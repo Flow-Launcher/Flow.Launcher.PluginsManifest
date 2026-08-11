@@ -1,0 +1,13 @@
+{
+    "ID": "621d4d5c-cf05-4031-a427-11688b0767b3",
+    "Name": "Chinese Converter",
+    "Description": "Fast Simplified/Traditional Chinese conversion with Taiwan and Hong Kong variants / 快速简繁转换，支持台湾及香港用词",
+    "Author": "lennonlu",
+    "Version": "0.1.1",
+    "Language": "csharp",
+    "Website": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter",
+    "UrlDownload": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/releases/download/v0.1.1/Flow.Launcher.Plugin.ChineseConverter.zip",
+    "UrlSourceCode": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/lennonlu/Flow.Launcher.Plugin.ChineseConverter@main/src/Flow.Launcher.Plugin.ChineseConverter/Images/app.svg",
+    "MinimumAppVersion": "2.1.1"
+}
