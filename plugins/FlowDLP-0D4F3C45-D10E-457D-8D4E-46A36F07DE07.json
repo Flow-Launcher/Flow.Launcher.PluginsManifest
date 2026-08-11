@@ -1,0 +1,12 @@
+{
+  "ID": "0D4F3C45-D10E-457D-8D4E-46A36F07DE07",
+  "Name": "FlowDLP",
+  "Description": "Download any video and audio with yt-dlp",
+  "Author": "axiomsound",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
+  "UrlDownload": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/releases/latest/download/FlowDLP.zip",
+  "UrlSourceCode": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
+  "IcoPath": "https://raw.githubusercontent.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/main/Flow.Launcher.Plugin.FlowDLP/icon.png"
+}
