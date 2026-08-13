@@ -2382,7 +2382,8 @@
         "UrlDownload": "https://github.com/True347/MonitorCowboy/releases/download/v1.1.1/Flow.Launcher.Plugin.MonitorCowboy.zip",
         "UrlSourceCode": "https://github.com/True347/MonitorCowboy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/True347/MonitorCowboy@main/Images/app.png",
-        "LatestReleaseDate": "2026-08-11T06:37:35Z"
+        "LatestReleaseDate": "2026-08-11T06:37:35Z",
+        "DateAdded": "2026-08-13T02:21:31Z"
     },
     {
         "ID": "10DB6EB0939443BCA556ACCF93AA98BF",
