@@ -135,9 +135,8 @@ def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     Returns:
         Tuple of ``(changed_plugins, metadata_dict)``.
     """
-    changed_paths = _get_changed_plugin_manifest_paths()
-    by_filename = {manifest_filename(plugin): plugin for plugin in plugin_reader()}
-    plugins = [by_filename[Path(path).name] for path in changed_paths if Path(path).name in by_filename]
+    changed_names = {Path(path).name for path in _get_changed_plugin_manifest_paths()}
+    plugins = [plugin for plugin in plugin_reader() if manifest_filename(plugin) in changed_names]
     meta: dict[str, Any] = {"mode": "changed", "changed_plugins": len(plugins)}
     if not plugins:
         print("No changed plugin manifests to download")
