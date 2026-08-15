@@ -1221,6 +1221,20 @@
         "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
+        "ID": "baf19c15c7054fcfb2ad422fb9dc161d",
+        "Name": "MonitorCowboy",
+        "Description": "Control your monitors over DDC/CI - switch input source and set volume from Flow.",
+        "Author": "True347",
+        "Version": "1.1.1",
+        "Language": "csharp",
+        "Website": "https://github.com/True347/MonitorCowboy",
+        "UrlDownload": "https://github.com/True347/MonitorCowboy/releases/download/v1.1.1/Flow.Launcher.Plugin.MonitorCowboy.zip",
+        "UrlSourceCode": "https://github.com/True347/MonitorCowboy/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/True347/MonitorCowboy@main/Images/app.png",
+        "LatestReleaseDate": "2026-08-11T06:37:35Z",
+        "DateAdded": "2026-08-13T02:21:31Z"
+    },
+    {
         "ID": "0ECADE17459B49F587BF81DC3A125110",
         "Name": "Browser Bookmarks",
         "Description": "Search your browser bookmarks",
@@ -1529,13 +1543,13 @@
         "Name": "Remote Desktop",
         "Description": "A plugin to start remote desktop connections",
         "Author": "XDFUN",
-        "Version": "1.1.0",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
-        "UrlDownload": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop/releases/download/v1.1.0/remote-desktop.zip",
+        "UrlDownload": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop/releases/download/v1.2.0/remote-desktop.zip",
         "UrlSourceCode": "https://github.com/XDFUN/Flow.Launcher.Plugin.RemoteDesktop",
         "IcoPath": "https://cdn.jsdelivr.net/gh/XDFUN/Flow.Launcher.Plugin.RemoteDesktop@main/src/Flow.Launcher.Plugin.RemoteDesktop/Images/icon.png",
-        "LatestReleaseDate": "2026-06-10T15:59:57Z",
+        "LatestReleaseDate": "2026-08-14T17:31:27Z",
         "DateAdded": "2026-04-24T13:48:07Z"
     },
     {
@@ -1571,16 +1585,16 @@
     {
         "ID": "EEC889D32E2A4F7FA7153C32B0C048F6",
         "Name": "IP Details",
-        "Description": "Retrieve current public IP details/lookup or by providing an IP address. Optionally, include an API key for ipapi.is to take advantage of up to 1000 free requests per day.",
+        "Description": "Retrieve current public IP details/lookup or by providing an IP address.",
         "Author": "ibnuh",
-        "Version": "1.0.2",
+        "Version": "1.1.0",
         "Language": "csharp",
         "Website": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails",
-        "UrlDownload": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/releases/download/v1.0.2/Flow.Launcher.Plugin.IPDetails.zip",
+        "UrlDownload": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/releases/download/v1.1.0/Flow.Launcher.Plugin.IPDetails.zip",
         "UrlSourceCode": "https://github.com/ibnuh/Flow.Launcher.Plugin.IPDetails/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ibnuh/Flow.Launcher.Plugin.IPDetails/Flow.Launcher.Plugin.IPDetails/images/icon.png",
         "DateAdded": "2024-06-15T10:14:01Z",
-        "LatestReleaseDate": "2026-05-15T13:46:48Z"
+        "LatestReleaseDate": "2026-08-14T23:43:26Z"
     },
     {
         "ID": "BB55C11CB9FB4AAF81B670D9FF0BFBEE",
@@ -4498,14 +4512,14 @@
         "Name": "TinyUrlPlugin",
         "Description": "a plugin that use tinyurl api, it's very basic but powerful",
         "Author": "haider",
-        "Version": "1.0.5",
+        "Version": "1.0.6",
         "Language": "csharp",
-        "Website": "https://github.com/HMO-SOUL/TinyUrlPlugin",
-        "UrlDownload": "https://github.com/HMO-SOUL/TinyUrlPlugin/releases/download/v1.0.5/TinyUrlPlugin-1.0.5.zip",
+        "Website": "https://github.com/TaqaTown/TinyUrlPlugin",
+        "UrlDownload": "https://github.com/TaqaTown/TinyUrlPlugin/releases/download/v1.0.6/TinyUrlPlugin-1.0.6.zip",
         "UrlSourceCode": "https://github.com/HMO-SOUL/TinyUrlPlugin/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/HMO-SOUL/TinyUrlPlugin/Flow.Launcher.Plugin.TinyUrlPlugin/icons/icon.png",
         "DateAdded": "2024-03-01T12:42:03Z",
-        "LatestReleaseDate": "2024-02-29T20:34:38Z"
+        "LatestReleaseDate": "2026-08-15T00:32:03Z"
     },
     {
         "ID": "CEA0FDFC6D3B4085823D60DC76F28855",
