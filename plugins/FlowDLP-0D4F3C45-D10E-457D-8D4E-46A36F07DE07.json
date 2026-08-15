@@ -6,7 +6,7 @@
   "Version": "1.0.0",
   "Language": "csharp",
   "Website": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
-  "UrlDownload": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/releases/latest/download/FlowDLP.zip",
+  "UrlDownload": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowDLP.zip",
   "UrlSourceCode": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
   "IcoPath": "https://raw.githubusercontent.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/main/Flow.Launcher.Plugin.FlowDLP/icon.png"
 }
