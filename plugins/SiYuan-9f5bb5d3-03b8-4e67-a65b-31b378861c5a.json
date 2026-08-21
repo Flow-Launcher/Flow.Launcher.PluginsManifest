@@ -1,0 +1,12 @@
+{
+  "ID": "9f5bb5d3-03b8-4e67-a65b-31b378861c5a",
+  "Name": "SiYuan",
+  "Description": "Search and open SiYuan content through the local SiYuan CLI",
+  "Author": "hsopex",
+  "Version": "0.1.2",
+  "Language": "javascript",
+  "Website": "https://github.com/hsopex/Flow.Launcher.Plugin.SiYuan",
+  "UrlDownload": "https://github.com/hsopex/Flow.Launcher.Plugin.SiYuan/releases/download/v0.1.2/Flow.Launcher.Plugin.SiYuan-v0.1.2.zip",
+  "UrlSourceCode": "https://github.com/hsopex/Flow.Launcher.Plugin.SiYuan/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/hsopex/Flow.Launcher.Plugin.SiYuan@main/Images/app.png"
+}
