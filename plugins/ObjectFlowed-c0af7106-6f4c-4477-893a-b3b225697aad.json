@@ -1,0 +1,12 @@
+{
+    "ID": "c0af7106-6f4c-4477-893a-b3b225697aad",
+    "Name": "ObjectFlowed",
+    "Description": "Browse your objectified episodes.",
+    "Author": "FunnyDude",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/FunnyDudeislazy/Flow.Launcher.Plugin.ObjectFlowed",
+    "UrlDownload": "https://github.com/FunnyDudeislazy/Flow.Launcher.Plugin.ObjectFlowed/releases/download/v1.0.0/Flow.Launcher.Plugin.ObjectFlowed.zip",
+    "UrlSourceCode": "https://github.com/FunnyDudeislazy/Flow.Launcher.Plugin.ObjectFlowed/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/FunnyDudeislazy/Flow.Launcher.Plugin.ObjectFlowed@main/Images/app.png",
+}
