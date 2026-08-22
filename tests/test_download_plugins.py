@@ -279,24 +279,16 @@ def test_select_changed_plugins_returns_empty_when_no_matches():
     assert meta["changed_plugins"] == 0
 
 
-def test_select_changed_plugins_conservative_fallback_when_diff_unavailable():
+def test_select_changed_plugins_exits_when_diff_unavailable():
     # When _get_changed_plugin_manifest_paths returns None (diff base unresolvable),
-    # all plugins should be returned so nothing is missed — no false negatives.
-    all_plugins = [
-        {"ID": "1", "Name": "Alpha"},
-        {"ID": "2", "Name": "Beta"},
-    ]
-
+    # select_changed_plugins should exit with code 1.
     with (
         patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=None),
-        patch.object(dp, "plugin_reader", return_value=all_plugins),
+        pytest.raises(SystemExit) as exc,
     ):
-        plugins, meta = dp.select_changed_plugins()
+        dp.select_changed_plugins()
 
-    assert len(plugins) == 2
-    assert meta["mode"] == "changed"
-    assert meta["changed_plugins"] == 2
-    assert meta.get("fallback") == "all"
+    assert exc.value.code == 1
 
 
 def test_main_mode_changed(monkeypatch):
