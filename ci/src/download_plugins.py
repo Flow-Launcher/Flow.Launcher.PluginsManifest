@@ -148,7 +148,7 @@ def _get_changed_plugin_manifest_paths() -> list[str] | None:
        of that specific SHA and retry.
     3. Fall back to the branch name from ``GITHUB_BASE_REF`` (defaults to
        ``"main"``): fetch ``origin/<base_ref>`` and diff against it.
-    4. If the base ref fetch succeeds but the three-dot diff still fails, try
+    4. If fetching the base ref or computing the three-dot diff fails, try
        ``--unshallow`` to obtain full history and retry.
     5. If all attempts fail, return ``None`` to signal that the diff base
        could not be resolved; the caller should fail explicitly.

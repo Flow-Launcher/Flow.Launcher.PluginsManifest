@@ -280,8 +280,7 @@ def test_select_changed_plugins_returns_empty_when_no_matches():
 
 
 def test_select_changed_plugins_exits_when_diff_unavailable():
-    # When _get_changed_plugin_manifest_paths returns None (diff base unresolvable),
-    # select_changed_plugins should exit with code 1.
+    # An unresolved diff base must fail changed mode rather than scan every plugin.
     with (
         patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=None),
         pytest.raises(SystemExit) as exc,
