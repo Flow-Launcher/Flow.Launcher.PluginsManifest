@@ -148,7 +148,6 @@ def test_get_changed_plugin_manifest_paths_uses_base_sha_when_local(monkeypatch)
     monkeypatch.setenv("GITHUB_BASE_SHA", "abc1234def5678")
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
-    diff_output = "plugins/Plugin-id.json\n"
     with (
         patch.object(dp, "_commit_exists", return_value=True),
         patch.object(dp, "_run_git_diff", return_value=["plugins/Plugin-id.json"]) as mock_diff,
