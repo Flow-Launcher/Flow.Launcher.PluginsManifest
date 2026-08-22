@@ -219,7 +219,7 @@ def test_get_changed_plugin_manifest_paths_unshallows_when_diff_fails_after_fetc
 
 def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail(monkeypatch):
     # When every fetch and diff attempt fails, None is returned so the caller
-    # can activate the conservative fallback (scan all plugins).
+    # can fail explicitly rather than silently scanning all plugins.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
