@@ -1,0 +1,12 @@
+{
+  "ID": "9ebc8791-52d6-4c00-ad07-f9005c58427a",
+  "Name": "FiveM Natives",
+  "Description": "Search for FiveM/GTA V natives (name, hash, namespace) with their parameters, return value, and description from docs.fivem.net",
+  "Author": "JusteKal",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://docs.fivem.net/natives/",
+  "UrlDownload": "https://github.com/JusteKal/FxNatives/releases/download/Release/FlowFxNatives-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/JusteKal/FlowFxNatives-1.0.0",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/JusteKal/FlowFxNatives-1.0.0@main/Images/icon.png"
+}
