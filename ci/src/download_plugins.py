@@ -150,8 +150,8 @@ def _get_changed_plugin_manifest_paths() -> list[str] | None:
        ``"main"``): fetch ``origin/<base_ref>`` and diff against it.
     4. If the base ref fetch succeeds but the three-dot diff still fails, try
        ``--unshallow`` to obtain full history and retry.
-    5. If all attempts fail, return ``None`` to signal that the caller should
-       use a conservative fallback (treat all plugins as changed).
+    5. If all attempts fail, return ``None`` to signal that the diff base
+       could not be resolved and the caller should fail explicitly.
 
     Uses a three-dot diff against the merge-base so that base branch advancing
     does not over-include files, and a changed ``UrlDownload`` on an existing
@@ -159,7 +159,7 @@ def _get_changed_plugin_manifest_paths() -> list[str] | None:
 
     Returns:
         List of ``plugins/<Name>-<ID>.json`` paths, or ``None`` when the diff
-        base cannot be resolved and a conservative fallback should be used.
+       base cannot be resolved.
     """
     base_sha = os.getenv("GITHUB_BASE_SHA", "").strip()
     # GITHUB_BASE_REF is set automatically for pull_request_target runs
@@ -223,7 +223,7 @@ def _get_changed_plugin_manifest_paths() -> list[str] | None:
         print(f"[changed] --unshallow failed (rc={unshallow.returncode}): {unshallow.stderr.strip()}")
 
     # --- Step 5: cannot resolve diff base ---
-    print("[changed] WARNING: Could not compute a reliable diff base; returning None for conservative fallback.")
+    print("[changed] ERROR: Could not compute a reliable diff base after all fetch attempts.")
     return None
 
 
@@ -233,24 +233,23 @@ def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     Treats an updated manifest like a new submission, so a change to an
     existing plugin's ``UrlDownload`` is downloaded and scanned.
 
-    When the diff base cannot be resolved (``_get_changed_plugin_manifest_paths``
-    returns ``None``), all plugins are treated as changed — a conservative
-    fallback that avoids false negatives at the cost of scanning everything.
+    Exits with a non-zero status code when the diff base cannot be resolved
+    (``_get_changed_plugin_manifest_paths`` returns ``None``), so CI fails
+    loudly rather than silently scanning all plugins.
 
     Returns:
         Tuple of ``(changed_plugins, metadata_dict)``.
     """
     changed_paths = _get_changed_plugin_manifest_paths()
-    all_plugins = list(plugin_reader())
 
     if changed_paths is None:
-        # Conservative fallback: diff base unavailable, scan everything to avoid
-        # missing a changed plugin.
-        print("[changed] Falling back to scanning all plugins (diff base unavailable).")
-        meta: dict[str, Any] = {"mode": "changed", "changed_plugins": len(all_plugins), "fallback": "all"}
-        print(f"Downloading all {len(all_plugins)} plugin(s) as conservative fallback")
-        return all_plugins, meta
+        print(
+            "[changed] Cannot determine which plugins changed: all attempts to resolve the diff base failed.\n"
+            "Ensure GITHUB_BASE_SHA is set correctly and the repository is fetched with sufficient depth."
+        )
+        sys.exit(1)
 
+    all_plugins = list(plugin_reader())
     changed_names = {Path(path).name for path in changed_paths}
     plugins = [plugin for plugin in all_plugins if manifest_filename(plugin) in changed_names]
     meta = {"mode": "changed", "changed_plugins": len(plugins)}
