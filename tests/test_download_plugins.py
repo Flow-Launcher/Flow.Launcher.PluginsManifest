@@ -90,7 +90,7 @@ def test_select_new_plugins_skips_ids_not_in_reader():
 def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs(monkeypatch):
     # Fetch the base branch and diff successfully.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
-    monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
+    monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
     diff_output = "plugins/Foo-1.json\nplugins/Bar-2.json\n"
     fetch_ok = MagicMock(returncode=0)
@@ -225,6 +225,15 @@ def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monke
         patch.object(dp, "_run_git_diff", return_value=None),
         pytest.raises(RuntimeError, match="reliable diff base"),
     ):
+        dp._get_changed_plugin_manifest_paths()
+
+
+def test_get_changed_plugin_manifest_paths_raises_without_configured_base(monkeypatch):
+    # Do not silently assume a branch when no base was configured.
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
+
+    with pytest.raises(RuntimeError, match="configured base SHA or ref"):
         dp._get_changed_plugin_manifest_paths()
 
 

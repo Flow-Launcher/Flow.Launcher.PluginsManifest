@@ -148,7 +148,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
     """
     base_sha = os.getenv("GITHUB_BASE_SHA", "").strip()
     # GitHub sets GITHUB_BASE_REF for pull_request_target runs.
-    base_ref = (os.getenv("GITHUB_BASE_REF") or "main").strip()
+    base_ref = os.getenv("GITHUB_BASE_REF", "").strip()
 
     if base_sha:
         if _commit_exists(base_sha):
@@ -171,23 +171,24 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
             else:
                 print(f"[changed] Targeted SHA fetch failed (rc={fetch.returncode}); falling back to branch ref.")
 
-    print(f"[changed] Fetching origin/{base_ref} to resolve diff base.")
-    fetch_ref = subprocess.run(
-        ["git", "fetch", "--no-tags", "--depth=1", "origin", base_ref],
-        capture_output=True,
-        text=True,
-    )
-    if fetch_ref.returncode == 0:
-        diff_base = f"origin/{base_ref}"
-        print(f"[changed] Diffing against {diff_base}.")
-        paths = _run_git_diff(diff_base)
-        if paths is not None:
-            return paths
-    else:
-        print(f"[changed] Branch ref fetch failed (rc={fetch_ref.returncode}).")
+    if base_ref:
+        print(f"[changed] Fetching origin/{base_ref} to resolve diff base.")
+        fetch_ref = subprocess.run(
+            ["git", "fetch", "--no-tags", "--depth=1", "origin", base_ref],
+            capture_output=True,
+            text=True,
+        )
+        if fetch_ref.returncode == 0:
+            diff_base = f"origin/{base_ref}"
+            print(f"[changed] Diffing against {diff_base}.")
+            paths = _run_git_diff(diff_base)
+            if paths is not None:
+                return paths
+        else:
+            print(f"[changed] Branch ref fetch failed (rc={fetch_ref.returncode}).")
 
-    print("[changed] ERROR: Could not compute a reliable diff base after all fetch attempts.")
-    raise RuntimeError("Could not compute a reliable diff base after all fetch attempts.")
+    print("[changed] ERROR: Could not compute a reliable diff base from the configured base SHA or ref.")
+    raise RuntimeError("Could not compute a reliable diff base from the configured base SHA or ref.")
 
 
 def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
