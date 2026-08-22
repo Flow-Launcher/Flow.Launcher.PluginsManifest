@@ -106,8 +106,8 @@ def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs(monkeypatch):
     assert "main" in fetch_cmd
     diff_cmd = mock_run.call_args_list[1][0][0]
     assert diff_cmd[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
-    assert "origin/main" in diff_cmd
-    assert "HEAD" in diff_cmd
+    assert any("origin/main" in arg for arg in diff_cmd)
+    assert any("HEAD" in arg for arg in diff_cmd)
     assert "plugins/*.json" in diff_cmd
 
 
@@ -126,8 +126,8 @@ def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
     fetch_cmd = mock_run.call_args_list[0][0][0]
     assert "release/2.0" in fetch_cmd
     diff_cmd = mock_run.call_args_list[1][0][0]
-    assert "origin/release/2.0" in diff_cmd
-    assert "HEAD" in diff_cmd
+    assert any("origin/release/2.0" in arg for arg in diff_cmd)
+    assert any("HEAD" in arg for arg in diff_cmd)
 
 
 def test_get_changed_plugin_manifest_paths_skips_blank_lines(monkeypatch):
@@ -193,7 +193,7 @@ def test_get_changed_plugin_manifest_paths_falls_back_to_ref_when_sha_fetch_fail
         paths = dp._get_changed_plugin_manifest_paths()
 
     assert paths == ["plugins/Plugin-id.json"]
-    mock_diff.assert_called_once_with("origin/main", True)
+    mock_diff.assert_called_once_with("origin/main", use_merge_base=True)
 
 
 def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatch):
@@ -205,11 +205,11 @@ def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatc
     with (
         patch.object(dp.subprocess, "run", return_value=ref_fetch_ok),
         patch.object(dp, "_run_git_diff", return_value=None) as mock_diff,
-        pytest.raises(RuntimeError, match="reliable diff base"),
+        pytest.raises(RuntimeError, match="configured base SHA or ref"),
     ):
         dp._get_changed_plugin_manifest_paths()
 
-    mock_diff.assert_called_once_with("origin/main", True)
+    mock_diff.assert_called_once_with("origin/main", use_merge_base=True)
 
 
 def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monkeypatch):
