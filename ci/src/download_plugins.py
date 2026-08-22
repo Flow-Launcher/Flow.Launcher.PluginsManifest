@@ -139,9 +139,6 @@ def _run_git_diff(diff_base: str) -> list[str] | None:
 def _get_changed_plugin_manifest_paths() -> list[str]:
     """Return plugin manifests added or modified against the PR base.
 
-    The three-dot diff uses the merge-base, so changes to an existing
-    ``UrlDownload`` are included without pulling in unrelated base-branch work.
-
     Returns:
         Changed ``plugins/<Name>-<ID>.json`` paths.
 
