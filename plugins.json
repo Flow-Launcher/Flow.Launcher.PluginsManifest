@@ -531,7 +531,8 @@
         "UrlSourceCode": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/lennonlu/Flow.Launcher.Plugin.ChineseConverter@main/src/Flow.Launcher.Plugin.ChineseConverter/Images/app.svg",
         "MinimumAppVersion": "2.1.1",
-        "LatestReleaseDate": "2026-08-14T08:17:17Z"
+        "LatestReleaseDate": "2026-08-14T08:17:17Z",
+        "DateAdded": "2026-08-22T01:26:27Z"
     },
     {
         "ID": "A3EA904783E14335894354F09DC4B054",
