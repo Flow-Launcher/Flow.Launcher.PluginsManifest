@@ -112,7 +112,7 @@ def _run_git_diff(diff_base: str, use_merge_base: bool = False) -> list[str] | N
 
     Args:
         diff_base:         A ref or SHA to compare with HEAD.
-        use_merge_base:   Use a three-dot diff to compare from the refs' merge base.
+        use_merge_base:   Use a three-dot diff to compare from the merge base of the refs.
 
     Returns:
         Changed ``plugins/<Name>-<ID>.json`` paths. An empty list means no

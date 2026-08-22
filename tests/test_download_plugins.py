@@ -206,9 +206,9 @@ def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatc
     with (
         patch.object(dp.subprocess, "run", side_effect=[ref_fetch_ok, unshallow_ok]),
         patch.object(dp, "_run_git_diff", return_value=None) as mock_diff,
-        pytest.raises(RuntimeError, match="configured base SHA or ref"),
     ):
-        dp._get_changed_plugin_manifest_paths()
+        with pytest.raises(RuntimeError, match="configured base SHA or ref"):
+            dp._get_changed_plugin_manifest_paths()
 
     assert mock_diff.call_count == 2
     assert all(call.args == ("origin/main",) for call in mock_diff.call_args_list)
