@@ -88,7 +88,7 @@ def test_select_new_plugins_skips_ids_not_in_reader():
 
 
 def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs(monkeypatch):
-    # No base SHA env var; fetches the base branch and diffs against it.
+    # Happy path: no base SHA env var, fetch the base branch, diff succeeds.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
@@ -145,10 +145,11 @@ def test_get_changed_plugin_manifest_paths_skips_blank_lines(monkeypatch):
 
 
 def test_get_changed_plugin_manifest_paths_uses_base_sha_when_local(monkeypatch):
-    # GITHUB_BASE_SHA is already in the local clone, so no fetch is needed.
+    # When GITHUB_BASE_SHA is set and already in the local clone, no fetch is needed.
     monkeypatch.setenv("GITHUB_BASE_SHA", "abc1234def5678")
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
+    diff_output = "plugins/Plugin-id.json\n"
     with (
         patch.object(dp, "_commit_exists", return_value=True),
         patch.object(dp, "_run_git_diff", return_value=["plugins/Plugin-id.json"]) as mock_diff,
@@ -160,11 +161,12 @@ def test_get_changed_plugin_manifest_paths_uses_base_sha_when_local(monkeypatch)
 
 
 def test_get_changed_plugin_manifest_paths_fetches_sha_when_not_local(monkeypatch):
-    # GITHUB_BASE_SHA is set but absent locally; a targeted fetch is attempted.
+    # When GITHUB_BASE_SHA is set but absent locally, a targeted fetch is attempted.
     monkeypatch.setenv("GITHUB_BASE_SHA", "deadbeef1234")
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
     fetch_ok = MagicMock(returncode=0)
+    diff_output = "plugins/New-id.json\n"
 
     with (
         patch.object(dp, "_commit_exists", side_effect=[False, True]),  # missing, then present after fetch
@@ -216,7 +218,8 @@ def test_get_changed_plugin_manifest_paths_unshallows_when_diff_fails_after_fetc
 
 
 def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail(monkeypatch):
-    # When every fetch and diff attempt fails, None is returned so the caller can fail explicitly.
+    # When every fetch and diff attempt fails, None is returned so the caller
+    # can activate the conservative fallback (scan all plugins).
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
@@ -233,8 +236,9 @@ def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail
 
 
 def test_select_changed_plugins_returns_matching_manifests():
-    # Only paths that map to a real manifest are included; this ensures a modified
-    # UrlDownload on an existing plugin is re-downloaded and scanned.
+    # Changed paths only count when they map to a real manifest in the plugins folder. 
+    # This is what lets a modified UrlDownload on an existing plugin get re-scanned.
+    
     changed_paths = ["plugins/Foo-1.json", "plugins/Baz-3.json"]
     all_plugins = [
         {"ID": "1", "Name": "Foo"},
@@ -242,46 +246,64 @@ def test_select_changed_plugins_returns_matching_manifests():
         {"ID": "3", "Name": "Baz"},
     ]
 
+    # simulate
     with (
         patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=changed_paths),
         patch.object(dp, "plugin_reader", return_value=all_plugins),
     ):
         plugins, meta = dp.select_changed_plugins()
 
+    # check
     assert [p["ID"] for p in plugins] == ["1", "3"]
     assert meta["mode"] == "changed"
     assert meta["changed_plugins"] == 2
 
 
 def test_select_changed_plugins_returns_empty_when_no_matches():
-    # A path that does not match any manifest should be silently ignored.
+    # A path that does not match any manifest, 
+    # for example a stray json file in the plugins folder, 
+    # should be ignored rather than crash selection.
+    
     changed_paths = ["plugins/Missing-9.json"]
     all_plugins = [{"ID": "1", "Name": "Foo"}]
 
+    # simulate
     with (
         patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=changed_paths),
         patch.object(dp, "plugin_reader", return_value=all_plugins),
     ):
         plugins, meta = dp.select_changed_plugins()
 
+    # check
     assert plugins == []
     assert meta["changed_plugins"] == 0
 
 
-def test_select_changed_plugins_exits_when_diff_unavailable():
-    # When _get_changed_plugin_manifest_paths returns None, select_changed_plugins
-    # should exit with code 1 rather than silently falling back to scanning all plugins.
+def test_select_changed_plugins_conservative_fallback_when_diff_unavailable():
+    # When _get_changed_plugin_manifest_paths returns None (diff base unresolvable),
+    # all plugins should be returned so nothing is missed — no false negatives.
+    all_plugins = [
+        {"ID": "1", "Name": "Alpha"},
+        {"ID": "2", "Name": "Beta"},
+    ]
+
     with (
         patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=None),
-        pytest.raises(SystemExit) as exc,
+        patch.object(dp, "plugin_reader", return_value=all_plugins),
     ):
-        dp.select_changed_plugins()
+        plugins, meta = dp.select_changed_plugins()
 
-    assert exc.value.code == 1
+    assert len(plugins) == 2
+    assert meta["mode"] == "changed"
+    assert meta["changed_plugins"] == 2
+    assert meta.get("fallback") == "all"
 
 
 def test_main_mode_changed(monkeypatch):
-    # --mode changed should route through select_changed_plugins then download_all.
+    # The changed mode should route through select_changed_plugins
+    # and then hand the result to download_all.
+
+    # simulate
     monkeypatch.setenv("MODE", "changed")
     monkeypatch.setattr(sys, "argv", ["download_plugins.py"])
     with (
@@ -294,6 +316,7 @@ def test_main_mode_changed(monkeypatch):
         )
         dp.main()
 
+    # check
     mock_select.assert_called_once_with()
     mock_download_all.assert_called_once_with([_make_plugin("changed1")], Path("plugin_downloads"), cache_meta_path=None)
 
