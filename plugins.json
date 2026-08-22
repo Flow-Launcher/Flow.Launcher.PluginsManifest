@@ -520,6 +520,20 @@
         "LatestReleaseDate": "2026-06-08T05:03:26Z"
     },
     {
+        "ID": "621d4d5c-cf05-4031-a427-11688b0767b3",
+        "Name": "Chinese Converter",
+        "Description": "Fast Simplified/Traditional Chinese conversion with Taiwan and Hong Kong variants / 快速简繁转换，支持台湾及香港用词",
+        "Author": "lennonlu",
+        "Version": "0.1.2",
+        "Language": "CSharp",
+        "Website": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter",
+        "UrlDownload": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/releases/download/v0.1.2/Flow.Launcher.Plugin.ChineseConverter.zip",
+        "UrlSourceCode": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/lennonlu/Flow.Launcher.Plugin.ChineseConverter@main/src/Flow.Launcher.Plugin.ChineseConverter/Images/app.svg",
+        "MinimumAppVersion": "2.1.1",
+        "LatestReleaseDate": "2026-08-14T08:17:17Z"
+    },
+    {
         "ID": "A3EA904783E14335894354F09DC4B054",
         "Name": "CdList",
         "Description": "Like cd in terminal, but for Flow Launcher",
