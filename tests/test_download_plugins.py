@@ -88,7 +88,7 @@ def test_select_new_plugins_skips_ids_not_in_reader():
 
 
 def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs(monkeypatch):
-    # Happy path: no base SHA env var, fetch the base branch, diff succeeds.
+    # Fetch the base branch and diff successfully.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
@@ -111,8 +111,7 @@ def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs(monkeypatch):
 
 
 def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
-    # The base branch comes from GITHUB_BASE_REF,
-    # so a PR targeting something other than main still diffs against the right branch.
+    # Use the configured base branch, not a hard-coded branch.
     monkeypatch.setenv("GITHUB_BASE_REF", "release/2.0")
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
 
@@ -130,7 +129,7 @@ def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
 
 
 def test_get_changed_plugin_manifest_paths_skips_blank_lines(monkeypatch):
-    # git output can include blank lines; those must not be treated as manifest paths.
+    # Ignore blank lines in Git output.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
@@ -145,7 +144,7 @@ def test_get_changed_plugin_manifest_paths_skips_blank_lines(monkeypatch):
 
 
 def test_get_changed_plugin_manifest_paths_uses_base_sha_when_local(monkeypatch):
-    # When GITHUB_BASE_SHA is set and already in the local clone, no fetch is needed.
+    # Use a locally available base SHA without fetching.
     monkeypatch.setenv("GITHUB_BASE_SHA", "abc1234def5678")
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
@@ -161,7 +160,7 @@ def test_get_changed_plugin_manifest_paths_uses_base_sha_when_local(monkeypatch)
 
 
 def test_get_changed_plugin_manifest_paths_fetches_sha_when_not_local(monkeypatch):
-    # When GITHUB_BASE_SHA is set but absent locally, a targeted fetch is attempted.
+    # Fetch a base SHA that is missing locally.
     monkeypatch.setenv("GITHUB_BASE_SHA", "deadbeef1234")
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
@@ -180,7 +179,7 @@ def test_get_changed_plugin_manifest_paths_fetches_sha_when_not_local(monkeypatc
 
 
 def test_get_changed_plugin_manifest_paths_falls_back_to_ref_when_sha_fetch_fails(monkeypatch):
-    # When the targeted SHA fetch fails, the code falls through to the branch-ref fetch.
+    # Fall back to the base branch if the SHA fetch fails.
     monkeypatch.setenv("GITHUB_BASE_SHA", "deadbeef1234")
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
@@ -199,8 +198,7 @@ def test_get_changed_plugin_manifest_paths_falls_back_to_ref_when_sha_fetch_fail
 
 
 def test_get_changed_plugin_manifest_paths_unshallows_when_diff_fails_after_fetch(monkeypatch):
-    # If the branch-ref fetch succeeds but the three-dot diff still fails (merge-base
-    # not reachable in the shallow clone), an --unshallow fetch is attempted.
+    # Fetch full history if a shallow clone cannot resolve the merge-base.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
@@ -218,8 +216,7 @@ def test_get_changed_plugin_manifest_paths_unshallows_when_diff_fails_after_fetc
 
 
 def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail(monkeypatch):
-    # When every fetch and diff attempt fails, None is returned so the caller
-    # can fail explicitly rather than silently scanning all plugins.
+    # Return None so the caller can fail instead of scanning every plugin.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
@@ -236,9 +233,7 @@ def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail
 
 
 def test_select_changed_plugins_returns_matching_manifests():
-    # Changed paths only count when they map to a real manifest in the plugins folder. 
-    # This is what lets a modified UrlDownload on an existing plugin get re-scanned.
-    
+    # Match changed paths to manifests, including existing plugins.
     changed_paths = ["plugins/Foo-1.json", "plugins/Baz-3.json"]
     all_plugins = [
         {"ID": "1", "Name": "Foo"},
@@ -260,10 +255,7 @@ def test_select_changed_plugins_returns_matching_manifests():
 
 
 def test_select_changed_plugins_returns_empty_when_no_matches():
-    # A path that does not match any manifest, 
-    # for example a stray json file in the plugins folder, 
-    # should be ignored rather than crash selection.
-    
+    # Ignore changed paths that do not match a manifest.
     changed_paths = ["plugins/Missing-9.json"]
     all_plugins = [{"ID": "1", "Name": "Foo"}]
 
@@ -280,7 +272,7 @@ def test_select_changed_plugins_returns_empty_when_no_matches():
 
 
 def test_select_changed_plugins_exits_when_diff_unavailable():
-    # An unresolved diff base must fail changed mode rather than scan every plugin.
+    # Fail changed mode if the diff base is unavailable.
     with (
         patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=None),
         pytest.raises(SystemExit) as exc,
@@ -291,10 +283,7 @@ def test_select_changed_plugins_exits_when_diff_unavailable():
 
 
 def test_main_mode_changed(monkeypatch):
-    # The changed mode should route through select_changed_plugins
-    # and then hand the result to download_all.
-
-    # simulate
+    # Route changed mode through selection and downloading.
     monkeypatch.setenv("MODE", "changed")
     monkeypatch.setattr(sys, "argv", ["download_plugins.py"])
     with (
