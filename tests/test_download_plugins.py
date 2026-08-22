@@ -234,6 +234,23 @@ def test_get_changed_plugin_manifest_paths_unshallows_before_retrying_ref_diff(m
     assert all(call.kwargs == {"use_merge_base": True} for call in mock_diff.call_args_list)
 
 
+def test_get_changed_plugin_manifest_paths_unshallows_when_ref_fetch_fails(monkeypatch):
+    # Use the configured ref after unshallowing when its shallow fetch fails.
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.setenv("GITHUB_BASE_REF", "main")
+
+    ref_fetch_fail = MagicMock(returncode=1)
+    unshallow_ok = MagicMock(returncode=0)
+    with (
+        patch.object(dp.subprocess, "run", side_effect=[ref_fetch_fail, unshallow_ok]),
+        patch.object(dp, "_run_git_diff", return_value=["plugins/Foo-1.json"]) as mock_diff,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Foo-1.json"]
+    mock_diff.assert_called_once_with("origin/main", use_merge_base=True)
+
+
 def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monkeypatch):
     # Fail changed mode instead of scanning every plugin.
     monkeypatch.setenv("GITHUB_BASE_SHA", "deadbeef1234")
