@@ -87,59 +87,152 @@ def test_select_new_plugins_skips_ids_not_in_reader():
         assert plugins[0]["ID"] == "1"
 
 
-def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs():
-    # A PR checkout is shallow, so we fetch the base branch before diffing against it. 
-    # Only added or modified plugin manifests should come back.
-    
-    base_ref = "main"
-    diff_output = "plugins/Foo-1.json\nplugins/Bar-2.json\n"
+def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs(monkeypatch):
+    # Happy path: no base SHA env var, fetch the base branch, diff succeeds.
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
-    # simulate
-    fetch_result = MagicMock()
-    diff_result = MagicMock(stdout=diff_output)
-    with patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run:
+    diff_output = "plugins/Foo-1.json\nplugins/Bar-2.json\n"
+    fetch_ok = MagicMock(returncode=0)
+    diff_ok = MagicMock(returncode=0, stdout=diff_output)
+
+    with patch.object(dp.subprocess, "run", side_effect=[fetch_ok, diff_ok]) as mock_run:
         paths = dp._get_changed_plugin_manifest_paths()
 
-    # check
     assert paths == ["plugins/Foo-1.json", "plugins/Bar-2.json"]
-    assert mock_run.call_args_list[0][0][0] == ["git", "fetch", "origin", base_ref]
-    command = mock_run.call_args_list[1][0][0]
-    assert command[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
-    assert f"origin/{base_ref}...HEAD" in command
-    assert "plugins/*.json" in command
+    fetch_cmd = mock_run.call_args_list[0][0][0]
+    assert fetch_cmd[:2] == ["git", "fetch"]
+    assert "origin" in fetch_cmd
+    assert "main" in fetch_cmd
+    diff_cmd = mock_run.call_args_list[1][0][0]
+    assert diff_cmd[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
+    assert "origin/main...HEAD" in diff_cmd
+    assert "plugins/*.json" in diff_cmd
 
 
 def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
-    # The base branch comes from GITHUB_BASE_REF, 
-    # so a PR that targets something other than main still diffs against the right branch.
-    
-    base_ref = "test"
+    # The base branch comes from GITHUB_BASE_REF,
+    # so a PR targeting something other than main still diffs against the right branch.
+    monkeypatch.setenv("GITHUB_BASE_REF", "release/2.0")
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
 
-    # simulate
-    monkeypatch.setenv("GITHUB_BASE_REF", base_ref)
-    fetch_result = MagicMock()
-    diff_result = MagicMock(stdout="")
-    with patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run:
-        dp._get_changed_plugin_manifest_paths()
+    fetch_ok = MagicMock(returncode=0)
+    diff_ok = MagicMock(returncode=0, stdout="")
 
-    # check
-    assert mock_run.call_args_list[0][0][0] == ["git", "fetch", "origin", base_ref]
-    assert f"origin/{base_ref}...HEAD" in mock_run.call_args_list[1][0][0]
-
-
-def test_get_changed_plugin_manifest_paths_skips_blank_lines():
-    # git output can include blank lines, and those must not be treated as manifest paths.
-    
-    diff_output = "plugins/Foo-1.json\n\n"
-
-    # simulate
-    fetch_result = MagicMock()
-    diff_result = MagicMock(stdout=diff_output)
-    with patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run:
+    with patch.object(dp.subprocess, "run", side_effect=[fetch_ok, diff_ok]) as mock_run:
         paths = dp._get_changed_plugin_manifest_paths()
 
-    # check
+    assert paths == []
+    fetch_cmd = mock_run.call_args_list[0][0][0]
+    assert "release/2.0" in fetch_cmd
+    diff_cmd = mock_run.call_args_list[1][0][0]
+    assert "origin/release/2.0...HEAD" in diff_cmd
+
+
+def test_get_changed_plugin_manifest_paths_skips_blank_lines(monkeypatch):
+    # git output can include blank lines; those must not be treated as manifest paths.
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
+
+    diff_output = "plugins/Foo-1.json\n\n"
+    fetch_ok = MagicMock(returncode=0)
+    diff_ok = MagicMock(returncode=0, stdout=diff_output)
+
+    with patch.object(dp.subprocess, "run", side_effect=[fetch_ok, diff_ok]):
+        paths = dp._get_changed_plugin_manifest_paths()
+
     assert paths == ["plugins/Foo-1.json"]
+
+
+def test_get_changed_plugin_manifest_paths_uses_base_sha_when_local(monkeypatch):
+    # When GITHUB_BASE_SHA is set and already in the local clone, no fetch is needed.
+    monkeypatch.setenv("GITHUB_BASE_SHA", "abc1234def5678")
+    monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
+
+    diff_output = "plugins/Plugin-id.json\n"
+    with (
+        patch.object(dp, "_commit_exists", return_value=True),
+        patch.object(dp, "_run_git_diff", return_value=["plugins/Plugin-id.json"]) as mock_diff,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Plugin-id.json"]
+    mock_diff.assert_called_once_with("abc1234def5678")
+
+
+def test_get_changed_plugin_manifest_paths_fetches_sha_when_not_local(monkeypatch):
+    # When GITHUB_BASE_SHA is set but absent locally, a targeted fetch is attempted.
+    monkeypatch.setenv("GITHUB_BASE_SHA", "deadbeef1234")
+    monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
+
+    fetch_ok = MagicMock(returncode=0)
+    diff_output = "plugins/New-id.json\n"
+
+    with (
+        patch.object(dp, "_commit_exists", side_effect=[False, True]),  # missing, then present after fetch
+        patch.object(dp.subprocess, "run", return_value=fetch_ok),
+        patch.object(dp, "_run_git_diff", return_value=["plugins/New-id.json"]) as mock_diff,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/New-id.json"]
+    mock_diff.assert_called_once_with("deadbeef1234")
+
+
+def test_get_changed_plugin_manifest_paths_falls_back_to_ref_when_sha_fetch_fails(monkeypatch):
+    # When the targeted SHA fetch fails, the code falls through to the branch-ref fetch.
+    monkeypatch.setenv("GITHUB_BASE_SHA", "deadbeef1234")
+    monkeypatch.setenv("GITHUB_BASE_REF", "main")
+
+    sha_fetch_fail = MagicMock(returncode=1)
+    ref_fetch_ok = MagicMock(returncode=0)
+
+    with (
+        patch.object(dp, "_commit_exists", return_value=False),
+        patch.object(dp.subprocess, "run", side_effect=[sha_fetch_fail, ref_fetch_ok]),
+        patch.object(dp, "_run_git_diff", return_value=["plugins/Plugin-id.json"]) as mock_diff,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Plugin-id.json"]
+    mock_diff.assert_called_once_with("origin/main")
+
+
+def test_get_changed_plugin_manifest_paths_unshallows_when_diff_fails_after_fetch(monkeypatch):
+    # If the branch-ref fetch succeeds but the three-dot diff still fails (merge-base
+    # not reachable in the shallow clone), an --unshallow fetch is attempted.
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.setenv("GITHUB_BASE_REF", "main")
+
+    ref_fetch_ok = MagicMock(returncode=0)
+    unshallow_ok = MagicMock(returncode=0)
+
+    with (
+        patch.object(dp.subprocess, "run", side_effect=[ref_fetch_ok, unshallow_ok]),
+        patch.object(dp, "_run_git_diff", side_effect=[None, ["plugins/P-id.json"]]) as mock_diff,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/P-id.json"]
+    assert mock_diff.call_count == 2
+
+
+def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail(monkeypatch):
+    # When every fetch and diff attempt fails, None is returned so the caller
+    # can activate the conservative fallback (scan all plugins).
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.setenv("GITHUB_BASE_REF", "main")
+
+    fetch_fail = MagicMock(returncode=1, stderr="network error")
+    unshallow_fail = MagicMock(returncode=1, stderr="not a shallow repo")
+
+    with (
+        patch.object(dp.subprocess, "run", side_effect=[fetch_fail, unshallow_fail]),
+        patch.object(dp, "_run_git_diff", return_value=None),
+    ):
+        result = dp._get_changed_plugin_manifest_paths()
+
+    assert result is None
 
 
 def test_select_changed_plugins_returns_matching_manifests():
@@ -184,6 +277,26 @@ def test_select_changed_plugins_returns_empty_when_no_matches():
     # check
     assert plugins == []
     assert meta["changed_plugins"] == 0
+
+
+def test_select_changed_plugins_conservative_fallback_when_diff_unavailable():
+    # When _get_changed_plugin_manifest_paths returns None (diff base unresolvable),
+    # all plugins should be returned so nothing is missed — no false negatives.
+    all_plugins = [
+        {"ID": "1", "Name": "Alpha"},
+        {"ID": "2", "Name": "Beta"},
+    ]
+
+    with (
+        patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=None),
+        patch.object(dp, "plugin_reader", return_value=all_plugins),
+    ):
+        plugins, meta = dp.select_changed_plugins()
+
+    assert len(plugins) == 2
+    assert meta["mode"] == "changed"
+    assert meta["changed_plugins"] == 2
+    assert meta.get("fallback") == "all"
 
 
 def test_main_mode_changed(monkeypatch):

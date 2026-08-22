@@ -24,6 +24,7 @@ Usage examples::
 Environment variables:
     MODE                 Fallback for ``--mode``.
     GITHUB_BASE_REF      PR base branch for ``--mode changed`` (auto-set by GitHub).
+    GITHUB_BASE_SHA      PR base commit SHA for ``--mode changed`` (set from workflow).
     OUTPUT_DIR           Fallback for ``--output-dir`` (default: plugin_downloads).
     DOWNLOAD_WORKERS     Max concurrent downloads (default: 8).
     DOWNLOAD_TIMEOUT_SEC HTTP request timeout in seconds (default: 120).
@@ -90,40 +91,140 @@ def select_new_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     return plugins, meta
 
 
-def _get_changed_plugin_manifest_paths() -> list[str]:
-    """Return repo-relative paths of plugin manifests added or modified vs the PR base.
+def _commit_exists(sha_or_ref: str) -> bool:
+    """Return True if *sha_or_ref* resolves to a commit that is available locally.
 
-    Fetches the base branch first, since a PR checkout is shallow and the
-    base commits are not present locally.  Uses a three-dot diff against
-    the merge-base so a changed ``UrlDownload`` on an existing plugin is
-    re-scanned, and main advancing does not over-include files.
+    Args:
+        sha_or_ref: A commit SHA, branch name, or remote-tracking ref.
 
     Returns:
-        List of ``plugins/<Name>-<ID>.json`` paths.
+        True when the object exists and is accessible, False otherwise.
     """
-    # GITHUB_BASE_REF is set automatically for pull_request_target runs, otherwise fallback to main
-    base_ref = os.getenv("GITHUB_BASE_REF") or "main"
+    result = subprocess.run(
+        ["git", "cat-file", "-e", f"{sha_or_ref}^{{commit}}"],
+        capture_output=True,
+    )
+    return result.returncode == 0
 
-    # PR checkout is shallow so the base branch must be fetched again
-    subprocess.run(["git", "fetch", "origin", base_ref], check=True, capture_output=True, text=True)
 
-    # Three-dot diff shows only this PR's changes vs the merge-base.
-    # Only added or modified manifests matter. Deleted files are not considered.
+def _run_git_diff(diff_base: str) -> list[str] | None:
+    """Run ``git diff`` against *diff_base* and return changed plugin manifest paths.
+
+    Args:
+        diff_base: A ref or SHA to diff HEAD against (three-dot syntax).
+
+    Returns:
+        List of ``plugins/<Name>-<ID>.json`` paths (may be empty when no plugin
+        manifests changed), or ``None`` when the diff command itself fails
+        (e.g. the merge-base commit is not yet accessible in a shallow clone).
+    """
     result = subprocess.run(
         [
             "git",
             "diff",
             "--diff-filter=AM",  # added or modified only
             "--name-only",  # paths only, no content
-            f"origin/{base_ref}...HEAD",  # three-dot: this PR's changes
+            f"{diff_base}...HEAD",  # three-dot: this PR's changes vs merge-base
             "--",  # end of options, the rest are paths
             "plugins/*.json",  # only plugin manifest files
         ],
-        check=True,
         capture_output=True,
         text=True,
     )
+    if result.returncode != 0:
+        return None
     return [line for line in result.stdout.splitlines() if line]
+
+
+def _get_changed_plugin_manifest_paths() -> list[str] | None:
+    """Return repo-relative paths of plugin manifests added or modified vs the PR base.
+
+    Attempts to determine the correct diff base using the following strategy,
+    logging each step for diagnostics:
+
+    1. Use ``GITHUB_BASE_SHA`` (exact PR base commit) if set and already
+       locally available — no fetch needed.
+    2. If the base SHA is set but not local, perform a targeted shallow fetch
+       of that specific SHA and retry.
+    3. Fall back to the branch name from ``GITHUB_BASE_REF`` (defaults to
+       ``"main"``): fetch ``origin/<base_ref>`` and diff against it.
+    4. If the base ref fetch succeeds but the three-dot diff still fails, try
+       ``--unshallow`` to obtain full history and retry.
+    5. If all attempts fail, return ``None`` to signal that the caller should
+       use a conservative fallback (treat all plugins as changed).
+
+    Uses a three-dot diff against the merge-base so that base branch advancing
+    does not over-include files, and a changed ``UrlDownload`` on an existing
+    plugin is always re-scanned.
+
+    Returns:
+        List of ``plugins/<Name>-<ID>.json`` paths, or ``None`` when the diff
+        base cannot be resolved and a conservative fallback should be used.
+    """
+    base_sha = os.getenv("GITHUB_BASE_SHA", "").strip()
+    # GITHUB_BASE_REF is set automatically for pull_request_target runs
+    base_ref = (os.getenv("GITHUB_BASE_REF") or "main").strip()
+
+    # --- Step 1: try base SHA if already locally available (no fetch) ---
+    if base_sha:
+        if _commit_exists(base_sha):
+            print(f"[changed] Base commit {base_sha[:12]} already available locally; diffing directly.")
+            paths = _run_git_diff(base_sha)
+            if paths is not None:
+                return paths
+        else:
+            print(f"[changed] Base commit {base_sha[:12]} not in shallow clone; fetching targeted commit.")
+            # --- Step 2: targeted fetch of the exact base SHA ---
+            fetch = subprocess.run(
+                ["git", "fetch", "--no-tags", "--depth=50", "origin", base_sha],
+                capture_output=True,
+                text=True,
+            )
+            if fetch.returncode == 0 and _commit_exists(base_sha):
+                print(f"[changed] Targeted fetch succeeded; diffing against base SHA {base_sha[:12]}.")
+                paths = _run_git_diff(base_sha)
+                if paths is not None:
+                    return paths
+            else:
+                print(f"[changed] Targeted SHA fetch failed (rc={fetch.returncode}); falling back to branch ref.")
+
+    # --- Step 3: fetch the base branch ref and diff against it ---
+    print(f"[changed] Fetching origin/{base_ref} to resolve diff base.")
+    fetch_ref = subprocess.run(
+        ["git", "fetch", "--no-tags", "--depth=50", "origin", base_ref],
+        capture_output=True,
+        text=True,
+    )
+    if fetch_ref.returncode == 0:
+        diff_base = f"origin/{base_ref}"
+        print(f"[changed] Diffing against {diff_base}.")
+        paths = _run_git_diff(diff_base)
+        if paths is not None:
+            return paths
+        # Shallow diff might miss the merge-base; try full history as a last resort.
+        print(f"[changed] Three-dot diff against {diff_base} failed after branch fetch; attempting --unshallow.")
+    else:
+        print(f"[changed] Branch ref fetch for origin/{base_ref} failed (rc={fetch_ref.returncode}); attempting --unshallow.")
+
+    # --- Step 4: unshallow and retry ---
+    unshallow = subprocess.run(
+        ["git", "fetch", "--unshallow", "origin"],
+        capture_output=True,
+        text=True,
+    )
+    if unshallow.returncode == 0:
+        diff_base = f"origin/{base_ref}"
+        print(f"[changed] Unshallow succeeded; retrying diff against {diff_base}.")
+        paths = _run_git_diff(diff_base)
+        if paths is not None:
+            return paths
+        print(f"[changed] Diff still failed after --unshallow.")
+    else:
+        print(f"[changed] --unshallow failed (rc={unshallow.returncode}): {unshallow.stderr.strip()}")
+
+    # --- Step 5: cannot resolve diff base ---
+    print("[changed] WARNING: Could not compute a reliable diff base; returning None for conservative fallback.")
+    return None
 
 
 def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
@@ -132,12 +233,27 @@ def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     Treats an updated manifest like a new submission, so a change to an
     existing plugin's ``UrlDownload`` is downloaded and scanned.
 
+    When the diff base cannot be resolved (``_get_changed_plugin_manifest_paths``
+    returns ``None``), all plugins are treated as changed — a conservative
+    fallback that avoids false negatives at the cost of scanning everything.
+
     Returns:
         Tuple of ``(changed_plugins, metadata_dict)``.
     """
-    changed_names = {Path(path).name for path in _get_changed_plugin_manifest_paths()}
-    plugins = [plugin for plugin in plugin_reader() if manifest_filename(plugin) in changed_names]
-    meta: dict[str, Any] = {"mode": "changed", "changed_plugins": len(plugins)}
+    changed_paths = _get_changed_plugin_manifest_paths()
+    all_plugins = list(plugin_reader())
+
+    if changed_paths is None:
+        # Conservative fallback: diff base unavailable, scan everything to avoid
+        # missing a changed plugin.
+        print("[changed] Falling back to scanning all plugins (diff base unavailable).")
+        meta: dict[str, Any] = {"mode": "changed", "changed_plugins": len(all_plugins), "fallback": "all"}
+        print(f"Downloading all {len(all_plugins)} plugin(s) as conservative fallback")
+        return all_plugins, meta
+
+    changed_names = {Path(path).name for path in changed_paths}
+    plugins = [plugin for plugin in all_plugins if manifest_filename(plugin) in changed_names]
+    meta = {"mode": "changed", "changed_plugins": len(plugins)}
     if not plugins:
         print("No changed plugin manifests to download")
     else:

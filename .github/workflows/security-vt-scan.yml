@@ -82,6 +82,8 @@ jobs:
 
       - name: Download plugins changed in this PR
         if: github.event_name == 'pull_request_target'
+        env:
+          GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: python ci/src/download_plugins.py --mode changed --output-dir scan-files
 
       - name: Download all plugins with cache metadata
