@@ -214,16 +214,16 @@ def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatc
 
 def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monkeypatch):
     # Fail changed mode instead of scanning every plugin.
-    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.setenv("GITHUB_BASE_SHA", "deadbeef1234")
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
-    fetch_fail = MagicMock(returncode=1, stderr="network error")
+    commit_check_fail = MagicMock(returncode=1, stderr="network error")
+    sha_fetch_fail = MagicMock(returncode=1, stderr="network error")
     ref_fetch_fail = MagicMock(returncode=1, stderr="network error")
 
     with (
-        patch.object(dp.subprocess, "run", side_effect=[fetch_fail, ref_fetch_fail]),
-        patch.object(dp, "_run_git_diff", return_value=None),
-        pytest.raises(RuntimeError, match="reliable diff base"),
+        patch.object(dp.subprocess, "run", side_effect=[commit_check_fail, sha_fetch_fail, ref_fetch_fail]),
+        pytest.raises(RuntimeError, match="configured base SHA or ref"),
     ):
         dp._get_changed_plugin_manifest_paths()
 
