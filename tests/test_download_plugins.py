@@ -197,19 +197,41 @@ def test_get_changed_plugin_manifest_paths_falls_back_to_ref_when_sha_fetch_fail
 
 
 def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatch):
-    # Fail when the fetched base cannot be compared with HEAD.
+    # Fail when the fetched base cannot be compared with HEAD, even after unshallowing.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
     ref_fetch_ok = MagicMock(returncode=0)
+    unshallow_ok = MagicMock(returncode=0)
     with (
-        patch.object(dp.subprocess, "run", return_value=ref_fetch_ok),
+        patch.object(dp.subprocess, "run", side_effect=[ref_fetch_ok, unshallow_ok]),
         patch.object(dp, "_run_git_diff", return_value=None) as mock_diff,
         pytest.raises(RuntimeError, match="configured base SHA or ref"),
     ):
         dp._get_changed_plugin_manifest_paths()
 
-    mock_diff.assert_called_once_with("origin/main", use_merge_base=True)
+    assert mock_diff.call_count == 2
+    assert all(call.args == ("origin/main",) for call in mock_diff.call_args_list)
+    assert all(call.kwargs == {"use_merge_base": True} for call in mock_diff.call_args_list)
+
+
+def test_get_changed_plugin_manifest_paths_unshallows_before_retrying_ref_diff(monkeypatch):
+    # Recover the merge-base when a depth-1 base fetch is insufficient.
+    monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
+    monkeypatch.setenv("GITHUB_BASE_REF", "main")
+
+    ref_fetch_ok = MagicMock(returncode=0)
+    unshallow_ok = MagicMock(returncode=0)
+    with (
+        patch.object(dp.subprocess, "run", side_effect=[ref_fetch_ok, unshallow_ok]),
+        patch.object(dp, "_run_git_diff", side_effect=[None, ["plugins/Foo-1.json"]]) as mock_diff,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Foo-1.json"]
+    assert mock_diff.call_count == 2
+    assert all(call.args == ("origin/main",) for call in mock_diff.call_args_list)
+    assert all(call.kwargs == {"use_merge_base": True} for call in mock_diff.call_args_list)
 
 
 def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monkeypatch):
@@ -220,9 +242,14 @@ def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monke
     commit_check_fail = MagicMock(returncode=1, stderr="network error")
     sha_fetch_fail = MagicMock(returncode=1, stderr="network error")
     ref_fetch_fail = MagicMock(returncode=1, stderr="network error")
+    unshallow_fail = MagicMock(returncode=1, stderr="network error")
 
     with (
-        patch.object(dp.subprocess, "run", side_effect=[commit_check_fail, sha_fetch_fail, ref_fetch_fail]),
+        patch.object(
+            dp.subprocess,
+            "run",
+            side_effect=[commit_check_fail, sha_fetch_fail, ref_fetch_fail, unshallow_fail],
+        ),
         pytest.raises(RuntimeError, match="configured base SHA or ref"),
     ):
         dp._get_changed_plugin_manifest_paths()

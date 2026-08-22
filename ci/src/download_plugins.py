@@ -185,8 +185,24 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
             paths = _run_git_diff(diff_base, use_merge_base=True)
             if paths is not None:
                 return paths
+            print(f"[changed] Three-dot diff against {diff_base} failed; attempting to unshallow the checkout.")
         else:
-            print(f"[changed] Branch ref fetch failed (rc={fetch_ref.returncode}).")
+            print(f"[changed] Branch ref fetch failed (rc={fetch_ref.returncode}); attempting to unshallow the checkout.")
+
+        # The workflow checks out only the PR head at depth 1. A shallow base
+        # fetch can still leave the merge-base unavailable for a three-dot diff.
+        unshallow = subprocess.run(
+            ["git", "fetch", "--no-tags", "--unshallow", "origin"],
+            capture_output=True,
+            text=True,
+        )
+        if unshallow.returncode == 0:
+            print(f"[changed] Unshallow succeeded; retrying diff against {diff_base}.")
+            paths = _run_git_diff(diff_base, use_merge_base=True)
+            if paths is not None:
+                return paths
+        else:
+            print(f"[changed] Unshallow fetch failed (rc={unshallow.returncode}).")
 
     error = "Could not compute a reliable diff base from the configured base SHA or ref."
     print(f"[changed] ERROR: {error}")
