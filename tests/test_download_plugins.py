@@ -165,8 +165,6 @@ def test_get_changed_plugin_manifest_paths_fetches_sha_when_not_local(monkeypatc
     monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
 
     fetch_ok = MagicMock(returncode=0)
-    diff_output = "plugins/New-id.json\n"
-
     with (
         patch.object(dp, "_commit_exists", side_effect=[False, True]),  # missing, then present after fetch
         patch.object(dp.subprocess, "run", return_value=fetch_ok),
