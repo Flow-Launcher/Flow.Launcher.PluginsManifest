@@ -173,6 +173,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
                 print(f"[changed] Targeted SHA fetch failed (rc={fetch.returncode}); falling back to branch ref.")
 
     if base_ref:
+        diff_base = f"origin/{base_ref}"
         print(f"[changed] Fetching origin/{base_ref} to resolve diff base.")
         fetch_ref = subprocess.run(
             ["git", "fetch", "--no-tags", "--depth=1", "origin", base_ref],
@@ -180,7 +181,6 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
             text=True,
         )
         if fetch_ref.returncode == 0:
-            diff_base = f"origin/{base_ref}"
             print(f"[changed] Diffing against {diff_base}.")
             paths = _run_git_diff(diff_base, use_merge_base=True)
             if paths is not None:
