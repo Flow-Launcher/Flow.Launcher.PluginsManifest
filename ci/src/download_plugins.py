@@ -92,13 +92,13 @@ def select_new_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
 
 
 def _commit_exists(sha_or_ref: str) -> bool:
-    """Return True if *sha_or_ref* resolves to a commit that is available locally.
+    """Return whether *sha_or_ref* resolves to a locally available commit.
 
     Args:
         sha_or_ref: A commit SHA, branch name, or remote-tracking ref.
 
     Returns:
-        True when the object exists and is accessible, False otherwise.
+        True when the commit exists locally, otherwise False.
     """
     result = subprocess.run(
         ["git", "cat-file", "-e", f"{sha_or_ref}^{{commit}}"],
@@ -114,9 +114,9 @@ def _run_git_diff(diff_base: str) -> list[str] | None:
         diff_base: A ref or SHA to diff HEAD against (three-dot syntax).
 
     Returns:
-        List of ``plugins/<Name>-<ID>.json`` paths (may be empty when no plugin
-        manifests changed), or ``None`` when the diff command itself fails
-        (e.g. the merge-base commit is not yet accessible in a shallow clone).
+        List of ``plugins/<Name>-<ID>.json`` paths, possibly empty when no
+        manifests changed. Returns ``None`` if the diff command fails, such as
+        when the merge-base is unavailable in a shallow clone.
     """
     result = subprocess.run(
         [
@@ -139,8 +139,8 @@ def _run_git_diff(diff_base: str) -> list[str] | None:
 def _get_changed_plugin_manifest_paths() -> list[str] | None:
     """Return repo-relative paths of plugin manifests added or modified vs the PR base.
 
-    Attempts to determine the correct diff base using the following strategy,
-    logging each step for diagnostics:
+    Attempts to resolve the diff base using the following strategy, logging each
+    step for diagnostics:
 
     1. Use ``GITHUB_BASE_SHA`` (exact PR base commit) if set and already
        locally available — no fetch needed.
@@ -151,7 +151,7 @@ def _get_changed_plugin_manifest_paths() -> list[str] | None:
     4. If the base ref fetch succeeds but the three-dot diff still fails, try
        ``--unshallow`` to obtain full history and retry.
     5. If all attempts fail, return ``None`` to signal that the diff base
-       could not be resolved and the caller should fail explicitly.
+       could not be resolved; the caller should fail explicitly.
 
     Uses a three-dot diff against the merge-base so that base branch advancing
     does not over-include files, and a changed ``UrlDownload`` on an existing
@@ -159,7 +159,7 @@ def _get_changed_plugin_manifest_paths() -> list[str] | None:
 
     Returns:
         List of ``plugins/<Name>-<ID>.json`` paths, or ``None`` when the diff
-       base cannot be resolved.
+        base cannot be resolved.
     """
     base_sha = os.getenv("GITHUB_BASE_SHA", "").strip()
     # GITHUB_BASE_REF is set automatically for pull_request_target runs
@@ -233,9 +233,9 @@ def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     Treats an updated manifest like a new submission, so a change to an
     existing plugin's ``UrlDownload`` is downloaded and scanned.
 
-    Exits with a non-zero status code when the diff base cannot be resolved
+    Exits with status 1 when the diff base cannot be resolved
     (``_get_changed_plugin_manifest_paths`` returns ``None``), so CI fails
-    loudly rather than silently scanning all plugins.
+    rather than silently scanning all plugins.
 
     Returns:
         Tuple of ``(changed_plugins, metadata_dict)``.
