@@ -159,7 +159,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
         else:
             print(f"[changed] Base commit {base_sha[:12]} not in shallow clone; fetching targeted commit.")
             fetch = subprocess.run(
-                ["git", "fetch", "--no-tags", "--depth=50", "origin", base_sha],
+                ["git", "fetch", "--no-tags", "--depth=1", "origin", base_sha],
                 capture_output=True,
                 text=True,
             )

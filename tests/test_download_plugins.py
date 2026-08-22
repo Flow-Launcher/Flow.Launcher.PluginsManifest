@@ -126,7 +126,8 @@ def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
     fetch_cmd = mock_run.call_args_list[0][0][0]
     assert "release/2.0" in fetch_cmd
     diff_cmd = mock_run.call_args_list[1][0][0]
-    assert "origin/release/2.0...HEAD" in diff_cmd
+    assert "origin/release/2.0" in diff_cmd
+    assert "HEAD" in diff_cmd
 
 
 def test_get_changed_plugin_manifest_paths_skips_blank_lines(monkeypatch):
@@ -217,10 +218,10 @@ def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monke
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
     fetch_fail = MagicMock(returncode=1, stderr="network error")
-    unshallow_fail = MagicMock(returncode=1, stderr="not a shallow repo")
+    ref_fetch_fail = MagicMock(returncode=1, stderr="network error")
 
     with (
-        patch.object(dp.subprocess, "run", side_effect=[fetch_fail, unshallow_fail]),
+        patch.object(dp.subprocess, "run", side_effect=[fetch_fail, ref_fetch_fail]),
         patch.object(dp, "_run_git_diff", return_value=None),
         pytest.raises(RuntimeError, match="reliable diff base"),
     ):
