@@ -167,7 +167,7 @@ def test_get_changed_plugin_manifest_paths_fetches_sha_when_not_local(monkeypatc
 
     fetch_ok = MagicMock(returncode=0)
     with (
-        patch.object(dp, "_commit_exists", side_effect=[False, True]),  # missing, then present after fetch
+        patch.object(dp, "_commit_exists", return_value=False),
         patch.object(dp.subprocess, "run", return_value=fetch_ok),
         patch.object(dp, "_run_git_diff", return_value=["plugins/New-id.json"]) as mock_diff,
     ):

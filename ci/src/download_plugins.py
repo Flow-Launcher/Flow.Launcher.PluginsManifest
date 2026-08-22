@@ -164,7 +164,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
                 capture_output=True,
                 text=True,
             )
-            if fetch.returncode == 0 and _commit_exists(base_sha):
+            if fetch.returncode == 0:
                 print(f"[changed] Targeted fetch succeeded; diffing against base SHA {base_sha[:12]}.")
                 paths = _run_git_diff(base_sha)
                 if paths is not None:
