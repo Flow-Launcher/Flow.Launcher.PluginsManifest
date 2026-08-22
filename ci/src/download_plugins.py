@@ -107,7 +107,7 @@ def _commit_exists(sha_or_ref: str) -> bool:
     return result.returncode == 0
 
 
-def _run_git_diff(diff_base: str) -> list[str] | None:
+def _run_git_diff(diff_base: str, use_merge_base: bool = False) -> list[str] | None:
     """Return plugin manifests changed between *diff_base* and HEAD.
 
     Args:
@@ -118,14 +118,14 @@ def _run_git_diff(diff_base: str) -> list[str] | None:
         manifests changed. ``None`` means Git could not compute the diff, so the
         caller can try another base.
     """
+    diff_range = [f"{diff_base}...HEAD"] if use_merge_base else [diff_base, "HEAD"]
     result = subprocess.run(
         [
             "git",
             "diff",
             "--diff-filter=AM",  # added or modified only
             "--name-only",  # paths only, no content
-            diff_base,
-            "HEAD",
+            *diff_range,
             "--",  # end of options, the rest are paths
             "plugins/*.json",  # only plugin manifest files
         ],
@@ -181,7 +181,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
         if fetch_ref.returncode == 0:
             diff_base = f"origin/{base_ref}"
             print(f"[changed] Diffing against {diff_base}.")
-            paths = _run_git_diff(diff_base)
+            paths = _run_git_diff(diff_base, use_merge_base=True)
             if paths is not None:
                 return paths
         else:

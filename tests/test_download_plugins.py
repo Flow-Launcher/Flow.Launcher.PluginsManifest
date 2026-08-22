@@ -133,7 +133,7 @@ def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
 def test_get_changed_plugin_manifest_paths_skips_blank_lines(monkeypatch):
     # Ignore blank lines in Git output.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
-    monkeypatch.delenv("GITHUB_BASE_REF", raising=False)
+    monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
     diff_output = "plugins/Foo-1.json\n\n"
     fetch_ok = MagicMock(returncode=0)
@@ -193,7 +193,7 @@ def test_get_changed_plugin_manifest_paths_falls_back_to_ref_when_sha_fetch_fail
         paths = dp._get_changed_plugin_manifest_paths()
 
     assert paths == ["plugins/Plugin-id.json"]
-    mock_diff.assert_called_once_with("origin/main")
+    mock_diff.assert_called_once_with("origin/main", True)
 
 
 def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatch):
@@ -209,7 +209,7 @@ def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatc
     ):
         dp._get_changed_plugin_manifest_paths()
 
-    mock_diff.assert_called_once_with("origin/main")
+    mock_diff.assert_called_once_with("origin/main", True)
 
 
 def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monkeypatch):
