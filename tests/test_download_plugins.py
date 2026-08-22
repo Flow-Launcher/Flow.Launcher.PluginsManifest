@@ -215,8 +215,8 @@ def test_get_changed_plugin_manifest_paths_unshallows_when_diff_fails_after_fetc
     assert mock_diff.call_count == 2
 
 
-def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail(monkeypatch):
-    # Return None so the caller can fail instead of scanning every plugin.
+def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monkeypatch):
+    # Fail changed mode instead of scanning every plugin.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
@@ -226,10 +226,9 @@ def test_get_changed_plugin_manifest_paths_returns_none_when_all_strategies_fail
     with (
         patch.object(dp.subprocess, "run", side_effect=[fetch_fail, unshallow_fail]),
         patch.object(dp, "_run_git_diff", return_value=None),
+        pytest.raises(RuntimeError, match="reliable diff base"),
     ):
-        result = dp._get_changed_plugin_manifest_paths()
-
-    assert result is None
+        dp._get_changed_plugin_manifest_paths()
 
 
 def test_select_changed_plugins_returns_matching_manifests():
@@ -272,14 +271,12 @@ def test_select_changed_plugins_returns_empty_when_no_matches():
 
 
 def test_select_changed_plugins_exits_when_diff_unavailable():
-    # Fail changed mode if the diff base is unavailable.
+    # Propagate a failure when the diff base is unavailable.
     with (
-        patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=None),
-        pytest.raises(SystemExit) as exc,
+        patch.object(dp, "_get_changed_plugin_manifest_paths", side_effect=RuntimeError("diff unavailable")),
+        pytest.raises(RuntimeError, match="diff unavailable"),
     ):
         dp.select_changed_plugins()
-
-    assert exc.value.code == 1
 
 
 def test_main_mode_changed(monkeypatch):

@@ -136,19 +136,17 @@ def _run_git_diff(diff_base: str) -> list[str] | None:
     return [line for line in result.stdout.splitlines() if line]
 
 
-def _get_changed_plugin_manifest_paths() -> list[str] | None:
+def _get_changed_plugin_manifest_paths() -> list[str]:
     """Return plugin manifests added or modified against the PR base.
-
-    It first tries the supplied base SHA, then the base branch, and finally a
-    full fetch. ``None`` means all Git attempts failed; this is returned rather
-    than raised so the selector can report the CI error and exit deliberately.
 
     The three-dot diff uses the merge-base, so changes to an existing
     ``UrlDownload`` are included without pulling in unrelated base-branch work.
 
     Returns:
-        Changed ``plugins/<Name>-<ID>.json`` paths, or ``None`` if no reliable
-        diff base can be resolved.
+        Changed ``plugins/<Name>-<ID>.json`` paths.
+
+    Raises:
+        RuntimeError: If no reliable diff base can be resolved.
     """
     base_sha = os.getenv("GITHUB_BASE_SHA", "").strip()
     # GitHub sets GITHUB_BASE_REF for pull_request_target runs.
@@ -207,26 +205,18 @@ def _get_changed_plugin_manifest_paths() -> list[str] | None:
         print(f"[changed] --unshallow failed (rc={unshallow.returncode}): {unshallow.stderr.strip()}")
 
     print("[changed] ERROR: Could not compute a reliable diff base after all fetch attempts.")
-    return None
+    raise RuntimeError("Could not compute a reliable diff base after all fetch attempts.")
 
 
 def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     """Select plugins whose manifests changed against the PR base.
 
-    An updated manifest is handled like a new submission. If the diff base is
-    unavailable, exit with status 1 instead of scanning every plugin.
+    An updated manifest is handled like a new submission.
 
     Returns:
         Tuple of ``(changed_plugins, metadata_dict)``.
     """
     changed_paths = _get_changed_plugin_manifest_paths()
-
-    if changed_paths is None:
-        print(
-            "[changed] Cannot determine which plugins changed: all attempts to resolve the diff base failed.\n"
-            "Ensure GITHUB_BASE_SHA is set correctly and the repository is fetched with sufficient depth."
-        )
-        sys.exit(1)
 
     all_plugins = list(plugin_reader())
     changed_names = {Path(path).name for path in changed_paths}
