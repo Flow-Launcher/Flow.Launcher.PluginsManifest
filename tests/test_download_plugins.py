@@ -106,7 +106,8 @@ def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs(monkeypatch):
     assert "main" in fetch_cmd
     diff_cmd = mock_run.call_args_list[1][0][0]
     assert diff_cmd[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
-    assert "origin/main...HEAD" in diff_cmd
+    assert "origin/main" in diff_cmd
+    assert "HEAD" in diff_cmd
     assert "plugins/*.json" in diff_cmd
 
 
@@ -194,22 +195,20 @@ def test_get_changed_plugin_manifest_paths_falls_back_to_ref_when_sha_fetch_fail
     mock_diff.assert_called_once_with("origin/main")
 
 
-def test_get_changed_plugin_manifest_paths_unshallows_when_diff_fails_after_fetch(monkeypatch):
-    # Fetch full history if a shallow clone cannot resolve the merge-base.
+def test_get_changed_plugin_manifest_paths_raises_when_ref_diff_fails(monkeypatch):
+    # Fail when the fetched base cannot be compared with HEAD.
     monkeypatch.delenv("GITHUB_BASE_SHA", raising=False)
     monkeypatch.setenv("GITHUB_BASE_REF", "main")
 
     ref_fetch_ok = MagicMock(returncode=0)
-    unshallow_ok = MagicMock(returncode=0)
-
     with (
-        patch.object(dp.subprocess, "run", side_effect=[ref_fetch_ok, unshallow_ok]),
-        patch.object(dp, "_run_git_diff", side_effect=[None, ["plugins/P-id.json"]]) as mock_diff,
+        patch.object(dp.subprocess, "run", return_value=ref_fetch_ok),
+        patch.object(dp, "_run_git_diff", return_value=None) as mock_diff,
+        pytest.raises(RuntimeError, match="reliable diff base"),
     ):
-        paths = dp._get_changed_plugin_manifest_paths()
+        dp._get_changed_plugin_manifest_paths()
 
-    assert paths == ["plugins/P-id.json"]
-    assert mock_diff.call_count == 2
+    mock_diff.assert_called_once_with("origin/main")
 
 
 def test_get_changed_plugin_manifest_paths_raises_when_all_strategies_fail(monkeypatch):

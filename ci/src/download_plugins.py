@@ -108,10 +108,10 @@ def _commit_exists(sha_or_ref: str) -> bool:
 
 
 def _run_git_diff(diff_base: str) -> list[str] | None:
-    """Return plugin manifests changed from *diff_base*, or ``None`` on failure.
+    """Return plugin manifests changed between *diff_base* and HEAD.
 
     Args:
-        diff_base: A ref or SHA to diff HEAD against (three-dot syntax).
+        diff_base:         A ref or SHA to compare with HEAD.
 
     Returns:
         Changed ``plugins/<Name>-<ID>.json`` paths. An empty list means no
@@ -124,7 +124,8 @@ def _run_git_diff(diff_base: str) -> list[str] | None:
             "diff",
             "--diff-filter=AM",  # added or modified only
             "--name-only",  # paths only, no content
-            f"{diff_base}...HEAD",  # three-dot: this PR's changes vs merge-base
+            diff_base,
+            "HEAD",
             "--",  # end of options, the rest are paths
             "plugins/*.json",  # only plugin manifest files
         ],
@@ -172,7 +173,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
 
     print(f"[changed] Fetching origin/{base_ref} to resolve diff base.")
     fetch_ref = subprocess.run(
-        ["git", "fetch", "--no-tags", "--depth=50", "origin", base_ref],
+        ["git", "fetch", "--no-tags", "--depth=1", "origin", base_ref],
         capture_output=True,
         text=True,
     )
@@ -182,24 +183,8 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
         paths = _run_git_diff(diff_base)
         if paths is not None:
             return paths
-        print(f"[changed] Three-dot diff against {diff_base} failed after branch fetch; attempting --unshallow.")
     else:
-        print(f"[changed] Branch ref fetch for origin/{base_ref} failed (rc={fetch_ref.returncode}); attempting --unshallow.")
-
-    unshallow = subprocess.run(
-        ["git", "fetch", "--unshallow", "origin"],
-        capture_output=True,
-        text=True,
-    )
-    if unshallow.returncode == 0:
-        diff_base = f"origin/{base_ref}"
-        print(f"[changed] Unshallow succeeded; retrying diff against {diff_base}.")
-        paths = _run_git_diff(diff_base)
-        if paths is not None:
-            return paths
-        print(f"[changed] Diff still failed after --unshallow.")
-    else:
-        print(f"[changed] --unshallow failed (rc={unshallow.returncode}): {unshallow.stderr.strip()}")
+        print(f"[changed] Branch ref fetch failed (rc={fetch_ref.returncode}).")
 
     print("[changed] ERROR: Could not compute a reliable diff base after all fetch attempts.")
     raise RuntimeError("Could not compute a reliable diff base after all fetch attempts.")
