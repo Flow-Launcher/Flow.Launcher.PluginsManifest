@@ -112,6 +112,7 @@ def _run_git_diff(diff_base: str, use_merge_base: bool = False) -> list[str] | N
 
     Args:
         diff_base:         A ref or SHA to compare with HEAD.
+        use_merge_base:   Use a three-dot diff to compare from the refs' merge base.
 
     Returns:
         Changed ``plugins/<Name>-<ID>.json`` paths. An empty list means no
@@ -187,8 +188,9 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
         else:
             print(f"[changed] Branch ref fetch failed (rc={fetch_ref.returncode}).")
 
-    print("[changed] ERROR: Could not compute a reliable diff base from the configured base SHA or ref.")
-    raise RuntimeError("Could not compute a reliable diff base from the configured base SHA or ref.")
+    error = "Could not compute a reliable diff base from the configured base SHA or ref."
+    print(f"[changed] ERROR: {error}")
+    raise RuntimeError(error)
 
 
 def select_changed_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
