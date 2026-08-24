@@ -104,11 +104,6 @@ def _repo_is_shallow() -> bool:
 def _get_changed_plugin_manifest_paths() -> list[str]:
     """Return repo-relative paths of plugin manifests added or modified vs the PR base.
 
-    Fetches the base branch first, since a PR checkout is shallow and the
-    base commits are not present locally.  Uses a three-dot diff against
-    the merge-base so a changed ``UrlDownload`` on an existing plugin is
-    re-scanned, and main advancing does not over-include files.
-
     Returns:
         List of ``plugins/<Name>-<ID>.json`` paths.
     """
@@ -135,7 +130,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
             "plugins/*.json",  # only plugin manifest files
         ],
         check=True,
-        capture_output=True,
+        stdout=subprocess.PIPE,
         text=True,
     )
     return [line for line in result.stdout.splitlines() if line]
