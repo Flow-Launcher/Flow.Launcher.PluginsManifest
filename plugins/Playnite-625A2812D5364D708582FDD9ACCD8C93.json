@@ -8,7 +8,7 @@
     "Website": "https://github.com/Garulf/Playnite-Plugin",
     "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.0.0/Playnite-Plugin-3.0.0.zip",
     "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/data/icon.png",
     "Tested": true,
     "LatestReleaseDate": "2026-08-25T15:39:10Z",
     "DateAdded": "2022-10-08T16:26:57Z"
