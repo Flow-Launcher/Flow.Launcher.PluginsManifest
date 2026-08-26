@@ -6,8 +6,7 @@
   "Version": "1.0.0",
   "Language": "python",
   "Website": "https://docs.fivem.net/natives/",
-  "UrlDownload": "https://github.com/JusteKal/FxNatives/releases/download/Release/FlowFxNatives-1.0.0.zip",
+  "UrlDownload": "https://github.com/JusteKal/FxNatives/releases/download/Release/FxNatives-1.0.0.zip",
   "UrlSourceCode": "https://github.com/JusteKal/FxNatives",
   "IcoPath": "https://cdn.jsdelivr.net/gh/JusteKal/FlowFxNatives-1.0.0@main/Images/icon.png"
 }
-
