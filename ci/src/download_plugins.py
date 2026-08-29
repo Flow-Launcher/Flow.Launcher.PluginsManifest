@@ -90,13 +90,19 @@ def select_new_plugins() -> tuple[list[dict[str, str]], dict[str, Any]]:
     return plugins, meta
 
 
+def _repo_is_shallow() -> bool:
+    """Return True when the checkout is a shallow clone."""
+    result = subprocess.run(
+        ["git", "rev-parse", "--is-shallow-repository"],
+        check=True,
+        stdout=subprocess.PIPE,
+        text=True,
+    )
+    return result.stdout.strip() == "true"
+
+
 def _get_changed_plugin_manifest_paths() -> list[str]:
     """Return repo-relative paths of plugin manifests added or modified vs the PR base.
-
-    Fetches the base branch first, since a PR checkout is shallow and the
-    base commits are not present locally.  Uses a three-dot diff against
-    the merge-base so a changed ``UrlDownload`` on an existing plugin is
-    re-scanned, and main advancing does not over-include files.
 
     Returns:
         List of ``plugins/<Name>-<ID>.json`` paths.
@@ -104,8 +110,12 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
     # GITHUB_BASE_REF is set automatically for pull_request_target runs, otherwise fallback to main
     base_ref = os.getenv("GITHUB_BASE_REF") or "main"
 
-    # PR checkout is shallow so the base branch must be fetched again
-    subprocess.run(["git", "fetch", "origin", base_ref], check=True, capture_output=True, text=True)
+    # A three-dot diff needs the merge-base, which a shallow checkout cannot provide
+    if _repo_is_shallow():
+        subprocess.run(["git", "fetch", "--unshallow", "origin"], check=True)
+
+    # Keep the base branch ref current before diffing against it
+    subprocess.run(["git", "fetch", "origin", base_ref], check=True)
 
     # Three-dot diff shows only this PR's changes vs the merge-base.
     # Only added or modified manifests matter. Deleted files are not considered.
@@ -120,7 +130,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
             "plugins/*.json",  # only plugin manifest files
         ],
         check=True,
-        capture_output=True,
+        stdout=subprocess.PIPE,
         text=True,
     )
     return [line for line in result.stdout.splitlines() if line]

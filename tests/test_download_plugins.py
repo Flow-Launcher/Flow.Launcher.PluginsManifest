@@ -87,58 +87,79 @@ def test_select_new_plugins_skips_ids_not_in_reader():
         assert plugins[0]["ID"] == "1"
 
 
-def test_get_changed_plugin_manifest_paths_fetches_base_then_diffs():
-    # A PR checkout is shallow, so we fetch the base branch before diffing against it. 
-    # Only added or modified plugin manifests should come back.
-    
+def test_get_changed_plugin_manifest_paths_fetches_base_before_diffing():
     base_ref = "main"
     diff_output = "plugins/Foo-1.json\nplugins/Bar-2.json\n"
 
-    # simulate
     fetch_result = MagicMock()
     diff_result = MagicMock(stdout=diff_output)
-    with patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run:
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=False),
+        patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run,
+    ):
         paths = dp._get_changed_plugin_manifest_paths()
 
-    # check
     assert paths == ["plugins/Foo-1.json", "plugins/Bar-2.json"]
-    assert mock_run.call_args_list[0][0][0] == ["git", "fetch", "origin", base_ref]
-    command = mock_run.call_args_list[1][0][0]
-    assert command[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
-    assert f"origin/{base_ref}...HEAD" in command
-    assert "plugins/*.json" in command
+    fetch_command, diff_command = [call.args[0] for call in mock_run.call_args_list]
+    assert fetch_command == ["git", "fetch", "origin", base_ref]
+    assert diff_command[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
+    assert f"origin/{base_ref}...HEAD" in diff_command
+    assert "plugins/*.json" in diff_command
+
+
+def test_get_changed_plugin_manifest_paths_unshallows_before_fetching_base():
+    base_ref = "main"
+    diff_output = "plugins/Foo-1.json\n"
+
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=True),
+        patch.object(
+            dp.subprocess,
+            "run",
+            side_effect=[MagicMock(), MagicMock(), MagicMock(stdout=diff_output)],
+        ) as mock_run,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Foo-1.json"]
+    unshallow_command, fetch_command, diff_command = [
+        call.args[0] for call in mock_run.call_args_list
+    ]
+    assert unshallow_command == ["git", "fetch", "--unshallow", "origin"]
+    assert fetch_command == ["git", "fetch", "origin", base_ref]
+    assert diff_command[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
+    assert f"origin/{base_ref}...HEAD" in diff_command
+    assert "plugins/*.json" in diff_command
 
 
 def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
-    # The base branch comes from GITHUB_BASE_REF, 
-    # so a PR that targets something other than main still diffs against the right branch.
-    
     base_ref = "test"
 
-    # simulate
     monkeypatch.setenv("GITHUB_BASE_REF", base_ref)
     fetch_result = MagicMock()
     diff_result = MagicMock(stdout="")
-    with patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run:
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=False),
+        patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run,
+    ):
         dp._get_changed_plugin_manifest_paths()
 
-    # check
-    assert mock_run.call_args_list[0][0][0] == ["git", "fetch", "origin", base_ref]
-    assert f"origin/{base_ref}...HEAD" in mock_run.call_args_list[1][0][0]
+    fetch_command, diff_command = [call.args[0] for call in mock_run.call_args_list]
+    assert fetch_command == ["git", "fetch", "origin", base_ref]
+    assert f"origin/{base_ref}...HEAD" in diff_command
 
 
 def test_get_changed_plugin_manifest_paths_skips_blank_lines():
-    # git output can include blank lines, and those must not be treated as manifest paths.
-    
     diff_output = "plugins/Foo-1.json\n\n"
 
-    # simulate
     fetch_result = MagicMock()
     diff_result = MagicMock(stdout=diff_output)
-    with patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run:
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=False),
+        patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run,
+    ):
         paths = dp._get_changed_plugin_manifest_paths()
 
-    # check
     assert paths == ["plugins/Foo-1.json"]
 
 
