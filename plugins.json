@@ -234,14 +234,14 @@
         "Name": "Playnite",
         "Description": "Search and launch your Playnite library.",
         "Author": "Garulf",
-        "Version": "3.0.0",
+        "Version": "3.1.0",
         "Language": "python_v2",
         "Website": "https://github.com/Garulf/Playnite-Plugin",
-        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.0.0/Playnite-Plugin-3.0.0.zip",
+        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.1.0/Playnite-Plugin-3.1.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/data/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2026-08-25T15:39:10Z",
+        "LatestReleaseDate": "2026-08-30T14:56:19Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3865,6 +3865,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-Workspacer/BarLauncher.Workspacer.Flow.Launcher/BarLauncher-Workspacer-64.png",
         "LatestReleaseDate": "2022-03-13T13:14:25Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "1a6af486-416d-470b-86db-947fb4095588",
+        "Name": "GrepFlow",
+        "Description": "Search file contents with ripgrep in the folder you're already in",
+        "Author": "keekys",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/keekyslusus/GrepFlow",
+        "UrlDownload": "https://github.com/keekyslusus/GrepFlow/releases/download/v1.0.1/Flow.Launcher.Plugin.GrepFlow.zip",
+        "UrlSourceCode": "https://github.com/keekyslusus/GrepFlow/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/GrepFlow@master/Images/app.png",
+        "LatestReleaseDate": "2026-08-19T15:40:14Z"
     },
     {
         "ID": "8de584c0-f855-4825-8886-65e670ebe441",
