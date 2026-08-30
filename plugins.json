@@ -234,14 +234,14 @@
         "Name": "Playnite",
         "Description": "Search and launch your Playnite library.",
         "Author": "Garulf",
-        "Version": "3.0.0",
+        "Version": "3.1.0",
         "Language": "python_v2",
         "Website": "https://github.com/Garulf/Playnite-Plugin",
-        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.0.0/Playnite-Plugin-3.0.0.zip",
+        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.1.0/Playnite-Plugin-3.1.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/data/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2026-08-25T15:39:10Z",
+        "LatestReleaseDate": "2026-08-30T14:56:19Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3867,6 +3867,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "1a6af486-416d-470b-86db-947fb4095588",
+        "Name": "GrepFlow",
+        "Description": "Search file contents with ripgrep in the folder you're already in",
+        "Author": "keekys",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/keekyslusus/GrepFlow",
+        "UrlDownload": "https://github.com/keekyslusus/GrepFlow/releases/download/v1.0.1/Flow.Launcher.Plugin.GrepFlow.zip",
+        "UrlSourceCode": "https://github.com/keekyslusus/GrepFlow/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/GrepFlow@master/Images/app.png",
+        "LatestReleaseDate": "2026-08-19T15:40:14Z"
+    },
+    {
         "ID": "8de584c0-f855-4825-8886-65e670ebe441",
         "Name": "Unity Projects Launcher",
         "Description": "adds an option to launch Unity projects from Flow Launcher",
@@ -4394,6 +4407,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Joehoel/flow-hacker-news/assets/hacker-news.png",
         "DateAdded": "2023-02-10T01:47:29Z",
         "LatestReleaseDate": "2023-02-05T22:47:46Z"
+    },
+    {
+        "ID": "0D4F3C45-D10E-457D-8D4E-46A36F07DE07",
+        "Name": "FlowDLP",
+        "Description": "Download any video and audio with yt-dlp",
+        "Author": "axiomsound",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
+        "UrlDownload": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowDLP.zip",
+        "UrlSourceCode": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
+        "IcoPath": "https://raw.githubusercontent.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/main/Flow.Launcher.Plugin.FlowDLP/icon.png",
+        "LatestReleaseDate": "2026-08-11T22:19:49Z",
+        "DateAdded": "2026-08-29T09:52:39Z"
     },
     {
         "ID": "340E73A8A8C148A28082C90207E097B3",
