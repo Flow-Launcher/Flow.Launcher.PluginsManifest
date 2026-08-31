@@ -3,10 +3,10 @@
   "Name": "AI Assistant using groq",
   "Description": "Ask AI directly from Flow Launcher",
   "Author": "Omprakash-Wagh",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Language": "python",
   "Website": "https://github.com/Omprakash-Wagh/Ai-Assistant",
-  "UrlDownload": "https://github.com/Omprakash-Wagh/Ai-Assistant/releases/download/v1.0.1/Ai-Assistant.zip",
+  "UrlDownload": "https://github.com/Omprakash-Wagh/Ai-Assistant/releases/download/v1.0.2/Ai-Assistant.zip",
   "UrlSourceCode": "https://github.com/Omprakash-Wagh/Ai-Assistant",
   "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Ai-Assistant@main/icon.png"
 }
