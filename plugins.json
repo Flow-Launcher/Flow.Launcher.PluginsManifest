@@ -234,14 +234,14 @@
         "Name": "Playnite",
         "Description": "Search and launch your Playnite library.",
         "Author": "Garulf",
-        "Version": "2.0.0",
-        "Language": "python",
-        "Website": "https://github.com/Garulf/playnite-plugin",
-        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v2.0.0/Playnite-Plugin.zip",
+        "Version": "3.1.0",
+        "Language": "python_v2",
+        "Website": "https://github.com/Garulf/Playnite-Plugin",
+        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.1.0/Playnite-Plugin-3.1.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/icon.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/data/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-09-12T18:06:52Z",
+        "LatestReleaseDate": "2026-08-30T14:56:19Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -518,6 +518,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher@master/Plugins/Flow.Launcher.Plugin.Explorer/Images/explorer.png",
         "DateAdded": "2023-09-27T02:43:06Z",
         "LatestReleaseDate": "2026-06-08T05:03:26Z"
+    },
+    {
+        "ID": "621d4d5c-cf05-4031-a427-11688b0767b3",
+        "Name": "Chinese Converter",
+        "Description": "Fast Simplified/Traditional Chinese conversion with Taiwan and Hong Kong variants / 快速简繁转换，支持台湾及香港用词",
+        "Author": "lennonlu",
+        "Version": "0.1.2",
+        "Language": "CSharp",
+        "Website": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter",
+        "UrlDownload": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/releases/download/v0.1.2/Flow.Launcher.Plugin.ChineseConverter.zip",
+        "UrlSourceCode": "https://github.com/lennonlu/Flow.Launcher.Plugin.ChineseConverter/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/lennonlu/Flow.Launcher.Plugin.ChineseConverter@main/src/Flow.Launcher.Plugin.ChineseConverter/Images/app.svg",
+        "MinimumAppVersion": "2.1.1",
+        "LatestReleaseDate": "2026-08-14T08:17:17Z",
+        "DateAdded": "2026-08-22T01:26:27Z"
     },
     {
         "ID": "A3EA904783E14335894354F09DC4B054",
@@ -1223,15 +1238,15 @@
     {
         "ID": "baf19c15c7054fcfb2ad422fb9dc161d",
         "Name": "MonitorCowboy",
-        "Description": "Control your monitors over DDC/CI - switch input source and set volume from Flow.",
+        "Description": "Control your monitors over DDC/CI - switch input source, set brightness and volume from Flow.",
         "Author": "True347",
-        "Version": "1.1.1",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "https://github.com/True347/MonitorCowboy",
-        "UrlDownload": "https://github.com/True347/MonitorCowboy/releases/download/v1.1.1/Flow.Launcher.Plugin.MonitorCowboy.zip",
+        "UrlDownload": "https://github.com/True347/MonitorCowboy/releases/download/v1.2.0/Flow.Launcher.Plugin.MonitorCowboy.zip",
         "UrlSourceCode": "https://github.com/True347/MonitorCowboy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/True347/MonitorCowboy@main/Images/app.png",
-        "LatestReleaseDate": "2026-08-11T06:37:35Z",
+        "LatestReleaseDate": "2026-08-21T03:16:44Z",
         "DateAdded": "2026-08-13T02:21:31Z"
     },
     {
@@ -2072,13 +2087,13 @@
         "Name": "Edge Workspaces",
         "Description": "Open Edge Workspaces",
         "Author": "Andrew Bradley",
-        "Version": "0.0.5",
+        "Version": "0.0.6",
         "Language": "Executable",
         "Website": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
-        "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces/releases/download/v0.0.5/Flow.Launcher.Plugin.EdgeWorkspaces.zip",
+        "UrlDownload": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces/releases/download/v0.0.6/Flow.Launcher.Plugin.EdgeWorkspaces.zip",
         "UrlSourceCode": "https://github.com/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces",
         "IcoPath": "https://cdn.jsdelivr.net/gh/cspotcode/Flow.Launcher.Plugin.EdgeWorkspaces@main/Images/app.png",
-        "LatestReleaseDate": "2025-09-09T19:47:52Z",
+        "LatestReleaseDate": "2026-08-21T19:43:56Z",
         "DateAdded": "2024-10-16T12:40:30Z"
     },
     {
@@ -3823,6 +3838,21 @@
         "DateAdded": "2026-08-06T11:27:04Z"
     },
     {
+        "ID": "C6DDA7F7A7F64A9D9E5C2B6DC6EE5C2D",
+        "Name": "Custom Bangs",
+        "Description": "Use configurable bangs and shortcut-based search groups from Flow Launcher",
+        "Author": "tpdhd",
+        "Version": "0.7.0",
+        "Language": "csharp",
+        "Website": "https://github.com/tpdhd/Flow.Launcher.Plugin.CustomBangs",
+        "UrlDownload": "https://github.com/tpdhd/Flow.Launcher.Plugin.CustomBangs/releases/download/v0.7.0/Flow.Launcher.Plugin.CustomBangs-0.7.0.zip",
+        "UrlSourceCode": "https://github.com/tpdhd/Flow.Launcher.Plugin.CustomBangs/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/tpdhd/Flow.Launcher.Plugin.CustomBangs@v0.7.0/src/Flow.Launcher.Plugin.CustomBangs/Images/app.png",
+        "MinimumAppVersion": "2.1.3",
+        "LatestReleaseDate": "2026-08-16T19:19:01Z",
+        "DateAdded": "2026-08-22T15:25:47Z"
+    },
+    {
         "ID": "5C36ECBD-629E-412B-8DD3-2457EE7C522B",
         "Name": "Workspacer",
         "Description": "Create and manage workspaces",
@@ -3835,6 +3865,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/gissehel/BarLauncher-Workspacer/BarLauncher.Workspacer.Flow.Launcher/BarLauncher-Workspacer-64.png",
         "LatestReleaseDate": "2022-03-13T13:14:25Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "1a6af486-416d-470b-86db-947fb4095588",
+        "Name": "GrepFlow",
+        "Description": "Search file contents with ripgrep in the folder you're already in",
+        "Author": "keekys",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/keekyslusus/GrepFlow",
+        "UrlDownload": "https://github.com/keekyslusus/GrepFlow/releases/download/v1.0.1/Flow.Launcher.Plugin.GrepFlow.zip",
+        "UrlSourceCode": "https://github.com/keekyslusus/GrepFlow/tree/master",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/GrepFlow@master/Images/app.png",
+        "LatestReleaseDate": "2026-08-19T15:40:14Z",
+        "DateAdded": "2026-08-30T16:23:38Z"
     },
     {
         "ID": "8de584c0-f855-4825-8886-65e670ebe441",
@@ -4366,6 +4410,20 @@
         "LatestReleaseDate": "2023-02-05T22:47:46Z"
     },
     {
+        "ID": "0D4F3C45-D10E-457D-8D4E-46A36F07DE07",
+        "Name": "FlowDLP",
+        "Description": "Download any video and audio with yt-dlp",
+        "Author": "axiomsound",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
+        "UrlDownload": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/releases/download/v1.0.0/Flow.Launcher.Plugin.FlowDLP.zip",
+        "UrlSourceCode": "https://github.com/axiomsound/Flow.Launcher.Plugin.FlowDLP",
+        "IcoPath": "https://raw.githubusercontent.com/axiomsound/Flow.Launcher.Plugin.FlowDLP/main/Flow.Launcher.Plugin.FlowDLP/icon.png",
+        "LatestReleaseDate": "2026-08-11T22:19:49Z",
+        "DateAdded": "2026-08-29T09:52:39Z"
+    },
+    {
         "ID": "340E73A8A8C148A28082C90207E097B3",
         "Name": "QrCodeGenerator",
         "Description": "Qr Code Generator or Parser Qr Code file Plugin",
@@ -4450,6 +4508,20 @@
         "LatestReleaseDate": "2025-05-26T09:46:19Z",
         "Tested": true,
         "DateAdded": "2025-05-29T06:34:14Z"
+    },
+    {
+        "ID": "9d4837b0-4c77-4d0d-b7ad-9879b2bd907e",
+        "Name": "Quick Uninstall",
+        "Description": "Fast native uninstall for programs, apps and Steam games with sorting, statistics and in-Flow confirmation.",
+        "Author": "Adfnitum",
+        "Version": "1.1.1",
+        "Language": "csharp",
+        "Website": "https://github.com/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall",
+        "UrlDownload": "https://github.com/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall/releases/download/v1.1.1/QuickUninstall-1.1.1.zip",
+        "UrlSourceCode": "https://github.com/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall@main/icon.png",
+        "LatestReleaseDate": "2026-08-14T17:01:43Z",
+        "DateAdded": "2026-08-22T15:25:47Z"
     },
     {
         "ID": "6bfc4672-5550-4d40-b2dc-53093a2417a0",
@@ -4819,13 +4891,13 @@
         "Name": "Gemini Actions",
         "Description": "Run pre-configured Gemini prompts (translate, correct, rewrite ...) against your text and copy the result to the clipboard.",
         "Author": "Jan Haug",
-        "Version": "1.1.5",
+        "Version": "1.1.6",
         "Language": "csharp",
         "Website": "https://github.com/haugjan/Flow.GeminiActions",
-        "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.5/GeminiActions-1.1.5.zip",
+        "UrlDownload": "https://github.com/haugjan/Flow.GeminiActions/releases/download/v1.1.6/GeminiActions-1.1.6.zip",
         "UrlSourceCode": "https://github.com/haugjan/Flow.GeminiActions",
         "IcoPath": "https://cdn.jsdelivr.net/gh/haugjan/Flow.GeminiActions@main/Flow.GeminiActions/Images/icon.png",
-        "LatestReleaseDate": "2026-08-04T10:26:54Z",
+        "LatestReleaseDate": "2026-08-21T11:38:12Z",
         "DateAdded": "2026-05-28T16:10:05Z"
     },
     {
@@ -4962,13 +5034,13 @@
         "Name": "Scoop",
         "Description": "Scoop plugin for Flow. Search and Manage for apps with Scoop",
         "Author": "xavialyra",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Language": "csharp",
         "Website": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
-        "UrlDownload": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop/releases/download/v1.0.1/Flow.Launcher.Plugin.Scoop.zip",
+        "UrlDownload": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop/releases/download/v1.0.2/Flow.Launcher.Plugin.Scoop.zip",
         "UrlSourceCode": "https://github.com/xavialyra/Flow.Launcher.Plugin.Scoop",
         "IcoPath": "https://cdn.jsdelivr.net/gh/xavialyra/Flow.Launcher.Plugin.Scoop@master/Images/scoop-icon.png",
-        "LatestReleaseDate": "2025-04-05T14:50:30Z",
+        "LatestReleaseDate": "2026-08-24T18:59:15Z",
         "DateAdded": "2025-03-31T21:20:56Z"
     },
     {

@@ -1,0 +1,15 @@
+{
+    "ID": "C6DDA7F7A7F64A9D9E5C2B6DC6EE5C2D",
+    "Name": "Custom Bangs",
+    "Description": "Use configurable bangs and shortcut-based search groups from Flow Launcher",
+    "Author": "tpdhd",
+    "Version": "0.7.0",
+    "Language": "csharp",
+    "Website": "https://github.com/tpdhd/Flow.Launcher.Plugin.CustomBangs",
+    "UrlDownload": "https://github.com/tpdhd/Flow.Launcher.Plugin.CustomBangs/releases/download/v0.7.0/Flow.Launcher.Plugin.CustomBangs-0.7.0.zip",
+    "UrlSourceCode": "https://github.com/tpdhd/Flow.Launcher.Plugin.CustomBangs/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/tpdhd/Flow.Launcher.Plugin.CustomBangs@v0.7.0/src/Flow.Launcher.Plugin.CustomBangs/Images/app.png",
+    "MinimumAppVersion": "2.1.3",
+    "LatestReleaseDate": "2026-08-16T19:19:01Z",
+    "DateAdded": "2026-08-22T15:25:47Z"
+}
