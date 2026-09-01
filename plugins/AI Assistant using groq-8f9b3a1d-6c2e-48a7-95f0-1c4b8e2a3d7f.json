@@ -1,12 +1,15 @@
 {
-  "ID": "8f9b3a1d-6c2e-48a7-95f0-1c4b8e2a3d7f",
-  "Name": "AI Assistant using groq",
-  "Description": "Ask AI directly from Flow Launcher",
-  "Author": "Omprakash-Wagh",
-  "Version": "1.0.4",
-  "Language": "python",
-  "Website": "https://github.com/Omprakash-Wagh/Ai-Assistant",
-  "UrlDownload": "https://github.com/Omprakash-Wagh/Ai-Assistant/releases/download/v1.0.4/Ai-Assistant.zip",
-  "UrlSourceCode": "https://github.com/Omprakash-Wagh/Ai-Assistant",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Ai-Assistant@main/icon.png"
+    "ID": "8f9b3a1d-6c2e-48a7-95f0-1c4b8e2a3d7f",
+    "Name": "AI Assistant using groq",
+    "Description": "Ask AI directly from Flow Launcher",
+    "Author": "Omprakash-Wagh",
+    "Version": "1.0.4",
+    "Language": "python",
+    "Website": "https://github.com/Omprakash-Wagh/Ai-Assistant",
+    "UrlDownload": "https://github.com/Omprakash-Wagh/AI-Assistant/releases/download/v1.0.4/Ai-Assistant.zip",
+    "UrlSourceCode": "https://github.com/Omprakash-Wagh/Ai-Assistant",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Ai-Assistant@main/icon.png",
+    "LatestReleaseDate": "2026-08-31T12:59:01Z",
+    "Tested": true,
+    "DateAdded": "2026-08-31T20:43:32Z"
 }
