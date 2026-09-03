@@ -5130,5 +5130,17 @@
         "Tested": true,
         "DateAdded": "2024-08-03T22:34:00Z",
         "LatestReleaseDate": "2026-02-23T18:44:27Z"
+    },
+    {
+        "ID": "edc9cfc3-b9e8-4ac0-b85c-15a35c9ecb87",
+        "Name": "HLTB Search",
+        "Description": "Search HowLongToBeat game completion times",
+        "Author": "NikRush",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/NikRushGH/HLTB-Search-Flow",
+        "UrlDownload": "https://github.com/NikRushGH/HLTB-Search-Flow/releases/download/v1.0.0/HLTB-Search-v1.0.0.zip",
+        "UrlSourceCode": "https://github.com/NikRushGH/HLTB-Search-Flow/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/NikRushGH/HLTB-Search-Flow@main/Images/icon.png"
     }
 ]
