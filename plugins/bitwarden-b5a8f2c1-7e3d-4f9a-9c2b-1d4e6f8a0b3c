@@ -1,0 +1,11 @@
+{
+  "ID": "b5a8f2c1-7e3d-4f9a-9c2b-1d4e6f8a0b3c",
+  "Name": "Bitwarden",
+  "Description": "Search and autofill your Bitwarden vault from Flow Launcher",
+  "Author": "huoyan1231",
+  "Version": "1.0.2",
+  "Language": "csharp",
+  "UrlDownload": "https://github.com/huoyan1231/Flow.Bitwarden/releases/download/v1.0.2/Flow.Launcher.Plugin.Bitwarden-1.0.2.zip",
+  "UrlSourceCode": "https://github.com/huoyan1231/Flow.Bitwarden",
+  "IcoPath": "Images\\app.png",
+}
