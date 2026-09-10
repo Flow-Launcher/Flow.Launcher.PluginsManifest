@@ -3,10 +3,10 @@
   "Name": "GitHub CLI",
   "Description": "Search your repositories, organizations, pull requests, and recent popular repositories using the local gh CLI",
   "Author": "Liaco123",
-  "Version": "0.1.0",
+  "Version": "0.1.1",
   "Language": "csharp",
   "Website": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli",
-  "UrlDownload": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli/releases/download/v0.1.0/Flow.Launcher.Plugin.GitHubCli.zip",
+  "UrlDownload": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli/releases/download/v0.1.1/Flow.Launcher.Plugin.GitHubCli.zip",
   "UrlSourceCode": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli",
   "IcoPath": "https://cdn.jsdelivr.net/gh/Liaco123/Flow.Launcher.Plugin.GitHubCli@main/src/Flow.Launcher.Plugin.GitHubCli/Images/app.png",
   "MinimumAppVersion": "2.1.3"
