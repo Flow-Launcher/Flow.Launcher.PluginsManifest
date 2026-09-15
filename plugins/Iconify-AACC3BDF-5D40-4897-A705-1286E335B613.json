@@ -1,0 +1,12 @@
+{
+  "ID": "AACC3BDF-5D40-4897-A705-1286E335B613",
+  "Name": "Iconify",
+  "Description": "Search and copy Iconify SVG icons without leaving Flow Launcher",
+  "Author": "AlessCreator",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Inconnu8557/flow-plugins",
+  "UrlDownload": "https://github.com/Inconnu8557/flow-plugins/releases/download/v1.0.0/Iconify.zip",
+  "UrlSourceCode": "https://github.com/Inconnu8557/flow-plugins",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Inconnu8557/flow-plugins@main/Flow.Launcher.Plugin.Iconify/Images/icon.png"
+}
