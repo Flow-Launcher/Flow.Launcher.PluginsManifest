@@ -952,13 +952,13 @@
         "Name": "VS Code Workspaces",
         "Description": "Opens workspaces, remote machines (SSH or Codespaces) and containers, previously opened in VS Code.",
         "Author": "ricardosantos9521, MaskedRPGFan",
-        "Version": "1.4.1",
+        "Version": "1.4.2",
         "Language": "csharp",
         "Website": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
-        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.4.1/Flow.Plugin.VSCodeWorkspaces-1.4.1.zip",
+        "UrlDownload": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace/releases/download/v1.4.2/Flow.Plugin.VSCodeWorkspaces-1.4.2.zip",
         "UrlSourceCode": "https://github.com/taooceros/Flow.Plugin.VSCodeWorkspace",
         "IcoPath": "https://cdn.jsdelivr.net/gh/taooceros/Flow.Plugin.VSCodeWorkspace@main/Images/code-light.png",
-        "LatestReleaseDate": "2025-04-03T12:44:48Z",
+        "LatestReleaseDate": "2026-09-16T22:07:51Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3627,13 +3627,13 @@
         "Name": "Snippets",
         "Description": "Manage name/value snippets with auto-paste and clipboard support",
         "Author": "yu-xiaoyao",
-        "Version": "2.3.8",
+        "Version": "3.0.0",
         "Language": "csharp",
         "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
         "UrlSourceCode": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets",
         "IcoPath": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/raw/main/Flow.Launcher.Plugin.Snippets/Images/Snippets.png",
-        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v2.3.8/Snippets.zip",
-        "LatestReleaseDate": "2026-05-17T03:45:30Z",
+        "UrlDownload": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.Snippets/releases/download/v3.0.0/Snippets.zip",
+        "LatestReleaseDate": "2026-09-15T14:18:58Z",
         "DateAdded": "2025-01-27T01:38:33Z"
     },
     {
