@@ -1,0 +1,13 @@
+{
+  "ID": "7D2E8F3A-1B4C-4D9E-8F2A-3B6C9D0E1F2A",
+  "Name": "DeepL Translate",
+  "Description": "Translate text using the DeepL API with automatic language detection and per-query language overrides",
+  "Author": "Nreel",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Nreel/Flow.Launcher.Plugin.DeepLTranslate",
+  "UrlDownload": "https://github.com/Nreel/Flow.Launcher.Plugin.DeepLTranslate/releases/download/v1.0.0/Flow.Launcher.Plugin.DeepLTranslate.zip",
+  "UrlSourceCode": "https://github.com/Nreel/Flow.Launcher.Plugin.DeepLTranslate/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Nreel/Flow.Launcher.Plugin.DeepLTranslate@main/Images/deepl.png",
+  "MinimumAppVersion": "2.0.0"
+}
