@@ -258,6 +258,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "e74e7632-354b-4611-9036-9f78b8f69125",
+        "Name": "Neuro Schedule",
+        "Description": "Check Neuro-sama's upcoming stream schedule",
+        "Author": "AngiShyGuy",
+        "Version": "1.1.2",
+        "Language": "python",
+        "Website": "https://github.com/AngiShyGuy/Flow.Launcher.Plugin.NeuroSchedule",
+        "UrlDownload": "https://github.com/AngiShyGuy/Flow.Launcher.Plugin.NeuroSchedule/releases/download/v1.1.2/Flow.Launcher.Plugin.NeuroSchedule-v1.1.2.zip",
+        "UrlSourceCode": "https://github.com/AngiShyGuy/Flow.Launcher.Plugin.NeuroSchedule",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/AngiShyGuy/Flow.Launcher.Plugin.NeuroSchedule@main/icon.png",
+        "LatestReleaseDate": "2026-09-07T09:16:27Z"
+    },
+    {
         "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
         "Name": "Used-By",
         "Description": "Find which applications are currently using a path",
@@ -3694,6 +3707,19 @@
         "LatestReleaseDate": "2025-08-12T18:19:21Z"
     },
     {
+        "ID": "AACC3BDF-5D40-4897-A705-1286E335B613",
+        "Name": "Iconify",
+        "Description": "Search and copy Iconify SVG icons without leaving Flow Launcher",
+        "Author": "AlessCreator",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Inconnu8557/flow-plugins",
+        "UrlDownload": "https://github.com/Inconnu8557/flow-plugins/releases/download/v1.0.0/Iconify.zip",
+        "UrlSourceCode": "https://github.com/Inconnu8557/flow-plugins",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Inconnu8557/flow-plugins@main/Flow.Launcher.Plugin.Iconify/Images/icon.png",
+        "LatestReleaseDate": "2026-08-31T17:16:22Z"
+    },
+    {
         "ID": "7f805128-d4f3-4bfa-bd6e-b4ca0ff58ee9",
         "Name": "RecentProjectsOpen",
         "Description": "A plugin that enables quick access to recent projects across various IDEs like VSCode and Intellij idea efficiency.",
@@ -4605,6 +4631,19 @@
         "Tested": true,
         "LatestReleaseDate": "2022-04-12T15:06:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "2354084a-18cb-4c06-9d92-2507a3fb2bba",
+        "Name": "Anytype",
+        "Description": "Search your Anytype vault and open objects, including full text inside pages",
+        "Author": "Willson Gan",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/willsongan/Flow.Launcher.Plugin.Anytype",
+        "UrlDownload": "https://github.com/willsongan/Flow.Launcher.Plugin.Anytype/releases/download/v1.0.1/Flow.Launcher.Plugin.Anytype.zip",
+        "UrlSourceCode": "https://github.com/willsongan/Flow.Launcher.Plugin.Anytype",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/willsongan/Flow.Launcher.Plugin.Anytype@main/Images/app.png",
+        "LatestReleaseDate": "2026-09-07T19:00:17Z"
     },
     {
         "ID": "A3EA904783E14335894354F09DC4B054",
