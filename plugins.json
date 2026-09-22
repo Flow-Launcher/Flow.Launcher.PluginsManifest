@@ -268,7 +268,9 @@
         "UrlDownload": "https://github.com/AngiShyGuy/Flow.Launcher.Plugin.NeuroSchedule/releases/download/v1.1.2/Flow.Launcher.Plugin.NeuroSchedule-v1.1.2.zip",
         "UrlSourceCode": "https://github.com/AngiShyGuy/Flow.Launcher.Plugin.NeuroSchedule",
         "IcoPath": "https://cdn.jsdelivr.net/gh/AngiShyGuy/Flow.Launcher.Plugin.NeuroSchedule@main/icon.png",
-        "LatestReleaseDate": "2026-09-07T09:16:27Z"
+        "LatestReleaseDate": "2026-09-07T09:16:27Z",
+        "Tested": true,
+        "DateAdded": "2026-09-22T11:16:11Z"
     },
     {
         "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
@@ -3717,7 +3719,8 @@
         "UrlDownload": "https://github.com/Inconnu8557/flow-plugins/releases/download/v1.0.0/Iconify.zip",
         "UrlSourceCode": "https://github.com/Inconnu8557/flow-plugins",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Inconnu8557/flow-plugins@main/Flow.Launcher.Plugin.Iconify/Images/icon.png",
-        "LatestReleaseDate": "2026-08-31T17:16:22Z"
+        "LatestReleaseDate": "2026-08-31T17:16:22Z",
+        "DateAdded": "2026-09-22T11:16:11Z"
     },
     {
         "ID": "7f805128-d4f3-4bfa-bd6e-b4ca0ff58ee9",
@@ -4643,7 +4646,9 @@
         "UrlDownload": "https://github.com/willsongan/Flow.Launcher.Plugin.Anytype/releases/download/v1.0.1/Flow.Launcher.Plugin.Anytype.zip",
         "UrlSourceCode": "https://github.com/willsongan/Flow.Launcher.Plugin.Anytype",
         "IcoPath": "https://cdn.jsdelivr.net/gh/willsongan/Flow.Launcher.Plugin.Anytype@main/Images/app.png",
-        "LatestReleaseDate": "2026-09-07T19:00:17Z"
+        "LatestReleaseDate": "2026-09-07T19:00:17Z",
+        "Tested": true,
+        "DateAdded": "2026-09-22T11:16:11Z"
     },
     {
         "ID": "A3EA904783E14335894354F09DC4B054",
