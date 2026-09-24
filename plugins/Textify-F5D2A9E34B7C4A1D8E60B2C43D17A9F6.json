@@ -1,0 +1,13 @@
+{
+  "ID": "F5D2A9E34B7C4A1D8E60B2C43D17A9F6",
+  "ActionKeyword": "tt",
+  "Name": "Textify",
+  "Description": "Copy text that cannot be selected under the mouse cursor (UI Automation port of Textify)",
+  "Author": "minzorty",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/minzorty/Flow.Launcher.Plugin.Textify",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/minzorty/Flow.Launcher.Plugin.Textify@main/Images/textify.png",
+  "UrlDownload": "https://github.com/minzorty/Flow.Launcher.Plugin.Textify/releases/download/v1.0.0/Flow.Launcher.Plugin.Textify-v1.0.0.zip",
+  "UrlSourceCode": "https://github.com/minzorty/Flow.Launcher.Plugin.Textify"
+}
