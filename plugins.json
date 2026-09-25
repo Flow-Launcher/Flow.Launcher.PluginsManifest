@@ -1861,13 +1861,13 @@
         "Name": "FlowFaker",
         "Description": "Flow Launcher plugin using FakerJS to generate fake data",
         "Author": "t4nk3rchu",
-        "Version": "1.0.2",
-        "Language": "javascript",
+        "Version": "2.0.0",
+        "Language": "javascript_v2",
         "Website": "https://github.com/t4nk3rchu/FlowFaker",
-        "UrlDownload": "https://github.com/t4nk3rchu/FlowFaker/releases/download/v1.0.2/Flow.Launcher.Plugin.FakerJS.zip",
+        "UrlDownload": "https://github.com/t4nk3rchu/FlowFaker/releases/download/v2.0.0/Flow.Launcher.Plugin.FakerJS.zip",
         "UrlSourceCode": "https://github.com/t4nk3rchu/FlowFaker/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/t4nk3rchu/FlowFaker@main/Images/app.png",
-        "LatestReleaseDate": "2025-12-19T07:19:09Z",
+        "LatestReleaseDate": "2026-09-25T07:14:07Z",
         "DateAdded": "2025-12-29T09:35:41Z"
     },
     {
