@@ -1,0 +1,12 @@
+{
+  "ID": "ee647316-34ce-4c81-aa0c-4bb5a89bb6f7",
+  "Name": "Accent Letters",
+  "Description": "Find and copy any of 682 accented letters from 55 languages",
+  "Author": "Accent Letters",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://accentletters.wiki/",
+  "UrlDownload": "https://github.com/roshanti1/flow-launcher-accent-letters/releases/download/v1.0.0/Accent.Letters-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/roshanti1/flow-launcher-accent-letters/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/roshanti1/flow-launcher-accent-letters@main/Images/app.png"
+}
