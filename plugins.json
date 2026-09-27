@@ -1771,6 +1771,19 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "3C42AE50-FDA8-4579-8E9E-11989327FDC8",
+        "Name": "Settings All",
+        "Description": "Deep search for all Windows Settings pages by scanning SystemSettings.dll",
+        "Author": "Omprakash-Wagh",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/Omprakash-Wagh/Settings-All",
+        "UrlDownload": "https://github.com/Omprakash-Wagh/Settings-All/releases/download/v1.0.1/Settings-All.zip",
+        "UrlSourceCode": "https://github.com/Omprakash-Wagh/Settings-All",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Settings-All@main/Images/settings.png",
+        "LatestReleaseDate": "2026-09-27T15:42:21Z"
+    },
+    {
         "ID": "3f7a2b1c-9e4d-4f8a-b3c2-1a5d8e7f0b9c",
         "Name": "FMHY Search",
         "Description": "Search the Free Media Heck Yeah database",
