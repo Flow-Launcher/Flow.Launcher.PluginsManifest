@@ -1,0 +1,13 @@
+{
+  "ID": "4c6c46ee-86e4-4dcd-a0ce-3ff73bd6f245",
+  "Name": "ChatGPT Bridge",
+  "Description": "Send prompts from Flow Launcher to ChatGPT Web.",
+  "Author": "Akilaydin",
+  "Version": "0.1.2",
+  "Language": "csharp",
+  "Website": "https://github.com/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge",
+  "UrlDownload": "https://github.com/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge/releases/download/v0.1.2/Flow.Launcher.Plugin.ChatGPTBridge-0.1.2.zip",
+  "UrlSourceCode": "https://github.com/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge@main/Images/icon.png",
+  "MinimumAppVersion": "2.1.4"
+}
