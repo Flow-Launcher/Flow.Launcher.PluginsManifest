@@ -1771,6 +1771,20 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "3C42AE50-FDA8-4579-8E9E-11989327FDC8",
+        "Name": "Settings All",
+        "Description": "Deep search for all Windows Settings pages by scanning SystemSettings.dll",
+        "Author": "Omprakash-Wagh",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/Omprakash-Wagh/Settings-All",
+        "UrlDownload": "https://github.com/Omprakash-Wagh/Settings-All/releases/download/v1.0.1/Settings-All.zip",
+        "UrlSourceCode": "https://github.com/Omprakash-Wagh/Settings-All",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Settings-All@main/Images/settings.png",
+        "LatestReleaseDate": "2026-09-27T15:42:21Z",
+        "DateAdded": "2026-09-27T21:08:41Z"
+    },
+    {
         "ID": "3f7a2b1c-9e4d-4f8a-b3c2-1a5d8e7f0b9c",
         "Name": "FMHY Search",
         "Description": "Search the Free Media Heck Yeah database",
@@ -5106,13 +5120,13 @@
         "Name": "AI Assistant using groq",
         "Description": "Ask AI directly from Flow Launcher",
         "Author": "Omprakash-Wagh",
-        "Version": "1.0.4",
+        "Version": "1.0.6",
         "Language": "python",
         "Website": "https://github.com/Omprakash-Wagh/Ai-Assistant",
-        "UrlDownload": "https://github.com/Omprakash-Wagh/AI-Assistant/releases/download/v1.0.4/Ai-Assistant.zip",
+        "UrlDownload": "https://github.com/Omprakash-Wagh/AI-Assistant/releases/download/v1.0.6/Ai-Assistant.zip",
         "UrlSourceCode": "https://github.com/Omprakash-Wagh/Ai-Assistant",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Ai-Assistant@main/icon.png",
-        "LatestReleaseDate": "2026-08-31T12:59:01Z",
+        "LatestReleaseDate": "2026-09-27T11:45:50Z",
         "Tested": true,
         "DateAdded": "2026-08-31T20:43:32Z"
     },
