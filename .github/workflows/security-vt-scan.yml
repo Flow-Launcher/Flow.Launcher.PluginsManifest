@@ -15,7 +15,7 @@ jobs:
     if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     outputs:
-      plugins: ${{ steps.filter.outputs.plugins }}
+      plugin_additions_or_modifications: ${{ steps.filter.outputs.plugin_additions_or_modifications }}
       non_plugin_files: ${{ steps.filter.outputs.non_plugin_files }}
     steps:
       - name: Check out repository code
@@ -28,15 +28,18 @@ jobs:
         with:
           predicate-quantifier: 'every'
           filters: |
-            plugins:
-              - 'plugins/*.json'
+            plugin_additions_or_modifications:
+              - added|modified: 'plugins/*.json'
             non_plugin_files:
               - '**'
               - '!plugins/*.json'
               - '!vt_whitelist.json'
       # NOTE: this is a security check to prevent non-plugin files from being changed. This check must remain in place and effective.
       - name: Fail if non-plugin files changed
-        if: github.event_name == 'pull_request_target' && steps.filter.outputs.plugins == 'true' && steps.filter.outputs.non_plugin_files == 'true'
+        if: |
+          github.event_name == 'pull_request_target' &&
+          steps.filter.outputs.plugin_additions_or_modifications == 'true' &&
+          steps.filter.outputs.non_plugin_files == 'true'
         run: |
           echo "This PR contains changes to files outside the plugins directory."
           echo "Plugin submission PRs must only create/modify plugin manifest files in the plugins directory."
@@ -45,8 +48,13 @@ jobs:
   vt-plugin-scan:
     needs: vt-plugin-scan-changes-check
     if: |
-      always() && (
-        (github.event_name == 'pull_request_target' && needs.vt-plugin-scan-changes-check.outputs.plugins == 'true' && needs.vt-plugin-scan-changes-check.outputs.non_plugin_files == 'false') ||
+      always() &&
+      (
+        (
+          github.event_name == 'pull_request_target' &&
+          needs.vt-plugin-scan-changes-check.outputs.plugin_additions_or_modifications == 'true' &&
+          needs.vt-plugin-scan-changes-check.outputs.non_plugin_files == 'false'
+        ) ||
         github.event_name == 'workflow_dispatch' ||
         github.event_name == 'schedule'
       )
