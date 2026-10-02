@@ -1,0 +1,12 @@
+{
+  "ID": "7bf70f7c-1aa6-4b41-9eeb-6a794a9f192e",
+  "Name": "SoundSwitch",
+  "Description": "Switch audio playback/recording devices, manage profiles and microphone mute via SoundSwitch.",
+  "Author": "landrozaum",
+  "Version": "1.2.0",
+  "Language": "python",
+  "Website": "https://github.com/Landrozaum/SoundSwitch-Plugin-For-FlowLauncher",
+  "UrlSourceCode": "https://github.com/Landrozaum/SoundSwitch-Plugin-For-FlowLauncher",
+  "UrlDownload": "https://github.com/Landrozaum/SoundSwitch-Plugin-For-FlowLauncher/releases/download/v1.2.0/SoundSwitch-FlowLauncher-v1.2.0.zip",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Landrozaum/SoundSwitch-Plugin-For-FlowLauncher@main/Images/icon.png"
+}
