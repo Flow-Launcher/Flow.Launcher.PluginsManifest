@@ -2850,16 +2850,16 @@
     {
         "ID": "91B97FA34859445782AEF1893DE4E350",
         "Name": "Minecraft Multi Launcher",
-        "Description": "Launcher your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
+        "Description": "Launch your Minecraft instances from MultiMC, PolyMC and Prism Launcher",
         "Author": "Garulf",
-        "Version": "1.2.2",
-        "Language": "executable",
+        "Version": "mc-multi-launcher-2.0.0",
+        "Language": "python_v2",
         "Website": "https://github.com/Garulf/MC-Multi-Launcher",
-        "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.2.2/Minecraft.Multi.Launcher.zip",
+        "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/MC-Multi-Launcher-v2.0.0/MC-Multi-Launcher-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/MC-Multi-Launcher",
         "IcoPath": "https://cdn.jsdelivr.net/gh/garulf/MC-Multi-Launcher@main/src/icon.png",
         "DateAdded": "2022-12-15T07:23:44Z",
-        "LatestReleaseDate": "2024-07-01T04:16:51Z"
+        "LatestReleaseDate": "2026-10-03T19:07:05Z"
     },
     {
         "ID": "54dcf7b098df441ab7c2ad6b11c047cc",
@@ -3354,16 +3354,16 @@
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
         "Name": "HA-Commander",
-        "Description": "Search, and interact with Home Assistant using Wox or Flow Launcher.",
+        "Description": "Search, and interact with Home Assistant using Flow Launcher.",
         "Author": "Garulf",
-        "Version": "5.2.1",
-        "Language": "python",
+        "Version": "6.0.0",
+        "Language": "python_v2",
         "Website": "https://github.com/Garulf/HA-Commander",
-        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v5.2.1/HA-Commander.zip",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v6.0.0/HA-Commander-6.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": true,
-        "LatestReleaseDate": "2025-01-09T03:21:47Z",
+        "LatestReleaseDate": "2026-10-03T16:26:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
