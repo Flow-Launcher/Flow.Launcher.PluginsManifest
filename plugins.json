@@ -4145,13 +4145,13 @@
         "Name": "Timer & Alarm",
         "Description": "",
         "Author": "commandblocks0",
-        "Version": "1.1.0",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "",
-        "UrlDownload": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm/releases/download/v1.1.0/TimerAlarm.zip",
+        "UrlDownload": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm/releases/download/v1.2.0/Timer.Alarm-1.2.0.zip",
         "UrlSourceCode": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
         "IcoPath": "https://cdn.jsdelivr.net/gh/commandblocks0/Flow.Launcher.Plugin.TimerAlarm@v1.0.0/src/icons/icon.png",
-        "LatestReleaseDate": "2026-09-03T17:42:49Z",
+        "LatestReleaseDate": "2026-10-03T09:20:41Z",
         "DateAdded": "2026-08-06T11:27:04Z"
     },
     {
