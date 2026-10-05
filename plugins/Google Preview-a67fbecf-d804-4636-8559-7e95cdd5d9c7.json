@@ -9,5 +9,6 @@
     "UrlDownload": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview/releases/download/v1.1.0/Flow.Launcher.Plugin.GooglePreview.zip",
     "UrlSourceCode": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/utkarshalpha/Flow.Launcher.Plugin.GooglePreview@main/google-g.png",
-    "MinimumAppVersion": "2.0.0"
+    "MinimumAppVersion": "2.0.0",
+    "LatestReleaseDate": "2026-10-03T09:43:13Z"
 }
