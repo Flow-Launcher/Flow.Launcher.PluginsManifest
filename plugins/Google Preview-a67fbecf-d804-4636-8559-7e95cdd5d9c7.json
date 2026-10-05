@@ -1,0 +1,13 @@
+{
+    "ID": "a67fbecf-d804-4636-8559-7e95cdd5d9c7",
+    "Name": "Google Preview",
+    "Description": "Google suggestions with the live Google results page, AI Overview and AI Mode in the preview panel",
+    "Author": "utkarshalpha",
+    "Version": "1.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview",
+    "UrlDownload": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview/releases/download/v1.1.0/Flow.Launcher.Plugin.GooglePreview.zip",
+    "UrlSourceCode": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/utkarshalpha/Flow.Launcher.Plugin.GooglePreview@main/google-g.png",
+    "MinimumAppVersion": "2.0.0"
+}
