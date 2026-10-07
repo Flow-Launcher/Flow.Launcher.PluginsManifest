@@ -1,15 +1,15 @@
 {
     "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
     "Name": "Plexy",
-    "Description": "Search and cast your Plex Media Library",
+    "Description": "Search your Plex library and cast to Chromecasts and Plex clients",
     "Author": "Garulf",
-    "Version": "2.0.0",
-    "Language": "python",
-    "Website": "https://github.com/Garulf/plexy",
-    "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v2.0.0/Plexy.zip",
+    "Version": "3.0.0",
+    "Language": "python_v2",
+    "Website": "https://github.com/Garulf/Plexy",
+    "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v3.0.0/Plexy-3.0.0.zip",
     "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
     "Tested": true,
-    "LatestReleaseDate": "2022-09-08T10:27:22Z",
+    "LatestReleaseDate": "2026-10-03T15:01:24Z",
     "DateAdded": "2022-10-08T16:26:57Z"
 }

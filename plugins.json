@@ -2850,16 +2850,16 @@
     {
         "ID": "91B97FA34859445782AEF1893DE4E350",
         "Name": "Minecraft Multi Launcher",
-        "Description": "Launcher your Minecraft instances using MultiMC, PolyMC, and PrismLauncher",
+        "Description": "Launch your Minecraft instances from MultiMC, PolyMC and Prism Launcher",
         "Author": "Garulf",
-        "Version": "1.2.2",
-        "Language": "executable",
+        "Version": "2.0.0",
+        "Language": "python_v2",
         "Website": "https://github.com/Garulf/MC-Multi-Launcher",
-        "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v1.2.2/Minecraft.Multi.Launcher.zip",
+        "UrlDownload": "https://github.com/Garulf/MC-Multi-Launcher/releases/download/v2.0.0/MC-Multi-Launcher-2.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/MC-Multi-Launcher",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/garulf/MC-Multi-Launcher@main/src/icon.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/MC-Multi-Launcher@main/data/icon.png",
         "DateAdded": "2022-12-15T07:23:44Z",
-        "LatestReleaseDate": "2024-07-01T04:16:51Z"
+        "LatestReleaseDate": "2026-10-03T19:07:05Z"
     },
     {
         "ID": "54dcf7b098df441ab7c2ad6b11c047cc",
@@ -3354,16 +3354,16 @@
     {
         "ID": "B2D2C23B055D411GH66FF0C79D6C2A6H",
         "Name": "HA-Commander",
-        "Description": "Search, and interact with Home Assistant using Wox or Flow Launcher.",
+        "Description": "Search, and interact with Home Assistant using Flow Launcher.",
         "Author": "Garulf",
-        "Version": "5.2.1",
-        "Language": "python",
+        "Version": "6.0.0",
+        "Language": "python_v2",
         "Website": "https://github.com/Garulf/HA-Commander",
-        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v5.2.1/HA-Commander.zip",
+        "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v6.0.0/HA-Commander-6.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
         "Tested": true,
-        "LatestReleaseDate": "2025-01-09T03:21:47Z",
+        "LatestReleaseDate": "2026-10-03T16:26:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3385,13 +3385,13 @@
         "Name": "Commander Hotlist",
         "Description": "Access directory hotlist bookmarks from Total/Double Commander",
         "Author": "Dani7377",
-        "Version": "1.0.2",
+        "Version": "1.0.3",
         "Language": "csharp",
         "Website": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist",
-        "UrlDownload": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist/releases/download/v1.0.2/Flow.Launcher.Plugin.CommanderHotlist-1.0.2.zip",
+        "UrlDownload": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist/releases/download/v1.0.3/Flow.Launcher.Plugin.CommanderHotlist-1.0.3.zip",
         "UrlSourceCode": "https://github.com/Dani7377/Flow.Launcher.Plugin.CommanderHotlist",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Dani7377/Flow.Launcher.Plugin.CommanderHotlist@main/Flow.Launcher.Plugin.CommanderHotlist/Images/icon.png",
-        "LatestReleaseDate": "2026-06-30T19:45:25Z",
+        "LatestReleaseDate": "2026-10-02T19:07:34Z",
         "DateAdded": "2026-05-28T16:10:06Z"
     },
     {
@@ -4145,13 +4145,13 @@
         "Name": "Timer & Alarm",
         "Description": "",
         "Author": "commandblocks0",
-        "Version": "1.1.0",
+        "Version": "1.2.0",
         "Language": "csharp",
         "Website": "",
-        "UrlDownload": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm/releases/download/v1.1.0/TimerAlarm.zip",
+        "UrlDownload": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm/releases/download/v1.2.0/Timer.Alarm-1.2.0.zip",
         "UrlSourceCode": "https://github.com/commandblocks0/Flow.Launcher.Plugin.TimerAlarm",
         "IcoPath": "https://cdn.jsdelivr.net/gh/commandblocks0/Flow.Launcher.Plugin.TimerAlarm@v1.0.0/src/icons/icon.png",
-        "LatestReleaseDate": "2026-09-03T17:42:49Z",
+        "LatestReleaseDate": "2026-10-03T09:20:41Z",
         "DateAdded": "2026-08-06T11:27:04Z"
     },
     {
@@ -4559,16 +4559,16 @@
     {
         "ID": "32D9F15C38EE400EA7E3DF57DA15BFD5",
         "Name": "Plexy",
-        "Description": "Search and cast your Plex Media Library",
+        "Description": "Search your Plex library and cast to Chromecasts and Plex clients",
         "Author": "Garulf",
-        "Version": "2.0.0",
-        "Language": "python",
-        "Website": "https://github.com/Garulf/plexy",
-        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v2.0.0/Plexy.zip",
+        "Version": "3.0.0",
+        "Language": "python_v2",
+        "Website": "https://github.com/Garulf/Plexy",
+        "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v3.0.0/Plexy-3.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-09-08T10:27:22Z",
+        "LatestReleaseDate": "2026-10-03T15:01:24Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -4641,6 +4641,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/mawiseman/Flow.Launcher.Plugin.Kaomoji@1.0.1/Flow.Launcher.Plugin.Kaomoji/Assets/icon.png",
         "DateAdded": "2024-02-04T05:50:45Z",
         "LatestReleaseDate": "2024-01-17T02:09:02Z"
+    },
+    {
+        "ID": "a67fbecf-d804-4636-8559-7e95cdd5d9c7",
+        "Name": "Google Preview",
+        "Description": "Google suggestions with the live Google results page, AI Overview and AI Mode in the preview panel",
+        "Author": "utkarshalpha",
+        "Version": "1.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview",
+        "UrlDownload": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview/releases/download/v1.1.0/Flow.Launcher.Plugin.GooglePreview.zip",
+        "UrlSourceCode": "https://github.com/utkarshalpha/Flow.Launcher.Plugin.GooglePreview/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/utkarshalpha/Flow.Launcher.Plugin.GooglePreview@main/google-g.png",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-10-03T09:43:13Z",
+        "DateAdded": "2026-10-05T04:56:13Z"
     },
     {
         "ID": "b8f47b3c-9f7d-4e42-a8c6-5d1e2f3a4b5c",
