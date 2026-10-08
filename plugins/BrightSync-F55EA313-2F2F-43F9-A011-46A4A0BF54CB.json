@@ -1,0 +1,12 @@
+{
+  "ID": "F55EA313-2F2F-43F9-A011-46A4A0BF54CB",
+  "Name": "BrightSync",
+  "Description": "Control BrightSync brightness, automatic mode, eye protection and boost from Flow Launcher.",
+  "Author": "bberka",
+  "Version": "0.1.0",
+  "Language": "python",
+  "Website": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync",
+  "UrlDownload": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync/releases/download/v0.1.0/BrightSync.zip",
+  "UrlSourceCode": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/bberka/Flow.Launcher.Plugin.BrightSync@main/icon.png"
+}
