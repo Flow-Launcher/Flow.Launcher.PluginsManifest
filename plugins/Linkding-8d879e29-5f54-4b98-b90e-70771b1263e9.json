@@ -1,0 +1,12 @@
+{
+  "ID": "8d879e29-5f54-4b98-b90e-70771b1263e9",
+  "Name": "Linkding",
+  "Description": "Search, add, and manage Linkding bookmarks from Flow Launcher",
+  "Author": "arthackrc",
+  "Version": "2026.10.1",
+  "Language": "python",
+  "Website": "https://github.com/arthackrc/linkding-flow-launcher",
+  "UrlDownload": "https://github.com/arthackrc/linkding-flow-launcher/releases/download/v2026.10.1/Linkding-2026.10.1.zip",
+  "UrlSourceCode": "https://github.com/arthackrc/linkding-flow-launcher/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/arthackrc/linkding-flow-launcher@main/Images/linkding.png"
+}
