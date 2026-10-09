@@ -7,8 +7,6 @@
   "Language": "python",
   "Website": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop",
   "UrlDownload": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/releases/download/v1.2.0/Flow.Launcher.Plugin.PearDesktop.zip",
-  "UrlSourceCode": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/blob/main/README.md",
-  "IcoPath": "https://raw.githubusercontent.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/refs/heads/main/Images/app.png",
-  "DateAdded": "2026-10-26",
-  "Tested": true
+  "UrlSourceCode": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/JusteKal/Flow.Launcher.Plugin.PearDesktop@main/Images/app.png"
 }
