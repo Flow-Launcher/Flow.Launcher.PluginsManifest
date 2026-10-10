@@ -1,0 +1,13 @@
+{
+  "ID": "D5B032E0FE594208B0687010889D6450",
+  "Name": "DoAction",
+  "Description": "마우스·키보드 자동 입력과 PC 종료·재부팅 예약",
+  "Author": "KYN",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/zenosakis/Flow.Launcher.Plugin.DoAction",
+  "UrlDownload": "https://github.com/zenosakis/Flow.Launcher.Plugin.DoAction/releases/download/v1.0.0/Flow.Launcher.Plugin.DoAction-1.0.0.zip",
+  "UrlSourceCode": "https://github.com/zenosakis/Flow.Launcher.Plugin.DoAction",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/zenosakis/Flow.Launcher.Plugin.DoAction@v1.0.0/src/Flow.Launcher.Plugin.DoAction/Images/doaction.png",
+  "MinimumAppVersion": "2.1.4"
+}
