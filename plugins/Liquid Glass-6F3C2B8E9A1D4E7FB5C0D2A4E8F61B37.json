@@ -1,0 +1,13 @@
+{
+    "ID": "6F3C2B8E9A1D4E7FB5C0D2A4E8F61B37",
+    "Name": "Liquid Glass",
+    "Description": "把 Flow Launcher 主窗口变成液态玻璃：背景折射、边缘色散、动态高光",
+    "Author": "qingking",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass",
+    "UrlDownload": "https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass/releases/download/v1.0.0/Flow.Launcher.Plugin.LiquidGlass.zip",
+    "UrlSourceCode": "https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/NblScript/Flow.Launcher.Plugin.LiquidGlass@main/Images/icon.png",
+    "MinimumAppVersion": "2.0.0"
+}
