@@ -10,5 +10,7 @@
     "UrlSourceCode": "https://github.com/asyntai/Flow.Launcher.Plugin.Asyntai",
     "IcoPath": "https://cdn.jsdelivr.net/gh/asyntai/Flow.Launcher.Plugin.Asyntai@main/Images/app.png",
     "MinimumAppVersion": "2.1.0",
-    "LatestReleaseDate": "2026-10-11T16:07:02Z"
+    "LatestReleaseDate": "2026-10-11T16:07:02Z",
+    "Tested": true,
+    "DateAdded": "2026-10-13T06:15:14Z"
 }
