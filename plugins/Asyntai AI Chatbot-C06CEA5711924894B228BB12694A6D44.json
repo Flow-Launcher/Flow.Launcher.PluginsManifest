@@ -1,13 +1,14 @@
 {
-  "ID": "C06CEA5711924894B228BB12694A6D44",
-  "Name": "Asyntai AI Chatbot",
-  "Description": "Read your website chats, leads and tickets, and ask your own AI chatbot a question, from the Flow Launcher search box.",
-  "Author": "Asyntai",
-  "Version": "1.0.0",
-  "Language": "python",
-  "Website": "https://asyntai.com/documentation/integrations/flow-launcher/",
-  "UrlDownload": "https://github.com/asyntai/Flow.Launcher.Plugin.Asyntai/releases/download/v1.0.0/Flow.Launcher.Plugin.Asyntai.zip",
-  "UrlSourceCode": "https://github.com/asyntai/Flow.Launcher.Plugin.Asyntai",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/asyntai/Flow.Launcher.Plugin.Asyntai@main/Images/app.png",
-  "MinimumAppVersion": "2.1.0"
+    "ID": "C06CEA5711924894B228BB12694A6D44",
+    "Name": "Asyntai AI Chatbot",
+    "Description": "Read your website chats, leads and tickets, and ask your own AI chatbot a question, from the Flow Launcher search box.",
+    "Author": "Asyntai",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://asyntai.com/documentation/integrations/flow-launcher/",
+    "UrlDownload": "https://github.com/asyntai/Flow.Launcher.Plugin.Asyntai/releases/download/v1.0.0/Flow.Launcher.Plugin.Asyntai.zip",
+    "UrlSourceCode": "https://github.com/asyntai/Flow.Launcher.Plugin.Asyntai",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/asyntai/Flow.Launcher.Plugin.Asyntai@main/Images/app.png",
+    "MinimumAppVersion": "2.1.0",
+    "LatestReleaseDate": "2026-10-11T16:07:02Z"
 }
