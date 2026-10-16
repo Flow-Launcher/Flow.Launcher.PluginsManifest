@@ -80,6 +80,9 @@ async def batch_github_plugin_info(
                     ):
                         info[key] = metadata[key]
 
+                    if metadata.get(minimum_app_version):
+                        info[minimum_app_version] = metadata[minimum_app_version]
+
                     if webhook_url:
                         await send_notification(
                             info,
