@@ -1,0 +1,12 @@
+{
+  "ID": "2e7eb80b666f4a978d0033198b201162",
+  "Name": "Herdr",
+  "Description": "Inspect running Herdr agents and panes, and send them prompts or commands",
+  "Author": "roqvist",
+  "Version": "1.2.5",
+  "Language": "csharp",
+  "Website": "https://github.com/roqvist/flow-launcher-herdr",
+  "UrlDownload": "https://github.com/roqvist/flow-launcher-herdr/releases/download/v1.2.5/Flow.Launcher.Plugin.Herdr.zip",
+  "UrlSourceCode": "https://github.com/roqvist/flow-launcher-herdr/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/roqvist/flow-launcher-herdr@main/src/Flow.Launcher.Plugin.Herdr/Icons/herdr-white.png"
+}
