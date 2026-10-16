@@ -46,9 +46,6 @@ async def batch_github_plugin_info(
 
             assets = latest_rel.get("assets")
 
-            if info.get(release_date, "") != latest_rel.get("published_at"):
-                info[release_date] = latest_rel.get("published_at")
-
             if assets:
                 browser_download_url = None
 
@@ -104,6 +101,10 @@ async def batch_github_plugin_info(
                             webhook_url,
                         )
                 info[version] = latest_ver
+
+            # Only an accepted release reaches here, so a rejected one keeps its previous date
+            if info.get(release_date, "") != latest_rel.get("published_at"):
+                info[release_date] = latest_rel.get("published_at")
 
             tags[info[id_name]] = res.headers.get(etag, "")
 
