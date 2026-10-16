@@ -1,0 +1,12 @@
+{
+  "ID": "3ce56a9aa2ad4ba1ab1113f012e4c31c",
+  "Name": "Invidious",
+  "Description": "Search videos, channels and playlists via an Invidious instance",
+  "Author": "roqvist",
+  "Version": "1.1.2",
+  "Language": "csharp",
+  "Website": "https://github.com/roqvist/flow-launcher-invidious",
+  "UrlDownload": "https://github.com/roqvist/flow-launcher-invidious/releases/download/v1.1.2/Flow.Launcher.Plugin.Invidious.zip",
+  "UrlSourceCode": "https://github.com/roqvist/flow-launcher-invidious/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/roqvist/flow-launcher-invidious@main/src/Flow.Launcher.Plugin.Invidious/Icons/Invidious-logo.svg"
+}
