@@ -27,6 +27,8 @@ async def batch_github_plugin_info(
             return info
 
         repo = "/".join(url_parts[3:5])
+        # ETag of the newest release we have already seen, from etags.json.
+        # It can belong to a rejected release, so it is not the version currently in the manifest.
         tag: str = tags.get(info[id_name], info.get(etag, ""))
 
         if release_date in info.keys():
@@ -61,9 +63,20 @@ async def batch_github_plugin_info(
                         if asset["browser_download_url"].endswith(filename):
                             browser_download_url = asset["browser_download_url"]
 
-                info[url_download] = (
+                new_download_url = (
                     browser_download_url or assets[0]["browser_download_url"]
                 )
+
+                # Reject a tag we cannot turn into a valid download URL rather than writing it.
+                # A bad URL fails manifest validation for every plugin, not only this one.
+                if github_download_url_regex.fullmatch(new_download_url) is None:
+                    await report_invalid_release(info, repo, latest_rel, new_download_url)
+                    # Store the rejected release's ETag so it is not reported on every run.
+                    # The stored ETag then points at a release that is not the manifest version.
+                    tags[info[id_name]] = res.headers.get(etag, "")
+                    return info
+
+                info[url_download] = new_download_url
 
                 latest_ver = clean(latest_rel["tag_name"], "v")
                 if version_tuple(info[version]) != version_tuple(latest_ver):
@@ -153,6 +166,87 @@ async def send_notification(
         await update_hook(webhook_url, info, latest_ver, release)
     except Exception as e:
         tqdm.write(str(e))
+
+
+# Name of the environment variable holding a token that can open issues on plugin repositories.
+# The updater workflow's GITHUB_TOKEN only covers this repository, so it cannot notify authors.
+# TODO: create the secret and grant it issue-write access to plugin repositories.
+plugin_issue_token_env = "PLUGIN_ISSUE_TOKEN"
+
+
+async def report_invalid_release(
+    info: PluginType, repo: str, release: dict, download_url: str
+) -> None:
+    """Tell a plugin author their release tag cannot be accepted.
+
+    Opens an issue on the plugin's own repository and logs the rejection.
+    The manifest keeps its previous version until the release is republished under a valid tag.
+
+    Args:
+        info: Plugin dictionary whose update was rejected.
+        repo: ``owner/name`` of the plugin repository.
+        release: GitHub release payload that was rejected.
+        download_url: Release asset URL that failed validation.
+    """
+    tag = release.get("tag_name", "")
+    tqdm.write(
+        f"Rejected update for {info[plugin_name]} ({tag}): {download_url} is not a valid download URL"
+    )
+
+    token = getenv(plugin_issue_token_env)
+    if not token:
+        tqdm.write(
+            f"Skipping author notification for {repo}: {plugin_issue_token_env} is not set"
+        )
+        return
+
+    title = f"Flow Launcher update rejected for {info[plugin_name]}"
+    body = (
+        f"The Flow Launcher update to `{tag}` was rejected because the release download URL "
+        f"cannot be used.\n\n"
+        f"Download URL: {download_url}\n"
+        f"Release: {release.get('html_url', '')}\n\n"
+        f"Release download URLs must look like "
+        f"`https://github.com/<owner>/<repo>/releases/download/<version>/<file>.zip`, "
+        f"where `<version>` contains only letters, digits and dots, for example `v1.2.3`.\n\n"
+        f"Publish the release under a version tag such as `v1.2.3` and the update will be picked up automatically."
+    )
+    try:
+        await open_plugin_repo_issue(repo, title, body, token)
+    except Exception as e:
+        tqdm.write(f"Failed to notify {repo}: {e}")
+
+
+async def open_plugin_repo_issue(repo: str, title: str, body: str, token: str) -> None:
+    """Open an issue on a plugin repository, skipping when one is already open.
+
+    Args:
+        repo: ``owner/name`` of the plugin repository.
+        title: Issue title, also used to detect an existing open issue.
+        body: Issue body.
+        token: GitHub token with issue-write access to the plugin repository.
+    """
+    headers = {"authorization": f"token {token}", "accept": "application/vnd.github+json"}
+    issues_url = f"https://api.github.com/repos/{repo}/issues"
+
+    async with aiohttp.ClientSession() as session:
+        async with session.get(
+            issues_url, headers=headers, params={"state": "open", "per_page": 100}
+        ) as res:
+            if res.status < 400:
+                existing = await res.json()
+                if any(issue.get("title") == title for issue in existing):
+                    tqdm.write(f"Rejection issue already open on {repo}, skipping")
+                    return
+
+        async with session.post(
+            issues_url, headers=headers, json={"title": title, "body": body}
+        ) as res:
+            if res.status >= 400:
+                tqdm.write(f"Failed to open issue on {repo}: HTTP {res.status} {await res.text()}")
+                return
+            created = await res.json()
+            tqdm.write(f"Opened {created.get('html_url', '')} on {repo}")
 
 
 async def main():
