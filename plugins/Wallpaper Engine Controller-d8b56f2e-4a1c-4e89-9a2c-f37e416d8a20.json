@@ -1,0 +1,12 @@
+{
+  "ID": "d8b56f2e-4a1c-4e89-9a2c-f37e416d8a20",
+  "Name": "Wallpaper Engine Controller",
+  "Description": "Control Wallpaper Engine (pause, mute, profiles, playlists, recents, and right-click tray actions)",
+  "Author": "Omprakash-Wagh",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController",
+  "UrlDownload": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController/releases/download/v1.0.0/Flow.Launcher.Plugin.WallpaperEngineController.zip",
+  "UrlSourceCode": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController@main/Images/icon.png"
+}
