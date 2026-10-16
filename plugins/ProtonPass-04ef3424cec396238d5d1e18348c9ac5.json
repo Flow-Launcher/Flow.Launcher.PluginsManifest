@@ -1,0 +1,12 @@
+{
+  "ID": "04EF3424CEC396238D5D1E18348C9AC5",
+  "ActionKeyword": "pp",
+  "Name": "ProtonPass",
+  "Description": "Quick access to proton pass though proton pass cli.",
+  "Author": "SRUAUD",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/sruaudgit/Flow.Launcher.Plugin.ProtonPass",
+  "ExecuteFileName": "Flow.Launcher.Plugin.ProtonPass.dll",
+  "IcoPath": "Images\\protonpass.png"
+}
