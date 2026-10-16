@@ -3,11 +3,11 @@
     "Name": "SSH Launcher",
     "Description": "Open a terminal with an SSH session to a saved destination",
     "Author": "Vadim Funtikov",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "Language": "Python_v2",
     "MinimumAppVersion": "2.0.3",
     "Website": "https://github.com/theatramors/Flow.Launcher.Plugin.SSHLauncher",
-    "UrlDownload": "https://github.com/theatramors/Flow.Launcher.Plugin.SSHLauncher/releases/download/v1.0.1/Flow.Launcher.Plugin.SSHLauncher.zip",
+    "UrlDownload": "https://github.com/theatramors/Flow.Launcher.Plugin.SSHLauncher/releases/download/v1.0.2/Flow.Launcher.Plugin.SSHLauncher.zip",
     "UrlSourceCode": "https://github.com/theatramors/Flow.Launcher.Plugin.SSHLauncher/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/theatramors/Flow.Launcher.Plugin.SSHLauncher@v1.0.1/Images/ssh.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/theatramors/Flow.Launcher.Plugin.SSHLauncher@v1.0.2/Images/ssh.png"
 }
