@@ -37,7 +37,7 @@ language_list = (
     "javascript_v2",
     "typescript_v2",
 )
-etag = "ETag"
+etag = "ETag"  # GitHub response header, also read as a manifest field for the If-None-Match value
 version = "Version"
 url_sourcecode = "UrlSourceCode"
 url_download = "UrlDownload"
@@ -124,6 +124,12 @@ def get_plugin_filenames() -> list[str]:
 
 
 def etag_reader() -> ETagsType:
+    """Load the per-plugin ETag cache from etags.json.
+
+    Each value is the ETag of the last GitHub "latest release" response seen for that plugin ID. 
+    It records the newest release we have looked at, not the version currently in the manifest, 
+    so it can point at a release that was rejected for an unusable tag.
+    """
     with open(etag_file, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -135,6 +141,7 @@ def plugin_writer(content: P):
 
 
 def etags_writer(content: ETagsType):
+    """Write to the ETag cache. See `etag_reader` for what the values represent."""
     with open(etag_file, "w", encoding="utf-8") as f:
         json.dump(content, f, indent=4)
 

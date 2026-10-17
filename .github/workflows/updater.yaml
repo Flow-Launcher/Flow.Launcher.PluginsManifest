@@ -26,6 +26,9 @@ jobs:
       - name: Auto Checking Update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # TODO: create this secret with issue-write access to plugin repositories.
+          # Without it the updater still rejects bad releases, it just cannot notify authors.
+          PLUGIN_ISSUE_TOKEN: ${{ secrets.PLUGIN_ISSUE_TOKEN }}
         run: |
           python ./ci/src/updater.py ${{ secrets.DISCORD_WEBHOOK }}
 
