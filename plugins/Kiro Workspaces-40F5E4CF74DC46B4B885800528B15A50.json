@@ -1,0 +1,12 @@
+{
+    "ID": "40F5E4CF74DC46B4B885800528B15A50",
+    "Name": "Kiro Workspaces",
+    "Description": "Opens workspaces and folders recently opened in Kiro.",
+    "Author": "om-mapari (Kiro adaptation); original authors: ricardosantos9521, MaskedRPGFan, taooceros",
+    "Version": "0.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace",
+    "UrlDownload": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace/releases/download/v0.1.0/Flow.Plugin.KiroWorkspace-0.1.0.zip",
+    "UrlSourceCode": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/om-mapari/Flow.Plugin.KiroWorkspace@v0.1.0/Images/kiro.png"
+}
