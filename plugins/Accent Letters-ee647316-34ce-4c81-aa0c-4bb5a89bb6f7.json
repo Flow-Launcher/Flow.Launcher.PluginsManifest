@@ -8,5 +8,7 @@
     "Website": "https://accentletters.wiki/",
     "UrlDownload": "https://github.com/roshanti1/flow-launcher-accent-letters/releases/download/v1.0.0/Accent.Letters-1.0.0.zip",
     "UrlSourceCode": "https://github.com/roshanti1/flow-launcher-accent-letters/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/roshanti1/flow-launcher-accent-letters@main/Images/app.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/roshanti1/flow-launcher-accent-letters@main/Images/app.png",
+    "Tested": true,
+    "DateAdded": "2026-10-18T10:41:25Z"
 }
