@@ -983,6 +983,21 @@
         "DateAdded": "2026-02-24T13:18:12Z"
     },
     {
+        "ID": "122454f3-7f67-441c-b80b-624e45ee745c",
+        "Name": "Live Tennis",
+        "Description": "Live tennis scores at a keystroke: point-by-point live matches with serving indicator, player search, and head-to-head records — ATP, WTA, Challenger, ITF and juniors, from the Live Tennis API.",
+        "Author": "livetennisapi",
+        "Version": "1.1.0",
+        "Language": "python",
+        "Website": "https://livetennisapi.com",
+        "UrlDownload": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/releases/download/v1.1.0/Flow.Launcher.Plugin.LiveTennis.zip",
+        "UrlSourceCode": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/livetennisapi/Flow.Launcher.Plugin.LiveTennis@main/Images/icon.png",
+        "LatestReleaseDate": null,
+        "Tested": true,
+        "DateAdded": "2026-08-06T08:44:05Z"
+    },
+    {
         "ID": "763D015F571C48E4ACA5EF5DFD0BCA30",
         "Name": "Statis",
         "Description": "Useful statistics plugin",
