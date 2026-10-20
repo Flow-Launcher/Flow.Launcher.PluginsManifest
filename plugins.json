@@ -646,7 +646,7 @@
         "Website": "https://github.com/Garulf/Plexy",
         "UrlDownload": "https://github.com/Garulf/Plexy/releases/download/v3.0.0/Plexy-3.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/plexy/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/plexy@main/./icons/plex.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Plexy@main/data/icon.png",
         "Tested": true,
         "LatestReleaseDate": "2026-10-03T15:01:24Z",
         "DateAdded": "2022-10-08T16:26:57Z"
@@ -679,21 +679,6 @@
         "LatestReleaseDate": "2024-10-28T03:23:35Z",
         "Tested": true,
         "DateAdded": "2024-10-26T21:17:53Z"
-    },
-    {
-        "ID": "122454f3-7f67-441c-b80b-624e45ee745c",
-        "Name": "Live Tennis",
-        "Description": "Live tennis scores at a keystroke: point-by-point live matches with serving indicator, player search, and head-to-head records — ATP, WTA, Challenger, ITF and juniors, from the Live Tennis API.",
-        "Author": "livetennisapi",
-        "Version": "1.1.0",
-        "Language": "python",
-        "Website": "https://livetennisapi.com",
-        "UrlDownload": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/releases/download/v1.1.0/Flow.Launcher.Plugin.LiveTennis.zip",
-        "UrlSourceCode": "https://github.com/livetennisapi/Flow.Launcher.Plugin.LiveTennis/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/livetennisapi/Flow.Launcher.Plugin.LiveTennis@main/Images/icon.png",
-        "LatestReleaseDate": null,
-        "Tested": true,
-        "DateAdded": "2026-08-06T08:44:05Z"
     },
     {
         "ID": "e47fca5f-4305-4c14-9928-57d2c319d78e",
@@ -1052,7 +1037,7 @@
         "Website": "https://github.com/Garulf/github-quick-launcher",
         "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v5.0.0/Github-Quick-Launcher-5.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-quick-launcher@main/src/icon.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Github-Quick-Launcher@main/data/icon.png",
         "Tested": true,
         "LatestReleaseDate": "2026-09-19T06:05:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
@@ -5088,7 +5073,7 @@
         "Website": "https://github.com/Garulf/HA-Commander",
         "UrlDownload": "https://github.com/Garulf/HA-Commander/releases/download/v6.0.0/HA-Commander-6.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/HA-Commander/tree/main",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/icons/home-assistant.png",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/HA-Commander@main/data/icon.png",
         "Tested": true,
         "LatestReleaseDate": "2026-10-03T16:26:39Z",
         "DateAdded": "2022-10-08T16:26:57Z"
