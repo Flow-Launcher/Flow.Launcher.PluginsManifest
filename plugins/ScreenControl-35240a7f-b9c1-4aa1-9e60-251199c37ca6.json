@@ -1,0 +1,12 @@
+{
+    "ID": "35240a7f-b9c1-4aa1-9e60-251199c37ca6",
+    "Name": "ScreenControl",
+    "Description": "Brightness, contrast and HDR for each of your screens, with on-screen identification",
+    "Author": "Adrien Albertini",
+    "Version": "1.1.0",
+    "Language": "python_v2",
+    "Website": "https://github.com/aalbertinib/flow-launcher-screen-control",
+    "UrlDownload": "https://github.com/aalbertinib/flow-launcher-screen-control/releases/download/v1.1.0/Flow.Launcher.Plugin.ScreenControl.zip",
+    "UrlSourceCode": "https://github.com/aalbertinib/flow-launcher-screen-control",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/aalbertinib/flow-launcher-screen-control@main/assets/app.png"
+}
