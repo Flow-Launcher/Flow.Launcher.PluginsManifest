@@ -8,7 +8,7 @@
     "Website": "https://github.com/Garulf/github-quick-launcher",
     "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v5.0.0/Github-Quick-Launcher-5.0.0.zip",
     "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/github-quick-launcher@main/src/icon.png",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Github-Quick-Launcher@main/data/icon.png",
     "Tested": true,
     "LatestReleaseDate": "2026-09-19T06:05:39Z",
     "DateAdded": "2022-10-08T16:26:57Z"
