@@ -3204,10 +3204,10 @@
         "Version": "2.2.0",
         "Language": "python",
         "Website": "https://github.com/keekyslusus/SteamFlow",
-        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v2.2.0/Flow.Launcher.Plugin.SteamFlow.zip",
+        "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v3.0.0/Flow.Launcher.Plugin.SteamFlow.zip",
         "UrlSourceCode": "https://github.com/keekyslusus/SteamFlow/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/SteamFlow@main/steam.png",
-        "LatestReleaseDate": "2026-07-29T21:19:56Z",
+        "LatestReleaseDate": "2026-10-23T21:39:53Z",
         "Tested": true,
         "DateAdded": "2025-07-01T02:10:27Z"
     },
