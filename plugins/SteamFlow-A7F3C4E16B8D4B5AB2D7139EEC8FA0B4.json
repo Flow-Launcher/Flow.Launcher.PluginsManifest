@@ -3,13 +3,13 @@
     "Name": "SteamFlow",
     "Description": "Control Steam from Flow Launcher. Switch accounts, manage status, browse wishlist, search the store and more",
     "Author": "keekys",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Language": "csharp",
     "Website": "https://github.com/keekyslusus/SteamFlow",
-    "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v3.0.0/Flow.Launcher.Plugin.SteamFlow.zip",
+    "UrlDownload": "https://github.com/keekyslusus/SteamFlow/releases/download/v3.0.1/Flow.Launcher.Plugin.SteamFlow.zip",
     "UrlSourceCode": "https://github.com/keekyslusus/SteamFlow/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/keekyslusus/SteamFlow@main/steam.png",
-    "LatestReleaseDate": "2026-10-23T21:39:53Z",
+    "LatestReleaseDate": "2026-10-25T22:24:01Z",
     "Tested": true,
     "DateAdded": "2025-07-01T02:10:27Z"
 }
