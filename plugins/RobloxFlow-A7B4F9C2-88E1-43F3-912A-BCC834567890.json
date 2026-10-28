@@ -1,0 +1,12 @@
+{
+  "ID": "A7B4F9C2-88E1-43F3-912A-BCC834567890",
+  "Name": "RobloxFlow",
+  "Description": "Quickly manage Roblox actions, sessions, and utilities from Flow Launcher.",
+  "Author": "Skal",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/Skal64/RobloxFlow",
+  "UrlSourceCode": "https://github.com/Skal64/RobloxFlow",
+  "UrlDownload": "https://github.com/Skal64/RobloxFlow/releases/download/v1.0.0/RobloxFlow-1.0.0.zip",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Skal64/RobloxFlow@main/icons/icon.png"
+}
