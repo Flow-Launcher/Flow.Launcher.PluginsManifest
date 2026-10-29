@@ -1,0 +1,12 @@
+{
+  "ID": "AE559277D9894B3EA94BE574731C76A8",
+  "Name": "Leo Translate",
+  "Description": "LLM translation with a complete translation first and contextual English phrase explanations.",
+  "Author": "Leo",
+  "Version": "1.1.1",
+  "Language": "python",
+  "Website": "https://github.com/Leo-zzl/FlowLauncher_Tr",
+  "UrlDownload": "https://github.com/Leo-zzl/FlowLauncher_Tr/releases/download/v1.1.1/LeoTranslate-1.1.1.zip",
+  "UrlSourceCode": "https://github.com/Leo-zzl/FlowLauncher_Tr",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Leo-zzl/FlowLauncher_Tr@v1.1.1/Images/app.png"
+}
