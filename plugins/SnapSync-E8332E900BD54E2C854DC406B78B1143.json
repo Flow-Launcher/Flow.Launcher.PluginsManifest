@@ -1,0 +1,13 @@
+{
+  "ID": "E8332E900BD54E2C854DC406B78B1143",
+  "Name": "SnapSync",
+  "Description": "On-demand, one-way file and folder synchronization with safety checks and preview.",
+  "Author": "HungNth",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/HungNth/Flow.Launcher.Plugin.SnapSync",
+  "UrlDownload": "https://github.com/HungNth/Flow.Launcher.Plugin.SnapSync/releases/download/v1.0.0/Flow.Launcher.Plugin.SnapSync.zip",
+  "UrlSourceCode": "https://github.com/HungNth/Flow.Launcher.Plugin.SnapSync/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/HungNth/Flow.Launcher.Plugin.SnapSync@main/Images/app.png",
+  "MinimumAppVersion": "2.0.0"
+}
