@@ -4738,14 +4738,14 @@
         "Name": "Playnite",
         "Description": "Search and launch your Playnite library.",
         "Author": "Garulf",
-        "Version": "3.3.2",
+        "Version": "3.3.3",
         "Language": "python_v2",
         "Website": "https://github.com/Garulf/Playnite-Plugin",
-        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.3.2/Playnite-Plugin-3.3.2.zip",
+        "UrlDownload": "https://github.com/Garulf/Playnite-Plugin/releases/download/v3.3.3/Playnite-Plugin-3.3.3.zip",
         "UrlSourceCode": "https://github.com/Garulf/playnite-plugin/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/playnite-plugin@main/data/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2026-10-28T20:45:22Z",
+        "LatestReleaseDate": "2026-10-30T04:13:49Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
