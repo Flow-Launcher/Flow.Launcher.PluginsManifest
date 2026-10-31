@@ -1,0 +1,12 @@
+{
+  "ID": "7C1F3B42-9E5A-4D2B-8F31-6A0C4E7D9B15",
+  "Name": "PiliPlus Search",
+  "Description": "在 PiliPlus（哔哩哔哩第三方客户端）中搜索。输入 bili <关键词>，回车即跳转。",
+  "Author": "许兴逸",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Seng-Jik/Flow.Plugin.PiliPlusSearch",
+  "UrlDownload": "https://github.com/Seng-Jik/Flow.Plugin.PiliPlusSearch/releases/download/v1.0.0/PiliPlusSearch.zip",
+  "UrlSourceCode": "https://github.com/Seng-Jik/Flow.Plugin.PiliPlusSearch/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Seng-Jik/Flow.Plugin.PiliPlusSearch@main/Images/app.png"
+}
