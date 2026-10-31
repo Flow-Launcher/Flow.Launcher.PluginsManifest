@@ -1,0 +1,12 @@
+{
+  "ID": "69335BA5-E0B6-4ADB-814B-1849A0F7D129",
+  "Name": "Pear Desktop",
+  "Description": "Control Pear Desktop (YouTube Music) with Flow Launcher",
+  "Author": "JusteKal",
+  "Version": "1.2.0",
+  "Language": "python",
+  "Website": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop",
+  "UrlDownload": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/releases/download/v1.2.0/Flow.Launcher.Plugin.PearDesktop.zip",
+  "UrlSourceCode": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/JusteKal/Flow.Launcher.Plugin.PearDesktop@main/Images/app.png"
+}
