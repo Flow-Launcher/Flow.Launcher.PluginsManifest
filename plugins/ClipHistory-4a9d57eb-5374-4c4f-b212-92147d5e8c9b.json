@@ -1,0 +1,12 @@
+{
+  "ID": "4a9d57eb-5374-4c4f-b212-92147d5e8c9b",
+  "Name": "ClipHistory",
+  "Description": "剪贴板历史记录与搜索扩展，支持文本与图片检索 / Clipboard history and search extension with text and image support",
+  "Author": "SLin0218",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/SLin0218/Flow.Plugin.ClipHistory",
+  "UrlDownload": "https://github.com/SLin0218/Flow.Plugin.ClipHistory/releases/download/v1.0.0/Flow.Plugin.ClipHistory.zip",
+  "UrlSourceCode": "https://github.com/SLin0218/Flow.Plugin.ClipHistory",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/SLin0218/Flow.Plugin.ClipHistory@master/Images/icon.png"
+}
