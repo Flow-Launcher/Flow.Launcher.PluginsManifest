@@ -1,0 +1,12 @@
+{
+  "ID": "5A52CAE9-5551-42EC-811E-F93249A5F488",
+  "Name": "Desmos",
+  "Description": "Launch Desmos in Flow Launcher to preview Graphs",
+  "Author": "coweggs",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos",
+  "UrlDownload": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/releases/download/1.0.0/Desmos.zip",
+  "UrlSourceCode": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/coweggs/Flow.Launcher.Plugin.Desmos@main/Flow.Launcher.Plugin.Desmos/desmos.png"
+}
