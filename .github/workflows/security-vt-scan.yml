@@ -80,9 +80,9 @@ jobs:
           key: plugin-zips-restore-not-used
           restore-keys: plugin-zips-
 
-      - name: Download plugin submitted in this PR
+      - name: Download plugins changed in this PR
         if: github.event_name == 'pull_request_target'
-        run: python ci/src/download_plugins.py --mode new --output-dir scan-files
+        run: python ci/src/download_plugins.py --mode changed --output-dir scan-files
 
       - name: Download all plugins with cache metadata
         if: github.event_name != 'pull_request_target'

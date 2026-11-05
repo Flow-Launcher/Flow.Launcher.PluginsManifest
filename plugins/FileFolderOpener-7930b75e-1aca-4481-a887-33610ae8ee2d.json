@@ -3,12 +3,12 @@
     "Name": "FileFolderOpener",
     "Description": "Allows you to open files or folders using keywords set in the settings",
     "Author": "Exarilo",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "Language": "csharp",
     "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.FileFolderOpener",
-    "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.FileFolderOpener/releases/download/v1.0.1/Flow.Launcher.Plugin.FileFolderOpener.zip",
+    "UrlDownload": "https://github.com/Exarilo/Flow.Launcher.Plugin.FileFolderOpener/releases/download/v1.0.2/Flow.Launcher.Plugin.FileFolderOpener.zip",
     "UrlSourceCode": "https://github.com/Exarilo/Flow.Launcher.Plugin.FileFolderOpener",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Exarilo/Flow.Launcher.Plugin.FileFolderOpener@master/Images/app.png",
-    "LatestReleaseDate": "2025-06-06T11:19:23Z",
+    "LatestReleaseDate": "2026-11-03T08:21:14Z",
     "DateAdded": "2025-06-08T18:29:44Z"
 }

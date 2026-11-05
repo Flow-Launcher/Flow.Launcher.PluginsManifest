@@ -3,13 +3,13 @@
     "Name": "CurrencyPP",
     "Description": "A Better Currency Converter",
     "Author": "SweedXD",
-    "Version": "4.0.1",
+    "Version": "4.1.0",
     "Language": "python",
     "Website": "https://github.com/SweedXD/CurrencyPP",
-    "UrlDownload": "https://github.com/SweedXD/CurrencyPP/releases/download/v4.0.1/CurrencyPP.zip",
+    "UrlDownload": "https://github.com/SweedXD/CurrencyPP/releases/download/v4.1.0/CurrencyPP.zip",
     "UrlSourceCode": "https://github.com/SweedXD/CurrencyPP",
     "IcoPath": "https://raw.githubusercontent.com/SweedXD/CurrencyPP/refs/heads/master/src/CurrencyPP.png",
-    "LatestReleaseDate": "2025-09-01T06:41:15Z",
+    "LatestReleaseDate": "2026-10-26T17:26:53Z",
     "Tested": true,
     "DateAdded": "2025-08-12T21:23:19Z"
 }

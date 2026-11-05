@@ -1,0 +1,14 @@
+{
+    "ID": "9d4837b0-4c77-4d0d-b7ad-9879b2bd907e",
+    "Name": "Quick Uninstall",
+    "Description": "Fast native uninstall for programs, apps and Steam games with sorting, statistics and in-Flow confirmation.",
+    "Author": "Adfnitum",
+    "Version": "1.1.1",
+    "Language": "csharp",
+    "Website": "https://github.com/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall",
+    "UrlDownload": "https://github.com/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall/releases/download/v1.1.1/QuickUninstall-1.1.1.zip",
+    "UrlSourceCode": "https://github.com/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/LaShonkilla/Flow.Launcher.Plugin.QuickUninstall@main/icon.png",
+    "LatestReleaseDate": "2026-08-14T17:01:43Z",
+    "DateAdded": "2026-08-22T15:25:47Z"
+}

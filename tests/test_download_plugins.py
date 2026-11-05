@@ -87,6 +87,148 @@ def test_select_new_plugins_skips_ids_not_in_reader():
         assert plugins[0]["ID"] == "1"
 
 
+def test_get_changed_plugin_manifest_paths_fetches_base_before_diffing():
+    base_ref = "main"
+    diff_output = "plugins/Foo-1.json\nplugins/Bar-2.json\n"
+
+    fetch_result = MagicMock()
+    diff_result = MagicMock(stdout=diff_output)
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=False),
+        patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Foo-1.json", "plugins/Bar-2.json"]
+    fetch_command, diff_command = [call.args[0] for call in mock_run.call_args_list]
+    assert fetch_command == ["git", "fetch", "origin", base_ref]
+    assert diff_command[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
+    assert f"origin/{base_ref}...HEAD" in diff_command
+    assert "plugins/*.json" in diff_command
+
+
+def test_get_changed_plugin_manifest_paths_unshallows_before_fetching_base():
+    base_ref = "main"
+    diff_output = "plugins/Foo-1.json\n"
+
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=True),
+        patch.object(
+            dp.subprocess,
+            "run",
+            side_effect=[MagicMock(), MagicMock(), MagicMock(stdout=diff_output)],
+        ) as mock_run,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Foo-1.json"]
+    unshallow_command, fetch_command, diff_command = [
+        call.args[0] for call in mock_run.call_args_list
+    ]
+    assert unshallow_command == ["git", "fetch", "--unshallow", "origin"]
+    assert fetch_command == ["git", "fetch", "origin", base_ref]
+    assert diff_command[0:4] == ["git", "diff", "--diff-filter=AM", "--name-only"]
+    assert f"origin/{base_ref}...HEAD" in diff_command
+    assert "plugins/*.json" in diff_command
+
+
+def test_get_changed_plugin_manifest_paths_uses_base_ref_env(monkeypatch):
+    base_ref = "test"
+
+    monkeypatch.setenv("GITHUB_BASE_REF", base_ref)
+    fetch_result = MagicMock()
+    diff_result = MagicMock(stdout="")
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=False),
+        patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run,
+    ):
+        dp._get_changed_plugin_manifest_paths()
+
+    fetch_command, diff_command = [call.args[0] for call in mock_run.call_args_list]
+    assert fetch_command == ["git", "fetch", "origin", base_ref]
+    assert f"origin/{base_ref}...HEAD" in diff_command
+
+
+def test_get_changed_plugin_manifest_paths_skips_blank_lines():
+    diff_output = "plugins/Foo-1.json\n\n"
+
+    fetch_result = MagicMock()
+    diff_result = MagicMock(stdout=diff_output)
+    with (
+        patch.object(dp, "_repo_is_shallow", return_value=False),
+        patch.object(dp.subprocess, "run", side_effect=[fetch_result, diff_result]) as mock_run,
+    ):
+        paths = dp._get_changed_plugin_manifest_paths()
+
+    assert paths == ["plugins/Foo-1.json"]
+
+
+def test_select_changed_plugins_returns_matching_manifests():
+    # Changed paths only count when they map to a real manifest in the plugins folder. 
+    # This is what lets a modified UrlDownload on an existing plugin get re-scanned.
+    
+    changed_paths = ["plugins/Foo-1.json", "plugins/Baz-3.json"]
+    all_plugins = [
+        {"ID": "1", "Name": "Foo"},
+        {"ID": "2", "Name": "Bar"},
+        {"ID": "3", "Name": "Baz"},
+    ]
+
+    # simulate
+    with (
+        patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=changed_paths),
+        patch.object(dp, "plugin_reader", return_value=all_plugins),
+    ):
+        plugins, meta = dp.select_changed_plugins()
+
+    # check
+    assert [p["ID"] for p in plugins] == ["1", "3"]
+    assert meta["mode"] == "changed"
+    assert meta["changed_plugins"] == 2
+
+
+def test_select_changed_plugins_returns_empty_when_no_matches():
+    # A path that does not match any manifest, 
+    # for example a stray json file in the plugins folder, 
+    # should be ignored rather than crash selection.
+    
+    changed_paths = ["plugins/Missing-9.json"]
+    all_plugins = [{"ID": "1", "Name": "Foo"}]
+
+    # simulate
+    with (
+        patch.object(dp, "_get_changed_plugin_manifest_paths", return_value=changed_paths),
+        patch.object(dp, "plugin_reader", return_value=all_plugins),
+    ):
+        plugins, meta = dp.select_changed_plugins()
+
+    # check
+    assert plugins == []
+    assert meta["changed_plugins"] == 0
+
+
+def test_main_mode_changed(monkeypatch):
+    # The changed mode should route through select_changed_plugins
+    # and then hand the result to download_all.
+
+    # simulate
+    monkeypatch.setenv("MODE", "changed")
+    monkeypatch.setattr(sys, "argv", ["download_plugins.py"])
+    with (
+        patch.object(dp, "download_all") as mock_download_all,
+        patch.object(dp, "select_changed_plugins") as mock_select,
+    ):
+        mock_select.return_value = (
+            [_make_plugin("changed1")],
+            {"mode": "changed", "changed_plugins": 1},
+        )
+        dp.main()
+
+    # check
+    mock_select.assert_called_once_with()
+    mock_download_all.assert_called_once_with([_make_plugin("changed1")], Path("plugin_downloads"), cache_meta_path=None)
+
+
 def test_download_plugin_successfully(tmp_path, monkeypatch):
     monkeypatch.setenv("DOWNLOAD_TIMEOUT_SEC", "30")
     mock_response = MagicMock(spec=requests.Response)
