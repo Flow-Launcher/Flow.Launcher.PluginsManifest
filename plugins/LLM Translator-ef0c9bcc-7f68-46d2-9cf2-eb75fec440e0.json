@@ -1,0 +1,13 @@
+{
+    "ID": "ef0c9bcc-7f68-46d2-9cf2-eb75fec440e0",
+    "Name": "LLM Translator",
+    "Description": "AI translation through Chat Completions, Responses, and Claude Messages APIs",
+    "Author": "hsopex",
+    "Version": "0.1.1",
+    "Language": "javascript",
+    "Website": "https://github.com/hsopex/Flow.Launcher.Plugin.LLMTranslator",
+    "UrlDownload": "https://github.com/hsopex/Flow.Launcher.Plugin.LLMTranslator/releases/download/v0.1.1/Flow.Launcher.Plugin.LLMTranslator-0.1.1.zip",
+    "UrlSourceCode": "https://github.com/hsopex/Flow.Launcher.Plugin.LLMTranslator/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/hsopex/Flow.Launcher.Plugin.LLMTranslator@main/Images/app.png",
+    "MinimumAppVersion": "2.0.0"
+}
