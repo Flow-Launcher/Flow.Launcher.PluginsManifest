@@ -1,0 +1,13 @@
+{
+  "ID": "43FE1CD33CDC4AA5BCA06773FB83B1B0",
+  "Name": "Layout Fix",
+  "Description": "Typed in the Russian layout by mistake? «дфя» finds what «laz» finds: apps, files, commands and plugin keywords.",
+  "Author": "renkagod",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix",
+  "UrlDownload": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix/releases/download/v1.0.0/Flow.Launcher.Plugin.LayoutFix.zip",
+  "UrlSourceCode": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/renkagod/Flow.Launcher.Plugin.LayoutFix@main/Images/icon.png",
+  "MinimumAppVersion": "2.1.3"
+}
