@@ -3,12 +3,12 @@
     "Name": "MonitorCowboy",
     "Description": "Control your monitors over DDC/CI - switch input source, set brightness and volume from Flow.",
     "Author": "True347",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "Language": "csharp",
     "Website": "https://github.com/True347/MonitorCowboy",
-    "UrlDownload": "https://github.com/True347/MonitorCowboy/releases/download/v1.2.0/Flow.Launcher.Plugin.MonitorCowboy.zip",
+    "UrlDownload": "https://github.com/True347/MonitorCowboy/releases/download/v1.3.0/Flow.Launcher.Plugin.MonitorCowboy.zip",
     "UrlSourceCode": "https://github.com/True347/MonitorCowboy/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/True347/MonitorCowboy@main/Images/app.png",
-    "LatestReleaseDate": "2026-08-21T03:16:44Z",
+    "LatestReleaseDate": "2026-10-27T12:15:58Z",
     "DateAdded": "2026-08-13T02:21:31Z"
 }
