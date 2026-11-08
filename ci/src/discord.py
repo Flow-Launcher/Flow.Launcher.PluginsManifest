@@ -81,7 +81,13 @@ async def release_hook(webhook_url: str, info: PluginType) -> None:
     async with aiohttp.ClientSession() as session:
         await session.post(webhook_url, json=embed)
     
-async def rejection_hook(webhook_url: str, info: PluginType, release: dict, download_url: str) -> None:
+async def rejection_hook(
+    webhook_url: str,
+    info: PluginType,
+    release: dict,
+    download_url: str,
+    issue_url: str | None = None,
+) -> None:
     """Post an embed for a release whose tag cannot be used."""
     embed = {
         "content": None,
@@ -96,10 +102,6 @@ async def rejection_hook(webhook_url: str, info: PluginType, release: dict, down
                 "color": 15548997,  # red
                 "fields": [
                     {
-                        "name": "Plugin Description",
-                        "value": info[description],
-                    },
-                    {
                         "name": "Download URL",
                         "value": download_url,
                     },
@@ -113,6 +115,11 @@ async def rejection_hook(webhook_url: str, info: PluginType, release: dict, down
             }
         ],
     }
+    if issue_url:
+        embed["embeds"][0]["fields"].append({
+            "name": "Author notified",
+            "value": issue_url,
+        })
     if "github.com" in info[url_sourcecode].lower():
         github_username = info[url_sourcecode].split("/")[3]
         embed["embeds"][0]["author"]["name"] = github_username

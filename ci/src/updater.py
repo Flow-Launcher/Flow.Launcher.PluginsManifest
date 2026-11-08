@@ -184,9 +184,10 @@ async def report_invalid_release(
 ) -> None:
     """Tell a plugin author their release tag cannot be accepted.
 
-    Opens an issue on the plugin's own repository, posts to the Discord webhook when
-    configured, and logs the rejection. The manifest keeps its previous version until
-    the release is republished under a valid tag.
+    Opens an issue on the plugin's own repository, posts the rejection to Discord when
+    configured, and logs the rejection. When an issue exists, its link is included in
+    the Discord message. The manifest keeps its previous version until the release is
+    republished under a valid tag.
 
     Args:
         info: Plugin dictionary whose update was rejected.
@@ -200,37 +201,37 @@ async def report_invalid_release(
         f"Rejected update for {info[plugin_name]} ({tag}): {download_url} is not a valid download URL"
     )
 
-    if webhook_url:
-        try:
-            await rejection_hook(webhook_url, info, release, download_url)
-        except Exception as e:
-            tqdm.write(f"Failed to post rejection to Discord: {e}")
-
+    issue_url = None
     token = getenv(plugin_issue_token_env)
     if not token:
         tqdm.write(
             f"Skipping author notification for {repo}: {plugin_issue_token_env} is not set"
         )
-        return
+    else:
+        title = f"Flow Launcher update rejected for {info[plugin_name]}"
+        body = (
+            f"The Flow Launcher update to `{tag}` was rejected because the release download URL "
+            f"cannot be used.\n\n"
+            f"Download URL: {download_url}\n"
+            f"Release: {release.get('html_url', '')}\n\n"
+            f"Release download URLs must look like "
+            f"`https://github.com/<owner>/<repo>/releases/download/<version>/<file>.zip`, "
+            f"where `<version>` contains only letters, digits and dots, for example `v1.2.3`.\n\n"
+            f"Publish the release under a version tag such as `v1.2.3` and the update will be picked up automatically."
+        )
+        try:
+            issue_url = await open_plugin_repo_issue(repo, title, body, token)
+        except Exception as e:
+            tqdm.write(f"Failed to notify {repo}: {e}")
 
-    title = f"Flow Launcher update rejected for {info[plugin_name]}"
-    body = (
-        f"The Flow Launcher update to `{tag}` was rejected because the release download URL "
-        f"cannot be used.\n\n"
-        f"Download URL: {download_url}\n"
-        f"Release: {release.get('html_url', '')}\n\n"
-        f"Release download URLs must look like "
-        f"`https://github.com/<owner>/<repo>/releases/download/<version>/<file>.zip`, "
-        f"where `<version>` contains only letters, digits and dots, for example `v1.2.3`.\n\n"
-        f"Publish the release under a version tag such as `v1.2.3` and the update will be picked up automatically."
-    )
-    try:
-        await open_plugin_repo_issue(repo, title, body, token)
-    except Exception as e:
-        tqdm.write(f"Failed to notify {repo}: {e}")
+    if webhook_url:
+        try:
+            await rejection_hook(webhook_url, info, release, download_url, issue_url)
+        except Exception as e:
+            tqdm.write(f"Failed to post rejection to Discord: {e}")
 
 
-async def open_plugin_repo_issue(repo: str, title: str, body: str, token: str) -> None:
+async def open_plugin_repo_issue(repo: str, title: str, body: str, token: str) -> str | None:
     """Open an issue on a plugin repository, skipping when one is already open.
 
     Args:
@@ -238,6 +239,9 @@ async def open_plugin_repo_issue(repo: str, title: str, body: str, token: str) -
         title: Issue title, also used to detect an existing open issue.
         body: Issue body.
         token: GitHub token with issue-write access to the plugin repository.
+
+    Returns:
+        URL of the open issue, or None when no issue could be found or created.
     """
     headers = {"authorization": f"token {token}", "accept": "application/vnd.github+json"}
     issues_url = f"https://api.github.com/repos/{repo}/issues"
@@ -248,18 +252,21 @@ async def open_plugin_repo_issue(repo: str, title: str, body: str, token: str) -
         ) as res:
             if res.status < 400:
                 existing = await res.json()
-                if any(issue.get("title") == title for issue in existing):
-                    tqdm.write(f"Rejection issue already open on {repo}, skipping")
-                    return
+                for issue in existing:
+                    if issue.get("title") == title:
+                        tqdm.write(f"Rejection issue already open on {repo}, skipping")
+                        return issue.get("html_url")
 
         async with session.post(
             issues_url, headers=headers, json={"title": title, "body": body}
         ) as res:
             if res.status >= 400:
                 tqdm.write(f"Failed to open issue on {repo}: HTTP {res.status} {await res.text()}")
-                return
+                return None
             created = await res.json()
-            tqdm.write(f"Opened {created.get('html_url', '')} on {repo}")
+            issue_url = created.get("html_url", "")
+            tqdm.write(f"Opened {issue_url} on {repo}")
+            return issue_url or None
 
 
 async def main():
