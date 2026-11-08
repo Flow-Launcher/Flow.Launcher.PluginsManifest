@@ -12,7 +12,7 @@ import traceback
 from tqdm.asyncio import tqdm
 
 from _utils import *
-from discord import update_hook
+from discord import rejection_hook, update_hook
 
 async def batch_github_plugin_info(
     info: P, tags: ETagsType, github_token=None, webhook_url: str | None = None
@@ -67,7 +67,7 @@ async def batch_github_plugin_info(
                 # Reject a tag we cannot turn into a valid download URL rather than writing it.
                 # A bad URL fails manifest validation for every plugin, not only this one.
                 if github_download_url_regex.fullmatch(new_download_url) is None:
-                    await report_invalid_release(info, repo, latest_rel, new_download_url)
+                    await report_invalid_release(info, repo, latest_rel, new_download_url, webhook_url)
                     # Store the rejected release's ETag so it is not reported on every run.
                     # The stored ETag then points at a release that is not the manifest version.
                     tags[info[id_name]] = res.headers.get(etag, "")
@@ -176,23 +176,35 @@ plugin_issue_token_env = "PLUGIN_ISSUE_TOKEN"
 
 
 async def report_invalid_release(
-    info: PluginType, repo: str, release: dict, download_url: str
+    info: PluginType,
+    repo: str,
+    release: dict,
+    download_url: str,
+    webhook_url: str | None = None,
 ) -> None:
     """Tell a plugin author their release tag cannot be accepted.
 
-    Opens an issue on the plugin's own repository and logs the rejection.
-    The manifest keeps its previous version until the release is republished under a valid tag.
+    Opens an issue on the plugin's own repository, posts to the Discord webhook when
+    configured, and logs the rejection. The manifest keeps its previous version until
+    the release is republished under a valid tag.
 
     Args:
         info: Plugin dictionary whose update was rejected.
         repo: ``owner/name`` of the plugin repository.
         release: GitHub release payload that was rejected.
         download_url: Release asset URL that failed validation.
+        webhook_url: Discord webhook URL, when one is configured.
     """
     tag = release.get("tag_name", "")
     tqdm.write(
         f"Rejected update for {info[plugin_name]} ({tag}): {download_url} is not a valid download URL"
     )
+
+    if webhook_url:
+        try:
+            await rejection_hook(webhook_url, info, release, download_url)
+        except Exception as e:
+            tqdm.write(f"Failed to post rejection to Discord: {e}")
 
     token = getenv(plugin_issue_token_env)
     if not token:
