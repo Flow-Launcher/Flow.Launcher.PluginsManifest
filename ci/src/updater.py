@@ -31,7 +31,9 @@ async def batch_github_plugin_info(
         # It can belong to a rejected release, so it is not the version currently in the manifest.
         tag: str = tags.get(info[id_name], info.get(etag, ""))
 
-        if release_date in info.keys():
+        # Send the stored ETag whenever there is one, so a rejected release is not fetched
+        # again. Gating this on a release date would miss manifests that do not have one yet.
+        if tag:
             headers["If-None-Match"] = tag
 
         async with aiohttp.ClientSession() as session:
