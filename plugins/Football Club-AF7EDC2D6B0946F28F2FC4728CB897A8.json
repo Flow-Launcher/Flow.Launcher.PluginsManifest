@@ -1,0 +1,12 @@
+{
+    "ID": "AF7EDC2D6B0946F28F2FC4728CB897A8",
+    "Name": "Football Club",
+    "Description": "Fixtures, results, standings, top scorers and squad for your favorite football club (data: football-data.org)",
+    "Author": "Nasty",
+    "Version": "1.0.1",
+    "Language": "python",
+    "Website": "https://github.com/khairuddin-n/football",
+    "UrlDownload": "https://github.com/khairuddin-n/football/releases/download/v1.0.1/Football.Club.zip",
+    "UrlSourceCode": "https://github.com/khairuddin-n/football/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/khairuddin-n/football@main/Images/app.png"
+}
