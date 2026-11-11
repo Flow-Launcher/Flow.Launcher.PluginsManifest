@@ -1,0 +1,12 @@
+{
+  "ID": "6E8B4F2A-1C3D-4E5F-9A0B-2D4F6E8C1A3B",
+  "Name": "Streaming AI Chat",
+  "Description": "支持流式输出的 AI 对话插件，可对接任意 OpenAI 兼容 / Azure / Ollama / DeepSeek / OpenRouter 等 endpoint",
+  "Author": "Eanrach",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Eanrach/Flow.Launcher.Plugin.StreamingAI",
+  "UrlDownload": "https://github.com/Eanrach/Flow.Launcher.Plugin.StreamingAI/releases/download/v1.0.0/Flow.Launcher.Plugin.StreamingAI.zip",
+  "UrlSourceCode": "https://github.com/Eanrach/Flow.Launcher.Plugin.StreamingAI/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/Eanrach/Flow.Launcher.Plugin.StreamingAI@main/icon.png"
+}
