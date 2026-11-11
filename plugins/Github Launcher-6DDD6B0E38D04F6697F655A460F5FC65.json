@@ -1,0 +1,12 @@
+{
+    "ID": "6DDD6B0E38D04F6697F655A460F5FC65",
+    "Name": "Github Launcher",
+    "Description": "自分のリポジトリやスターに素早くアクセスし、GitHub 全体も検索できます。",
+    "Author": "Fuku856 (original by Garulf)",
+    "Version": "5.1.0",
+    "Language": "python_v2",
+    "Website": "https://github.com/Fuku856/Github-Quick-Launcher",
+    "UrlDownload": "https://github.com/Fuku856/Github-Quick-Launcher/releases/download/v5.1.0/Github-Quick-Launcher-5.1.0.zip",
+    "UrlSourceCode": "https://github.com/Fuku856/Github-Quick-Launcher/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Fuku856/Github-Quick-Launcher@main/data/icon.png"
+}
