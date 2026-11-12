@@ -1,0 +1,12 @@
+{
+  "ID": "7ae4ef01-9a1a-4752-a3be-0e8b03b11748",
+  "Name": "KageAnime",
+  "Description": "Search anime on KageAnime and open the player directly: russian/english titles, posters, ratings, ongoing list",
+  "Author": "KageAnime",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://anime.hitler.site",
+  "UrlDownload": "https://github.com/drfifdfdjfdjfdj/Flow.Launcher.Plugin.KageAnime/releases/download/v1.0.0/Flow.Launcher.Plugin.KageAnime.zip",
+  "UrlSourceCode": "https://github.com/drfifdfdjfdjfdj/Flow.Launcher.Plugin.KageAnime",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/drfifdfdjfdjfdj/Flow.Launcher.Plugin.KageAnime@main/icon.png"
+}
