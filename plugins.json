@@ -256,16 +256,17 @@
     {
         "ID": "8CBACA12D99946D7B5E4E162EED6B045",
         "Name": "EasySSH",
-        "Description": "ssh with Flow-Launcher",
+        "Description": "Search, save and open SSH connections, with the hosts of your ~/.ssh/config.",
         "Author": "Melv1no",
-        "Version": "1.2.0.0",
+        "Version": "3.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh",
-        "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/1.2.0.0/easyssh.zip",
+        "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/3.0.0/easyssh.zip",
         "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png",
         "DateAdded": "2024-01-04T00:32:56Z",
-        "LatestReleaseDate": "2026-02-19T12:35:13Z"
+        "LatestReleaseDate": "2026-11-12T08:18:54Z",
+        "MinimumAppVersion": "2.0.0"
     },
     {
         "ID": "F03364BE-101B-4988-B555-528B961E6A86",
@@ -651,7 +652,7 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/z1nc0r3/AnyVideo-Downloader-Flow-Plugin@main/Images/app.png",
         "Tested": true,
         "DateAdded": "2024-07-30T07:46:00Z",
-        "LatestReleaseDate": "2026-07-30T15:14:38Z"
+        "LatestReleaseDate": null
     },
     {
         "ID": "2bf97885-af0d-11ee-94b6-00e04c239987",
