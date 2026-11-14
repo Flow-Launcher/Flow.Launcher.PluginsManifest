@@ -1,0 +1,12 @@
+{
+  "ID": "8B4E2A7C1D3F4A6B9E5C0D8F2A1B7C3D",
+  "Name": "DeepSeek",
+  "Description": "在浏览器中直接调用网页版 DeepSeek 提问",
+  "Author": "HX201118",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/HX201118/Flow.Launcher.Plugin.DeepSeek",
+  "UrlDownload": "https://github.com/HX201118/Flow.Launcher.Plugin.DeepSeek/releases/download/v1.0.0/Flow.Launcher.Plugin.DeepSeek.zip",
+  "UrlSourceCode": "https://github.com/HX201118/Flow.Launcher.Plugin.DeepSeek",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/HX201118/Flow.Launcher.Plugin.DeepSeek@main/Images/app.png"
+}
