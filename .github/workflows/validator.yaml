@@ -13,11 +13,36 @@ jobs:
         uses: fkirc/skip-duplicate-actions@master
         with:
           skip_after_successful_duplicate: 'true'
-          paths: '["plugins/*.json"]'
-  
+          paths: '["plugins/**", "**/*.json", "ci/src/validator.py", "ci/src/_utils.py", "ci/envs/requirements-validator.txt", ".github/workflows/validator.yaml", "plugins.json"]'
+
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      validation_files_changed: ${{ steps.filter.outputs.validation_files }}
+      validation_files: ${{ steps.filter.outputs.validation_files_files }}
+      full_validation: ${{ github.event_name == 'push' || steps.filter.outputs.full_validation == 'true' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dorny/paths-filter@v4
+        id: filter
+        with:
+          list-files: json
+          filters: |
+            validation_files:
+              - 'plugins/**'
+              - '**/*.json'
+            full_validation:
+              - '.github/workflows/validator.yaml'
+              - 'ci/src/validator.py'
+              - 'ci/src/_utils.py'
+              - 'ci/envs/requirements-validator.txt'
+              - 'plugins.json'
+
   validate_plugin_manifest:
-    needs: skip_check_job
-    if: ${{ needs.pre_job.outputs.should_skip != 'true' }}
+    needs: [skip_check_job, changes]
+    if: >-
+      ${{ needs.skip_check_job.outputs.should_skip != 'true' &&
+          (needs.changes.outputs.full_validation == 'true' || needs.changes.outputs.validation_files_changed == 'true') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,6 +54,14 @@ jobs:
         run: |
           pip install -r ./ci/envs/requirements-validator.txt
 
-      - name: Validate plugin manifest file
+      - name: Validate full plugin catalogue
+        if: ${{ needs.changes.outputs.full_validation == 'true' }}
+        run: |
+          pytest ./ci/src/validator.py
+
+      - name: Validate changed plugin manifests
+        if: ${{ needs.changes.outputs.full_validation != 'true' }}
+        env:
+          PLUGIN_VALIDATION_FILES: ${{ needs.changes.outputs.validation_files }}
         run: |
           pytest ./ci/src/validator.py
