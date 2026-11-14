@@ -3294,7 +3294,8 @@
         "UrlDownload": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/releases/download/1.0.0/Desmos.zip",
         "UrlSourceCode": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/coweggs/Flow.Launcher.Plugin.Desmos@main/Flow.Launcher.Plugin.Desmos/desmos.png",
-        "LatestReleaseDate": "2026-10-03T10:53:36Z"
+        "LatestReleaseDate": "2026-10-03T10:53:36Z",
+        "DateAdded": "2026-11-14T05:43:58Z"
     },
     {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
@@ -5192,7 +5193,8 @@
         "UrlDownload": "https://github.com/Garulf/flow-cast/releases/download/v0.1.0/flow-cast-0.1.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/flow-cast/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-cast@main/data/icon.png",
-        "LatestReleaseDate": "2026-10-05T23:24:48Z"
+        "LatestReleaseDate": "2026-10-05T23:24:48Z",
+        "DateAdded": "2026-11-14T05:43:58Z"
     },
     {
         "ID": "C7529F50-2A71-441D-8200-D5C3BCAADAB2",
