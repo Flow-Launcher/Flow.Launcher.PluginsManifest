@@ -3284,6 +3284,19 @@
         "DateAdded": "2025-11-18T12:51:16Z"
     },
     {
+        "ID": "5A52CAE9-5551-42EC-811E-F93249A5F488",
+        "Name": "Desmos",
+        "Description": "Launch Desmos in Flow Launcher to preview Graphs",
+        "Author": "coweggs",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos",
+        "UrlDownload": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/releases/download/1.0.0/Desmos.zip",
+        "UrlSourceCode": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/coweggs/Flow.Launcher.Plugin.Desmos@main/Flow.Launcher.Plugin.Desmos/desmos.png",
+        "LatestReleaseDate": "2026-10-03T10:53:36Z"
+    },
+    {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
         "Name": "GitHub",
         "Description": "Search Github repositories and users, browse issues and PRs",
@@ -5167,6 +5180,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/IsaacTay/Flow.Launcher.Plugin.FendCalculator@main/Images/calculator.png",
         "DateAdded": "2023-03-23T20:51:29Z",
         "LatestReleaseDate": "2023-08-26T20:18:08Z"
+    },
+    {
+        "ID": "CC2A7E547B554303869FD30E0DCC58E6",
+        "Name": "flow-cast",
+        "Description": "Cast YouTube videos, media links and web videos to a Chromecast",
+        "Author": "Garulf",
+        "Version": "0.1.0",
+        "Language": "python_v2",
+        "Website": "https://github.com/Garulf/flow-cast",
+        "UrlDownload": "https://github.com/Garulf/flow-cast/releases/download/v0.1.0/flow-cast-0.1.0.zip",
+        "UrlSourceCode": "https://github.com/Garulf/flow-cast/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-cast@main/data/icon.png",
+        "LatestReleaseDate": "2026-10-05T23:24:48Z"
     },
     {
         "ID": "C7529F50-2A71-441D-8200-D5C3BCAADAB2",
