@@ -205,31 +205,37 @@ async def report_invalid_release(
         f"Rejected update for {info[plugin_name]} ({tag}): {download_url} is not a valid download URL"
     )
 
-    issue_url = None
-    existing_issue_found = False
     token = getenv(plugin_issue_token_env)
     if not token:
+        if webhook_url:
+            skipped_notifications = "issue and Discord notifications"
+        else:
+            skipped_notifications = "issue notification"
         tqdm.write(
-            f"Skipping author notification for {repo}: {plugin_issue_token_env} is not set"
+            f"Skipping {skipped_notifications} for {repo}: "
+            f"{plugin_issue_token_env} is not set"
         )
-    else:
-        title = f"Flow Launcher update to {tag} rejected for {info[plugin_name]}"
-        body = (
-            f"The Flow Launcher update to `{tag}` was rejected because the release download URL "
-            f"cannot be used.\n\n"
-            f"Download URL: {download_url}\n"
-            f"Release: {release.get('html_url', '')}\n\n"
-            f"Release download URLs must look like "
-            f"`https://github.com/<owner>/<repo>/releases/download/<version>/<file>.zip`, "
-            f"where `<version>` contains only letters, digits and dots, for example `v1.2.3`.\n\n"
-            f"Publish the release under a version tag such as `v1.2.3` and the update will be picked up automatically."
+        return False
+
+    issue_url = None
+    existing_issue_found = False
+    title = f"Flow Launcher update to {tag} rejected for {info[plugin_name]}"
+    body = (
+        f"The Flow Launcher update to `{tag}` was rejected because the release download URL "
+        f"cannot be used.\n\n"
+        f"Download URL: {download_url}\n"
+        f"Release: {release.get('html_url', '')}\n\n"
+        f"Release download URLs must look like "
+        f"`https://github.com/<owner>/<repo>/releases/download/<version>/<file>.zip`, "
+        f"where `<version>` contains only letters, digits and dots, for example `v1.2.3`.\n\n"
+        f"Publish the release under a version tag such as `v1.2.3` and the update will be picked up automatically."
+    )
+    try:
+        issue_url, existing_issue_found = await open_plugin_repo_issue(
+            repo, title, body, token
         )
-        try:
-            issue_url, existing_issue_found = await open_plugin_repo_issue(
-                repo, title, body, token
-            )
-        except Exception as e:
-            tqdm.write(f"Failed to notify {repo}: {e}")
+    except Exception as e:
+        tqdm.write(f"Failed to notify {repo}: {e}")
 
     if webhook_url and not existing_issue_found:
         try:
