@@ -206,7 +206,7 @@ async def report_invalid_release(
     )
 
     issue_url = None
-    issue_already_existed = False
+    existing_issue_found = False
     token = getenv(plugin_issue_token_env)
     if not token:
         tqdm.write(
@@ -225,13 +225,13 @@ async def report_invalid_release(
             f"Publish the release under a version tag such as `v1.2.3` and the update will be picked up automatically."
         )
         try:
-            issue_url, issue_already_existed = await open_plugin_repo_issue(
+            issue_url, existing_issue_found = await open_plugin_repo_issue(
                 repo, title, body, token
             )
         except Exception as e:
             tqdm.write(f"Failed to notify {repo}: {e}")
 
-    if webhook_url and not issue_already_existed:
+    if webhook_url and not existing_issue_found:
         try:
             await rejection_hook(webhook_url, info, release, download_url, issue_url)
         except Exception as e:
@@ -243,17 +243,19 @@ async def report_invalid_release(
 async def open_plugin_repo_issue(
     repo: str, title: str, body: str, token: str
 ) -> tuple[str | None, bool]:
-    """Open an issue on a plugin repository, skipping when one is already open.
+    """Open an issue on a plugin repository unless a matching issue is found.
 
     Args:
         repo: ``owner/name`` of the plugin repository.
-        title: Issue title, also used to detect an existing open issue.
+        title: Issue title, also used to find an existing matching issue.
         body: Issue body.
         token: GitHub token with issue-write access to the plugin repository.
 
     Returns:
-        A tuple of the issue URL, if available, and whether it already existed.
-        A missing URL indicates that lookup or creation failed.
+        issue_url: URL of the matching existing issue or newly created issue, or
+            None if lookup or creation failed.
+        existing_issue_found: True if a matching issue appeared in the lookup
+            response; False if this call created an issue or lookup or creation failed.
     """
     headers = {"authorization": f"token {token}", "accept": "application/vnd.github+json"}
     issues_url = f"https://api.github.com/repos/{repo}/issues"
