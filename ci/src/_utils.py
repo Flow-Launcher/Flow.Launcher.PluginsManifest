@@ -187,17 +187,10 @@ def sha256_file(path: Path) -> str:
     return h.hexdigest()
 
 
-def get_new_plugin_submission_ids() -> list[str]:
+def get_new_plugin_submission_ids(candidate_ids: list[str] | None = None) -> list[str]:
     plugins_json_ids = [item["ID"] for item in get_file_plugins_json_info("ID")]
-    existing_plugin_file_ids = [info["ID"] for info in plugin_reader()]
+    if candidate_ids is None:
+        candidate_ids = [info["ID"] for info in plugin_reader()]
 
-    new_ids = []
-
-    for id in existing_plugin_file_ids:
-        # plugins.json would not contain new submission's ID.
-        if id in plugins_json_ids:
-            continue
-
-        new_ids.append(id)
-
-    return new_ids
+    # plugins.json does not contain IDs for new submissions.
+    return [plugin_id for plugin_id in candidate_ids if plugin_id not in plugins_json_ids]
