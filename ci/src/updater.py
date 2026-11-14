@@ -69,10 +69,12 @@ async def batch_github_plugin_info(
                 # Reject a tag we cannot turn into a valid download URL rather than writing it.
                 # A bad URL fails manifest validation for every plugin, not only this one.
                 if github_download_url_regex.fullmatch(new_download_url) is None:
-                    await report_invalid_release(info, repo, latest_rel, new_download_url, webhook_url)
-                    # Store the rejected release's ETag so it is not reported on every run.
-                    # The stored ETag then points at a release that is not the manifest version.
-                    tags[info[id_name]] = res.headers.get(etag, "")
+                    issue_reported = await report_invalid_release(
+                        info, repo, latest_rel, new_download_url, webhook_url
+                    )
+                    if issue_reported:
+                        # Cache only after an issue exists, so notification failures are retried.
+                        tags[info[id_name]] = res.headers.get(etag, "")
                     return info
 
                 info[url_download] = new_download_url
@@ -183,13 +185,13 @@ async def report_invalid_release(
     release: dict,
     download_url: str,
     webhook_url: str | None = None,
-) -> None:
+) -> bool:
     """Tell a plugin author their release tag cannot be accepted.
 
     Opens an issue on the plugin's own repository, posts the rejection to Discord when
     configured, and logs the rejection. When an issue exists, its link is included in
-    the Discord message. The manifest keeps its previous version until the release is
-    republished under a valid tag.
+    the Discord message. Returns True only when the author issue exists, allowing the
+    caller to cache the ETag only after author notification is recorded.
 
     Args:
         info: Plugin dictionary whose update was rejected.
@@ -204,13 +206,14 @@ async def report_invalid_release(
     )
 
     issue_url = None
+    issue_already_existed = False
     token = getenv(plugin_issue_token_env)
     if not token:
         tqdm.write(
             f"Skipping author notification for {repo}: {plugin_issue_token_env} is not set"
         )
     else:
-        title = f"Flow Launcher update rejected for {info[plugin_name]}"
+        title = f"Flow Launcher update to {tag} rejected for {info[plugin_name]}"
         body = (
             f"The Flow Launcher update to `{tag}` was rejected because the release download URL "
             f"cannot be used.\n\n"
@@ -222,18 +225,24 @@ async def report_invalid_release(
             f"Publish the release under a version tag such as `v1.2.3` and the update will be picked up automatically."
         )
         try:
-            issue_url = await open_plugin_repo_issue(repo, title, body, token)
+            issue_url, issue_already_existed = await open_plugin_repo_issue(
+                repo, title, body, token
+            )
         except Exception as e:
             tqdm.write(f"Failed to notify {repo}: {e}")
 
-    if webhook_url:
+    if webhook_url and not issue_already_existed:
         try:
             await rejection_hook(webhook_url, info, release, download_url, issue_url)
         except Exception as e:
             tqdm.write(f"Failed to post rejection to Discord: {e}")
 
+    return issue_url is not None
 
-async def open_plugin_repo_issue(repo: str, title: str, body: str, token: str) -> str | None:
+
+async def open_plugin_repo_issue(
+    repo: str, title: str, body: str, token: str
+) -> tuple[str | None, bool]:
     """Open an issue on a plugin repository, skipping when one is already open.
 
     Args:
@@ -243,32 +252,37 @@ async def open_plugin_repo_issue(repo: str, title: str, body: str, token: str) -
         token: GitHub token with issue-write access to the plugin repository.
 
     Returns:
-        URL of the open issue, or None when no issue could be found or created.
+        A tuple of the issue URL, if available, and whether it already existed.
+        A missing URL indicates that lookup or creation failed.
     """
     headers = {"authorization": f"token {token}", "accept": "application/vnd.github+json"}
     issues_url = f"https://api.github.com/repos/{repo}/issues"
 
     async with aiohttp.ClientSession() as session:
         async with session.get(
-            issues_url, headers=headers, params={"state": "open", "per_page": 100}
+            issues_url, headers=headers, params={"state": "all", "per_page": 100}
         ) as res:
-            if res.status < 400:
-                existing = await res.json()
-                for issue in existing:
-                    if issue.get("title") == title:
-                        tqdm.write(f"Rejection issue already open on {repo}, skipping")
-                        return issue.get("html_url")
+            if res.status >= 400:
+                tqdm.write(
+                    f"Failed to check issues on {repo}: HTTP {res.status} {await res.text()}"
+                )
+                return None, False
+            existing = await res.json()
+            for issue in existing:
+                if "pull_request" not in issue and issue.get("title") == title:
+                    tqdm.write(f"Rejection issue already exists on {repo}, skipping")
+                    return issue.get("html_url"), True
 
         async with session.post(
             issues_url, headers=headers, json={"title": title, "body": body}
         ) as res:
             if res.status >= 400:
                 tqdm.write(f"Failed to open issue on {repo}: HTTP {res.status} {await res.text()}")
-                return None
+                return None, False
             created = await res.json()
             issue_url = created.get("html_url", "")
             tqdm.write(f"Opened {issue_url} on {repo}")
-            return issue_url or None
+            return issue_url or None, False
 
 
 async def main():
