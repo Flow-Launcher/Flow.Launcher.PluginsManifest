@@ -1888,6 +1888,19 @@
         "LatestReleaseDate": "2024-12-25T07:50:29Z"
     },
     {
+        "ID": "AE559277D9894B3EA94BE574731C76A8",
+        "Name": "Leo Translate",
+        "Description": "LLM translation with a complete translation first and contextual English phrase explanations.",
+        "Author": "Leo",
+        "Version": "1.1.1",
+        "Language": "python",
+        "Website": "https://github.com/Leo-zzl/FlowLauncher_Tr",
+        "UrlDownload": "https://github.com/Leo-zzl/FlowLauncher_Tr/releases/download/v1.1.1/LeoTranslate-1.1.1.zip",
+        "UrlSourceCode": "https://github.com/Leo-zzl/FlowLauncher_Tr",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Leo-zzl/FlowLauncher_Tr@v1.1.1/Images/app.png",
+        "LatestReleaseDate": "2026-10-29T14:55:15Z"
+    },
+    {
         "ID": "ee647316-34ce-4c81-aa0c-4bb5a89bb6f7",
         "Name": "Accent Letters",
         "Description": "Find and copy any of 682 accented letters from 55 languages",
@@ -2646,7 +2659,7 @@
         "Language": "csharp",
         "Website": "https://github.com/Cens-r/flow-roblox-docs",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Cens-r/flow-roblox-docs/Flow.Launcher.Plugin.RobloxDocs/plugin-icon.png",
-        "UrlDownload": "https://github.com/Cens-r/flow-roblox-docs/releases/download/v1.1.0/Flow.Launcher.Plugin.RobloxDocs-1.1.0.zip",
+        "UrlDownload": "https://github.com/cens-r/flow-roblox-docs/releases/download/v1.1.0/Flow.Launcher.Plugin.RobloxDocs-1.1.0.zip",
         "UrlSourceCode": "https://github.com/Cens-r/flow-roblox-docs/tree/master",
         "LatestReleaseDate": "2025-07-16T03:53:05Z",
         "DateAdded": "2025-06-06T01:55:32Z"
@@ -3312,6 +3325,20 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "43FE1CD33CDC4AA5BCA06773FB83B1B0",
+        "Name": "Layout Fix",
+        "Description": "Typed in the Russian layout by mistake? «дфя» finds what «laz» finds: apps, files, commands and plugin keywords.",
+        "Author": "renkagod",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix",
+        "UrlDownload": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix/releases/download/v1.0.1/Flow.Launcher.Plugin.LayoutFix.zip",
+        "UrlSourceCode": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/renkagod/Flow.Launcher.Plugin.LayoutFix@main/Images/icon.png",
+        "MinimumAppVersion": "2.1.3",
+        "LatestReleaseDate": "2026-11-03T09:49:46Z"
+    },
+    {
         "ID": "1e87e4c90c8e4daf9eee182d7c023919",
         "Name": "Search MDN",
         "Description": "Search MDN Web Docs",
@@ -3439,6 +3466,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png",
         "DateAdded": "2024-05-09T13:25:18Z",
         "LatestReleaseDate": "2025-03-15T17:11:20Z"
+    },
+    {
+        "ID": "AF7EDC2D6B0946F28F2FC4728CB897A8",
+        "Name": "Football Club",
+        "Description": "Fixtures, results, standings, top scorers and squad for your favorite football club (data: football-data.org)",
+        "Author": "dimbo",
+        "Version": "1.0.3",
+        "Language": "python",
+        "Website": "https://github.com/khairuddin-n/football",
+        "UrlDownload": "https://github.com/khairuddin-n/football/releases/download/v1.0.3/Football.Club.zip",
+        "UrlSourceCode": "https://github.com/khairuddin-n/football/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/khairuddin-n/football@main/Images/app.png",
+        "LatestReleaseDate": "2026-11-10T06:47:34Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
@@ -4072,6 +4112,19 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png",
         "LatestReleaseDate": "2026-07-27T11:51:25Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "224F9CA6FA4B4CD09E9825DD3E8EF4F7",
+        "Name": "ChromeProfil",
+        "Description": "Search your Chrome profiles and open one",
+        "Author": "mce221",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/mce221/ChromeProfil",
+        "UrlDownload": "https://github.com/mce221/ChromeProfil/releases/download/v1.0.0/ChromeProfil.zip",
+        "UrlSourceCode": "https://github.com/mce221/ChromeProfil/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/mce221/ChromeProfil@main/Images/icon.png",
+        "LatestReleaseDate": "2026-11-04T15:16:54Z"
     },
     {
         "ID": "df432fe0-9ff7-4ba1-b0fd-5ffd26efbf86",
@@ -5181,6 +5234,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/IsaacTay/Flow.Launcher.Plugin.FendCalculator@main/Images/calculator.png",
         "DateAdded": "2023-03-23T20:51:29Z",
         "LatestReleaseDate": "2023-08-26T20:18:08Z"
+    },
+    {
+        "ID": "BB9687D55A2448FF8866D876D2CF3320",
+        "Name": "Smart Calc",
+        "Description": "Calculator that reads like Google: 520+2%, 4.2 of 3.6 in %, from 1220 to 1385, 1.18 GB to MB, 71 min to h. English and Russian.",
+        "Author": "renkagod",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc",
+        "UrlDownload": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc/releases/download/v1.0.1/Flow.Launcher.Plugin.SmartCalc.zip",
+        "UrlSourceCode": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/renkagod/Flow.Launcher.Plugin.SmartCalc@main/Images/icon.png",
+        "MinimumAppVersion": "2.1.3",
+        "LatestReleaseDate": "2026-11-03T09:51:21Z"
     },
     {
         "ID": "CC2A7E547B554303869FD30E0DCC58E6",
