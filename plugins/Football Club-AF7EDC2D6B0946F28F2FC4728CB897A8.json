@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/khairuddin-n/football/releases/download/v1.0.3/Football.Club.zip",
     "UrlSourceCode": "https://github.com/khairuddin-n/football/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/khairuddin-n/football@main/Images/app.png",
-    "LatestReleaseDate": "2026-11-10T06:47:34Z"
+    "LatestReleaseDate": "2026-11-10T06:47:34Z",
+    "Tested": true,
+    "DateAdded": "2026-11-15T10:33:52Z"
 }

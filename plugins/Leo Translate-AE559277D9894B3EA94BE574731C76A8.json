@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/Leo-zzl/FlowLauncher_Tr/releases/download/v1.1.1/LeoTranslate-1.1.1.zip",
     "UrlSourceCode": "https://github.com/Leo-zzl/FlowLauncher_Tr",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Leo-zzl/FlowLauncher_Tr@v1.1.1/Images/app.png",
-    "LatestReleaseDate": "2026-10-29T14:55:15Z"
+    "LatestReleaseDate": "2026-10-29T14:55:15Z",
+    "Tested": true,
+    "DateAdded": "2026-11-15T10:33:52Z"
 }
