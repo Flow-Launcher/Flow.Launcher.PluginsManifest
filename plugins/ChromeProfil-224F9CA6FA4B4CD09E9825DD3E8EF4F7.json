@@ -1,0 +1,12 @@
+{
+  "ID": "224F9CA6FA4B4CD09E9825DD3E8EF4F7",
+  "Name": "ChromeProfil",
+  "Description": "Search your Chrome profiles and open one",
+  "Author": "mce221",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/mce221/ChromeProfil",
+  "UrlDownload": "https://github.com/mce221/ChromeProfil/releases/download/v1.0.0/ChromeProfil.zip",
+  "UrlSourceCode": "https://github.com/mce221/ChromeProfil/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/mce221/ChromeProfil@main/Images/icon.png"
+}
