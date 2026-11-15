@@ -1,0 +1,13 @@
+{
+  "ID": "BB9687D55A2448FF8866D876D2CF3320",
+  "Name": "Smart Calc",
+  "Description": "Calculator that reads like Google: 520+2%, 4.2 of 3.6 in %, from 1220 to 1385, 1.18 GB to MB, 71 min to h. English and Russian.",
+  "Author": "renkagod",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc",
+  "UrlDownload": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc/releases/download/v1.0.0/Flow.Launcher.Plugin.SmartCalc.zip",
+  "UrlSourceCode": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/renkagod/Flow.Launcher.Plugin.SmartCalc@main/Images/icon.png",
+  "MinimumAppVersion": "2.1.3"
+}
