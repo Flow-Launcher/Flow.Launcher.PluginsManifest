@@ -1,0 +1,13 @@
+{
+    "ID": "6F3B2A9C-1D74-4E58-9C21-8A5E7B4D0F63",
+    "Name": "Ludex",
+    "Description": "Launch installed games and open their save, config or install folders",
+    "Author": "Gabriel Leocádio",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Leocadio94/ludex",
+    "UrlDownload": "https://github.com/Leocadio94/ludex/releases/download/v1.0.0/Flow.Launcher.Plugin.Ludex-1.0.0.zip",
+    "UrlSourceCode": "https://github.com/Leocadio94/ludex/tree/main/src/FlowLauncher",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Leocadio94/ludex@v1.0.0/src/FlowLauncher/Images/icon.png",
+    "MinimumAppVersion": "2.0.0"
+}
