@@ -40,7 +40,8 @@
         "UrlSourceCode": "https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/NblScript/Flow.Launcher.Plugin.LiquidGlass@main/Images/icon.png",
         "MinimumAppVersion": "2.0.0",
-        "LatestReleaseDate": "2026-11-11T14:12:02Z"
+        "LatestReleaseDate": "2026-11-11T14:12:02Z",
+        "DateAdded": "2026-11-15T18:39:48Z"
     },
     {
         "ID": "5f48576d-efe7-4562-a4ed-fe64455f1ac1",
@@ -663,7 +664,10 @@
         "Website": "https://github.com/yumaheymans/Flow.Launcher.Plugin.CareJobs",
         "UrlDownload": "https://github.com/yumaheymans/Flow.Launcher.Plugin.CareJobs/releases/download/v1.0.1/Flow.Launcher.Plugin.CareJobs.zip",
         "UrlSourceCode": "https://github.com/yumaheymans/Flow.Launcher.Plugin.CareJobs",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/yumaheymans/Flow.Launcher.Plugin.CareJobs@main/Images/app.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yumaheymans/Flow.Launcher.Plugin.CareJobs@main/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2026-11-15T18:39:48Z",
+        "LatestReleaseDate": "2026-10-19T19:14:54Z"
     },
     {
         "ID": "70CED0AC-3D9D-4255-AD0B-D9A37862E879",
@@ -734,7 +738,9 @@
         "Website": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace",
         "UrlDownload": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace/releases/download/v0.1.0/Flow.Plugin.KiroWorkspace-0.1.0.zip",
         "UrlSourceCode": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace",
-        "IcoPath": "https://cdn.jsdelivr.net/gh/om-mapari/Flow.Plugin.KiroWorkspace@v0.1.0/Images/kiro.png"
+        "IcoPath": "https://cdn.jsdelivr.net/gh/om-mapari/Flow.Plugin.KiroWorkspace@v0.1.0/Images/kiro.png",
+        "DateAdded": "2026-11-15T18:39:48Z",
+        "LatestReleaseDate": "2026-10-18T08:49:14Z"
     },
     {
         "ID": "7CCD5CC94597483EBC3F179A69511D5C",
@@ -918,7 +924,8 @@
         "UrlDownload": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController/releases/download/v1.0.0/Flow.Launcher.Plugin.WallpaperEngineController.zip",
         "UrlSourceCode": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController@main/Images/icon.png",
-        "LatestReleaseDate": "2026-10-14T08:47:57Z"
+        "LatestReleaseDate": "2026-10-14T08:47:57Z",
+        "DateAdded": "2026-11-15T18:39:49Z"
     },
     {
         "ID": "BC4E22D7C0CD4FBA9108C26B8B8DBA8D",
@@ -3922,7 +3929,9 @@
         "UrlDownload": "https://github.com/micompress/Flow.Launcher.Plugin.MiCompress/releases/download/v1.0.1/Flow.Launcher.Plugin.MiCompress.zip",
         "UrlSourceCode": "https://github.com/micompress/Flow.Launcher.Plugin.MiCompress/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/micompress/Flow.Launcher.Plugin.MiCompress@main/Images/app.png",
-        "LatestReleaseDate": "2026-10-25T01:16:25Z"
+        "LatestReleaseDate": "2026-10-25T01:16:25Z",
+        "Tested": true,
+        "DateAdded": "2026-11-15T18:39:49Z"
     },
     {
         "ID": "3458F01618974683B339D53528A78573",
