@@ -29,6 +29,21 @@
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
+        "ID": "6F3C2B8E9A1D4E7FB5C0D2A4E8F61B37",
+        "Name": "Liquid Glass",
+        "Description": "Turns the Flow Launcher window into liquid glass: backdrop refraction, edge dispersion and a dynamic highlight",
+        "Author": "qingking",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass",
+        "UrlDownload": "https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass/releases/download/v1.0.1/Flow.Launcher.Plugin.LiquidGlass.zip",
+        "UrlSourceCode": "https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/NblScript/Flow.Launcher.Plugin.LiquidGlass@main/Images/icon.png",
+        "MinimumAppVersion": "2.0.0",
+        "LatestReleaseDate": "2026-11-11T14:12:02Z",
+        "DateAdded": "2026-11-15T18:39:48Z"
+    },
+    {
         "ID": "5f48576d-efe7-4562-a4ed-fe64455f1ac1",
         "Name": "Flow Load Notification",
         "Description": "A plugin that only sends a notification when the plugin gets loaded after a restart or on first start.",
@@ -130,10 +145,10 @@
         "ID": "3C42AE50-FDA8-4579-8E9E-11989327FDC8",
         "Name": "Settings All",
         "Description": "Deep search for all Windows Settings pages by scanning SystemSettings.dll",
-        "Author": "Omprakash Wagh",
+        "Author": "Omprakash-Wagh",
         "Version": "1.1.0",
         "Language": "csharp",
-        "Website": "",
+        "Website": "https://github.com/Omprakash-Wagh/Settings-All",
         "UrlDownload": "https://github.com/Omprakash-Wagh/Settings-All/releases/download/v1.1.0/Settings-All.zip",
         "UrlSourceCode": "https://github.com/Omprakash-Wagh/Settings-All",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Settings-All@main/Images/settings.png",
@@ -256,16 +271,17 @@
     {
         "ID": "8CBACA12D99946D7B5E4E162EED6B045",
         "Name": "EasySSH",
-        "Description": "ssh with Flow-Launcher",
+        "Description": "Search, save and open SSH connections, with the hosts of your ~/.ssh/config.",
         "Author": "Melv1no",
-        "Version": "1.2.0.0",
+        "Version": "3.0.0",
         "Language": "csharp",
         "Website": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh",
-        "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/1.2.0.0/easyssh.zip",
+        "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/releases/download/3.0.0/easyssh.zip",
         "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.easyssh/tree/master",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.easyssh/Flow.Launcher.Plugin.easyssh/Images/app.png",
         "DateAdded": "2024-01-04T00:32:56Z",
-        "LatestReleaseDate": "2026-02-19T12:35:13Z"
+        "LatestReleaseDate": "2026-11-12T08:18:54Z",
+        "MinimumAppVersion": "2.0.0"
     },
     {
         "ID": "F03364BE-101B-4988-B555-528B961E6A86",
@@ -639,6 +655,21 @@
         "LatestReleaseDate": "2024-05-30T04:13:49Z"
     },
     {
+        "ID": "fed5e487-e111-4259-a23c-d0eb4025831f",
+        "Name": "CareJobs.Now",
+        "Description": "Search US healthcare jobs with the pay employers post (nurses, CNAs, techs, therapists)",
+        "Author": "CareJobs.Now",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/yumaheymans/Flow.Launcher.Plugin.CareJobs",
+        "UrlDownload": "https://github.com/yumaheymans/Flow.Launcher.Plugin.CareJobs/releases/download/v1.0.1/Flow.Launcher.Plugin.CareJobs.zip",
+        "UrlSourceCode": "https://github.com/yumaheymans/Flow.Launcher.Plugin.CareJobs",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/yumaheymans/Flow.Launcher.Plugin.CareJobs@main/Images/app.png",
+        "Tested": true,
+        "DateAdded": "2026-11-15T18:39:48Z",
+        "LatestReleaseDate": "2026-10-19T19:14:54Z"
+    },
+    {
         "ID": "70CED0AC-3D9D-4255-AD0B-D9A37862E879",
         "Name": "AnyVideo Downloader",
         "Description": "Plugin for downloading videos from YouTube, Facebook, Twitter, Instagram, and many other websites.",
@@ -696,6 +727,20 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/dufguix/Flow.Launcher.Plugin.ShareX@main/icon.png",
         "LatestReleaseDate": "2026-06-11T10:13:17Z",
         "DateAdded": "2024-08-19T01:23:50Z"
+    },
+    {
+        "ID": "40F5E4CF74DC46B4B885800528B15A50",
+        "Name": "Kiro Workspaces",
+        "Description": "Opens workspaces and folders recently opened in Kiro.",
+        "Author": "om-mapari (Kiro adaptation); original authors: ricardosantos9521, MaskedRPGFan, taooceros",
+        "Version": "0.1.0",
+        "Language": "csharp",
+        "Website": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace",
+        "UrlDownload": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace/releases/download/v0.1.0/Flow.Plugin.KiroWorkspace-0.1.0.zip",
+        "UrlSourceCode": "https://github.com/om-mapari/Flow.Plugin.KiroWorkspace",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/om-mapari/Flow.Plugin.KiroWorkspace@v0.1.0/Images/kiro.png",
+        "DateAdded": "2026-11-15T18:39:48Z",
+        "LatestReleaseDate": "2026-10-18T08:49:14Z"
     },
     {
         "ID": "7CCD5CC94597483EBC3F179A69511D5C",
@@ -867,6 +912,20 @@
         "LatestReleaseDate": "2026-01-23T23:21:08Z",
         "Tested": true,
         "DateAdded": "2026-01-24T09:26:00Z"
+    },
+    {
+        "ID": "d8b56f2e-4a1c-4e89-9a2c-f37e416d8a20",
+        "Name": "Wallpaper Engine Controller",
+        "Description": "Control Wallpaper Engine (pause, mute, profiles, playlists, recents, and right-click tray actions)",
+        "Author": "Omprakash-Wagh",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController",
+        "UrlDownload": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController/releases/download/v1.0.0/Flow.Launcher.Plugin.WallpaperEngineController.zip",
+        "UrlSourceCode": "https://github.com/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Omprakash-Wagh/Flow.Launcher.Plugin.WallpaperEngineController@main/Images/icon.png",
+        "LatestReleaseDate": "2026-10-14T08:47:57Z",
+        "DateAdded": "2026-11-15T18:39:49Z"
     },
     {
         "ID": "BC4E22D7C0CD4FBA9108C26B8B8DBA8D",
@@ -1887,6 +1946,21 @@
         "LatestReleaseDate": "2024-12-25T07:50:29Z"
     },
     {
+        "ID": "AE559277D9894B3EA94BE574731C76A8",
+        "Name": "Leo Translate",
+        "Description": "LLM translation with a complete translation first and contextual English phrase explanations.",
+        "Author": "Leo",
+        "Version": "1.1.1",
+        "Language": "python",
+        "Website": "https://github.com/Leo-zzl/FlowLauncher_Tr",
+        "UrlDownload": "https://github.com/Leo-zzl/FlowLauncher_Tr/releases/download/v1.1.1/LeoTranslate-1.1.1.zip",
+        "UrlSourceCode": "https://github.com/Leo-zzl/FlowLauncher_Tr",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Leo-zzl/FlowLauncher_Tr@v1.1.1/Images/app.png",
+        "LatestReleaseDate": "2026-10-29T14:55:15Z",
+        "Tested": true,
+        "DateAdded": "2026-11-15T10:33:52Z"
+    },
+    {
         "ID": "ee647316-34ce-4c81-aa0c-4bb5a89bb6f7",
         "Name": "Accent Letters",
         "Description": "Find and copy any of 682 accented letters from 55 languages",
@@ -2280,13 +2354,13 @@
         "Name": "Browser History V2",
         "Description": "Search your internet browsing history across multiple browsers",
         "Author": "Fahim Ahmed",
-        "Version": "1.8.0",
+        "Version": "1.8.1",
         "Language": "python",
         "Website": "https://github.com/fahim-ahmed05/browser-history-v2",
-        "UrlDownload": "https://github.com/fahim-ahmed05/browser-history-v2/releases/download/v1.8.0/browser-history-v2.zip",
+        "UrlDownload": "https://github.com/fahim-ahmed05/browser-history-v2/releases/download/v1.8.1/browser-history-v2.zip",
         "UrlSourceCode": "https://github.com/fahim-ahmed05/browser-history-v2/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/fahim-ahmed05/browser-history-v2@main/icon.png",
-        "LatestReleaseDate": "2026-09-02T02:47:31Z",
+        "LatestReleaseDate": "2026-11-09T11:02:33Z",
         "Tested": true,
         "DateAdded": "2026-04-24T13:48:07Z"
     },
@@ -2645,7 +2719,7 @@
         "Language": "csharp",
         "Website": "https://github.com/Cens-r/flow-roblox-docs",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Cens-r/flow-roblox-docs/Flow.Launcher.Plugin.RobloxDocs/plugin-icon.png",
-        "UrlDownload": "https://github.com/Cens-r/flow-roblox-docs/releases/download/v1.1.0/Flow.Launcher.Plugin.RobloxDocs-1.1.0.zip",
+        "UrlDownload": "https://github.com/cens-r/flow-roblox-docs/releases/download/v1.1.0/Flow.Launcher.Plugin.RobloxDocs-1.1.0.zip",
         "UrlSourceCode": "https://github.com/Cens-r/flow-roblox-docs/tree/master",
         "LatestReleaseDate": "2025-07-16T03:53:05Z",
         "DateAdded": "2025-06-06T01:55:32Z"
@@ -3073,14 +3147,14 @@
         "Name": "Github Quick Launcher",
         "Description": "Quickly access your personal repositories and stars.",
         "Author": "Garulf",
-        "Version": "5.0.0",
+        "Version": "5.1.0",
         "Language": "python_v2",
         "Website": "https://github.com/Garulf/github-quick-launcher",
-        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v5.0.0/Github-Quick-Launcher-5.0.0.zip",
+        "UrlDownload": "https://github.com/Garulf/Github-Quick-Launcher/releases/download/v5.1.0/Github-Quick-Launcher-5.1.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/github-quick-launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Github-Quick-Launcher@main/data/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2026-09-19T06:05:39Z",
+        "LatestReleaseDate": "2026-11-11T18:05:38Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3283,6 +3357,20 @@
         "DateAdded": "2025-11-18T12:51:16Z"
     },
     {
+        "ID": "5A52CAE9-5551-42EC-811E-F93249A5F488",
+        "Name": "Desmos",
+        "Description": "Launch Desmos in Flow Launcher to preview Graphs",
+        "Author": "coweggs",
+        "Version": "1.0.0",
+        "Language": "csharp",
+        "Website": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos",
+        "UrlDownload": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/releases/download/1.0.0/Desmos.zip",
+        "UrlSourceCode": "https://github.com/coweggs/Flow.Launcher.Plugin.Desmos/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/coweggs/Flow.Launcher.Plugin.Desmos@main/Flow.Launcher.Plugin.Desmos/desmos.png",
+        "LatestReleaseDate": "2026-10-03T10:53:36Z",
+        "DateAdded": "2026-11-14T05:43:58Z"
+    },
+    {
         "ID": "6c22cffe6b3546ec9087abe149c4a575",
         "Name": "GitHub",
         "Description": "Search Github repositories and users, browse issues and PRs",
@@ -3295,6 +3383,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/JohnTheGr8/Flow.Plugin.Github@main/src/icon.png",
         "LatestReleaseDate": "2024-05-18T14:14:25Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "43FE1CD33CDC4AA5BCA06773FB83B1B0",
+        "Name": "Layout Fix",
+        "Description": "Typed in the Russian layout by mistake? «дфя» finds what «laz» finds: apps, files, commands and plugin keywords.",
+        "Author": "renkagod",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix",
+        "UrlDownload": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix/releases/download/v1.0.1/Flow.Launcher.Plugin.LayoutFix.zip",
+        "UrlSourceCode": "https://github.com/renkagod/Flow.Launcher.Plugin.LayoutFix/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/renkagod/Flow.Launcher.Plugin.LayoutFix@main/Images/icon.png",
+        "MinimumAppVersion": "2.1.3",
+        "LatestReleaseDate": "2026-11-03T09:49:46Z",
+        "DateAdded": "2026-11-15T10:33:55Z"
     },
     {
         "ID": "1e87e4c90c8e4daf9eee182d7c023919",
@@ -3424,6 +3527,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/geisterfurz007/KeePass2Flow@master/Flow.Launcher.Plugin.KeePass2Flow/icon.png",
         "DateAdded": "2024-05-09T13:25:18Z",
         "LatestReleaseDate": "2025-03-15T17:11:20Z"
+    },
+    {
+        "ID": "AF7EDC2D6B0946F28F2FC4728CB897A8",
+        "Name": "Football Club",
+        "Description": "Fixtures, results, standings, top scorers and squad for your favorite football club (data: football-data.org)",
+        "Author": "dimbo",
+        "Version": "1.0.3",
+        "Language": "python",
+        "Website": "https://github.com/khairuddin-n/football",
+        "UrlDownload": "https://github.com/khairuddin-n/football/releases/download/v1.0.3/Football.Club.zip",
+        "UrlSourceCode": "https://github.com/khairuddin-n/football/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/khairuddin-n/football@main/Images/app.png",
+        "LatestReleaseDate": "2026-11-10T06:47:34Z",
+        "Tested": true,
+        "DateAdded": "2026-11-15T10:33:52Z"
     },
     {
         "ID": "51dd36d2-9824-4977-8e15-294dfbd7961e",
@@ -3801,6 +3919,21 @@
         "DateAdded": "2024-11-21T09:23:24Z"
     },
     {
+        "ID": "5a644e47-1482-4f7e-9177-e730bca69e3b",
+        "Name": "MiCompress",
+        "Description": "Compress images, PDFs, video, audio, documents & archives via micompress.com",
+        "Author": "MiCompress",
+        "Version": "1.0.1",
+        "Language": "python",
+        "Website": "https://github.com/micompress/Flow.Launcher.Plugin.MiCompress",
+        "UrlDownload": "https://github.com/micompress/Flow.Launcher.Plugin.MiCompress/releases/download/v1.0.1/Flow.Launcher.Plugin.MiCompress.zip",
+        "UrlSourceCode": "https://github.com/micompress/Flow.Launcher.Plugin.MiCompress/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/micompress/Flow.Launcher.Plugin.MiCompress@main/Images/app.png",
+        "LatestReleaseDate": "2026-10-25T01:16:25Z",
+        "Tested": true,
+        "DateAdded": "2026-11-15T18:39:49Z"
+    },
+    {
         "ID": "3458F01618974683B339D53528A78573",
         "Name": "Azan",
         "Description": "A plugin to display prayer times.",
@@ -4057,6 +4190,21 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/jjw24/Wox.Plugin.Runner@master/Wox.Plugin.Runner/Images/gear.png",
         "LatestReleaseDate": "2026-07-27T11:51:25Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "224F9CA6FA4B4CD09E9825DD3E8EF4F7",
+        "Name": "ChromeProfil",
+        "Description": "Search your Chrome profiles and open one",
+        "Author": "mce221",
+        "Version": "1.0.0",
+        "Language": "python",
+        "Website": "https://github.com/mce221/ChromeProfil",
+        "UrlDownload": "https://github.com/mce221/ChromeProfil/releases/download/v1.0.0/ChromeProfil.zip",
+        "UrlSourceCode": "https://github.com/mce221/ChromeProfil/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/mce221/ChromeProfil@main/Images/icon.png",
+        "LatestReleaseDate": "2026-11-04T15:16:54Z",
+        "Tested": true,
+        "DateAdded": "2026-11-15T10:33:52Z"
     },
     {
         "ID": "df432fe0-9ff7-4ba1-b0fd-5ffd26efbf86",
@@ -4469,7 +4617,7 @@
         "Version": "1.0.0",
         "Language": "javascript",
         "Website": "https://github.com/ahmedsabie/flow_launcher_universal_conversion",
-        "UrlDownload": "https://github.com/ahmedsabie/flow_launcher_universal_conversion/releases/download/v1.0.0/Flow.Launcher.Plugin.UniversalConversion.zip",
+        "UrlDownload": "https://github.com/butanoid/flow_launcher_universal_conversion/releases/download/v1.0.0/Flow.Launcher.Plugin.UniversalConversion.zip",
         "UrlSourceCode": "https://github.com/ahmedsabie/flow_launcher_universal_conversion/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ahmedsabie/flow_launcher_universal_conversion@main/Images/app.png",
         "LatestReleaseDate": "2026-07-07T00:41:22Z",
@@ -4722,15 +4870,15 @@
     {
         "ID": "39a68fde-a547-4bfc-8145-9cfa444c3ab5",
         "Name": "Text Tools",
-        "Description": "Text manipulation tools",
+        "Description": "200+ text, data, crypto, network and developer tools",
         "Author": "Ghaem",
-        "Version": "1.0.8",
+        "Version": "2.0.0",
         "Language": "python",
-        "Website": "",
-        "UrlDownload": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools/releases/download/v1.0.8/TextTools-v1.0.8.zip",
+        "Website": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
+        "UrlDownload": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools/releases/download/v2.0.0/TextTools-v2.0.0.zip",
         "UrlSourceCode": "https://github.com/ghaemaghaey/Flow.Launcher.Plugin.TextTools",
         "IcoPath": "https://cdn.jsdelivr.net/gh/ghaemaghaey/Flow.Launcher.Plugin.TextTools@main/Images/app.png",
-        "LatestReleaseDate": "2026-08-10T08:51:46Z",
+        "LatestReleaseDate": "2026-11-09T13:27:58Z",
         "Tested": true,
         "DateAdded": "2026-08-06T14:22:51Z"
     },
@@ -5166,6 +5314,35 @@
         "IcoPath": "https://cdn.jsdelivr.net/gh/IsaacTay/Flow.Launcher.Plugin.FendCalculator@main/Images/calculator.png",
         "DateAdded": "2023-03-23T20:51:29Z",
         "LatestReleaseDate": "2023-08-26T20:18:08Z"
+    },
+    {
+        "ID": "BB9687D55A2448FF8866D876D2CF3320",
+        "Name": "Smart Calc",
+        "Description": "Calculator that reads like Google: 520+2%, 4.2 of 3.6 in %, from 1220 to 1385, 1.18 GB to MB, 71 min to h. English and Russian.",
+        "Author": "renkagod",
+        "Version": "1.0.1",
+        "Language": "csharp",
+        "Website": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc",
+        "UrlDownload": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc/releases/download/v1.0.1/Flow.Launcher.Plugin.SmartCalc.zip",
+        "UrlSourceCode": "https://github.com/renkagod/Flow.Launcher.Plugin.SmartCalc/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/renkagod/Flow.Launcher.Plugin.SmartCalc@main/Images/icon.png",
+        "MinimumAppVersion": "2.1.3",
+        "LatestReleaseDate": "2026-11-03T09:51:21Z",
+        "DateAdded": "2026-11-15T10:33:52Z"
+    },
+    {
+        "ID": "CC2A7E547B554303869FD30E0DCC58E6",
+        "Name": "flow-cast",
+        "Description": "Cast YouTube videos, media links and web videos to a Chromecast",
+        "Author": "Garulf",
+        "Version": "0.1.0",
+        "Language": "python_v2",
+        "Website": "https://github.com/Garulf/flow-cast",
+        "UrlDownload": "https://github.com/Garulf/flow-cast/releases/download/v0.1.0/flow-cast-0.1.0.zip",
+        "UrlSourceCode": "https://github.com/Garulf/flow-cast/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/flow-cast@main/data/icon.png",
+        "LatestReleaseDate": "2026-10-05T23:24:48Z",
+        "DateAdded": "2026-11-14T05:43:58Z"
     },
     {
         "ID": "C7529F50-2A71-441D-8200-D5C3BCAADAB2",
