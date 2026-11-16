@@ -92,5 +92,29 @@
       "TrellixENS": "Artemis!1E654A6EC9EE"
     },
     "reason": "Likely flagged for dynamic AutoHotkey execution and keyboard-hook/input-simulation behavior"
+  },
+  {
+    "manifest_file": "OzBargain-6DEA90BAF506475CBE270DBC1ADC482B.json",
+    "sha256": "6e74b004bc3349f7e4e1f0754958bb6c4df3c6799edd76cd05415993c9cb931f",
+    "engine_threats": {
+      "VBA32": "Downloader.MSIL.gen.rexp"
+    },
+    "reason": "Low detection (1); only VBA32 flagged the scanned plugin archive"
+  },
+  {
+    "manifest_file": "PowerToys-0930723F-73EA-488A-BEE9-8B8D4845B2F1.json",
+    "sha256": "42e9c4616bd29d6d3768d7d8bd2b8cab25ac09beaf95ba35a2cc5f599b21e2e6",
+    "engine_threats": {
+      "VBA32": "Downloader.MSIL.gen.rexp"
+    },
+    "reason": "Low detection (1); only VBA32 flagged the scanned plugin archive"
+  },
+  {
+    "manifest_file": "Search Unicode – Emoji-BB55C11CB9FB4AAF81B670D9FF0BFBEE.json",
+    "sha256": "2fc2d0429459e320e1208efd18dab4e8ecd1005be916bb33bcc25b6f8845d693",
+    "engine_threats": {
+      "Elastic": "malicious"
+    },
+    "reason": "False positive: only Elastic flagged the scanned plugin archive"
   }
 ]

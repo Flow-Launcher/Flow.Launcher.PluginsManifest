@@ -58,6 +58,8 @@ Every three hours the *CI* in this repository will check for new updates from pl
 
 So you do not need to manually submit a pull request after you make a new release.
 
+When a new release is detected, `Description`, `Author`, `Language`, `Website` and, if set, `MinimumAppVersion` are refreshed from the `plugin.json` inside the release zip. A `MinimumAppVersion` already in the manifest is kept when the new `plugin.json` does not specify one.
+
 ## Security
 
 All plugins submitted to the store are automatically scanned and re-scanned regularly with VirusTotal, a threat intelligence platform that aggregates detection results from over 70 antivirus engines. This helps identify malware, trojans, and other security risks before and after plugins are made available to users. This scanning provides an additional layer of protection for everyone using the Flow plugin store.
