@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync/releases/download/v0.1.1/BrightSync.zip",
     "UrlSourceCode": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/bberka/Flow.Launcher.Plugin.BrightSync@main/icon.png",
-    "LatestReleaseDate": "2026-10-08T21:08:26Z"
+    "LatestReleaseDate": "2026-10-08T21:08:26Z",
+    "Tested": true,
+    "DateAdded": "2026-11-16T21:49:39Z"
 }
