@@ -758,6 +758,21 @@
         "LatestReleaseDate": "2025-08-26T17:59:36Z"
     },
     {
+        "ID": "69335BA5-E0B6-4ADB-814B-1849A0F7D129",
+        "Name": "Pear Desktop",
+        "Description": "Control Pear Desktop (YouTube Music) with Flow Launcher",
+        "Author": "JusteKal",
+        "Version": "1.2.0",
+        "Language": "python",
+        "Website": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop",
+        "UrlDownload": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/releases/download/v1.2.0/Flow.Launcher.Plugin.PearDesktop.zip",
+        "UrlSourceCode": "https://github.com/JusteKal/Flow.Launcher.Plugin.PearDesktop/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/JusteKal/Flow.Launcher.Plugin.PearDesktop@main/Images/app.png",
+        "LatestReleaseDate": "2026-10-09T17:02:49Z",
+        "Tested": true,
+        "DateAdded": "2026-11-16T21:49:39Z"
+    },
+    {
         "ID": "1a6af486-416d-470b-86db-947fb4095588",
         "Name": "GrepFlow",
         "Description": "Search file contents with ripgrep in the folder you're already in",
@@ -3966,14 +3981,14 @@
         "Name": "GamesLauncher",
         "Description": "Search and launch games from multiple platforms like Steam, Epic Games, Xbox etc.",
         "Author": "KrystianLesniak",
-        "Version": "1.9.3",
+        "Version": "1.10.0",
         "Language": "csharp",
         "Website": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher",
-        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.9.3/GamesLauncher.zip",
+        "UrlDownload": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/releases/download/v1.10.0/GamesLauncher.zip",
         "UrlSourceCode": "https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher@main/Flow.Launcher.Plugin.GamesLauncher/icon.png",
         "DateAdded": "2023-08-25T07:12:31Z",
-        "LatestReleaseDate": "2025-06-08T11:42:42Z"
+        "LatestReleaseDate": "2026-11-16T18:41:28Z"
     },
     {
         "ID": "A3EA904783E14335894354F09DC4B054",
@@ -4464,6 +4479,21 @@
         "Tested": true,
         "DateAdded": "2022-12-12T09:57:51Z",
         "LatestReleaseDate": "2023-10-09T12:03:56Z"
+    },
+    {
+        "ID": "F55EA313-2F2F-43F9-A011-46A4A0BF54CB",
+        "Name": "BrightSync",
+        "Description": "Control BrightSync brightness, automatic mode, eye protection and boost from Flow Launcher. Requires the BrightSync app installed and running: https://github.com/bberka/BrightSync",
+        "Author": "bberka",
+        "Version": "0.1.1",
+        "Language": "python",
+        "Website": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync",
+        "UrlDownload": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync/releases/download/v0.1.1/BrightSync.zip",
+        "UrlSourceCode": "https://github.com/bberka/Flow.Launcher.Plugin.BrightSync/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/bberka/Flow.Launcher.Plugin.BrightSync@main/icon.png",
+        "LatestReleaseDate": "2026-10-08T21:08:26Z",
+        "Tested": true,
+        "DateAdded": "2026-11-16T21:49:39Z"
     },
     {
         "ID": "4D5DF575E4964C6AAADCF86134F09CC0",
@@ -5256,6 +5286,20 @@
         "Tested": true,
         "LatestReleaseDate": "2023-06-23T19:26:36Z",
         "DateAdded": "2022-10-08T16:26:57Z"
+    },
+    {
+        "ID": "3ce56a9aa2ad4ba1ab1113f012e4c31c",
+        "Name": "Invidious",
+        "Description": "Search videos, channels and playlists via an Invidious instance",
+        "Author": "roqvist",
+        "Version": "1.1.2",
+        "Language": "csharp",
+        "Website": "https://github.com/roqvist/flow-launcher-invidious",
+        "UrlDownload": "https://github.com/roqvist/flow-launcher-invidious/releases/download/v1.1.2/Flow.Launcher.Plugin.Invidious.zip",
+        "UrlSourceCode": "https://github.com/roqvist/flow-launcher-invidious/tree/main",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/roqvist/flow-launcher-invidious@main/src/Flow.Launcher.Plugin.Invidious/Icons/Invidious-logo.svg",
+        "LatestReleaseDate": "2026-10-07T11:33:12Z",
+        "DateAdded": "2026-11-16T21:49:38Z"
     },
     {
         "ID": "15361037-bbb1-440a-b98c-aff5825f28a2",
