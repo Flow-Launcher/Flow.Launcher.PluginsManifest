@@ -17,6 +17,8 @@ jobs:
           filters: |
             src_files:
               - 'ci/src/download_plugins.py'
+              - 'ci/src/_utils.py'
+              - 'ci/src/validator.py'
               - 'tests/**'
 
   unit-tests:
