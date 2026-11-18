@@ -9,5 +9,6 @@
     "UrlDownload": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli/releases/download/v0.1.2/Flow.Launcher.Plugin.GitHubCli.zip",
     "UrlSourceCode": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Liaco123/Flow.Launcher.Plugin.GitHubCli@main/src/Flow.Launcher.Plugin.GitHubCli/Images/app.png",
-    "MinimumAppVersion": "2.1.3"
+    "MinimumAppVersion": "2.1.3",
+    "DateAdded": "2026-11-18T20:13:51Z"
 }

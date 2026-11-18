@@ -10,5 +10,6 @@
     "UrlSourceCode": "https://github.com/zenosakis/Flow.Launcher.Plugin.DoAction",
     "IcoPath": "https://cdn.jsdelivr.net/gh/zenosakis/Flow.Launcher.Plugin.DoAction@v1.0.1/src/Flow.Launcher.Plugin.DoAction/Images/doaction.png",
     "MinimumAppVersion": "2.1.4",
-    "LatestReleaseDate": "2026-10-23T07:46:36Z"
+    "LatestReleaseDate": "2026-10-23T07:46:36Z",
+    "DateAdded": "2026-11-18T20:13:50Z"
 }
