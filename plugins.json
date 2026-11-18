@@ -595,7 +595,8 @@
         "UrlSourceCode": "https://github.com/HungNth/Flow.Launcher.Plugin.SnapSync/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/HungNth/Flow.Launcher.Plugin.SnapSync@main/Images/app.png",
         "MinimumAppVersion": "2.0.0",
-        "LatestReleaseDate": "2026-10-21T07:08:29Z"
+        "LatestReleaseDate": "2026-10-21T07:08:29Z",
+        "DateAdded": "2026-11-17T18:19:30Z"
     },
     {
         "ID": "435b5226a00840cebfbdb54dacd26e9d",
@@ -2268,14 +2269,14 @@
         "Name": "Twitchy",
         "Description": "Search and stream Twitch.tv",
         "Author": "Garulf",
-        "Version": "7.0.0",
-        "Language": "python",
+        "Version": "8.0.0",
+        "Language": "python_v2",
         "Website": "https://github.com/Garulf/twitchy",
-        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v7.0.0/twitchy.zip",
+        "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v8.0.0/twitchy-8.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-11-02T10:03:00Z",
+        "LatestReleaseDate": "2026-11-17T22:10:59Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -3082,7 +3083,8 @@
         "UrlDownload": "https://github.com/roqvist/flow-launcher-herdr/releases/download/v1.2.5/Flow.Launcher.Plugin.Herdr.zip",
         "UrlSourceCode": "https://github.com/roqvist/flow-launcher-herdr/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/roqvist/flow-launcher-herdr@main/src/Flow.Launcher.Plugin.Herdr/Icons/herdr-white.png",
-        "LatestReleaseDate": "2026-10-07T11:32:16Z"
+        "LatestReleaseDate": "2026-10-07T11:32:16Z",
+        "DateAdded": "2026-11-17T18:19:30Z"
     },
     {
         "ID": "789B27F3EB8B42D5B6EFB6EF7DFD2BE1",
@@ -4527,14 +4529,14 @@
         "Name": "Steam Search",
         "Description": "The fastest way to launch your Steam games. Fully local, and instant.",
         "Author": "Garulf",
-        "Version": "12.1.4",
+        "Version": "12.1.5",
         "Language": "python_v2",
         "Website": "https://github.com/Garulf/Steam-Search",
-        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v12.1.4/Steam-Search-12.1.4.zip",
+        "UrlDownload": "https://github.com/Garulf/Steam-Search/releases/download/v12.1.5/Steam-Search-12.1.5.zip",
         "UrlSourceCode": "https://github.com/Garulf/Steam-Search/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Steam-Search@main/data/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2026-08-02T23:31:28Z",
+        "LatestReleaseDate": "2026-11-17T22:05:09Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
@@ -4857,14 +4859,14 @@
         "Name": "Epic Games Store Launcher",
         "Description": "Launch your Epic Game Store games",
         "Author": "Garulf",
-        "Version": "2.0.0",
-        "Language": "python",
+        "Version": "3.0.0",
+        "Language": "python_v2",
         "Website": "https://github.com/Garulf/Epic-Games-Store-Launcher",
-        "UrlDownload": "https://github.com/Garulf/Epic-Games-Store-Launcher/releases/download/v2.0.0/Epic-Games-Store-Launcher.zip",
+        "UrlDownload": "https://github.com/Garulf/Epic-Games-Store-Launcher/releases/download/v3.0.0/Epic-Games-Store-Launcher-3.0.0.zip",
         "UrlSourceCode": "https://github.com/Garulf/Epic-Games-Store-Launcher/tree/main",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/Epic-Games-Store-Launcher@main/icon.png",
         "Tested": true,
-        "LatestReleaseDate": "2022-12-22T05:04:50Z",
+        "LatestReleaseDate": "2026-11-17T22:07:38Z",
         "DateAdded": "2022-10-08T16:26:57Z"
     },
     {
