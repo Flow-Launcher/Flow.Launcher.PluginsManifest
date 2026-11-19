@@ -15,6 +15,7 @@ jobs:
     if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     outputs:
+      plugins: ${{ steps.filter.outputs.plugins }}
       plugin_additions_or_modifications: ${{ steps.filter.outputs.plugin_additions_or_modifications }}
       non_plugin_files: ${{ steps.filter.outputs.non_plugin_files }}
     steps:
@@ -28,8 +29,10 @@ jobs:
         with:
           predicate-quantifier: 'every'
           filters: |
+            plugins:
+              - 'plugins/*.json'
             plugin_additions_or_modifications:
-              - added|modified: 'plugins/*.json'
+              - added|modified|renamed: 'plugins/*.json'
             non_plugin_files:
               - '**'
               - '!plugins/*.json'
@@ -38,7 +41,7 @@ jobs:
       - name: Fail if non-plugin files changed
         if: |
           github.event_name == 'pull_request_target' &&
-          steps.filter.outputs.plugin_additions_or_modifications == 'true' &&
+          steps.filter.outputs.plugins == 'true' &&
           steps.filter.outputs.non_plugin_files == 'true'
         run: |
           echo "This PR contains changes to files outside the plugins directory."
