@@ -102,7 +102,7 @@ def test_get_changed_plugin_manifest_paths_fetches_base_before_diffing():
     assert paths == ["plugins/Foo-1.json", "plugins/Bar-2.json"]
     fetch_command, diff_command = [call.args[0] for call in mock_run.call_args_list]
     assert fetch_command == ["git", "fetch", "origin", base_ref]
-    assert diff_command[0:4] == ["git", "diff", "--diff-filter=AM", "--no-renames", "--name-only"]
+    assert diff_command[0:5] == ["git", "diff", "--diff-filter=AM", "--no-renames", "--name-only"]
     assert f"origin/{base_ref}...HEAD" in diff_command
     assert "plugins/*.json" in diff_command
 
@@ -127,7 +127,7 @@ def test_get_changed_plugin_manifest_paths_unshallows_before_fetching_base():
     ]
     assert unshallow_command == ["git", "fetch", "--unshallow", "origin"]
     assert fetch_command == ["git", "fetch", "origin", base_ref]
-    assert diff_command[0:4] == ["git", "diff", "--diff-filter=AM", "--no-renames", "--name-only"]
+    assert diff_command[0:5] == ["git", "diff", "--diff-filter=AM", "--no-renames", "--name-only"]
     assert f"origin/{base_ref}...HEAD" in diff_command
     assert "plugins/*.json" in diff_command
 
