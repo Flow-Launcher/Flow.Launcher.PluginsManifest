@@ -1772,6 +1772,20 @@
         "LatestReleaseDate": "2024-03-30T08:48:45Z"
     },
     {
+        "ID": "dcbb0454f0694431944b1b7f18673a54",
+        "Name": "How Long To Beat",
+        "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
+        "Author": "Tueska",
+        "Version": "1.0.1",
+        "Language": "JavaScript",
+        "Website": "https://github.com/Tueska/fl-howlongtobeat",
+        "IcoPath": "https://cdn.jsdelivr.net/gh/Tueska/fl-HowLongToBeat/Images/howlongtobeat.png",
+        "UrlDownload": "https://github.com/Tueska/fl-HowLongToBeat/releases/download/v1.0.1/Tueska.HowLongToBeat.zip",
+        "UrlSourceCode": "https://github.com/Tueska/fl-HowLongToBeat/tree/master",
+        "DateAdded": "2023-02-20T01:28:36Z",
+        "LatestReleaseDate": "2023-07-13T05:55:15Z"
+    },
+    {
         "ID": "3f7a2b1c-9e4d-4f8a-b3c2-1a5d8e7f0b9c",
         "Name": "FMHY Search",
         "Description": "Search the Free Media Heck Yeah database",
