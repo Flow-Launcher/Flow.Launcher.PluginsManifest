@@ -3,13 +3,13 @@
     "Name": "Twitchy",
     "Description": "Search and stream Twitch.tv",
     "Author": "Garulf",
-    "Version": "7.0.0",
-    "Language": "python",
+    "Version": "8.0.0",
+    "Language": "python_v2",
     "Website": "https://github.com/Garulf/twitchy",
-    "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v7.0.0/twitchy.zip",
+    "UrlDownload": "https://github.com/Garulf/twitchy/releases/download/v8.0.0/twitchy-8.0.0.zip",
     "UrlSourceCode": "https://github.com/Garulf/twitchy/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Garulf/twitchy@main/icon.png",
     "Tested": true,
-    "LatestReleaseDate": "2022-11-02T10:03:00Z",
+    "LatestReleaseDate": "2026-11-17T22:10:59Z",
     "DateAdded": "2022-10-08T16:26:57Z"
 }

@@ -113,7 +113,7 @@
     "manifest_file": "Search Unicode – Emoji-BB55C11CB9FB4AAF81B670D9FF0BFBEE.json",
     "sha256": "2fc2d0429459e320e1208efd18dab4e8ecd1005be916bb33bcc25b6f8845d693",
     "engine_threats": {
-      "Elastic": "malicious"
+      "Elastic": "malicious (high confidence)"
     },
     "reason": "False positive: only Elastic flagged the scanned plugin archive"
   }
