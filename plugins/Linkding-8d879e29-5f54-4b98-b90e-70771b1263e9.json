@@ -8,5 +8,7 @@
     "Website": "https://github.com/arthackrc/linkding-flow-launcher",
     "UrlDownload": "https://github.com/arthackrc/linkding-flow-launcher/releases/download/v2026.10.2/Linkding-2026.10.2.zip",
     "UrlSourceCode": "https://github.com/arthackrc/linkding-flow-launcher/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/arthackrc/linkding-flow-launcher@main/Images/linkding.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/arthackrc/linkding-flow-launcher@main/Images/linkding.png",
+    "Tested": true,
+    "DateAdded": "2026-11-19T11:20:09Z"
 }
