@@ -8,5 +8,5 @@
   "Website": "https://github.com/Xavier-33/Flow.Launcher.Plugin.AlwaysOnTop",
   "UrlDownload": "https://github.com/Xavier-33/Flow.Launcher.Plugin.AlwaysOnTop/releases/download/v1.1.2/Flow.Launcher.Plugin.AlwaysOnTop.zip",
   "UrlSourceCode": "https://github.com/Xavier-33/Flow.Launcher.Plugin.AlwaysOnTop",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/Xavier-33/Flow.Launcher.Plugin.AlwaysOnTop@main/Images/app.png"
+  "IcoPath": "Images\\app.png"
 }
