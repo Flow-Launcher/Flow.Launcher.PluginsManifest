@@ -10,5 +10,6 @@
     "UrlSourceCode": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Liaco123/Flow.Launcher.Plugin.GitHubCli@main/src/Flow.Launcher.Plugin.GitHubCli/Images/app.png",
     "MinimumAppVersion": "2.1.3",
-    "DateAdded": "2026-11-18T20:13:51Z"
+    "DateAdded": "2026-11-18T20:13:51Z",
+    "LatestReleaseDate": "2026-10-08T05:45:06Z"
 }

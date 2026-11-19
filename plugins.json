@@ -856,7 +856,8 @@
         "UrlSourceCode": "https://github.com/zenosakis/Flow.Launcher.Plugin.DoAction",
         "IcoPath": "https://cdn.jsdelivr.net/gh/zenosakis/Flow.Launcher.Plugin.DoAction@v1.0.1/src/Flow.Launcher.Plugin.DoAction/Images/doaction.png",
         "MinimumAppVersion": "2.1.4",
-        "LatestReleaseDate": "2026-10-23T07:46:36Z"
+        "LatestReleaseDate": "2026-10-23T07:46:36Z",
+        "DateAdded": "2026-11-18T20:13:50Z"
     },
     {
         "ID": "01B8703D-13E2-483D-BBF9-603425628151",
@@ -4086,7 +4087,9 @@
         "UrlDownload": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli/releases/download/v0.1.2/Flow.Launcher.Plugin.GitHubCli.zip",
         "UrlSourceCode": "https://github.com/Liaco123/Flow.Launcher.Plugin.GitHubCli",
         "IcoPath": "https://cdn.jsdelivr.net/gh/Liaco123/Flow.Launcher.Plugin.GitHubCli@main/src/Flow.Launcher.Plugin.GitHubCli/Images/app.png",
-        "MinimumAppVersion": "2.1.3"
+        "MinimumAppVersion": "2.1.3",
+        "DateAdded": "2026-11-18T20:13:51Z",
+        "LatestReleaseDate": "2026-10-08T05:45:06Z"
     },
     {
         "ID": "F6B8C1BC8441496798D2CE2BADB0E95E",
