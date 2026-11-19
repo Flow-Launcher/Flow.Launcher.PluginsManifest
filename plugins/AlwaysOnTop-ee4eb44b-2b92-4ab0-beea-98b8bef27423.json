@@ -1,7 +1,7 @@
 {
   "ID": "ee4eb44b-2b92-4ab0-beea-98b8bef27423",
   "Name": "Always On Top",
-  "Description": "Pin or unpin taskbar windows to stay always on top (like PowerToys Always On Top)",
+  "Description": "Pin or unpin taskbar windows to stay always on top (like PowerToys Always On Top) ",
   "Author": "Xavier-33",
   "Version": "1.1.2",
   "Language": "python",
