@@ -124,6 +124,7 @@ def _get_changed_plugin_manifest_paths() -> list[str]:
             "git",
             "diff",
             "--diff-filter=AM",  # added or modified only
+            "--no-renames", # captures case where plugins/Foo-1.json rename to plugins/Bar-1.json and changes only the UrlDownload
             "--name-only",  # paths only, no content
             f"origin/{base_ref}...HEAD",  # three-dot: this PR's changes
             "--",  # end of options, the rest are paths
