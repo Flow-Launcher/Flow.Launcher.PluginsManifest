@@ -1,0 +1,13 @@
+{
+    "ID": "6D6A32C4E6194D5CB945B629D69D3F70",
+    "Name": "SPW",
+    "Description": "搜索 Salt Player 音乐库、点播歌曲，控制播放、音量、进度、播放模式与倍速。",
+    "Author": "GaBoron",
+    "Version": "0.1.0",
+    "Language": "csharp",
+    "Website": "https://github.com/GaBoron/SPW-Flow-Launcher",
+    "MinimumAppVersion": "2.1.4",
+    "UrlDownload": "https://github.com/GaBoron/SPW-Flow-Launcher/releases/download/v0.1.0/Flow.Launcher.Plugin.SPW.zip",
+    "UrlSourceCode": "https://github.com/GaBoron/SPW-Flow-Launcher/tree/main",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/GaBoron/SPW-Flow-Launcher@main/flow/Images/icon.png"
+}
