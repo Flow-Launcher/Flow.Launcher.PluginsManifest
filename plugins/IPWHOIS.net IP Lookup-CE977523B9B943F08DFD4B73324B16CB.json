@@ -8,5 +8,6 @@
     "Website": "https://ipwhois.net/ip-lookup",
     "UrlDownload": "https://github.com/ipwhoisnet/Flow.Launcher.Plugin.IPWhois/releases/download/v1.0.0/Flow.Launcher.Plugin.IPWhois.zip",
     "UrlSourceCode": "https://github.com/ipwhoisnet/Flow.Launcher.Plugin.IPWhois/tree/main",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/ipwhoisnet/Flow.Launcher.Plugin.IPWhois@main/Images/icon.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/ipwhoisnet/Flow.Launcher.Plugin.IPWhois@main/Images/icon.png",
+    "LatestReleaseDate": "2026-11-19T12:57:51Z"
 }
