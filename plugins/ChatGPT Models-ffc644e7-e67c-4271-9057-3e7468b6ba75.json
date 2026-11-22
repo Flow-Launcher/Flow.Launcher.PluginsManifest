@@ -1,0 +1,13 @@
+{
+  "ID": "ffc644e7-e67c-4271-9057-3e7468b6ba75",
+  "Name": "ChatGPT Models",
+  "Description": "Chat with OpenAI-compatible endpoints; fetch and select models in settings",
+  "Author": "liboy",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/liboysoft/Flow.Launcher.Plugin.ChatGPTModels",
+  "MinimumAppVersion": "2.1.3",
+  "UrlDownload": "https://github.com/liboysoft/Flow.Launcher.Plugin.ChatGPTModels/releases/download/v1.0.0/Flow.Launcher.Plugin.ChatGPTModels.zip",
+  "UrlSourceCode": "https://github.com/liboysoft/Flow.Launcher.Plugin.ChatGPTModels/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/liboysoft/Flow.Launcher.Plugin.ChatGPTModels@v1.0.0/Images/app.png"
+}
