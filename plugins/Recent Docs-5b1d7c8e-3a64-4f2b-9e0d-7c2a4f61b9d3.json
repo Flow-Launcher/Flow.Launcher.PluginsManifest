@@ -1,0 +1,12 @@
+{
+  "ID": "5b1d7c8e-3a64-4f2b-9e0d-7c2a4f61b9d3",
+  "Name": "Recent Docs",
+  "Description": "Search your recently opened files and folders, with the real target path shown. Pro: ext/age/kind filters and pinning.",
+  "Author": "JUDESTRAHM",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/JUDESTRAHM/flow-recent-docs",
+  "UrlDownload": "https://github.com/JUDESTRAHM/flow-recent-docs/releases/download/v1.0.0/Flow.Launcher.Plugin.RecentDocs.zip",
+  "UrlSourceCode": "https://github.com/JUDESTRAHM/flow-recent-docs/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/JUDESTRAHM/flow-recent-docs@main/Images/app.png"
+}
