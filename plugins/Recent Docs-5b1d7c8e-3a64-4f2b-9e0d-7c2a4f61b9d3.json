@@ -6,7 +6,7 @@
   "Version": "1.0.0",
   "Language": "python",
   "Website": "https://github.com/JUDESTRAHM/flow-recent-docs",
-  "UrlDownload": "https://github.com/JUDESTRAHM/flow-recent-docs/releases/download/v1.0.0/Flow.Launcher.Plugin.RecentDocs.zip",
-  "UrlSourceCode": "https://github.com/JUDESTRAHM/flow-recent-docs/tree/main",
-  "IcoPath": "https://cdn.jsdelivr.net/gh/JUDESTRAHM/flow-recent-docs@main/Images/app.png"
+  "UrlDownload": "https://github.com/JUDESTRAHM/flow-recent-docs/releases/download/v1.0.0/flow-recent-docs.zip",
+  "UrlSourceCode": "https://github.com/JUDESTRAHM/flow-recent-docs/tree/master",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/JUDESTRAHM/flow-recent-docs@master/Images/app.png"
 }
